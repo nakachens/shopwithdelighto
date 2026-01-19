@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nakachens.github.io/shopwithdelight",
+  "homepage": "https://nakachens.github.io/shopwithdelight/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -1,12 +1,7 @@
-# React + Vite
+# SHOPPO DELIGHT!!
+## a unique and cutesy shopping experience!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I Zoe, present you this cutesy website I made under a week because i just.. felt like doing something. I heard everyone must know how to create a shopping website so i was like YAYYYAYY CUTE I HAVE A VERY COOL IDEA LETS GIVE IT A GO! i first did all the designs in figma and recreated all that in react, this was inspired by old retro japanese or 90s websites if im not wrong so yeah i loved the idea so much! the structuring was also very simple and fun to do nothing bad so far UNTIL i just got bored of it, yeah it didnt hit as hard as i thought it would and it just seemed like a boring shopping website BUT BUT BUT to overcome a challenge.. you must think through it right? SOOOOOOOOOOOOO I ADDED A COOL ASS TRANSLATION FEATURE like why not!!! i already spent way too long on writing the lore for each item in this shopping app, alongside all the yapping i filled this website with! no way i'd get over it just because it seemed bland, so i implemented the i18n translation feature (required a bit of all-nighters but we cool not much of a challenge) (it was) (i died lowkey) ..
+AHEM !! SO THE TRANSLATION FEATURE WAS UP!!! THEN I SKETCHED AND JUST MADE COOL POSTERS AND MODELS AND JUST THESE ADVERTISEMENTS FOR MY CUTESY SHOPPING WEBSITE AND AND ALSO LOOKED FOR SOME OUTFITS THAT MATCHED THE DESCRIPTION (yeah i really did wanted to include my own sketched ones.. but .. um.. theyre just so bad..) (im still working on my fashion design art T-T) 
+yeah lastly i added cool cute stickers, and fixed anything that felt off and yea thats it hehehehe thats how i made this cool ass website..
+i love it so much i love thinking outside the box (not that its any new idea but still T_T.. I HAD FUN WORKING ON IT THATS ALL IT MATTERS!!) 
