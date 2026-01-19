@@ -1,0 +1,756 @@
+{
+  "header": {
+    "logoAlt": "Logo"
+  },
+  "navigation": {
+  "home": "LAMAN UTAMA",
+  "about": "TENTANG KAMI",
+  "invest": "PELABURAN",
+  "payments": "PEMBAYARAN",
+  "contact": "HUBUNGI KAMI",
+  "searchPlaceholder": "Cari di shoppo...",
+  "allCategories": "Semua Kategori",
+  "rizzMaster": "Tuan Karisma",
+  "new": "Koleksi Baru",
+  "new2": "Keajaiban Berbisik",
+  "auraFarmers": "Petani Aura",
+  "hotPicks": "Pilihan Popular",
+  "casual": "Kasual",
+  "clocked": "Abadi"
+},
+  "sidebar": {
+    "checkSum": "tengok ni jap",
+    "newCollection": "Koleksi Baru",
+    "newSubtitle1": "buat kau rasa macam watak game!",
+    "newSubtitle2": "Aduh ni nak pakai setiap hari lah.",
+    "auraFarmers": "PENGUMPUL AURA !!",
+    "auraSubtitle": "dungeon mana kita nak clear hari ni?",
+    "hotPicks": "PILIHAN HANGAT !!!",
+    "hotSubtitle": "popular dari awal lagi",
+    "casual": "Casual? Boleh je.",
+    "casualSubtitle": "kenapa tak pakai yang selesa?",
+    "clocked": "Dah kena!!",
+    "clockedSubtitle": "Jojo no kimyou na bouken, Eyes of heaven",
+    "rizzMaster": "Master Rizz",
+    "rizzSubtitle": "tambah daya tarikan 10xp"
+  },
+  "home": {
+    "newUpdate": "~Kemaskini Baru~",
+    "nocturaSubtitle": "Lahir dari malam, dijahit dalam senyap",
+    "nocturaDescription": "Impian gothic yang dibalut kain. Setiap helai membawa kesunyian tengah malam, dijahit dengan bayang dan kesunyian, dibuat untuk mereka yang hidup bila dunia tertidur.",
+    "nocturaName": "Noctura",
+    "fullOnFantasy": "Impian fantasi yang penuh",
+    "wingsSubtitle": "Balut diri dengan senja, lawan cahaya.",
+    "wingsDescription": "Koleksi yang lahir dari tepi senja. Dibalut bayang dan diukir dengan pemberontakan, setiap helai membawa semangat melawan cahaya yang pudar. Dibuat untuk mereka yang pakai kegelapan bukan sebagai kain kafan, tapi sebagai mahkota mereka.",
+    "wingsName": "Wings of Dusk",
+    "moreThanDream": "ini lebih daripada impian",
+    "dontMissOut": "jangan terlepas~",
+    "neverEnding": "Koleksi yang tak berpenghujung",
+    "collectionDescription": "Koleksi yang ditenun dari lamunan dan cahaya senja. Kain lembut, bentuk yang lembut, dan warna yang rasa macam keselesaan cahaya bulan. Direka untuk mereka yang cari keajaiban dalam kehidupan seharian dan kehangatan dalam setiap jahitan.",
+    "allProducts": "Semua Produk"
+  },
+  "cart": {
+    "title": "Troli Beli-Belah Awak",
+    "empty": "Troli awak kosong",
+    "remove": "Buang",
+    "total": "Jumlah",
+    "checkout": "Buat Bayaran",
+    "shoppingCart": "Troli Belanja",
+    "viewCart": "Tengok Troli",
+    "close": "Tutup"
+  },
+  "likes": {
+    "title": "Barang Yang Awak Suka",
+    "empty": "Awak belum suka apa-apa barang lagi",
+    "likedItems": "Barang Kesukaan",
+    "addToCart": "Masuk Troli",
+    "remove": "Buang",
+    "viewAllLikes": "Tengok Semua Kesukaan"
+  },
+  "product": {
+    "back": "Balik",
+    "itemDetails": "Butiran Barang",
+    "addToCart": "Masuk Troli",
+    "like": "Suka",
+    "buyNow": "Beli Sekarang",
+    "theOrigin": "Asal Usul",
+    "notFound": "Produk tak jumpa"
+  },
+  "products": {
+    "1": {
+      "name": "Kain Kafan Wraithweaver",
+      "description": "Jubah yang mengalir dijahit dengan benang hantu, meninggalkan asap tipis macam roh yang belum berehat.",
+      "heading_details": "Kain Kafan Wraithweaver - Aku bukan Hantu Chat lah..",
+      "details": "Jubah yang dipintal dari benang roh-roh yang terlupa, helai ni jatuh atas bahu macam bayang hidup. Kainnya rasa ringan je, tapi ia tinggalkan kabus di mana awak jalan, meninggalkan sisa hantu yang melekat kat udara. Tudungnya tergantung rendah, tutup muka, dan hujung kainnya berkelip macam nak terburai jadi asap. Kain kafan ni rasa kurang macam pakaian dan lebih macam perjanjian—bisikan dari alam sana yang dijahit dalam setiap kelim.",
+      "origin": "Pernah jadi milik Seraphina Nightwhisper, Pelayat Tinggi terakhir Mahkamah Ethereal sekitar 1847. Dia pakai ni masa buat Upacara Berkabung Besar - ritual seratus tahun untuk bantu roh-roh yang hilang cari ketenangan. Ceritanya dia betul-betul tenun benang dari roh-roh yang rela masuk dalam kain, sebab tu sampai sekarang masih ada kabus hantu. Fun fact: dia basically macam malaikat maut tapi dengan taste fesyen yang lagi power dan masalah daddy issues. Kain kafan ni jumpa dalam menaranya yang ditinggalkan, masih preserved dengan sempurna sebab rupanya masa pun takut nak kacau barang dia."
+    },
+    "2": {
+      "name": "Jubah Gravebound",
+      "description": "Jubah berkabung dengan rune kenangan, berbisik nama-nama orang yang dah pergi.",
+      "heading_details": "Jubah Gravebound - AKU TAK MATI! lagi.",
+      "details": "Dibalut kain hitam berkabung yang lekat macam kesedihan, jubah ni disulam dengan rune kenangan. Setiap lipatan macam mengeluh bawah beban yang tak nampak, membawa gema nama dan suara yang terlalu berat untuk dilupa. Jubah ni dipotong panjang dan berlapis, menyerupai kain pengebumian tapi dipakai dengan bangga. Helai ni bukan sekadar tutup badan—ia mengenang badan, ubah pemakainya jadi tempat suci kesedihan dan kekuatan yang boleh jalan.",
+      "origin": "Asalnya dipakai Marcus DeathDefiant (ya, itu nama legal dia sebenar) masa Perang Batu Menangis tahun 1692. Mamat ni betul-betul cakap 'maut boleh tunggu' dan berperang tiga kali masa dia technically dah mati - rune tu bagi roh dia terikat cukup lama untuk selesaikan kerja. Dia macam kawan yang refuse nak balik dari party walaupun orang lain dah balik semua, cuma party tu hidup dan dia ada urusan tak settle. Jubah ni serap banyak sangat kata-kata terakhir sampai sekarang masih bisik nama orang yang gugur masa malam senyap."
+    },
+    "3": {
+      "name": "Perisai Phantom Veil",
+      "description": "Plat spectral yang ringan, separuh pudar macam pemakainya wujud antara alam.",
+      "heading_details": "Perisai Phantom Veil - Tu Reference Persona ke?",
+      "details": "Perisai yang macam terperangkap antara wujud dan terhapus, platnya berkelip lut sinar, macam ditenun dari ingatan separuh terbentuk. Lapisan nipis keluli ditindih dengan kain kasa berkilau, hilang dari sudut tertentu macam hantu yang pusing kepala. Helmet tu tak ada faceplate—cuma kabur yang bergerak, identiti yang tak dapat dipegang. Pakai ni buat badan rasa tak terikat, macam salah langkah je boleh buat awak melayang ke alam lain.",
+      "origin": "Dibuat untuk Lady Cassandra Betweenworlds, kesatria yang tersekat separuh jalan masa spell teleportasi tahun 1456 dan just... redha je. Dia habis berpuluh tahun wujud dalam dua alam serentak, yang honestly bunyi penat tapi dia buat kerja je. Perisai ni reflect kewujudan dual dia - cukup solid untuk block pedang tapi lut sinar sampai musuh selalu swing kat udara kosong. Dia bersara jadi blogger pelancongan antara dimensi, yang explain kenapa perisai ni ada vibe 'aku dah nampak benda yang korang tak percaya'."
+    },
+    "4": {
+      "name": "Pakaian Ebon Vein",
+      "description": "Sutera gelap berjalur benang merah, berdenyut perlahan macam urat bawah kulit.",
+      "heading_details": "Pakaian Ebon Vein - Macam Mana Nak Sebut Ni?",
+      "details": "Sutera gelap ditenun dengan benang merah dalam corak macam urat, bercahaya lembut macam darah mengalir bawah kulit. Kain ni lekat kat badan, tapi urat bercahaya tu berdenyut perlahan, macam hidup. Dari jauh nampak diraja, tapi bila tengok dekat, menakutkan—pakaian yang kabur garis antara daging hidup dan pakaian dibuat.",
+      "origin": "Dicipta oleh Count Vladimir Aesthetic si fashionista vampire tahun 1734 sebab pakaian gothic biasa tak cukup extra untuk taste dia. Dia betul-betul campurkan darah sendiri dalam benang sutera sebab subtlety memang bukan style dia. Kesan berdenyut tu datang dari essence vampiric dia yang masih mengalir dalam kain - macam pakai sistem peredaran darah orang sebagai fashion statement, yang memang peak vampire behavior honestly. Dia claim ni 'ultimate expression of living art' tapi kita semua tahu dia cuma nak nampak lagi cool kat party."
+    },
+    "5": {
+      "name": "Pakaian Dirgeweaver",
+      "description": "Kain elegan tapi suram ditenun dengan simbol berkabung, sesuai untuk bard bayang-bayang.",
+      "heading_details": "Pakaian Dirgeweaver - Aglaea Mesti Bangga",
+      "details": "Dijahit dalam kelabu dan hitam yang suram, kain ni disulam dengan simbol berkabung dari budaya yang terlupa. Rekaan dia elegan, mengalir, tapi jelas berat, macam bawa beban berabad. Pakai ni rasa macam menyanyikan lagu kesedihan dengan setiap pergerakan. Ini bukan pakaian untuk kegembiraan, tapi untuk seni dalam kesedihan.",
+      "origin": "Pernah jadi milik Melody Sorrowsong, grief-bard paling famous Era Melancholy (1623-1698). Dia boleh betul-betul buat orang nangis air mata cantik just dengan jalan lalu dorang pakai outfit ni. Sulaman simbol berkabung tu dari 47 budaya berbeza sebab dia tu overachiever yang kena collect semua macam Pokemon cards, cuma lagi menyedihkan. Dia pakai ni masa 'Konsert Kesedihan Abadi' yang buat kerajaan menangis tiga hari berturut. Even aura outfit ni sekarang buat orang nak tulis puisi pasal perasaan dorang."
+    },
+        "6": {
+      "name": "Obsidian Woundwear",
+      "description": "Jagged cuts through dark fabrics, glowing faintly at the edges like healing wounds.",
+      "heading_details": "Obsidian Woundwear - Aku terluka.. jadi apa?",
+      "details": "Luka dan torehan mengoyak melalui fabrik, mendedahkan kilauan lapisan merah menyala di bawahnya, seperti luka yang sedang berusaha untuk sembuh. Pinggir setiap koyakan berkilau samar-samar, berdenyut seperti urat. Ianya ganas tetapi cantik, satu deklarasi kesakitan yang bertukar menjadi kekuatan. Pakaian ini tidak cuba menyembunyikan parutnya—ia menjadikan parut itu sebagai tumpuan, mengubah kekecohan menjadi pusat perhatian.",
+      "origin": "Dipakai oleh Scarlett Paintsthetown (nama pentas, sudah tentu) semasa Pemberontakan Hati Yang Patah pada tahun 1789. Dia seorang pahlawan-penyajak yang percaya bahawa menunjukkan parut anda adalah langkah kuasa muktamad - pada asasnya semangat 'trauma saya adalah kuasa super saya' yang asal. Setiap koyakan bercahaya dalam fabrik mewakili satu pertempuran yang dia terselamat, dan dia menambah yang baru selepas setiap pertarungan seperti sistem pencapaian yang paling emo. Pakaian ini secara literal mengubah kerosakan menjadi kecantikan, yang merupakan satu langkah watak utama yang begitu hebat sehingga musuhnya pun terpaksa menghormatinya."
+    },
+     "7": {
+      "name": "Aetherion Sentinel",
+      "description": "Warna putih dan emas? tidak, diberkati dengan tenaga yang tenang dan bersinar.",
+      "heading_details": "Aetherion Sentinel – Penjaga Terpilih Cahaya",
+      "details": "Armor yang ditempa dalam enamel putih bersih dengan filigri emas berjalan di sepanjang tepi, ia bersinar samar-samar seolah-olah disentuh oleh aura ketuhanan. Topinya licin dan bulat, dengan visor emas yang berkilau seperti cahaya matahari yang memantul dari bilah. Sehelai mantel azure panjang mengalir di belakang, dijahit dengan motif bintang, memberikan rasa seperti memerhatikan langit walaupun berada di bumi. Ia memancarkan kewibawaan yang tenang, aura seseorang yang berdiri bukan hanya sebagai pahlawan, tetapi sebagai pelindung yang dipilih oleh cahaya.",
+      "origin": "Isu standard untuk Pengawal Kehormatan Samawi bagi Empayar Bercahaya, sekitar 1523-1834. Mereka inilah yang berdiri di pintu-pintu syurga dan memastikan hanya yang layak masuk - pada asasnya bouncer ketuhanan dengan armor yang lebih bagus. Set ini khususnya milik Kapten Lightbringer McGoodguy, yang begitu suci hatinya sehingga burung-burung secara literal berkicau apabila dia berjalan lalu (yang pastinya menjengkelkan semasa misyen penyamaran). Cahaya armor ini datang dari berabad-abad perbuatan baik yang terkumpul, menjadikannya pakaian isyarat virtue yang muktamad."
+    },
+    "8": {
+      "name": "Dawnward Bulwark",
+      "description": "Oh kamu ingin menjadi seseorang dengan harapan dan perlindungan yang memancar.",
+      "heading_details": "Dawnward Bulwark – Penjaga Cahaya Pertama",
+      "details": "Armor ini berkilau lembut dalam warna emas pucat, seolah-olah matahari terbit sendiri yang memberkati keluli tersebut. Pauldronnya mekar ke luar, membentuk lengkungan pelindung yang membingkai sigil matahari terukir di plat dada. Mantelnya adalah kecerunan matahari terbit—jingga pudar menjadi kuning lembut—melambangkan kelahiran semula dan harapan. Setiap langkah dalam armor ini terasa seperti membawa fajar ke dalam kegelapan, satu kehadiran yang memupuk bukan ketakutan, tetapi kekaguman dan kepercayaan. Auranya adalah pelindung, bersinar, dan mustahil untuk digoyahkan.",
+      "origin": "Ditempa untuk Sir Optimism Morningperson, satu-satunya kesatria yang benar-benar teruja untuk sesi latihan jam 5 pagi. Dia mempertahankan Kerajaan Timur semasa Kegelapan Besar tahun 1445, di mana sikap positifnya yang tanpa henti secara literal dijadikan senjata melawan makhluk bayang-bayang yang tidak dapat menangani tenaga 'selamat pagi sunshine'nya. Armor itu menyerap begitu banyak cahaya fajar sehingga menjadi berwarna matahari terbit secara kekal. Dia pernah mengalahkan sepasukan tentera mimpi ngeri hanya dengan wujud terlalu ceria - yang secara jujurnya adalah kemampuan yang paling OP pernah ada."
+    },
+    "9": {
+      "name": "Seraphine Aegis",
+      "description": "Armor perak-dan-mawar yang anggun untuk seorang gadis bangsawan cahaya.",
+      "heading_details": "Seraphine Aegis – Sinaran Gadis Dara",
+      "details": "Armor ini dibentuk dengan ketepatan yang halus, berplat perak digilap yang berkilau seperti cahaya bulan. Tembaman emas-mawar yang halus menjejaki dada dan lengan, membentuk motif floral yang melembutkan keluli tanpa mengurangkan kekuatannya. Pauldronnya melengkung dengan elegan, direka bukan untuk mengatasi rangkanya tetapi untuk menambahbaiknya, seperti seorang kesatria yang dihias untuk kedua-dua pertempuran dan upacara. Mengalir di belakangnya adalah mantel sutera lembut berwarna ungu muda, beralun lembut dengan setiap langkah seperti nafas musim bunga. Topinya, sering dibawa di sisinya, di puncaknya terdapat serkum perak dan bukannya mahkota—merendah diri tetapi bangsawan. Seraphine Aegis tidak menjerit kehadirannya; ia menyanyi, memupuk aura melalui keanggunan dan keagungan yang senyap.",
+      "origin": "Dicipta untuk Puteri Isabella Graceface dari Kerajaan Perak pada tahun 1398. Dia adalah jenis puteri Disney yang boleh menjinakkan naga liar dengan kebaikan dan membuat bunga berkembang dengan senyuman - pada asasnya mempunyai tenaga watak utama yang membengkokkan realiti di sekelilingnya. Armor ini telah diberkati oleh tujuh perintah kesatria suci yang berbeza, yang sama ada berlebihan atau insurans bergantung pada bagaimana anda melihatnya. Dia tidak pernah kalah dalam satu pertempuran pun kerana musuh terus berhenti di tengah-tengah pertarungan untuk memuji gayanya. Tembaman emas-mawar itu datang dari mawar sebenar yang tumbuh di jejak langkahnya."
+    },
+    "10": {
+      "name": "Eclipse Mantle",
+      "description": "Mantel tidak simetri yang mengalir di atas lapisan yang ketat—siluet mage bandar dengan asas taktikal.",
+      "heading_details": "Eclipse Mantle – Tepi Bermantel",
+      "details": "Kepingan ini dibina daripada ripstop hitam matte, dipotong secara tidak simetri untuk mengalir seperti mantel tanpa kehilangan ketajaman tailoring pakaian jalanan. Ia dikancing tinggi di kolar dengan clasp magnet, membiarkan satu sisi terjulai bebas seperti bayang-bayang di bahu anda. Di bawahnya, kemeja turtleneck kelabu arang yang ketat melingkari badan, mengimbangi siluet terhadap kargo potongan slim dengan jahitan zip taktikal. Diselesaikan dengan kasut sneaker berhujung keluli, Eclipse Mantle kelihatan seperti sihir bandar—separuh mantel, separuh armor, semuanya kehadiran.",
+      "origin": "Direka oleh mage jalanan misteri yang dikenali hanya sebagai 'Lelaki Hoodie Itu' di Daerah Arkane bermandikan neon Neo-Mystopolis, 2089. Dia terkenal dengan melafazkan mantera sambil kelihatan seperti dia baru bangun dari tidur, merevolusikan fesyen magis selama-lamanya. Reka bentuk tidak simetri datang dari falsafahnya bahawa 'keseimbangan itu membosankan' dan ketidakupayaan kroniknya untuk melipat pakaian dengan betul. Mantel khusus ini dipakai semasa Great WiFi Outage of 2091 apabila dia bersendirian mengekalkan internet mistik bandar itu berjalan menggunakan dendam tulen dan minuman tenaga."
+    },
+    "11": {
+      "name": "Obsidian Grinch",
+      "description": "Tenaga kesatria moden yang diimaginasi semula sebagai armor bandar yang licin.",
+      "heading_details": "Obsidian Grinch – Jadi Anda tidak kelihatan seperti seorang.",
+      "details": "Sebuah trench coat garis panjang dalam nilon hitam pekat, kalis air namun licin, dengan quilting berperisai halus di merentasi bahu dan lengan. Potongannya langsing, lurus, dan berkuasa, memanjang tepat di atas pergelangan kaki untuk kesan dramatik penuh. Dipakai di atas kemeja turtleneck kelabu arang dan seluar panjang sempit hitam, ia bertukar menjadi tabard kesatria moden—halus, kuat, dan mustahil untuk diabaikan. Setiap langkah mengubah hem coat itu menjadi ladang aura yang sederhana.",
+      "origin": "Dijahit untuk Detektif Shadow Trenchcoat (ya, satu lagi pertukaran nama sah) dari Bahagian Jenayah Ghaib dalam tahun 1920-an Gotham-tapi-dengan-sihir. Dia menyelesaikan misteri yang tidak dapat ditangani oleh polis biasa, seperti 'siapa yang mencuri magik Krismas' dan 'mengapa semua gargoyle terus mengumpat.' Gaya dramatik coat itu datang dari kebiasaannya muncul entah dari mana untuk menyampaikan satu baris yang kriptik sebelum hilang semula. Dia cuba untuk menjadi seperti Joker dari Persona 5 tetapi dengan lebih banyak gaya dan kurang kerosakan emosi, yang menjadikannya sangat keren (kami tidak pernah tahu)."
+    },
+    "12": {
+      "name": "Riftlayer",
+      "description": "Asas pakaian jalanan berlapis dengan potongan bersudut, sigil reflektif ditenun masuk.",
+      "heading_details": "Riftlayer – Di Antara Alam, Di Antara Gaya",
+      "details": "Sebuah hoodie-jaket hibrid yang direka untuk pergerakan dan lapisan. Asasnya adalah hoodie hitam bersaiz besar, fabriknya diukir dengan garis-garis seperti rune reflektif yang hanya berkilat di bawah sudut cahaya tertentu. Berlapik di atasnya adalah jaket taktikal cropped dengan potongan bersudut, buckles, dan kolar tegak, memberikannya siluet 'mage tempur' futuristik. Dipadankan dengan kargo berkaki lebar yang mengecut di pergelangan kaki, Riftlayer berkembang dalam dualiti—pakaian jalanan yang selesa pada siang hari, pakaian kuasa berkod fantasi pada malam hari.",
+      "origin": "Dipakai oleh DJ Voidmix semasa Interdimensional Rave lagenda tahun 2156, di mana muzik secara literal membuka portal ke realiti lain. Rune reflektif pada asalnya adalah corak glow-stick yang terukir secara kekal ke dalam fabrik selepas terdedah kepada tenaga bes tulen. Lelaki ini memainkan beat yang begitu kuat sehingga berbilang dimensi mula bergetar bersama - bercakap tentang mempunyai range. Keupayaan pakaian untuk wujud dalam pelbagai kategori gaya secara serentak adalah hasil langsung daripada menyerap pengaruh fesyen silang dimensi semasa set epik 72 jam itu."
+    },
+    "13": {
+      "name": "Lunastra",
+      "description": "Minimalisme satin tersembunyi di bawah mantel bertudung yang mengalir—enchanted yummy-core.",
+      "heading_details": "Lunastra – Siren Bermantel",
+      "details": "Sebuah mini dress satin hitam dengan leher garis persegi yang bersih membentuk teras, melingkari badan tetapi minimal. Terjuntai di atasnya: mantel bertudung cropped dalam fabrik matte ringan, lengan yang mengalirnya memberikan setiap langkah satu rasa upacara. Mantel itu dikancing dengan clasp bulan sabit perak di leher, dan tudungnya membingkai muka dalam keanggunan bayangan. But thigh-high membumikan penampilan ini dalam pakaian jalanan moden, tetapi pergerakan mantel itu mengubahnya menjadi mantera—keanggunan yang menyamar sebagai kuasa.",
+      "origin": "Dicipta untuk Luna Mystique, witch-fluencer paling berpengaruh dalam Kebangkitan Okult Victoria lewat (1887). Dia pada asasnya terkenal di Instagram tetapi untuk séance dan resipi ramuan, dengan pengikut yang termasuk hantu sebenar. Keanggunan mantel tengah malam itu datang dari estetika signaturenya 'dark academia tetapi jadikan ia witchy' yang melancarkan beribu-ibu papan Pinterest. Dia memakai ini semasa Great Spirit Photography Trend, di mana semua orang cuba kelihatan cantik misteri dalam daguerreotype berhantu."
+    },
+    "14": {
+      "name": "Aetherveil",
+      "description": "Ringan dan futuristik dengan kilauan iridescent, seperti fesyen yang dijahit dari angin itu sendiri.",
+      "heading_details": "Aetherveil – Berat Udara",
+      "details": "Sebuah jaket bomber cropped yang diimaginasi semula dalam mutiara-kelabu dengan panel mesh separa lut sinar di sepanjang lengan dan belakang, direka untuk menangkap angin seperti sayap. Benang iridescent berkilau samar-samar di sepanjang jahitan, halus tetapi etherial di bawah lampu jalan. Dipadankan dengan skirt tech berpinggang tinggi berlapik di atas legging ketat, penampilan ini mengimbangi utiliti dengan enchantment. Diselesaikan dengan kasut sneaker futuristik, Aetherveil kelihatan ringan seperti bulu pelepah tetapi tidak dapat digoyahkan, seolah-olah dijahit dari udara dan cahaya itu sendiri.",
+      "origin": "Uniform piawai untuk Penari Langit dari Bandar Terapung Nimbustown, sekitar 2234. Penari udara ini secara literal boleh berjalan di atas awan, yang kedengaran hebat sehingga anda sedar mereka terpaksa berurusan dengan kerosakan almari pakaian berkaitan cuaca yang berterusan. Set khusus ini milik Kapten Windwalker, yang memegang rekod untuk lompatan awan-ke-awan berturut-turut paling banyak (847) dan billowing mantel paling dramatik (tidak terukur). Panel lut sinar direka untuk menangkap arus udara untuk meluncur yang lebih baik, menjadikannya kedua-duanya berfungsi dan benar-benar ikonik. Susahnya, kan?"
+    },
+    "15": {
+      "name": "Emberthread",
+      "description": "Flanel santai berwarna fantasi., memancarkan tenaga bangsawan.",
+      "heading_details": "Emberthread Flanel – Cahaya Perapian di Jalanan",
+      "details": "Sebuah baju flanel longgar, lembut dalam corak kotak-kotak burgundy tua dan hitam, ditenun dengan benang keemasan samar yang berkilau secara halus apabila ia terkena matahari. Dipakai terbuka di atas kemeja-T hitam dengan jeans slim dan but, ia adalah kehangatan kasual yang bertukar sedikit magis—seperti membawa aura perapian ke jalanan moden.",
+      "origin": "Dipakai oleh Jake Fireside, seorang pembalak yang bertukar menjadi mage api yang merevolusikan kedua-dua perhutanan dan bil pemanasan dalam Komuniti Magis Luar Bandar tahun 1892. Dialah lelaki itu yang boleh membuatkan api unggun terasa seperti pengalaman hotel lima bintang dan entah bagaimana membuatkan flanel kelihatan mistik. Benang emas itu sebenarnya adalah kristal api yang dia cipta secara tidak sengaja semasa cuba membakar marshmallow dengan magis - langkah klasik Jake. Baju ini adalah pakaian hariannya semasa dia mengubah seluruh hutan menjadi koperasi pemanasan yang mampan. Kita semua patut menyesuaikan pembangunan mampan atau sesuatu pada ketika ini."
+    },
+    "16": {
+      "name": "Onyx Dusk",
+      "description": "Dress blazer yang chic dengan dominasi aura.",
+      "heading_details": "Onyx Dusk – Keyakinan yang Lancar",
+      "details": "Sebuah kemeja turtleneck hitam ketat yang diselit di bawah jaket sut hitam slim dengan bahu tajam, dipadankan dengan seluar panjang yang dijahit khas. Cufflink dan jam tangan perak minimalis melengkapkan perincian. Kasut: but Chelsea hitam yang licin. Ianya moden, bergaya, effortless—jenis penampilan yang tidak mengejar perhatian tetapi menariknya secara semula jadi.",
+      "origin": "Penampilan signature Victoria Businesswoman, CEO of Mysterious Enterprises Inc. semasa Ledakan Okult Korporat tahun 1953. Dia mengendalikan séance di bilik mesyuarat dan membuat laporan suku tahunan kepada kedua-dua pemegang saham dan roh. Pakaian ini adalah sut kuasanya untuk menutup tawaran yang secara literal melibatkan jiwa - dia mempunyai tenaga 'tandatangan di sini dengan darah' tetapi dengan gaya yang sempurna. Sifat memancarkan keyakinan datang dari kepercayaannya yang tidak dapat digoyahkan bahawa fesyen yang baik boleh menyelesaikan sebarang krisis ghaib. Mommy. Girlboss. Maaf."
+    },
+    "17": {
+      "name": "Koi Whisper",
+      "description": "Campuran street-kawaii yang suka bermain tetapi feminin.",
+      "heading_details": "Koi Whisper – Kenakalan Lembut",
+      "details": "Sebuah hoodie cropped bersaiz besar dalam krim lembut dengan sulaman koi menghanyut di sepanjang satu lengan, dipadankan dengan skirt skater biru muda. Diselesaikan dengan kasut sneaker pastel dan beg crossbody kecil berbentuk seperti charm koi. Comel dan mudah didekati, tetapi kelembutannya menarik perhatian tanpa cuba—aura kawaii dikerahkan.",
+      "origin": "Direka oleh Sakura Chiisai-sama untuk Konvensyen Anime Besar tahun 2067, di mana cosplay telah berkembang menjadi transformasi magis sebenar. Tetapi ia memerlukan darah peluh dan air mata untuknya. Dia adalah ratu tenaga comel-tetapi-mematikan yang tidak dipertikaikan dan tidak, dia bukan Tsundere, tetapi seorang gadis magis yang sebenarnya membayar cukainya dan mempunyai pelan persaraan. Sulaman koi itu diresapi dengan tuah baik setelah berenang melalui Kolam Vibes Kekal yang legenda. Pakaian ini melancarkan pergerakan fesyen 'kecantikan yang dijadikan senjata' yang menguasai akhir abad ke-21."
+    },
+    "18": {
+      "name": "Duskweave Hoodie",
+      "description": "Hoodie jalanan dengan tekstur bertuah.",
+      "heading_details": "Duskweave Hoodie – Magis dalam Keselesaan",
+      "details": "Sebuah hoodie arang batu bersaiz besar dengan corak sigil samar-samar yang disulam di sepanjang lengan, dijahit dengan benang gelap yang hanya mendedahkan di bawah cahaya tertentu. Dipadankan dengan jogger hitam santai dengan poket berzip dan kasut sneaker licin. Selesa dan kasual, tetapi terdapat satu kehadiran dalam perinciannya, seolah-olah hoodie itu membawa tenaga mantera yang sederhana.",
+      "origin": "Dicipta oleh kesedaran kolektif setiap pelajar kolej yang pernah berjaga sepanjang malam di Perpustakaan Seni Mistik Universiti Procrastination, ditubuhkan 2045. Hoodie itu menyerap dekad sesi belajar lewat malam, tumpahan minuman tenaga, dan doa pelajar yang terdesak mengharapkan kerja rumah magis mereka akan siap sendiri. Corak mantera halus terbentuk secara semula jadi dari semua teori magis yang meresap ke dalam fabrik. Ianya pada asasnya PTSD akademik yang boleh dipakai, tetapi secara cara yang selesa. Percayalah ia selesa."
+    },
+    "19": {
+      "name": "Shadowheart Gauntlets",
+      "description": "Sarung tangan kulit tanpa jari dengan clasp perak, membisikkan mantera perlindungan untuk menstabilkan cengkaman anda.",
+      "heading_details": "Shadowheart Gauntlets – Tangan yang Memegang Kuasa",
+      "details": "Dihasilkan dari kulit hitam yang lembut dengan strap berpelat perak di merentasi buku jari, sarung tangan tangan ini memanjang ke pertengahan lengan bawah dengan padding halus. Setiap sarung tangan mempunyai batu amethyst kecil tertanam di tapak tangan, sejuk kepada sentuhan dan bercahaya samar-samar dalam kegelapan. Kulitnya cukup lembut untuk kerja halus, namun buku jari yang diperkukuh menjanjikan perlindungan. Memakainya terasa seperti menyalurkan kekuatan senyap—setiap gerakan menjadi sengaja, setiap sentuhan menjadi berniat.",
+      "origin": "Ditempa untuk Raven Edgelord semasa fasa 'Aku tidak seperti paladin lain'nya pada tahun 1456. Dia adalah seorang pahlawan suci yang secara eksklusif memakai warna hitam kerana 'cahaya terlalu arus perdana' dan entah bagaimana membuatkan magis ketuhanan kelihatan goth. Batu amethyst adalah idea dia kerana dia berkeras bahawa ungu adalah warna paling misteri dan perak biasa 'terlalu berkilat untuk stealth'. Dia hidup.. Saya Percaya."
+    },
+    "20": {
+      "name": "Solaris Crown",
+      "description": "Serkum emas halus yang menangkap cahaya matahari seperti fajar yang ditawan.",
+      "heading_details": "Solaris Crown – Pembawa Cahaya Pertama",
+      "details": "Ini bukan mahkota yang menuntut perhatian—ia memperolehinya. Ditempa dari emas hangat dalam jalur nipis dan elegan yang melengkung di sekeliling kepala seperti sinar matahari, setiap hujungnya dilitupi dengan kristal sitrin kecil. Logamnya begitu halus sehinggakan ia terasa tiada berat, berehat seperti bisikan pada pelipis. Apabila dipakai, ia menangkap setiap jalur cahaya dan memantulkannya sepuluh kali ganda, mencipta kesan halo semula jadi. Ini adalah kebangsawanan tanpa kesombongan, kuasa tanpa penguasaan.",
+      "origin": "Pada asalnya ditempa untuk Puteri Aurelia the Perpetually Late, yang memerintah Kerajaan Solar sekitar 3021 SM. Dia terkenal kerana tidur melalui setiap upacara matahari terbit, jadi tukang besi diraja mencipta mahkota ini untuk secara literal mengejutkanya bangun dengan memantulkan cahaya matahari terus ke matanya - bercakap tentang jam penggera biologi yang berbeza kesannya. Kristal sitrin itu telah diberkati oleh Phoenix pertama yang pernah mencapai status Twitter yang disahkan, menjadikannya beresonans dengan tenaga 'watak utama' tulen. Aurelia memakainya semasa Pertempuran Early Birds vs Night Owls yang legenda, di mana dia akhirnya membuktikan bahawa orang pagi boleh menjadi sama kacau seperti kita semua. Mahkota itu hilang selama berabad-abad sehingga ahli arkeologi menemukannya dalam apa yang kelihatan seperti McDonald's purba - sesetengah perkara tidak pernah berubah. Dikatakan bahawa sesiapa yang memakainya mendapat kuasa untuk kelihatan sempurna dalam selfie pagi, yang secara jujurnya mungkin menjadi magis paling berharga sekali."
+    },
+        "21": {
+      "name": "Voidwalker Boots",
+      "description": "But tempur hitam pekat yang seolah-olah menyerap cahaya dengan setiap langkah.",
+      "heading_details": "Voidwalker Boots – Langkah Di Antara Dunia",
+      "details": "But-but ini menyerap cahaya dan bukannya memantulkannya, dihasilkan dari kulit hitam matte yang begitu pekat sehingga seolah-olah mencipta lompong-lompong kecil di sekitar kaki anda. Diikat tinggi hingga pertengahan betis dengan eyelet perak, ianya dibina untuk kedua-dua keanggunan dan ketahanan. Solnya tebal tetapi senyap, direka untuk stealth dan keselesaan. Memakainya membuatkan setiap langkah kaki terasa sengaja, seolah-olah anda berjalan di antara alam dengan setiap jejak.",
+      "origin": "But-but ini berjalan keluar terus dari Interdimensional Fashion Week tahun 4156, dipakai oleh model terkenal Zara Blackstep yang menjadi tajuk berita kerana berjalan melalui portal lompong literal di atas pentas. Dia pada asasnya adalah gadis goth multiverse, dan but-but ini adalah bahagian signaturenya. Dihasilkan oleh Cobbler of the Abyss yang misteri (yang hanya menerima bayaran dalam kenangan yang dilupakan dan meme yang sangat bagus), ianya diperbuat daripada kulit yang wujud di antara dimensi. Zara memakainya semasa 'Void Walk Challenge' legenda yang menjadi viral merentasi tujuh belas realiti berbeza - dia pada asasnya mencipta trend TikTok interdimensi sebelum TikTok wujud. But-but itu menyerap begitu banyak kegelapan kosmik sehingga mereka membangunkan tarikan graviti sendiri, yang menerangkan mengapa semua orang berasa tertarik kepada pemakainya. Selepas Zara bersara untuk menjadi cryptid sepenuh masa, but-but itu mengembara melalui lompong sehingga mereka menemui jalan kembali ke realiti kita, mungkin kerana walaupun alas kaki interdimensi berasa rindu."
+    },
+    "22": {
+      "name": "Moonveil Scarf",
+      "description": "Sutera gossamer yang berubah antara perak dan lavender seperti cahaya bulan melalui awan.",
+      "heading_details": "Moonveil Scarf – Bisikan Keanggunan Bulan",
+      "details": "Ditenun dari sutera terhalus dalam warna gradien perak-lavender, selendang ini seolah-olah berubah warna apabila ia bergerak, menangkap cahaya seperti pancaran bulan cair. Cukup panjang untuk dibalut beberapa kali atau dibiarkan terjulai secara dramatik, ianya sangat ringan namun hangat pada kulit. Benang perak kecil ditenun di seluruhnya, mencipta corak buruj halus yang berkilau apabila fabrik bergerak. Ia mengubah sebarang pakaian menjadi sesuatu yang etherial.",
+      "origin": "Ditenun oleh Moon Maidens of Lake Serenity semasa Revolusi Estetik Besar tahun 2156, apabila semua orang secara kolektif memutuskan bahawa fabrik biasa tidak memberikan vibes etherial yang mencukupi. Sutera itu datang dari ulat sutera kosmik yang hanya makan debu bintang dan wujud dengan diet pancaran bulan tulen - pada asasnya equivalent ruang bagi those health nuts organik yang tren. Selendang khusus ini milik Luna Silvermist, seorang influencer samawi yang mempunyai seperti 50 juta pengikut merentasi berbilang galaksi sebelum media sosial wujud. Dia memakainya semasa insiden 'Moonlight Dance-Off Against the Sun God' yang terkenal, yang mana ahli sejarah kini mengiktiraf sebagai pertempuran tarian pertama yang direkodkan dalam sejarah kosmik. Sifat pertukaran warna adalah kemalangan - Luna menumpahkan glitter gred galaksi ke atasnya, tetapi bukannya merosakkannya, ia hanya menjadikannya lebih ikonik. Corak buruj itu dijahit tangan oleh neneknya, yang kononnya sebahagian buruj sendiri, kerana pohon keluarga itu menjadi pelik apabila anda kembali cukup jauh."
+    },
+    "23": {
+      "name": "Thornward Jacket",
+      "description": "Jaket kulit hijau hutan dengan rune perlindungan terukir dalam corak seperti duri.",
+      "heading_details": "Thornward Jacket – Armor Alam Semula Jadi",
+      "details": "Dipotong dari kulit hijau hutan yang kaya dengan tekstur grain semula jadi, jaket ini menampilkan embosan pokok berduri halus di merentasi bahu dan lengan. Zip dan buckle perak memberikan fungsi moden manakala stud loyang menjejaki corak sigil perlindungan. Potongannya dijahit khas dengan sempurna tetapi membenarkan pergerakan, seperti armor yang direka oleh druid. Apabila dipakai, ia membawa intipati hutan dalam dan perlindungan purba.",
+      "origin": "Jaket ini mempunyai lebih banyak latar belakang daripada watak utama dalam anime 12 musim. Pada asalnya milik Rowan Wildhart, penjaga hutan paling extra yang pernah hidup - kami bercakap tentang seseorang yang akan muncul secara dramatik dari pokok hanya untuk memberikan arahan kepada pendaki yang sesat. Dihasilkan semasa Pemberontakan Woodland tahun 1847, apabila pokok-pokok secara literal pergi berperang menentang perindustrian (dan secara jujurnya, mereka ada poin yang sah). Kulit itu datang dari naga yang particularly filosofikal yang mendermakannya secara sukarela setelah kalah dalam debat tentang etika alam sekitar - nampaknya walaupun naga mempunyai eco-anxiety sekarang. Rowan memakai jaket ini semasa 'Siege of the Last Mall' yang legenda, di mana dia mengetuai tentera tumbuhan rumah yang terjaga menentang pembalakan korporat. Rune perlindungan itu diukir oleh druid purba yang pada asasnya adalah environmentalists asal, kecuali dengan lebih banyak magis dan kurang papan tanda protes. Selepas Rowan naik untuk menjadi satu dengan wifi hutan (jangan tanya, ianya rumit), jaket itu diwariskan melalui generasi orang yang secara tidak ironi menggunakan 'sentuh rumput' sebagai nasihat gaya hidup."
+    },
+    "24": {
+      "name": "Starweave Cloak",
+      "description": "Mantel velvet biru tengah malam bertaburan dengan buruj benang perak yang seolah-olah bergerak.",
+      "heading_details": "Starweave Cloak – Dibungkus dalam Langit Malam",
+      "details": "Mantel sepenuh panjang ini mengalir seperti cahaya bintang cair, ditenun dari velvet biru tengah malam yang begitu halus sehingga seolah-olah menyerap kegelapan sekeliling. Benang perak mencipta corak buruj di merentasi fabrik, dan penempatannya begitu hebat sehingga ia kelihatan beralih dan berkelip-kelip apabila anda bergerak. Tudungnya cukup dalam untuk mencipta misteri, dan claspnya adalah bulan sabut dalam perak digilap. Memakainya terasa seperti membawa langit malam di atas bahu anda.",
+      "origin": "Dicipta di Ateliers Samawi Nova Prima semasa Zaman Keemasan Looking Absolutely Devastating, sekitar 2847 CE. Mantel ini milik Stella Nightborn, ahli astronomi paling dramatik dalam sejarah yang direkodkan - dia secara literal tidak akan memerhati bintang melainkan dia memakai sesuatu yang sepadan dengan vibes mereka. Velvet biru tengah malam itu dituai dari Alam Mimpi semasa kejadian jarang apabila mimpi ngeri dan mimpi indah memutuskan untuk bekerjasama dalam projek fesyen. Stella memakai ini semasa 'Great Star Mapping Expedition of 2851' yang terkenal, di mana dia memetakan tujuh belas buruj baru sambil kelihatan seperti watak utama dalam video muzik paling mahal di alam semesta. Benang buruj perak itu dipintal oleh labah-labah kosmik yang dibayar dengan pujian dan debu bintang premium - nampaknya walaupun arachnid interdimensi mempunyai harga mereka. Mantel itu mendapat sifat membengkokkan realitinya selepas Stella secara tidak sengaja memakainya semasa ribut kosmik, menyebabkannya menyerap cahaya bintang mental dan membangunkan apa yang saintis panggil secara teknikal sebagai 'tenaga protagonis.' Dia meninggalkannya apabila dia naik untuk menjadi pengkritik fesyen samawi pertama alam semesta, mengkaji nebula dan menilai sistem solar pada pilihan estetik mereka."
+    },
+    "25": {
+      "name": "Crimson Oath Ring",
+      "description": "Cincin signet dengan ruby yang berdenyut seperti degupan jantung apabila dipakai.",
+      "heading_details": "Crimson Oath Ring – Ikatan yang Mengikat",
+      "details": "Ditempa dari perak yang dihitamkan dengan kerja knot rumit di sekeliling band, cincin ini memegang ruby merah pekat di pusatnya yang seolah-olah bercahaya dengan api dalaman. Batu itu dipotong dengan cara unik yang membuatkannya kelihatan berdenyut lembut apabila menangkap cahaya, seolah-olah diselaraskan dengan degupan jantung anda. Simbol purba terukir begitu halus ke dalam band sehingga ia hanya kelihatan pada pemeriksaan dekat. Ini bukan hanya barang kemas—ia adalah janji yang dijelmakan.",
+      "origin": "Ditempa dalam Heart Forge of the Eternal City semasa Age of Unbreakable Promises, kembali apabila orang masih percaya pada selama-lamanya dan tidak takut dengan isu komitmen. Cincin ini milik Sir Marcus Heartbound, seorang kesatria yang begitu berdedikasi untuk menepati janjinya sehingga dia secara literal tidak boleh bercakap bohong tanpa cincin itu mengejikannya - ianya seperti mempunyai pengesan kebenaran terbina dalam dengan maklum balas yang agresif. Ruby itu dilombong dari Caverns of Honest Feelings, tempat yang begitu jarang sehingga GPS kecerdasan emosi kebanyakan orang tidak dapat mencarinya. Marcus memakai cincin ini apabila dia membuat Oath of the Eternal Guardian yang legenda, bersumpah untuk melindungi cinta itu sendiri daripada pupus dalam dunia yang semakin sinis - pada asasnya dia berjuang untuk percintaan sebelum aplikasi dating membuat segala-galanya menjadi pelik. Penyegerakan degupan jantung cincin itu tidak disengajakan; ia berlaku selepas Marcus mati mempertahankan hak pasangan untuk mengadakan perkahwinan mereka semasa serangan naga (prioriti, kan?). Perak yang dihitamkan berkembang warnanya dari menyerap berabad-abad keamatan emosi, menjadikannya aksesori yang sempurna untuk sesiapa yang perasaan mereka lebih dalam daripada blog puisi Tumblr."
+    },
+    "26": {
+      "name": "Dawnbreaker Vest",
+      "description": "Rompi taktikal krim dengan sulaman matahari terbit emas di merentasi dada.",
+      "heading_details": "Dawnbreaker Vest – Pewarta Pertama Cahaya",
+      "details": "Dipotong dari kanvas krim berkualiti tinggi dengan tekstur halus, rompi ini menampilkan sulaman emas rumit menggambarkan matahari terbit bergaya di merentasi dada. Berbilang poket menyediakan kedua-dua bentuk dan fungsi, setiap satu diamankan dengan butang loyang. Potongannya berstruktur tetapi bernafas, direka untuk kedua-dua penerokaan bandar dan pengembaraan luar. Motif matahari terbit itu seolah-olah bersinar lembut dalam cahaya semula jadi, membuatkan pemakai kelihatan disentuh oleh fajar itu sendiri.",
+      "origin": "Dijahit semasa Revolusi Sunrise Besar tahun 3156, apabila sekumpulan orang pagi yang sangat bermotivasi memutuskan bahawa fajar memerlukan perwakilan yang lebih baik dalam fesyen. Rompi ini milik Kapten Aurora Lightbringer, komander Dawn Patrol - pasukan elit orang yang secara sukarela bangun sebelum jam 5 pagi dan entah bagaimana mengekalkan sikap positif tentangnya. Sulaman matahari terbit emas itu dijahit menggunakan pancaran matahari sebenar yang ditangkap oleh Master Seamstresses of the Early Bird Guild, yang beroperasi berdasarkan falsafah bahawa jika anda akan berjaga pada waktu yang tidak wajar, anda mungkin juga kelihatan samawi melakukannya. Aurora memakai rompi ini semasa Pertempuran Snooze Mountain yang legenda, di mana dia mengetuai tenteranya yang berkafein menentang pasukan Eternal Slumber (pada asasnya orang yang mahu tidur lambat selama-lamanya, yang secara jujurnya kedengaran cukup menarik). Rompi itu mendapat sifat memancarkan cahayanya selepas Aurora melakukan Ritual of First Coffee semasa memakainya, menyebabkannya secara kekal menyerap tenaga vibes pagi yang sempurna. Dia bersara setelah menyedari bahawa menyelamatkan dunia sebelum sarapan memberikan dia piawaian produktiviti yang tidak realistik untuk orang lain."
+    },
+    "27": {
+      "name": "Wraithbane Choker",
+      "description": "Choker velvet hitam dengan loket perak kecil yang menangkis tenaga negatif.",
+      "heading_details": "Wraithbane Choker – Perlindungan Dipakai Rapat",
+      "details": "Sebuah reben velvet hitam sederhana yang duduk dengan sempurna di kerongkong, dihiasi dengan loket perak kecil terukir dengan sigil pelindung. Velvetnya sangat lembut, dan loketnya sejuk pada kulit, seolah-olah berdenyut lembut dengan tenaga perlindungan. Walaupun penampilannya halus, ia memancarkan kekuatan senyap dan berfungsi sebagai kedua-dua aksesori elegan dan armor spiritual.",
+      "origin": "Dihasilkan oleh Sisterhood of Subtle Protection semasa Revolusi Senyap tahun 1456, apabila kuasa feminin memutuskan untuk menjelma melalui aksesori yang boleh menamatkan musuh anda sambil kelihatan absolutely flawless. Choker ini milik Lady Evangeline Shadowbane, yang pada asasnya adalah setara zaman pertengahan kawan itu yang kelihatan halus tetapi mungkin boleh bench press kuda jika perlu. Velvet hitam itu datang dari Midnight Gardens, di mana bunga hanya mekar pada waktu jampi dan mempunyai tenaga goth yang serius. Loket perak itu diberkati oleh tujuh roh pelindung berbeza yang semua bersaing untuk melihat berkat siapa yang paling berkesan - ianya seperti tekanan rakan sebaya spiritual, tetapi secara cara yang baik. Evangeline memakai ini semasa insiden Banshee tahun 1461 yang terkenal, di mana dia menghadapi seluruh rumah berhantu bersenjatakan hanya dengan sikap dan choker ini (spoiler alert: hantu-hantu itu meminta maaf dan pergi). Sifat perlindungan semakin kuat selepas choker itu menyerap tenaga negatif dari lebih kurang 10,000 bad vibes, menjadikannya pada asasnya sesi terapi yang boleh dipakai. Apabila Evangeline meninggal dunia (dengan aman, dalam tidurnya, kerana kematian pun menghormatinya terlalu much untuk menjadi dramatik), choker itu terus melindungi orang kerana nampaknya aksesori yang baik tidak pernah benar-benar bersara."
+    },
+    "28": {
+      "name": "Mystic Bomber",
+      "description": "Jaket bomber bersaiz besar dalam ungu pekat dengan pemetaan buruj dijahit dalam benang perak.",
+      "heading_details": "Mystic Bomber – Gaya Jalanan Kosmik",
+      "details": "Jaket bomber bersaiz besar ini mengimaginasi semula pakaian jalanan melalui kanta mistik, dihasilkan dalam satin ungu pekat dengan peta buruj disulam di merentasi belakang dalam benang perak. Cuff dan hem berrib menyediakan gaya bomber klasik, manakala butiran kosmik mengubahnya menjadi seni yang boleh dipakai. Poket dalam dilapisi dengan fabrik peta bintang, menjadikan elemen tersembunyi pun magis.",
+      "origin": "Direka semasa Renaissance Fesyen Jalanan Interdimensi tahun 4823, apabila pakaian biasa diisytiharkan 'terlalu basic' oleh Council of Cosmic Style. Bomber ini milik Kai Stardrifter, seorang pengembara dimensi yang mengumpul estetik dari realiti berbeza seperti kebanyakan orang mengumpul cop kedai kopi. Satin ungu pekat itu ditenun dari kristal senja yang dituai semasa detik-detik singkat antara siang dan malam merentasi berbilang dimensi - pada asasnya equivalent fabrik bagi pencahayaan golden hour yang sempurna yang semua orang cuba tangkap dalam selfie. Kai memakai jaket ini semasa meneroka Constellation Markets, di mana penjual kosmik menjual cahaya bintang dalam botol dan aksesori fesyen kuantum yang wujud dalam berbilang realiti secara serentak. Pemetaan buruj itu ditambah selepas Kai tersesat di Void Between Worlds dan terpaksa mengemudi menggunakan corak bintang yang disulam pada jaketnya - bercakap tentang fesyen yang berfungsi. Jaket itu membangunkan sifat membengkokkan realitinya selepas dipakai melalui lebih kurang 847 portal dimensi, menyerap jumlah tenaga kosmik dan apa yang saintis panggil 'sindrom watak utama.' Kai akhirnya menetap di dimensi poket di mana setiap hari adalah musim luruh yang kekal dan estetik tidak pernah berubah, meninggalkan jaket itu untuk seseorang yang masih perlu bergerak antara dunia sambil kelihatan absolutely devastating."
+    },
+    "29": {
+      "name": "Soulforge Bracers",
+      "description": "Bracer kulit dengan buckle loyang, terukir dengan rune untuk kekuatan dan ketahanan.",
+      "heading_details": "Soulforge Bracers – Kekuatan Dijelmakan",
+      "details": "Dihasilkan dari kulit coklat kaya dengan buckle loyang dan D-ring, bracer lengan bawah ini menampilkan simbol runik terukir tangan yang seolah-olah berdenyut dengan kehangatan halus apabila dipakai. Kulitnya cukup tebal untuk memberikan perlindungan namun cukup lembut untuk pemakaian harian yang selesa. Ia mengubah sebarang pakaian menjadi sesuatu yang mencadangkan kekuatan tersembunyi dan pengetahuan purba.",
+      "origin": "Ditempa menjadi kewujudan semasa Kebangkitan Kekuatan Besar tahun 2134, apabila masyarakat akhirnya menyedari bahawa kuasa dalaman memerlukan beberapa aksesori exterior yang serius untuk sepadan. Bracer ini milik Maya Ironheart, seorang pahlawan-falsafah yang percaya bahawa kekuatan sebenar datang dari mengetahui betapa berkuasanya anda dan bersikap tenang tentangnya. Kulit itu diperoleh dari Hide of Understanding, makhluk mitos yang secara sukarela menanggalkan kulitnya setelah mencapai pencerahan - pada asasnya setara spiritual ular yang benar-benar terlibat dalam meditasi. Buckle loyang itu ditempa dari logam yang telah dinyanyikan oleh Dwarven Choir of Emotional Support, menjadikannya beresonans dengan frekuensi yang meningkatkan keyakinan dan mengurangkan kebimbangan. Maya memakai ini semasa Tournament of Inner Strength yang legenda, di mana peserta bertarung dengan keraguan diri mereka sendiri dan bukannya antara satu sama lain - ianya surprisingly intense, dan penonton kebanyakannya ahli terapi yang mengambil nota. Simbol runik membangunkan kehangatan mereka selepas menyerap tahun-tahun tekad Maya untuk membantu orang menyedari nilai mereka sendiri, menjadikan bracer ini pada asasnya harga diri yang boleh dipakai. Dia mewariskannya setelah mencapai matlamat muktamad untuk tidak memerlukan pengesahan luaran lagi, walaupun dia mengakui bracer itu 'masih cukup hebat' walaupun untuk seseorang yang telah mengatasi keperluan untuk aksesori yang keren."
+    },
+    "30": {
+      "name": "Ethereal Kimono",
+      "description": "Kimono sutera mengalir dalam putih etherial dengan bunga ceri dilukis tangan.",
+      "heading_details": "Ethereal Kimono – Keanggunan Di Antara Dunia",
+      "details": "Tafsiran moden kimono tradisional ini mengalir seperti cahaya bulan cair, dihasilkan dari sutera terhalus dalam gradien putih dan ungu muda. Bunga ceri dilukis tangan menghanyut di merentasi fabrik seolah-olah terperangkap dalam angin musim bunga kekal. Lengannya lebar dan dramatik, obi sashnya ungu lebih dalam yang membumikan palet etherial. Memakainya terasa seperti melangkah ke dalam mimpi yang dilukis dalam pastel.",
+      "origin": "Ditenun semasa Festival Bunga Ceri Kekal di Neo-Kyoto, 2847, apabila AI bandar mencapai pencerahan dan memutuskan untuk meraikan dengan membuat segala-galanya estetik sempurna selama tiga bulan berturut-turut. Kimono ini milik Yuki Moonwhisper, seorang artis digital yang pakar dalam melukis dengan pancaran bulan sebenar dan entah bagaimana berjaya mencari nafkah daripadanya dalam ekonomi gig kosmik. Sutera itu datang dari ulat sutera kuantum yang wujud dalam keadaan musim bunga kekal, diberi makan bunga ceri digital dan mimpi cuaca sempurna - pada asasnya serangga paling dioptimumkan dalam multiverse. Bunga ceri dilukis tangan itu dicipta menggunakan pigmen diperbuat daripada emosi hanami terkristal, menangkap perasaan spesifik duduk di bawah kelopak jatuh sambil memikirkan kecantikan sementara kehidupan. Yuki memakai kimono ini semasa pameran legenda 'Pixels and Petals: When Technology Dreams of Nature,' yang membuatkan separuh penonton menangis air mata penghargaan estetik tulen. Kimono itu mendapat sifat etherialnya selepas dipakai semasa Great Convergence, apabila realiti digital dan fizikal sebentar bergabung dan segala-galanya kelihatan seperti filem Studio Ghibli untuk tepat tujuh belas minit. Yuki akhirnya memuat naik kesedarannya untuk menjadi penjaga digital estetik bermusim pertama alam semesta, meninggalkan kimono itu untuk seseorang yang masih perlu wujud dalam bentuk fizikal sambil menyalurkan tenaga etherial maksimum."
+    },
+        "31": {
+      "name": "Stormcaller Cloak",
+      "description": "Wol ribut-kelabu dengan corak kilat biru elektrik yang seolah-olah berkelip-kelip.",
+      "heading_details": "Stormcaller Cloak – Guruh yang Boleh Dipakai",
+      "details": "Wol ribut-kelabu tebal membentuk asas mantel dramatik ini, dengan benang biru elektrik disulam dalam corak kilat yang menangkap cahaya dengan cara yang tidak dijangka, mencipta ilusi elektrik berkelip-kelip. Tudungnya dalam dan melindungi, fabriknya cukup tebal untuk mengharungi ribut sebenar. Clasp perak berbentuk petir mengamankannya di kerongkong.",
+      "origin": "Ditenun semasa Perang Cuaca Besar tahun 2456, apabila ahli magis iklim bertarung untuk kawalan ke atas estetik atmosfera dan semua orang mengambil storm-chasing terlalu serius. Mantel ini milik Thunder Jenkins (ya, itu nama sahnya - ibu bapanya ahli meteorologi dengan isu komitmen), pemanggil ribut paling extra dalam sejarah yang direkodkan. Wol ribut-kelabu itu datang dari biri-biri yang meragut secara eksklusif dalam awan guruh, memberikan mereka bulu yang sentiasa bercas statik dan sikap yang sangat buruk tentang hujan. Corak kilat biru elektrik itu disulam menggunakan kilat sebenar yang ditangkap oleh Mad Seamstresses of Tesla Tower, yang beroperasi berdasarkan falsafah bahawa jika pakaian anda tidak berpotensi meyetrum seseorang, anda tidak mencuba cukup kuat. Thunder memakai mantel ini semasa Siege of Hurricane Heights yang legenda, di mana dia bersendirian meyakinkan ribut kategori 5 untuk menukar hala dengan mencabarnya kepada pertempuran tarian (ribut itu menang, tetapi ia cukup kagum untuk menyelamatkan bandar). Sifat membengkokkan realiti mantel itu berkembang selepas menyerap tujuh belas jenis tenaga ribut yang berbeza, menjadikannya pada asasnya sistem cuaca yang boleh dipakai dengan isu kebimbangan. Thunder bersara setelah menyedari bahawa mengawal cuaca memberinya terlalu banyak tanggungjawab untuk rancangan luar orang lain, mewariskan mantel itu kepada seseorang yang boleh menangani tekanan menjadi bertanggungjawab secara tidak langsung untuk setiap piknik yang hujan dalam radius tiga daerah."
+    },
+    "32": {
+      "name": "Faelight Earrings",
+      "description": "Subang bulat emas halus dengan batu jed terjuntai yang seolah-olah bercahaya dengan cahaya dalaman.",
+      "heading_details": "Faelight Earrings – Bisikan Liar",
+      "details": "Subang bulat emas elegan ini menggantung titisan jed licin yang seolah-olah memegang cahaya hutan yang ditawan dalam kedalamannya. Jed itu berubah dari hijau pucat ke zamrud lebih dalam bergantung pada sudut, dan emasnya dikerjakan dengan perincian begitu halus sehingga corak daun kecil kelihatan pada pemeriksaan dekat. Ia menangkap dan memantulkan cahaya dengan cara yang membuatkannya kelihatan hampir bercahaya.",
+      "origin": "Dihasilkan semasa Kebangkitan Barang Kemas Besar tahun 1847, apabila Fae Courts memutuskan bahawa aksesori manusia 'tragically under-enchanted' dan mengambil alih untuk membetulkan keadaan. Subang ini milik Willow Brightleaf, seorang diplomat separuh-fae yang pakar dalam menterjemah antara common sense manusia dan logik fae (pekerjaan yang memerlukan bayaran hazard dan terapi yang luas). Subang bulat emas itu ditempa dari cahaya matahari yang telah ditua dalam pancaran bulan selama tepat tujuh musim, mencipta logam yang wujud dalam keadaan pencahayaan golden hour yang kekal. Batu jed itu adalah hadiah dari Earth Spirits semasa Treaty of Perpetual Spring, apabila manusia dan alam akhirnya bersetuju untuk berhenti menjadi pelik tentang wujud bersama. Willow memakai ini semasa Insiden Diplomatik Pokok Bercahaya yang terkenal, di mana dia berjaya merundingkan perjanjian damai antara pembangunan bandar dan hutan bertuah dengan membuktikan bahawa wujud bersama sebenarnya boleh kelihatan cukup hebat. Subang itu mendapat sifat bercahayanya selepas dipakai semasa Festival Eternal Twilight, menyerap tenaga spesifik detik sempurna apabila siang dan malam tidak boleh memutuskan siapa yang bertanggungjawab. Apabila Willow naik untuk menjadi Duta Rasmi kepada All Things That Glow, dia meninggalkan subang itu dengan nota berkata 'untuk seseorang yang perlu menerangi bilik tanpa memerlukan infrastruktur elektrik sebenar."
+    },
+    "33": {
+      "name": "Shadowmend Cardigan",
+      "description": "Cardigan bersaiz besar arang batu dengan poket cukup dalam untuk memegang rahsia.",
+      "heading_details": "Shadowmend Cardigan – Keselesaan dalam Misteri",
+      "details": "Cardigan bersaiz besar ini membalut anda dalam kashmir kelabu arang batu yang begitu lembut sehingga terasa seperti memakai bayang-bayang. Poketnya luar biasa dalam, sempurna untuk membawa harta kecil atau menyembunyikan tangan. Butang hitam berbaris di depan, dan hemnya mencapai pertengahan paha untuk keselesaan maksimum. Ianya jenis bahagian yang membuatkan anda ingin meringkuk dengan buku purba dan teh herba.",
+      "origin": "Dikait semasa Revolusi Cozy tahun 3001, apabila masyarakat secara kolektif memutuskan bahawa keselesaan adalah hak asasi manusia dan sesiapa yang menghalang keselesaan optimum melakukan jenayah terhadap hygge. Cardigan ini milik Luna Nightreader, seorang pustakawan yang telah mencapai matlamat muktamad dibayar untuk membaca buku sambil memakai pakaian yang sangat selesa. Kashmir kelabu arang batu itu datang dari kambing bayang-bayang yang meragut di lembah senja antara siang dan malam, menghasilkan bulu yang terasa seperti memakai pelukan lembut dari alam semesta itu sendiri. Poket yang sangat dalam itu direkayasa oleh Guild of Practical Magic untuk wujud dalam lipatan dimensi kecil, membolehkan mereka memegang lebih kurang tiga kali ganda daripada yang fizik sepatutnya benarkan - pada asasnya teknologi beg Mary Poppins, tetapi untuk cardigan. Luna memakai ini semasa Great Library Siege of 3003 yang legenda, di mana dia mempertahankan Sacred Archive of Forbidden Romance Novels menentang pasukan Literary Pretension (mereka kalah, obviously). Cardigan itu membangunkan sifat menyimpan rahsianya selepas tahun-tahun dipakai semasa Luna mendengar pengakuan pelanggan tentang tabiat membaca mereka yang dipertikaikan, menjadikannya pada asasnya ahli terapi yang boleh dipakai dengan rasa fesyen yang unggul. Dia mewariskannya setelah mencapai pekerjaan impian menjadi Keeper of Cozy Vibes rasmi alam semesta, jawatan yang nampaknya datang dengan faedah yang sangat baik dan teh tanpa had."
+    },
+    "34": {
+      "name": "Dragonscale Gloves",
+      "description": "Sarung tangan panjang penuh dalam hijau zamrud dengan corak sisik bertindih.",
+      "heading_details": "Dragonscale Gloves – Kuasa Purba di Hujung Jari Anda",
+      "details": "Sarung tangan panjang opera ini memanjang ke siku dalam hijau zamrud kaya, dengan corak sisik bertindih terukir ke dalam kulit yang menangkap cahaya seperti sisik naga sebenar. Potongannya tepat, membenarkan ketangkasan penuh sambil memberikan udara keanggunan lain dunia. Clasp loyang kecil di pergelangan tangan mengamankannya di tempat, dan hujung jari diperkukuh dengan butiran logam halus.",
+      "origin": "Dipesan semasa Inisiatif Diplomasi Naga Besar tahun 2189, apabila manusia akhirnya menyedari bahawa mungkin mereka harus cuba bercakap dengan naga dan bukannya sentiasa cuba melawan mereka. Sarung tangan ini milik Sir Ember Drakewhisperer, manusia pertama yang berjaya merundingkan perjanjian damai dengan naga dengan menawarkan mereka cryptocurrency (nampaknya naga purba sangat baik dalam memahami teknologi blockchain). Kulit hijau zamrud itu datang dari Verdania the Reasonable, naga purba yang menyertai Perjanjian Damai setelah bosan dengan manusia yang sentiasa cuba mencuri barangan dia - dia fikir jika dia akan menanggalkan sisik juga, dia mungkin juga menjadikannya transaksi perniagaan. Corak sisik bertindih itu diukir tangan oleh Dragon Artisans Guild, yang mengambil kraf mereka cukup serius untuk membuat pereka fesyen manusia menangis dengan iri hati. Sir Ember memakai ini semasa Council of Flame and Reason yang legenda, di mana dia berjaya meyakinkan dua belas klan naga berbeza bahawa manusia bernilai disimpan, kebanyakannya dengan menunjukkan bahawa kreativiti manusia boleh menghasilkan aksesori yang sangat menarik secara estetik. Sarung tangan itu mendapat sifat lain dunianya selepas diberkati oleh setiap naga yang menandatangani perjanjian damai, menjadikannya pada asasnya kekebalan diplomatik dalam bentuk yang boleh dipakai. Sir Ember akhirnya bersara untuk menjadi Kaunselor Hubungan Naga-Manusia pertama alam semesta, meninggalkan sarung tangan untuk seseorang yang perlu mengendalikan makhluk berkuasa dengan gaya dan keanggunan."
+    },
+    "35": {
+      "name": "Nebula Shift Dress",
+      "description": "Dress shift mengalir dalam warna kosmik yang seolah-olah berpusar dan bergerak di merentasi fabrik.",
+      "heading_details": "Nebula Shift Dress – Memakai Alam Semesta",
+      "details": "Dress fluid shift ini menangkap kecantikan angkasa lepas dalam bentuk yang boleh dipakai, dengan fabrik yang berubah antara ungu pekat, biru elektrik, dan sentuhan merah jambu kosmik. Warna-warna itu seolah-olah bergerak dan berpusar apabila anda berjalan, mencipta ilusi memakai nebula hidup. Potongannya sederhana dan elegan, membiarkan fabrik kosmik menjadi bintang persembahan.",
+      "origin": "Direka semasa Revolusi Fesyen Kosmik tahun 4156, apabila pakaian berasaskan Bumi biasa diisytiharkan 'secara dimensi tidak mencukupi' oleh Intergalactic Style Council. Dress ini milik Nova Starweaver, seorang penari kosmik yang membuat persembahan secara eksklusif di ruang antara sistem bintang dan entah bagaimana mencari nafkah daripadanya dalam pasaran hiburan paling niche alam semesta. Fabrik itu ditenun dari gas nebula sebenar yang telah dikristalkan semasa detik singkat apabila bintang yang mati memutuskan untuk padam dengan gaya, mencipta bahan yang wujud dalam keadaan drama kosmik yang indah yang kekal. Warna berpusar itu ditangkap dari Aurora Borealis tujuh belas planet berbeza, setiap satu menyumbang signature elektromagnetik unik mereka untuk mencipta dress yang pada asasnya adalah pertunjukan cahaya yang boleh dipakai. Nova memakai ini semasa persembahan legenda 'Dancing with Dying Stars,' yang disaksikan oleh lebih kurang tiga tamadun dan membuatkan mereka semua mempersoalkan pemahaman mereka tentang pergerakan, seni, dan sifat asas kecantikan. Dress itu mendapat sifat membengkokkan realitinya selepas dipakai melalui berbilang ribut solar, menyerap radiasi kosmik dan membangunkan apa yang saintis panggil 'tenaga watak utama pada skala galaksi.' Nova akhirnya mengatasi bentuk fizikal untuk menjadi tenaga tarian kosmik tulen, meninggalkan dress itu untuk seseorang yang masih perlu wujud dalam badan jasmani sambil menyalurkan kuasa estetik seluruh alam semesta."
+    },
+    "36": {
+      "name": "Runeward Boots",
+      "description": "But lutut tinggi kulit dengan rune perlindungan diukir ke dalam sisi.",
+      "heading_details": "Runeward Boots – Langkah Dilindungi oleh Kuasa Purba",
+      "details": "But lutut tinggi ini dihasilkan dari kulit coklat kaya dengan rune perlindungan diukir tangan ke dalam panel di sepanjang sisi. Setiap rune dipenuhi dengan daun emas yang berkilau terhadap kulit, dan but-but itu diikat dengan kord kulit yang diikat melalui eyelet loyang. Solnya tebal dan tahan lama, direka untuk kedua-dua jalanan bandar dan perjalanan mistik.",
+      "origin": "Dihasilkan semasa Zaman Keemasan Magis Praktikal tahun 1634, apabila ahli silap mata akhirnya menyedari bahawa semua kuasa mereka tidak berguna jika mereka terus mendapat lepuh dari alas kaki murah. But-but ini milik Master Aldric Groundwalker, ahli silap mata paling pragmatik dalam sejarah yang direkodkan - dialah lelaki yang mencipta komponen mantera yang tidak memerlukan perjalanan ke tujuh belas lokasi mistik berbeza hanya untuk melafazkan mantera cahaya mudah. Kulit coklat kaya itu datang dari Cattle of Understanding, sekumpulan lembu yang tercerahkan secara falsafah yang telah mencapai ketenangan dalaman dan secara sukarela menyumbang kepada kebaikan yang lebih besar (mereka pada asasnya adalah sami Buddha dunia bovin). Rune perlindungan itu diukir tangan oleh Guild of Sensible Enchanters, yang beroperasi berdasarkan prinsip bahawa jika perlindungan magis anda terlalu rumit untuk diingati semasa krisis, ia mungkin tidak berguna. Aldric memakai ini semasa Expedition to the Practical Realm yang terkenal, di mana dia membuktikan bahawa common sense dan magis boleh wujud bersama tanpa menyebabkan realiti mempunyai krisis kewujudan. Pengisian daun emas membangunkan kuasanya selepas berabad-abad dipijak oleh orang yang sebenarnya tahu apa yang mereka lakukan, menjadikan but-but ini pada asasnya kecekapan yang boleh dipakai. Apabila Aldric naik untuk menjadi Patron Saint of Getting Things Done, dia meninggalkan but-but itu dengan arahan bahawa ia hanya harus dipakai oleh orang yang memahami bahawa kuasa sebenar datang dari bersedia untuk apa-apa sambil kelihatan absolutely profesional tentangnya."
+    },
+    "37": {
+      "name": "Celestial Pendant",
+      "description": "Rantai perak dengan loket bintang emas yang seolah-olah berdenyut dengan tenaga samawi.",
+      "heading_details": "Celestial Pendant – Bintang untuk Membimbing Anda",
+      "details": "Rantai perak halus ini memegang loket bintang emas di hatinya, dihasilkan dengan ketepatan begitu hebat sehingga seolah-olah memegang cahaya bintang sebenar dalam titik-titiknya. Bintang itu berputar bebas pada pemasukannya, menangkap cahaya dari setiap sudut, dan rantai perak itu cukup halus untuk terasa tiada berat di sekitar leher. Dikatakan bahawa mereka yang memakainya menemui jalan mereka dengan lebih mudah, kedua-dua secara literal dan metafora.",
+      "origin": "Ditempa semasa Krisis Navigasi Besar tahun 2847, apabila manusia telah menjajah separuh galaksi tetapi entah bagaimana terus tersesat cuba mencari equivalent ruang stesen minyak. Loket ini milik Kapten Stella Wayfinder, orang yang paling berbakat secara arah dalam alam semesta yang diketahui - dia adalah equivalent manusia GPS, tetapi dengan rasa fesyen yang lebih baik dan kurang prompt suara yang menjengkelkan. Rantai perak itu dihasilkan dari perak meteorik yang telah diberkati oleh Constellation of Eternal Direction, sekumpulan bintang yang nampaknya telah bosan menonton pengembara ruang terbang dalam bulatan selama berabad-abad. Loket bintang emas itu diukir dari serpihan First Star, yang telah menawarkan sekeping dirinya setelah menyaksikan terlalu banyak orang tersesat dalam sistem solar mereka sendiri. Stella memakai ini semasa Great Space Rescue of 2851 yang legenda, di mana dia berjaya membimbing 10,000 kapal yang hilang kembali ke sistem rumah mereka menggunakan hanya navigasi bintang dan jumlah keyakinan kosmik yang mengagumkan. Loket itu mendapat sifat bimbingannya selepas menyerap doa navigasi setiap pengembara yang hilang dalam galaksi, menjadikannya pada asasnya kompas yang boleh dipakai yang berfungsi pada tahap eksistensial dan juga fizikal. Apabila Stella bersara untuk menjadi Director of Not Getting Lost rasmi alam semesta, dia mewariskan loket itu dengan nota berkata 'untuk seseorang yang perlu mencari jalan mereka, kedua-dua secara literal dan metafora, sambil kelihatan stellar dalam prosesnya."
+    },
+    "38": {
+      "name": "Nightfall Ensemble",
+      "description": "Pakaian tiga bahagian lengkap: blazer velvet, seluar ketat, dan kemeja sutera dalam nada tengah malam.",
+      "heading_details": "Nightfall Ensemble – Keanggunan Selepas Gelap",
+      "details": "Set tiga bahagian lengkap ini termasuk blazer velvet dalam hitam tengah malam pekat, seluar panjang dijahit sempurna dalam fabrik yang sepadan, dan kemeja sutera dalam ungu pekat yang bertukar menjadi hitam dalam cahaya rendah. Butang perak dan jahitan ungu halus menyediakan satu-satunya hiasan yang diperlukan. Ensembel ini dijahit khas kepada kesempurnaan, mencipta siluet yang memerintah perhatian melalui keanggunan tulen dan bukannya kilauan.",
+      "origin": "Dijahit semasa Pergerakan Kegelapan Elegant tahun 3456, apabila masyarakat memutuskan bahawa penjahat telah memonopoli semua pilihan estetik terbaik untuk terlalu lama dan tiba masanya untuk orang biasa mengambil alih kegelapan yang canggih. Ensembel ini milik Lord Vincent Shadowmere, seorang vampir yang telah diperbaharui yang telah menukar kerjaya pemerintah jahatnya untuk gaya hidup yang lebih mampan dalam perundingan fesyen (nampaknya walaupun makhluk abadi malam perlu pivot kadang-kadang). Velvet tengah malam itu datang dari Fabric Mills of Eternal Twilight, di mana mereka pakar dalam mencipta pakaian yang kelihatan seperti telah ditenun dari ruang antara bintang. Kemeja sutera ungu pekat itu diwarnakan menggunakan dakwat dari Midnight Squid, makhluk yang hanya wujud semasa gerhana matahari dan mempunyai pendapat yang kuat tentang penyelarasan warna. Vincent memakai ensembel ini semasa Gala of Redeemed Villains yang legenda, di mana bekas antagonis mempamerkan peralihan kerjaya mereka yang berjaya sambil kelihatan absolutely devastating dalam pakaian formal. Pakaian itu mendapat sifat membengkokkan realitinya selepas dipakai ke lebih kurang 200 acara high-society di mana Vincent membuktikan bahawa anda boleh kelihatan elegan yang berbahaya tanpa sebenarnya menjadi berbahaya. Apabila Vincent akhirnya mencapai impiannya membuka sekolah penamat untuk makhluk ghaib yang telah diperbaharui, dia mewariskan ensembel itu kepada seseorang yang perlu memerintah rasa hormat melalui kuasa estetik tulen dan bukannya berabad-abad magis gelap yang terkumpul."
+    },
+    "39": {
+      "name": "Academy Sentinel Uniform",
+      "description": "Uniform inspirasi tentera biru laut dengan trim emas, direka untuk pengawal kehormatan akademi magis.",
+      "heading_details": "Academy Sentinel Uniform – Kehormatan dalam Perkhidmatan",
+      "details": "Uniform terpelihara ini menggabungkan ketepatan tentera dengan keanggunan mistik, menampilkan jaket wol biru laut dengan jalinan emas di merentasi dada dan bahu. Butang perak mempunyai sigil perlindungan purba, dan kolar tinggi memaparkan insignia pangkat dalam benang emas. Seluar yang sepadan mempunyai lipatan yang sempurna, dan ensembel itu termasuk sarung tangan putih dan topi peaked dengan emblem griffin. Memakainya terasa seperti menyertai perintah elit yang didedikasikan untuk melindungi pengetahuan purba.",
+      "origin": "Dipesan semasa Reformasi Pendidikan Besar tahun 2134, apabila akademi magis menyedari bahawa keselamatan mereka dikendalikan oleh orang yang kelihatan seperti mereka lebih suka berada di mana-mana sahaja dan memutuskan untuk membetulkan estetik bersama-sama dengan perlindungan sebenar. Uniform ini milik Kapten Sarah Brightward, pegawai keselamatan kampus paling inspirasi dalam sejarah akademik - dialah orang yang membuatkan keselamatan kampus kelihatan seperti panggilan dan bukannya keperluan pekerjaan. Wol biru laut itu datang dari Sheep of Scholarly Dedication, baka yang hanya mengembangkan bulu terbaik mereka semasa mendengar kuliah tentang teori magis purba (mereka pada asasnya equivalent akademik lembu muzik klasik). Jalinan emas itu dihasilkan oleh Master Tailors of Honor, yang beroperasi berdasarkan prinsip bahawa jika anda akan melindungi pengetahuan, anda harus kelihatan seperti pengetahuan itu sendiri memilih anda secara peribadi. Sarah memakai ini semasa Siege of Final Exams yang terkenal, di mana dia mempertahankan akademi daripada serangan demon tekanan sambil mengekalkan piawaian uniform yang sempurna dan entah bagaimana masih berjaya menggalakkan pelajar yang panik. Uniform itu mendapat sifat memancarkan kewibawaannya selepas tahun-tahun dipakai oleh seseorang yang benar-benar percaya bahawa pendidikan bernilai dilindungi, menjadikannya pada asasnya dedikasi yang boleh dipakai untuk mengejar pengetahuan. Apabila Sarah dinaikkan pangkat menjadi Headmistress of the Academy for Practical Heroism, dia mewariskan uniform itu dengan nota berkata 'untuk seseorang yang memahami bahawa kekuatan sebenar datang dari melindungi hak orang untuk belajar tanpa ketakutan."
+    },
+    "40": {
+      "name": "Shadowmere Pajama Set",
+      "description": "Set piyama modal lembut dalam ungu tengah malam dengan corak buruj untuk mimpi mistik.",
+      "heading_details": "Shadowmere Pajama Set – Mimpi Di Bawah Cahaya Bintang",
+      "details": "Piyama modal mewah yang lembut ini datang dalam ungu tengah malam pekat dengan corak buruj halus bertaburan di merentasi fabrik dalam lavender pucat. Atasan mempunyai reka bentuk butang-depan santai dengan kolar klasik, manakala seluar yang sepadan mempunyai tali pinggang elastik dan poket sisi. Fabriknya bernafas dengan cantik dan terasa seperti tidur dibalut dalam magis senja.",
+      "origin": "Dicipta semasa Revolusi Tidur Besar tahun 3001, apabila manusia akhirnya mengakui bahawa rehat berkualiti tinggi adalah hak asas dan sesiapa yang menghalang keselesaan tidur optimum melakukan jenayah terhadap kebajikan manusia asas. Set piyama ini milik Dr. Luna Dreamweaver, seorang penyelidik tidur yang telah mendedikasikan hidupnya untuk membuktikan bahawa pakaian tidur yang betul boleh secara literal meningkatkan kualiti mimpi anda. Modal ungu tengah malam itu datang dari Dream Trees of the Twilight Forest, tumbuhan yang hanya tumbuh semasa keadaan sempurna antara sedar dan tidur, menghasilkan fabrik yang terasa seperti memakai pelukan lembut dari awan paling selesa alam semesta. Corak buruj itu disulam menggunakan benang dipintal dari cahaya bintang sebenar oleh Seamstresses of Peaceful Slumber, yang bekerja secara eksklusif semasa jam apabila kebanyakan orang mengalami kitaran tidur paling dalam dan paling memulihkan. Luna memakai set ini semasa penyelidikan perintisnya ke dalam hubungan antara estetik pakaian tidur dan kualiti mimpi, membuktikan bahawa kelihatan baik semasa tidak sedar boleh sebenarnya meningkatkan imej diri bawah sedar anda. Piyama itu mendapat sifat meningkatkan mimpinya selepas dipakai semasa lebih kurang 10,000 malam sesi tidur Luna yang dikurasi dengan sempurna, menyerap tenaga berbilang mimpi aman dan membangunkan apa yang saintis panggil 'keupayaan pengoptimuman REM.' Apabila Luna mencapai matlamat muktamadnya naik menjadi Guardian of Universal Sleep Quality, dia meninggalkan piyama itu untuk seseorang yang perlu memastikan mimpi mereka sama menarik secara estetik seperti kehidupan sedar mereka."
+    },
+        "41": {
+      "name": "Grimoire Keeper Robe",
+      "description": "Jubah sarjana kelabu arang batu dengan butiran kulit dan poket dalam untuk gulungan.",
+      "heading_details": "Jubah Penjaga Grimoire – Kebijaksanaan yang Boleh Dipakai",
+      "details": "Jubah sarjana mengalir ini dipotong dari wol kelabu arang batu berat dengan butiran kulit di sepanjang tepi, mengingatkan kembali pada kulit buku purba. Berbilang poket dalam bersaiz sempurna untuk gulungan, kristal, dan alat sarjana lain. Tudungnya dalam dan kontemplatif, dan clasp loyang berbentuk pen bulu mengamankan bahagian depan. Ianya jubah akademik yang diimaginasi semula untuk mistik moden.",
+      "origin": "Ditenun semasa Renaissance Perpustakaan Besar tahun 1456, apabila institusi sarjana memutuskan bahawa jika mereka akan memelihara semua pengetahuan manusia, pustakawan mereka harus kelihatan seperti mereka boleh secara peribadi menakutkan kejahilan kepada tunduk. Jubah ini milik Master Cornelius Bookwright, pustakawan paling menakutkan dalam sejarah yang direkodkan - dialah orang yang membuatkan memulangkan buku lewat terasa seperti pengkhianatan peribadi terhadap seluruh konsep pembelajaran. Wol kelabu arang batu itu datang dari Sheep of Accumulated Wisdom, baka yang menghabiskan seluruh hidup mereka meragut di padang di mana sarjana purba pernah berjalan, menyerap tenaga intelektual sisa melalui kuku mereka. Butiran kulit itu dihasilkan dari Hide of Philosophical Debates, diperoleh dari makhluk yang telah mencapai pencerahan melalui perdebatan luas tentang sifat kewujudan. Cornelius memakai jubah ini semasa Defense of the Forbidden Section yang legenda, di mana dia bersendirian melindungi pengetahuan berbahaya daripada dicuri oleh orang yang pasti belum bersedia untuknya dan mungkin akan menggunakannya untuk memulakan skim piramid. Jubah itu mendapat sifat menakutkannya selepas dekad dipakai oleh seseorang yang benar-benar percaya bahawa pengetahuan adalah suci dan harus dirawat dengan penghormatan yang sesuai, menjadikannya pada asasnya kewibawaan akademik yang boleh dipakai. Apabila Cornelius naik untuk menjadi Eternal Guardian of All Books That Have Ever Been Written, dia mewariskan jubah itu kepada seseorang yang memahami bahawa memelihara kebijaksanaan memerlukan kelihatan seperti anda boleh secara peribadi menulis semula realiti jika seseorang tidak menghormati edisi pertama."
+    },
+    "42": {
+      "name": "Moonlit Loungewear",
+      "description": "Sweater krim bersaiz besar dan seluar pendek sepadan dengan sulaman fasa bulan perak.",
+      "heading_details": "Moonlit Loungewear – Keselesaan Samawi",
+      "details": "Set selesa ini termasuk sweater kashmir krim bersaiz besar dengan bahu terjuntai dan sulaman fasa bulan perak di sepanjang lengan, dipadankan dengan seluar pendek rajutan sepadan yang mencecah pertengahan paha. Fabriknya sangat lembut, sempurna untuk hujung minggu malas atau memerhati bintang lewat malam. Fasa bulan itu kelihatan berkilau secara halus dalam pencahayaan berbeza, menambah magis kepada keselesaan.",
+      "origin": "Direka semasa Revolusi Keselesaan Samawi tahun 2847, apabila Moon Maiden sendiri bosan dengan manusia memakai pakaian hodoh semasa cuba berhubung dengan tenaga lunar dan memutuskan untuk campur tangan secara langsung dalam industri fesyen Bumi. Set loungewear ini milik Serenity Moonchild, seorang influencer kesihatan kosmik yang entah bagaimana telah membuat kerjaya mengajar orang cara mengoptimumkan relaksasi mereka melalui penjajaran astronomi. Kashmir krim itu datang dari Goats of Eternal Tranquility, sekumpulan yang hidup secara eksklusif di padang rumput gunung di mana pantulan bulan mencipta keadaan sempurna untuk menghasilkan gentian paling lembut dan paling menenangkan dalam kewujudan. Sulaman fasa bulan perak itu dijahit menggunakan pancaran bulan sebenar yang telah dikristalkan semasa fenomena jarang apabila semua fasa lunar wujud secara serentak untuk tepat tujuh belas minit. Serenity memakai set ini semana siri livestream 'Lounging with Luna' legenda, di mana dia mengajar 2.3 juta pengikut cara mencapai ketenangan dalaman melalui tidur siang strategik dan pakaian tidur berkualiti tinggi. Loungewear itu mendapat sifat mendatangkan ketenangannya selepas dipakai semasa berbilang sesi meditasi di bawah cahaya bulan langsung, menyerap tenaga lunar dan membangunkan apa yang saintis panggil 'vibes chill optimum.' Apabila Serenity mencapai bentuk terakhirnya sebagai Duta Rasmi Bulan ke Bumi, dia meninggalkan set itu untuk seseorang yang perlu menguasai seni kelihatan elegan secara samawi semasa melakukan absolutely nothing yang produktif."
+    },
+    "43": {
+      "name": "Royal Guard Ceremonial",
+      "description": "Uniform istana baldu ungu dengan jalinan emas, dipakai oleh pengawal istana elit.",
+      "heading_details": "Royal Guard Ceremonial – Pelindung Mahkota",
+      "details": "Uniform upacara hebat ini menampilkan jaket baldu ungu pekat dengan jalinan emas rumit dalam corak Celtic knot di merentasi dada dan cuff. Kolar tinggi mempunyai crest diraja dalam benang emas, dan seluar sepadan mempunyai piping emas di sisi. Tali pinggang pedang upacara dan sash sutera putih melengkapkan ensembel. Disediakan untuk pengawal paling elit, memakainya membawa berat sumpah purba dan tugas bangsawan.",
+      "origin": "Dipesan semasa Zaman Keemasan Monarki Dramatik tahun 1634, apabila raja dan ratu bersaing untuk melihat pengawal peribadi siapa yang boleh kelihatan paling menakutkan hebat semasa berdiri pegun selama berjam-jam. Uniform ini milik Sir Reginald Purpleheart, pengawal diraja paling berdedikasi dalam sejarah - dia pernah berdiri senang selama 72 jam berturut-turut hanya untuk membuktikan bahawa komitmen kepada tugas boleh menjadi bentuk seni. Baldu ungu itu datang dari Royal Silkworms of Majestic Intent, makhluk yang diberi makan secara eksklusif pada kelopak bunga dan muzik klasik untuk menghasilkan fabrik yang layak melindungi hak ketuhanan untuk memerintah. Jalinan emas itu dihasilkan oleh Master Weavers of Eternal Loyalty, yang beroperasi berdasarkan prinsip bahawa jika anda akan mendedikasikan hidup anda untuk melindungi mahkota orang lain, pakaian anda harus menjadi pampasan yang mencukupi untuk tidak pernah memakai mahkota itu sendiri. Reginald memakai ini semasa Siege of Spectacular Pageantry yang legenda, di mana dia mempertahankan istana menentang tentera pengkritik fesyen yang mendakwa estetik monarki 'problematically extra' (dia menang dengan membuktikan bahawa kadang-kadang menjadi extra sebenarnya bentuk perkhidmatan awam). Uniform itu mendapat sifat memancarkan kewibawaannya selepas menyerap dekad dedikasi Reginald yang tidak berbelah bahagi kepada idea bahawa sesetengah perkara bernilai dilindungi hanya kerana ia cantik, menjadikannya pada asasnya kesetiaan yang boleh dipakai dengan jumlah benang yang sangat mengagumkan. Apabila Reginald bersara setelah mencapai impian mustahil membuatkan tugas pengawal kelihatan seperti pekerjaan paling glamor dalam kerajaan, dia mewariskan uniform itu kepada seseorang yang memahami bahawa perkhidmatan sebenar kadang-kadang memerlukan kelihatan begitu hebat sehingga orang lupa untuk mempersoalkan sistem yang anda lindungi."
+    },
+    "44": {
+      "name": "Starweaver Hoodie",
+      "description": "Hoodie ultra-lembut dalam teal pekat dengan benang buruj bercahaya dalam gelap.",
+      "heading_details": "Starweaver Hoodie – Keselesaan Di Antara Bintang",
+      "details": "Hoodie sangat lembut ini dihasilkan dari kapas brushed dalam teal pekat, dengan corak buruj disulam dalam benang khas yang bercahaya lembut dalam gelap. Tudungnya dilapisi dengan fabrik peta bintang, dan poket kangaroo sempurna untuk memanaskan tangan atau menyimpan harta kecil. Ianya jenis hoodie yang membuatkan anda ingin berjaga sepanjang malam memerhati bintang sebenar.",
+      "origin": "Dikait semasa Revolusi Keselesaan Kosmik tahun 4823, apabila jurutera tekstil alam semesta akhirnya menyelesaikan masalah lama bagaimana membuat pakaian biasa terasa seperti memakai pelukan dari seluruh galaksi. Hoodie ini milik Zara Nightglow, perunding keselesaan kosmik yang pakar dalam membantu orang mencapai keselesaan optimum sambil mengekalkan sambungan mereka kepada tenaga samawi. Kapas teal pekat itu datang dari Comfort Plants of Nebula Seven, organisma yang telah berevolusi khusus untuk menghasilkan gentian paling lembut dalam alam semesta yang diketahui setelah menyaksikan terlalu banyak makhluk menderita dari pakaian tidur yang tidak mencukupi. Benang bercahaya dalam gelap itu dipintal dari cahaya bintang sebenar oleh Cosmic Seamstresses Guild, yang bekerja secara eksklusif semasa gerhana matahari apabila sempadan antara terang dan gelap berada pada paling menarik secara estetik. Zara memakai hoodie ini semasa 'Great Cozy Quest of 4825' yang legenda, di mana dia mengembara ke tujuh belas sistem bintang berbeza untuk menyelidik keadaan keselesaan optimum merentasi pelbagai medan graviti dan komposisi atmosfera. Hoodie itu mendapat sifat berkuasa bintangnya selepas dipakai semasa berbilang malam stargazing antara bintang, menyerap radiasi kosmik dan membangunkan apa yang saintis panggil 'tenaga chill sejagat.' Apabila Zara mengatasi bentuk fizikal untuk menjadi Director of Optimal Comfort Rasmi Galaksi, dia meninggalkan hoodie itu untuk seseorang yang perlu berasa berhubung dengan kosmos sambil juga cukup selesa untuk tertidur semasa dokumentari astronomi."
+    },
+    "45": {
+      "name": "Mage Academy Blazer",
+      "description": "Blazer sekolah tradisional biru tengah malam dengan warna rumah dan insignia magis.",
+      "heading_details": "Mage Academy Blazer – Sarjana Arkana",
+      "details": "Blazer dijahit khas sempurna ini mengikut gaya akademi tradisional dalam wol biru tengah malam dengan warna rumah dalam trim dan lapisan. Benang emas mencipta simbol magis halus di merentasi poket dada, dan crest sekolah disulam pada poket dada. Jaket itu mempunyai potongan abadi yang berfungsi sama baik dalam dewan kuliah atau jalanan bandar, mewakili kedua-dua pencapaian sarjana dan potensi mistik.",
+      "origin": "Dijahit semasa Reformasi Pendidikan Magis Besar tahun 2456, apabila sekolah ahli silap mata menyedari bahawa graduan mereka perlu kelihatan cekap secara profesional dalam kedua-dua pasaran kerja magis dan duniawi. Blazer ini milik Professor Evelyn Spellwright, pendidik paling bergaya menakutkan dalam akademik magis - dialah guru yang membuatkan Advanced Theoretical Magic terasa seperti keistimewaan dan bukannya keperluan. Wol biru tengah malam itu datang dari Academic Sheep of Higher Learning, baka yang telah dibiakbakakan secara terpilih selama berabad-abad untuk menghasilkan fabrik yang entah bagaimana membuatkan pemakai kelihatan lebih pintar dan dipercayai. Simbol magis emas itu disulam oleh Guild of Scholarly Seamstresses, yang telah menguasai seni membuatkan pendidikan kelihatan seperti pilihan kerjaya paling hebat. Professor Spellwright memakai blazer ini semasa Conference of Interdisciplinary Magic yang legenda, di mana dia berjaya berhujah bahawa pendidikan magis harus fokus pada aplikasi praktikal dan bukannya hanya membuatkan benda meletup dengan cara yang menarik secara visual. Blazer itu mendapat sifat memancarkan kecekapannya selepas dekad dipakai oleh seseorang yang benar-benar percaya bahawa pengetahuan adalah magis paling berkuasa sekali, menjadikannya pada asasnya kewibawaan akademik yang boleh dipakai dengan jumlah benang yang sangat baik. Apabila Professor Spellwright dinaikkan pangkat menjadi Headmistress of the University of Applied Impossibility, dia mewariskan blazer itu kepada seseorang yang memahami bahawa guru terbaik adalah mereka yang membuatkan pembelajaran kelihatan elegan tanpa usaha."
+    },
+    "46": {
+      "name": "Comfort Spell Sweatsuit",
+      "description": "Set sweatshirt dan jogger sepadan lavender lembut dengan sulaman rune keselesaan.",
+      "heading_details": "Comfort Spell Sweatsuit – Magis Dalam Setiap Benang",
+      "details": "Set sepadan ini termasuk sweatshirt crewneck bersaiz besar dan jogger tapered, kedua-duanya dalam kapas French terry paling lembut lavender pucat. Rune keselesaan disulam secara halus di sepanjang cuff dan hem dalam benang putih, hampir tidak kelihatan sehingga anda melihat dekat. Sweatshirt mempunyai potongan santai sempurna untuk bersantai, dan jogger mempunyai potongan tapered yang menarik dengan cuff berrib.",
+      "origin": "Dicipta semasa Kebangkitan Relaksasi Besar tahun 3001, apabila masyarakat akhirnya mengakui bahawa tekanan secara literal membunuh semua orang dan memutuskan untuk membuatkan keselesaan bentuk pertahanan diri magis. Sweatsuit ini milik Maya Zenmaster, seorang witch wellness yang telah merevolusikan industri penjagaan diri dengan membuktikan bahawa loungewear yang betul boleh sebenarnya melafazkan mantera perlindungan pada kesihatan mental anda. French terry lavender itu datang dari Emotional Support Cotton Plants of Serenity Valley, organisma yang telah direkayasa secara magis untuk menghasilkan fabrik yang terasa seperti memakai sesi terapi kekal. Rune keselesaan itu disulam menggunakan benang diberkati oleh Council of Universal Chill, sekumpulan makhluk tercerahkan yang telah mengatasi keperluan untuk kebimbangan produktiviti. Maya memakai sweatsuit ini semasa penyelidikan perintisnya ke dalam 'Practical Magic for Everyday Exhaustion,' membuktikan bahawa kadang-kadang mantera paling berkuasa anda boleh lafaz adalah memberikan diri anda kebenaran untuk selesa. Sweatsuit itu mendapat sifat melegakan stresnya selepas dipakai semasa lebih kurang 5,000 sesi meditasi, menyerap tenaga aman dan membangunkan apa yang saintis panggil 'pekali chill optimum.' Apabila Maya mencapai pencerahan melalui tidur siang strategik, dia meninggalkan sweatsuit itu untuk seseorang yang perlu memahami bahawa penjagaan diri bukan mementingkan diri sendiri—ia pada asasnya armor untuk jiwa anda."
+    },
+    "47": {
+      "name": "Arcane University Cardigan",
+      "description": "Cardigan universiti klasik coklat kaya dengan trim emas dan patch jabatan magis.",
+      "heading_details": "Arcane University Cardigan – Kecemerlangan Akademik",
+      "details": "Cardigan abadi ini mengikut gaya universiti klasik dalam wol coklat kaya dengan trim emas di sepanjang kolar dan cuff. Patch jabatan untuk pelbagai pengajian magis disulam pada lengan, dan crest universiti menghiasi dada. Potongannya santai dan sarjana, sempurna untuk jam panjang di perpustakaan atau berjalan di kampus sambil memikirkan misteri alam semesta.",
+      "origin": "Dikait semasa Perang Prestij Akademik tahun 1847, apabila universiti bersaing untuk melihat fakulti siapa yang boleh kelihatan paling menakutkan secara intelek sambil kekal selesa yang boleh didekati. Cardigan ini milik Professor Theodore Wisdomkeep, pengajar paling disayangi di University of Applied Impossibility - dialah guru yang membuatkan teori magis kuantum terasa seperti storytime dengan datuk kegemaran anda. Wol coklat kaya itu datang dari Scholarly Sheep of Deep Thoughts, baka yang meragut secara eksklusif di perpustakaan dan telah membangunkan bulu dengan sifat meredakan bunyi semula jadi untuk keadaan belajar optimum. Trim emas itu ditambah oleh Guild of Academic Elegance, yang percaya bahawa jika anda akan mendedikasikan hidup anda untuk mengembangkan pengetahuan manusia, anda sekurang-kurangnya harus kelihatan terhormat semasa melakukannya. Professor Wisdomkeep memakai cardigan ini semasa Great Debate of Theoretical vs. Practical Magic yang legenda, di mana dia berjaya berhujah bahawa magis terbaik adalah jenis yang membantu orang dengan masalah sebenar mereka dan bukannya hanya kelihatan hebat di parti. Cardigan itu mendapat sifat memancarkan kebijaksanaannya selepas dekad dipakai semasa waktu pejabat di mana Professor Wisdomkeep memberikan kedua-dua nasihat akademik dan panduan hidup kepada pelajar yang keliru. Apabila dia bersara untuk menjadi Professor Emeritus of Common Sense pertama alam semesta, dia mewariskan cardigan itu kepada seseorang yang memahami bahawa kepintaran sebenar adalah mengetahui bagaimana membuat perkara rumit menjadi mudah, bukan sebaliknya."
+    },
+    "48": {
+      "name": "Dreamweaver Nightgown",
+      "description": "Gaun malam sutera mengalir lavender pucat dengan sulaman penangkap mimpi di hem.",
+      "heading_details": "Dreamweaver Nightgown – Tidur dalam Enchantment",
+      "details": "Gaun malam etherial ini mengalir seperti cahaya bulan cair, dihasilkan dari sutera terhalus dalam lavender pucat yang bertukar menjadi perak dalam lampu. Hemnya disulam dengan corak dreamcatcher rumit dalam benang ungu lebih dalam, dikatakan menggalakkan mimpi magis yang aman. Garis lehernya sederhana tetapi elegan, dan lengannya mengalir seperti sayap lembut. Sempurna untuk mereka yang mahu tidur mereka terasa seperti dongeng.",
+      "origin": "Ditenun semasa Renaissance Tidur Besar tahun 2134, apabila manusia akhirnya menyedari bahawa kualiti mimpi anda boleh secara literal menentukan kualiti seluruh kewujudan anda dan memutuskan untuk mengambil pakaian tidur secara serius untuk sekali. Gaun malam ini milik Lady Morphia Sweetdreams, perunding mimpi paling berjaya dalam sejarah yang direkodkan - dia pada asasnya jurulatih peribadi untuk minda bawah sedar orang. Sutera lavender pucat itu datang dari Dream Moths of the Twilight Realm, makhluk yang wujud terutamanya semasa detik antara tidur dan jaga dan menghasilkan kepompong yang terasa seperti memakai ketenangan cair. Sulaman dreamcatcher itu dijahit menggunakan benang dipintal dari lagu nina terkristal oleh Seamstresses of Peaceful Slumber, yang bekerja secara eksklusif semasa jam apabila mimpi ngeri paling tidak aktif. Lady Morphia memakai gaun malam ini semasa penyelidikan perintisnya ke dalam 'Aesthetic Dream Enhancement,' membuktikan bahawa pakaian tidur cantik boleh sebenarnya meningkatkan kualiti visual mimpi anda dan mengurangkan kemungkinan mimpi ngeri berasaskan kebimbangan. Gaun malam itu mendapat sifat meningkatkan mimpinya selepas dipakai semasa beribu-ribu malam pengalaman tidur yang dikurasi dengan sempurna, menyerap tenaga berbilang mimpi aman dan membangunkan apa yang saintis panggil 'magis pengoptimuman REM.' Apabila Lady Morphia naik untuk menjadi Guardian of Universal Sleep Quality, dia meninggalkan gaun malam itu untuk seseorang yang memahami bahawa menjaga mimpi anda sama pentingnya dengan menjaga kehidupan sedar anda."
+    },
+    "49": {
+      "name": "Guild Artisan Apron",
+      "description": "Apron artisan kulit dengan gelung alat dan poket, bearing meterai guild.",
+      "heading_details": "Guild Artisan Apron – Master Kraf",
+      "details": "Apron kulit gred profesional ini dihasilkan untuk artisan serius, menampilkan berbilang poket, gelung alat, dan jahitan diperkukuh pada titik tekanan utama. Kulit coklat kaya bearing meterai guild tertera emas pada dada, menandakan pemakai sebagai tukang kraf bertauliah master. Tali laras memastikan potongan sempurna, dan kulit itu akan menjadi lebih peribadi dari masa ke masa.",
+      "origin": "Dihasilkan semasa Kebangkitan Maker Besar tahun 1634, apabila masyarakat menemui semula bahawa mencipta benda dengan tangan anda sebenarnya lebih memuaskan daripada apa jua equivalent digital cuba menjadi. Apron ini milik Master Craftswoman Elena Goldenhands, artisan paling mahir dalam Guild of People Who Actually Finish Their Projects - dia pada asasnya antithesis setiap orang yang mempunyai tujuh belas kraf separuh selesai tersumbat dalam almari. Kulit itu datang dari Cattle of Completed Tasks, sekumpulan yang telah mencapai pencerahan melalui keseronokan mudah menyelesaikan apa yang mereka mulakan (mereka pada asasnya guru produktiviti dunia bovin). Meterai guild itu tertera menggunakan teknik diwariskan melalui tujuh belas generasi orang yang memahami bahawa kraf sebenar memerlukan kedua-dua kemahiran dan kesabaran untuk tidak berputus asa apabila perkara menjadi sukar. Elena memakai apron ini semasa Great Making Competition of 1638 yang legenda, di mana dia mencipta perabot berfungsi yang juga entah bagaimana alat muzik dan alat melegakan kebimbangan yang sangat berkesan. Apron itu mendapat sifat meningkatkan kecekapannya selepas dekad dipakai oleh seseorang yang benar-benar percaya bahawa membuat benda cantik dan berguna adalah salah satu bentuk ekspresi manusia tertinggi. Apabila Elena mencapai status master dan membuka sekolahnya sendiri untuk Reformed Craft Hoarders, dia mewariskan apron itu kepada seseorang yang memerlukan keyakinan untuk sebenarnya menyelesaikan projek kreatif mereka dan bukannya hanya membeli lebih banyak bekalan."
+    },
+    "50": {
+      "name": "Celestial Court Uniform",
+      "description": "Uniform upacara putih terpelihara dengan motif samawi emas, dipakai oleh utusan syurga.",
+      "heading_details": "Celestial Court Uniform – Pewarta Kehendak Ketuhanan",
+      "details": "Uniform terpelihara ini mewakili perintah perkhidmatan samawi tertinggi, dihasilkan dari sutera putih tulen dengan simbol samawi emas disulam di merentasi dada dan lengan. Kolar tinggi mempunyai sayap dalam benang emas, dan jaket ketat mencipta siluet kewibawaan ketuhanan. Seluar putih sepadan dan sash emas melengkapkan ensembel. Disediakan untuk mereka yang terpilih membawa mesej antara alam, ia memancarkan aura tujuan lain dunia.",
+      "origin": "Dipesan semasa Reformasi Birokrasi Ketuhanan tahun 4156, apabila alam samawi akhirnya mengakui bahawa walaupun pentadbiran syurga perlu kelihatan inspirasi secara profesional dan bukannya hanya generik etherial. Uniform ini milik pembantu peribadi Archangel Michael, Seraphina Lightbringer, yang pada asasnya pengurus pertengahan paling cekap dalam seluruh multiverse - dialah orang yang mengekalkan syurga berjalan mengikut jadual sambil kelihatan absolutely devastating dalam pakaian perniagaan. Sutera putih tulen itu datang dari Silkworms of Eternal Purity, makhluk yang wujud dalam keadaan kejelasan moral kekal dan menghasilkan fabrik yang secara literal tidak boleh diwarnai oleh apa-apa kurang daripada krisis teologi utama. Motif samawi emas itu disulam oleh Angels of Aesthetic Excellence, yang beroperasi berdasarkan prinsip bahawa jika anda akan mewakili kehendak ketuhanan, anda harus kelihatan seperti kehendak ketuhanan secara peribadi memilih pakaian anda. Seraphina memakai uniform ini semasa Celestial Performance Review of 4158 yang legenda, di mana dia berjaya menyusun semula seluruh struktur operasi syurga sambil mengekalkan piawaian uniform yang sempurna dan entah bagaimana membuatkan birokrasi kelihatan glamor. Uniform itu mendapat sifat memancarkan kewibawaannya selepas dipakai oleh seseorang yang pekerjaannya secara literal memastikan syurga memenuhi matlamat suku tahunannya untuk keamanan, cinta, dan keharmonian kosmik umum. Apabila Seraphina dinaikkan pangkat menjadi Director of Interdimensional Customer Service, dia mewariskan uniform itu kepada seseorang yang memahami bahawa kadang-kadang melayani kuasa lebih tinggi memerlukan kelihatan seperti anda boleh secara peribadi berunding dengan alam semesta dan menang."
+    },
+    "51": {
+      "name": "Cozy Spellcaster Set",
+      "description": "Set sweater dan legging rajutan lembut ribut-kelabu dengan corak bulatan mantera halus.",
+      "heading_details": "Cozy Spellcaster Set – Magis dalam Keselesaan",
+      "details": "Set sepadan sangat lembut ini termasuk sweater cable-knit ribut-kelabu dengan corak bulatan mantera halus yang dikait ke dalam reka bentuk, dipadankan dengan legging sepadan yang terasa seperti kulit kedua. Sweater mempunyai potongan santai bersaiz besar sempurna untuk meringkuk dengan buku mantera, dan legging mempunyai pinggang tinggi dan poket tersembunyi. Butiran amethyst kecil menangkap cahaya di sepanjang cuff.",
+      "origin": "Dicipta semasa Revolusi Magis Praktikal tahun 3001, apabila witches akhirnya mengakui bahawa kebanyakan kuasa mereka datang dari menjadi cukup selesa untuk fokus dengan betul dan bukannya dari memakai jubah dramatik tidak praktikal yang terbakar setiap kali mereka menyalakan lilin. Set ini milik Sage Willowmoon, seorang witch pagar yang telah merevolusikan magis moden dengan membuktikan bahawa pakaian selesa sebenarnya lebih kondusif untuk melafazkan mantera daripada apa-apa yang melibatkan korset atau mantel dramatik. Fabrik ribut-kelabu itu datang dari Comfort Sheep of Practical Decisions, baka yang telah dibiakbakakan secara terpilih untuk menghasilkan bulu yang terasa seperti memakai pelukan kekal sambil masih kelihatan cukup kemas untuk mesyuarat witch profesional. Corak bulatan mantera halus itu dikait ke dalam fabrik menggunakan teknik dibangunkan oleh Coven of Sensible Enchanters, yang percaya bahawa jika simbol magis anda tidak cukup selesa untuk dipakai sepanjang hari, mereka mungkin tidak cukup berkesan untuk dipertimbangkan. Sage memakai set ini semana bengkel 'Comfort Magic' perintisnya, di mana dia mengajar beratus-ratus pengamal bahawa mantera paling berkuasa adalah yang anda boleh lafaz semasa berasa sepenuhnya selesa dengan kulit anda sendiri. Set itu mendapat sifat meningkatkan magisnya selepas dipakai semasa berbilang sesi melafazkan mantera yang berjaya, menyerap tenaga magis dan membangunkan apa yang witches panggil 'keselesaan melafazkan optimum.' Apabila Sage membuka sekolahnya untuk Reformed Dramatic Magic Users, dia mewariskan set itu kepada seseorang yang perlu belajar bahawa kuasa sebenar datang dari menjadi selesa dengan diri sendiri dan bukannya dari kelihatan menakutkan kepada orang lain."
+    },
+    "52": {
+      "name": "Shadow Guild Operative",
+      "description": "Uniform taktikal semua-hitam dengan poket tersembunyi dan fabrik meredakan bunyi.",
+      "heading_details": "Shadow Guild Operative – Kewibawaan Tidak Kelihatan",
+      "details": "Uniform taktikal gred profesional ini direkayasa untuk operasi stealth, menampilkan fabrik ripstop semua-hitam dengan sifat meredakan bunyi. Berbilang poket tersembunyi diletakkan secara strategik untuk alat dan keperluan, dan potongan membenarkan mobiliti maksimum sambil mengekalkan siluet licin. Lutut dan siku diperkukuh memberikan ketahanan, manakala tenunan fabrik khas membantu pemakai menyatu ke dalam bayang-bayang.",
+      "origin": "Direka semana Renaissance Espionaj Profesional tahun 2456, apabila industri spy akhirnya menyedari bahawa operatif mereka perlu kelihatan cekap dan dipercayai dan bukannya hanya misteri mengancam sepanjang masa. Uniform ini milik Agent Midnight (nama sebenar: Jennifer Thompson), pakar penyusupan paling berkesan dalam sejarah yang direkodkan - dialah orang yang membuktikan bahawa cara terbaik untuk tidak kelihatan adalah kelihatan seperti anda tergolong di mana-mana sahaja anda berada. Fabrik semua-hitam itu datang dari Stealth Cotton Cooperative, tumbuhan yang telah diubah suai secara genetik untuk menyerap gelombang bunyi dan menghasilkan tekstil yang membuatkan langkah kaki lebih kurang 47% lebih senyap. Poket tersembunyi itu direkayasa oleh Guild of Practical Paranoia menggunakan teknik lipatan dimensi yang membenarkan operatif membawa lebih kurang tiga kali ganda peralatan daripada yang sepatutnya muat dalam uniform biasa. Agent Midnight memakai ini semasa Operation: Reasonable Explanation yang legenda, di mana dia berjaya menyusup tujuh belas organisasi berbeza dengan hanya kelihatan begitu cekap secara profesional sehingga tiada siapa terfikir untuk mempersoalkan kehadirannya. Uniform itu mendapat sifat meningkatkan keyakinannya selepas tahun-tahun dipakai oleh seseorang yang pekerjaannya memerlukan kepastian mutlak dalam kebolehannya sendiri, menjadikannya pada asasnya keyakinan diri yang boleh dipakai dengan fungsi taktikal yang sangat baik. Apabila Agent Midnight bersara untuk menjadi perunding untuk orang yang perlu memproyeksikan kewibawaan dalam situasi mencabar, dia mewariskan uniform itu kepada seseorang yang memahami bahawa stealth sebenar datang dari tergolong di mana-mana dan bukannya bersembunyi dari segala-galanya."
+    },
+    "53": {
+      "name": "Comfort Mage Onesie",
+      "description": "Onesie dewasa ungu pekat dengan corak bintang emas dan tudung topi ahli silap mata.",
+      "heading_details": "Comfort Mage Onesie – Keselesaan Maksimum, Magis Maksimum",
+      "details": "Onesie dewasa menggembirakan selesa ini dihasilkan dari fleece paling lembut dalam ungu pekat dengan bintang emas bertaburan di merentasi fabrik. Tudungnya direka seperti topi ahli silap mata, lengkap dengan titik floppy, dan bahagian depan menampilkan zip mudah. Cuff berrib di pergelangan tangan dan buku lali mengekalkan kehangatan, dan potongan santai membuatkannya sempurna untuk melafazkan mantera hujung minggu malas atau menonton siri fantasi secara binge.",
+      "origin": "Dicipta semasa Revolusi Relaksasi Besar tahun 4823, apabila komuniti magis akhirnya mengakui bahawa kadang-kadang perkara paling berkuasa anda boleh lakukan adalah memberikan diri anda kebenaran untuk menjadi sepenuhnya, tanpa meminta maaf, selesa. Onesie ini milik Wizard Cuddles McGillicuddy (yang secara sah menukar namanya setelah menyedari bahawa 'Archmage Serious Darkmore' memberinya sindrom penipu), pengguna magis paling tersedarkan diri dalam sejarah - dialah lelaki yang membuktikan bahawa anda tidak perlu menderita untuk seni anda, walaupun seni anda melibatkan memanipulasi kuasa asas realiti. Fleece ungu pekat itu datang dari Comfort Llamas of Maximum Chill, makhluk yang telah mencapai pencerahan melalui tidur siang strategik dan menghasilkan bulu yang terasa seperti memakai sesi terapi. Bintang emas itu digunakan menggunakan cahaya bintang sebenar oleh Seamstresses of Optimal Cozy, yang beroperasi berdasarkan prinsip bahawa jika anda akan berpakaian seperti kanak-kanak, anda mungkin juga berpakaian seperti kanak-kanak paling berkuasa secara magis di alam semesta. Cuddles memakai onesie ini semana eksperimen 'Great Comfort Casting' legenda, di mana dia berjaya melakukan magis maju sambil kelihatan seperti dia bersedia untuk sleepover paling comel di dunia. Onesie itu mendapat sifat memperkuat magisnya selepas menyerap tenaga berbilang mantera dilafaz dalam keadaan keselesaan sempurna, membangunkan apa yang ahli teori magis panggil 'tenaga cozy puncak.' Apabila Cuddles mencapai bentuk terakhirnya sebagai Patron Saint of Self-Care Magic, dia mewariskan onesie itu kepada seseorang yang perlu belajar bahawa perkara paling radikal anda boleh lakukan adalah mengutamakan keselesaan anda sendiri tanpa meminta maaf untuknya."
+    },
+    "54": {
+      "name": "Enchanted Library Cardigan",
+      "description": "Cardigan wol burgundy dengan corak tulang belakang buku dan poket lampu baca.",
+      "heading_details": "Enchanted Library Cardigan – Kebijaksanaan yang Boleh Dipakai",
+      "details": "Cardigan sarjana ini direka untuk pembaca serius, dihasilkan dalam wol burgundy kaya dengan corak tulang belakang buku disulam di sepanjang panel depan. Poket dalam dilapisi dengan jalur LED yang memberikan cahaya baca lembut, dan gelung kecil memegang cermin mata atau pembatas buku. Potongannya santai dan akademik, sempurna untuk jam panjang di antara buku berdebu atau ceruk membaca selesa.",
+      "origin": "Dikait semana Renaissance Magis Sastera tahun 1847, apabila pustakawan akhirnya bosan dengan orang memperlakukan buku seperti mereka hanya objek hiasan dan memutuskan untuk melawan menggunakan seni kuno perkhidmatan pelanggan yang agresif membantu. Cardigan ini milik Head Librarian Beatrice Pagekeeper, orang paling menakutkan berpengetahuan dalam sejarah yang direkodkan - dia pada asasnya enjin carian manusia dengan pendapat tentang penjagaan buku yang betul dan keupayaan membuatkan pelanggan berasa bersalah tentang halaman bengkok melalui tenaga tidak setuju tulen. Wol burgundy kaya itu datang dari Scholarly Sheep of Deep Reading, baka yang menghabiskan seluruh hidup mereka mendengar buku audio dan telah membangunkan bulu dengan sifat meredakan bunyi semula jadi untuk suasana perpustakaan optimum. Poket berlapis LED itu ditambah oleh Guild of Practical Bibliophiles, yang percaya bahawa jika anda akan menghabiskan hidup anda dikelilingi buku, anda sekurang-kurangnya harus mempunyai pencahayaan mencukupi untuk membacanya dengan betul. Beatrice memakai cardigan ini semana Battle of Overdue Fines yang legenda, di mana dia berjaya mempertahankan dasar bayaran lewat perpustakaan menentang tentera orang yang fikir 'saya lupa' adalah alasan sah untuk menyimpan buku selama enam bulan. Cardigan itu mendapat sifat memancarkan kebijaksanaannya selepas dekad dipakai oleh seseorang yang benar-benar percaya bahawa setiap buku berhak dibaca dengan penghormatan dan penjagaan yang betul. Apabila Beatrice naik untuk menjadi Eternal Guardian of All Written Knowledge, dia mewariskan cardigan itu kepada seseorang yang memahami bahawa kuasa sebenar datang dari membantu orang mencari tepat maklumat yang mereka perlukan, walaupun apabila mereka tidak pasti sepenuhnya apa yang mereka cari."
+    },
+    "55": {
+      "name": "Phoenix Wing Kimono Robe",
+      "description": "Jubah kimono sutera mengalir warna api dengan corak bulu phoenix untuk bersantai dengan gaya.",
+      "heading_details": "Phoenix Wing Kimono Robe – Kelahiran Semula dalam Keselesaan",
+      "details": "Jubah santai mewah ini mengalir seperti api cair, dihasilkan dari sutera dalam warna api gradien dari jingga pekat ke emas terang. Corak bulu phoenix dilukis tangan di merentasi fabrik, dan lengan lebar mencipta siluet dramatik sempurna untuk bangun dari tidur diperbaharui. Sash diikat di pinggang, dan jubah itu jatuh ke pertengahan betis untuk liputan elegan. Ia mengubah rutin pagi menjadi upacara kelahiran semula peribadi.",
+      "origin": "Ditenun semana Pergerakan Transformasi Peribadi Besar tahun 2134, apabila masyarakat akhirnya mengakui bahawa kadang-kadang anda perlu membakar kehidupan lama anda dan bangkit dari abu kelihatan absolutely magnificent. Jubah ini milik Lady Phoenix Risingstar (nama lahir: Janet Smith), yang telah membuat kerjaya membantu orang mencipta semula diri mereka selepas perubahan hidup utama - dia pada asasnya jurulatih hidup untuk orang melalui era protagonis mereka. Sutera warna api itu datang dari Metamorphosis Moths of Eternal Change, makhluk yang wujud dalam keadaan transformasi cantik kekal dan menghasilkan kepompong yang terasa seperti memakai keberanian cair. Corak bulu phoenix itu dilukis tangan menggunakan pigmen diperbuat daripada tenaga matahari terbit terkristal oleh Artists of New Beginnings, yang pakar dalam menangkap detik tepat apabila harapan menjadi realiti. Lady Phoenix memakai jubah ini semana siri bengkel 'Rise and Shine' legenda, di mana dia mengajar beribu-ribu orang cara menerima perubahan dan bukannya bersembunyi daripadanya sambil kelihatan seperti mereka boleh secara peribadi menakutkan keraguan diri kepada tunduk. Jubah itu mendapat sifat inspirasi transformasinya selepas dipakai semasa berbilang detik penemuan peribadi, menyerap tenaga orang menemui kuasa mereka sendiri dan membangunkan apa yang ahli psikologi panggil 'pengoptimuman tenaga phoenix.' Apabila Lady Phoenix mencapai bentuk terakhirnya sebagai Director of Cosmic Personal Development, dia meninggalkan jubah itu untuk seseorang yang perlu ingat bahawa setiap pengakhiran hanyalah cara sangat dramatik untuk memulakan sesuatu yang lebih baik."
+    },
+    "56": {
+      "name": "Tracksuit Astral Academy",
+      "description": "Tracksuit navy dengan jalur emas astral academy dan patch constellation.",
+      "heading_details": "Tracksuit Astral Academy — Kecemerlangan Atlet Antara Bintang",
+      "details": "Set atlet premium ni ada jaket zip-up dan track pants sama dalam warna biru navy dengan jalur perlumbaan emas kat tepi. Logo constellation academy tu disulam kat dada, dan macam-macam patch jabatan boleh jumpa kat lengan. Kain dia moisture-wicking dan selesa, direka untuk latihan fizikal dan pakai santai kat kampus. Perfect untuk student yang nak nampak power sama ada tengah study atau training.",
+      "origin": "Direka masa Revolusi Sukan Antara Dimensi 4156, bila sukan akhirnya evolve lebih dari competition fizikal je jadi ada kategori macam 'Teleportasi Paling Aesthetik' dan 'Manipulasi Realiti Segerak.' Tracksuit ni pernah jadi milik Captain Nova Starsprinter, atlet antara dimensi paling berjaya dalam sejarah - dia basically orang yang prove awak boleh compete pasal apa je kalau ada style dan attitude yang betul. Kain navy tu datang dari Competitive Cotton of Peak Performance, tumbuhan yang dibiakkan khusus untuk buat athletic wear yang buat pemakai rasa boleh menang apa-apa competition just dengan datang nampak properly prepared. Jalur emas tu ditambah guna benang yang diberkati oleh Gods of Healthy Competition, yang operate atas prinsip menang bukan segalanya, tapi nampak power masa compete tu hampir sama dengan segalanya. Captain Nova pakai tracksuit ni masa Olimpik Antara Dimensi 4158, di mana dia menang tujuh belas pingat emas dalam acara yang tak wujud sampai dia invent masa pertandingan. Tracksuit ni dapat sifat performance-enhancing lepas serap tenaga kompetitif dari kemenangan tak terkira, develop apa yang saintis sukan panggil 'teknologi amplifikasi aura pemenang.' Bila Captain Nova bersara jadi Pengarah Kecemerlangan Atlet Kosmik, dia pass tracksuit ni kat orang yang faham kompetisi sebenar sentiasa dengan diri sendiri masa lalu, tapi takde sebab awak tak boleh nampak incredible masa improve."
+    }
+  },
+  "category": {
+    "New": {
+      "title": "Bayang-Bayang Yang Baru Jatuh",
+      "subtitle": "Lahir dari kegelapan, ditempa dalam kesunyian"
+    },
+    "New2": {
+      "title": "Keajaiban Berbisik",
+      "subtitle": "Sihir segar dari alam jauh"
+    },
+    "Aura_farmers": {
+      "title": "Intipati Kuasa",
+      "subtitle": "Salurkan tenaga mistik dalam diri"
+    },
+    "Casual": {
+      "title": "Keselesaan Hearthbound",
+      "subtitle": "Di mana sihir jumpa perlindungan harian"
+    },
+    "Hot_picks": {
+      "title": "Koleksi Untuk Yang Terpilih",
+      "subtitle": "Diinginkan ramai."
+    },
+    "Rizz_master": {
+      "title": "Jadi Duke of the West",
+      "subtitle": "Perintah kehadiran dengan keanggunan dunia lain"
+    },
+    "Clocked": {
+      "title": "Perisai Malam Abadi",
+      "subtitle": "Persenjataan abadi untuk setiap quest"
+    },
+    "all": {
+      "title": "Grimoire Lengkap",
+      "subtitle": "Setiap benang ajaib dalam koleksi kami"
+    }
+  },
+  "search": {
+    "title": "Hasil Carian",
+    "searchTerm": "Kata cari",
+    "category": "Kategori",
+    "found": "Jumpa {{count}} produk",
+    "noResults": "Tak jumpa produk yang match dengan carian awak."
+  },
+  "profile": {
+    "title": "Profil Anda",
+    "welcome": "Selamat Datang",
+    "welcomeUser": "Selamat datang, {{name}}!",
+    "profile": "Profil",
+    "login": "Log Masuk",
+    "signup": "Daftar",
+    "logout": "Log Keluar",
+    "language": "🌐 Bahasa",
+    "chooseLanguage": "Pilih Bahasa:",
+    "orUseWidget": "Atau gunakan widget terjemahan:",
+    "loadWidget": "Muat Widget",
+    "viewProfile": "Lihat Profil",
+    "editProfile": "Edit Profil",
+    "saveProfile": "Simpan Profil",
+    "cancelEdit": "Batal",
+    "viewCart": "Lihat Troli",
+    "viewLikes": "Lihat Kegemaran",
+    "name": "Nama",
+    "fullName": "Nama Penuh",
+    "email": "E-mel",
+    "emailLabel": "E-mel:",
+    "memberSince": "Ahli Sejak",
+    "memberSinceLabel": "Ahli Sejak:",
+    "bio": "Biografi",
+    "bioLabel": "Biografi:",
+    "bioPlaceholder": "Beritahu kami tentang diri anda...",
+    "profilePicture": "Gambar Profil",
+    "changePhoto": "Tukar Foto",
+    "uploadPhoto": "Muat Naik Foto",
+    "accountDetails": "Butiran Akaun",
+    "personalInfo": "Maklumat Peribadi",
+    "close": "Tutup",
+    "locationTitle": "Lokasi Penghantaran",
+      "addLocationPrompt": "Tambah lokasi anda supaya kami dapat menghantar pesanan anda~",
+      "trackMyLocation": "📍 Jejak Lokasi Saya",
+      "detectingLocation": "🔄 Mengesan...",
+      "orEnterManually": "— ATAU —",
+      "enterLocationPlaceholder": "cth. Kuala Lumpur, Malaysia",
+      "setLocationButton": "Tetapkan",
+      "changeLocation": "Tukar Lokasi",
+      "locationNotSupported": "Penjejakan lokasi tidak disokong oleh pelayar anda",
+      "locationError": "Tidak dapat menjejak lokasi. Sila masukkan secara manual."
+  },
+  "login": {
+    "title": "Log Masuk Ke Akaun Awak",
+    "email": "Email",
+    "emailLabel": "Email:",
+    "password": "Kata Laluan",
+    "passwordLabel": "Kata Laluan:",
+    "emailPlaceholder": "Masukkan email awak",
+    "passwordPlaceholder": "Masukkan kata laluan awak",
+    "loginButton": "Log Masuk",
+    "signupButton": "Daftar"
+  },
+  "signup": {
+    "title": "Buat Akaun",
+    "fullName": "Nama Penuh",
+    "fullNameLabel": "Nama Penuh:",
+    "email": "Email",
+    "emailLabel": "Email:",
+    "password": "Kata Laluan",
+    "passwordLabel": "Kata Laluan:",
+    "namePlaceholder": "Masukkan nama penuh awak",
+    "emailPlaceholder": "Masukkan email awak",
+    "passwordPlaceholder": "Buat kata laluan",
+    "signupButton": "Daftar",
+    "loginButton": "Log Masuk"
+  },
+  "about": {
+    "title": "Tentang Kami",
+    "aboutUs": "Tentang Kami",
+    "aboutUsContent0": "Hallo hallo!!",
+    "aboutUsContent1": "Saya adalah designer dan developer yang membuat website ini. Saya ingin membuat website dengan gaya Jepang tahun 90an yang lama, dan sangat seru membuat ini!",
+    "aboutUsContent2": "Saya sekarang 20 tahun dan belajar secara online. Saya suka membuat hal-hal yang keren. Satu bulan lalu saya mulai serius dengan mimpi saya dan semuanya berjalan dengan baik. Membuat website ini penting bagi saya karena saya ingin membuat sendiri, tanpa AI, tanpa bantuan, hanya dengan apa yang saya tahu. Dunia teknologi sangat indah! Kadang melihatnya ingin menangis, tapi ketika saya mengerti sesuatu sendiri dan menemukan jawabannya sendiri, rasanya sangat bagus! Saya membuat banyak hal-hal keren. Saya tidak sabar ingin belajar lebih banyak!",
+    "ourName": "Nama Saya",
+    "ourNameContent1": "Nakachan atau Zwochan?",
+    "ourNameContent2": "Pertanyaan yang bagus! Nama asli saya adalah Zoha, tapi panggil saja saya Zoe. Nakachan adalah nama yang saya pakai di internet. Ini adalah nickname saya untuk gaming dan kreativitas. Zwochan (Zuo+chan) adalah nama channel YouTube saya, saya campur nama asli saya dan nama online saya. Boleh panggil saya nama apa saja! Dan saya juga senang dengan nickname baru!",
+    "whyUs": "Kenapa Saya",
+    "whyUsTitle": "Saya ingin ide-ide saya diperhatikan!",
+    "feature1": "Saya selalu menjadi gadis yang punya ribuan hobi dan setiap hari melakukan hal yang berbeda. Ini sangat melelahkan, karena saya bisa melakukan banyak hal tapi tidak puas dengan apapun. Lalu saya pikir saya perlu berubah. Jadi saya mulai bekerja keras pada diri sendiri. Saya belajar, saya tingkatkan kemampuan saya, saya kembangkan minat saya! Saya sangat bangga dengan perjalanan saya. Seperti upgrade karakter di game, tahu? Perlahan tapi pasti. Ini membuat lelah tapi saya tidak ingin melihat potensi saya terbuang sia-sia. Semua orang meninggalkan saya ketika saya tidak bisa masuk universitas bagus. Tapi kemudian saya mulai belajar online. Saya ingin jadi lebih baik. Saya ingin orang-orang melihat pekerjaan saya, ide saya, proyek saya!",
+    "features": "Tujuan Saya",
+    "featuresTitle": "Apa yang menginspirasi dan tujuan saya",
+    "platformFeature1": "Inspirasi datang dari banyak hal! Video game, website yang bagus, hal-hal kreatif, diary, scrapbooking dan banyak lagi! Lalu tujuannya? Tujuannya adalah langsung membuat ide-ide yang terlintas di kepala. Jangan buang begitu saja. Kalau kurang bagus, tingkatkan saja, kerja keras, buat lebih baik. Terus ya sudahlah buat! Bagaimanapun! Tinggal buat sampe bisa jalan!",
+    "platformFeature2": "Di dunia ada banyak banget hal! Kita tidak bisa punya semua yang kita mau tapi setidaknya bisa coba, kan? Jadi nanti ketika kamu lihat kembali hidup kamu, aku ingin kamu bilang \"Wow! Aku buat semua itu!\"",
+    "platformFeature3": "Itu tujuan saya!",
+    "con": "Kesimpulan",
+    "conTitle": "Di akhirnya..",
+    "con1": "Saya udah tulis banyak, mending selesai aja! Nama saya Zoe, umur saya 19 tahun. Sejak kecil mimpi saya adalah menjadi software developer, karena mereka buat hal-hal keren dan terdengar sangat keren! Saya bekerja keras untuk mengejar mimpi saya. Kalau mau tahu lebih banyak, lihat bagian lain ya! Saya akan sangat senang!"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "contactInfo": "Maklumat Hubungan",
+    "contactInfoSubtitle": "Di bawah ini adalah social media saya yang aktif. Kamu bisa hubungi aku di Gmail atau social manapun yang kamu suka. Saya juga kasih GitHub ku, boleh lah dikunjungi kalau mau. Saya biasanya balas pesan dan mention yang masuk. (asal bukan spam). Saya juga suka banget bikin tech friends jadi tolong hubungi aku! Saya mau banget cari teman yang seru untuk diskusi ide-ide dan share pemikiran!! Saya selalu siap bikin teman baru, mutual, dan tim! Tolooong hubungi aku! Saya beneran pengen ngobrol sama kamu, kalian keren!",
+    "addressValue": "123 Jalan GUGUGAGA, Bandar Gugu gaga, Pekan GUGUGAGA, Gugu Gaga 150-0043",
+    "phone": "Telefon",
+    "phoneValue": "+YY XXXXXXXXXX",
+    "fasterResponse": "Untuk respons lagi cepat, sila guna borang hubungi kat bawah dan pilih jabatan yang sesuai untuk pertanyaan awak (╥﹏╥)",
+    "departments": "Jabatan-Jabatan",
+    "customerSupport": "Sokongan Pelanggan: Untuk pertanyaan order, pulangan, dan soalan produk",
+    "technicalSupport": "Sokongan Teknikal: Untuk masalah website dan masalah teknikal",
+    "partnerships": "Perkongsian: Untuk kerjasama perniagaan dan pertanyaan borong",
+    "investorRelations": "Hubungan Pelabur: Untuk peluang pelaburan dan maklumat kewangan",
+    "justMessage": "Mesej: Untuk sekadar reach out kat dev!!",
+    "sendMessage": "Hantar Mesej Kat Kami",
+    "name": "Nama",
+    "nameLabel": "Nama:",
+    "email": "Email",
+    "emailLabel": "Email:",
+    "department": "Jabatan",
+    "departmentLabel": "Jabatan:",
+    "subject": "Subjek",
+    "subjectLabel": "Subjek:",
+    "messageField": "Mesej",
+    "messageLabel": "Mesej:",
+    "namePlaceholder": "Nama awak",
+    "emailPlaceholder": "Alamat email awak",
+    "subjectPlaceholder": "Subjek mesej",
+    "messagePlaceholder": "Mesej awak",
+    "sendButton": "Hantar Mesej",
+    "clearForm": "Clear Borang",
+    "generalInquiry": "Pertanyaan Umum",
+    "support": "Sokongan Pelanggan",
+    "technical": "Sokongan Teknikal",
+    "partnership": "Perkongsian",
+    "investor": "Hubungan Pelabur",
+    "press": "Nak hantar mesej je",
+    "faq": "Soalan Lazim",
+    "faqQ1": "S: Berapa lama penghantaran?",
+    "faqA1": "J: Order domestik biasanya sampai dalam 3-5 hari bekerja. Penghantaran antarabangsa ambil 7-14 hari bekerja bergantung destinasi!!",
+    "faqQ2": "S: Awak hantar ke luar negara?",
+    "faqA2": "J: Ya, kami hantar ke kebanyakan negara worldwide!!! Kos penghantaran berbeza mengikut lokasi.",
+    "faqQ3": "S: Boleh tukar atau cancel order tak?",
+    "faqA3": "J: Awak boleh tukar atau cancel order dalam masa 24 jam lepas buat order. Contact team sokongan pelanggan kami secepat mungkin! (๑•̀ᴗ•̀)!",
+    "faqQ4": "S: Policy pulangan macam mana?",
+    "faqA4": "J: Kami tawarkan policy pulangan 30 hari untuk barang yang tak dipakai dalam packaging asal. Sesetengah barang mungkin kena restocking fees tho.",
+    "faqQ5": "S: Ada harga borong ke?",
+    "faqA5": "J: Takde, sorry kami tak tawarkan harga borong untuk order banyak. Produk kami exclusive dan limited!!",
+    "thankYou": "Terima kasih untuk mesej awak, {{name}}! Kami akan reply balik nanti."
+  },
+  "invest": {
+    "title": "Melabur Dengan Kami",
+    "whyInvest": "Kenapa Labur",
+    "whyInvest Content": "Melabur dalam Shoppo Deligto bermakna jadi sebahagian dari komuniti yang semakin besar passionate tentang estetik unik! Perniagaan kami dah tunjuk pertumbuhan konsisten sejak awal, dengan customer base yang setia dan barisan produk yang berkembang.",
+    "keyHighlights": "highlight pelaburan utama:",
+    "highlight1": "Pertumbuhan 30% year-over-year untuk 3 tahun lepas!!",
+    "highlight2": "Pengiktirafan jenama yang kuat dalam pasaran niche!!",
+    "highlight3": "Pendapatan berulang dari customer base yang setia",
+    "highlight4": "Potensi pengembangan ke pasaran dan kategori produk baru",
+    "highlight5": "Team pengurusan berpengalaman dengan kepakaran industri",
+    "howToHelp": "Macam Mana Nak Tolong",
+    "howToHelpIntro": "Ada beberapa cara awak boleh support perniagaan kami:",
+    "help1": "Pelaburan langsung melalui kempen equity crowdfunding kami",
+    "help2": "Jadi brand ambassador dan promote produk kami",
+    "help3": "Beri kepakaran dalam bidang macam pengembangan antarabangsa, pengoptimuman e-dagang, atau pemasaran",
+    "help4": "Kenalkan kami dengan rakan kongsi atau pengedar berpotensi kat kawasan awak",
+    "help5": "Share cerita dan produk kami kat media sosial",
+    "helpOutro": "Setiap bentuk sokongan bantu kami berkembang dan bawa lagi banyak produk authentic kepada peminat di seluruh dunia.",
+    "donate": "Derma",
+    "donateIntro": "Untuk mereka yang nak support misi kami tanpa pelaburan ekuiti, kami juga terima derma. Sumbangan awak bantu kami:",
+    "donation1": "Memelihara dan mempromosikan kraf tradisional",
+    "donation2": "Support artisan kecil dan pengeluar",
+    "donation3": "Develop kandungan pendidikan tentang budaya dan sejarah",
+    "donation4": "Maintain platform komuniti dan acara kami",
+    "donation5": "Tawarkan biasiswa untuk program pertukaran budaya",
+    "donateOutro": "Semua penderma dapat pengiktirafan khas kat website kami dan kemaskini eksklusif tentang macam mana sumbangan dorang buat perbezaan."
+  },
+  "payment": {
+    "title": "Maklumat Pembayaran",
+    "paymentMethods": "Kaedah Pembayaran",
+    "paymentMethodsIntro": "Kami terima pelbagai kaedah pembayaran untuk buat pengalaman shopping awak sesenang mungkin:",
+    "creditCards": "Kad Kredit",
+    "paypal": "PayPal",
+    "mobilePay": "Bayaran Mudah Alih",
+    "bankTransfer": "Pemindahan Bank",
+    "cashOnDelivery": "Tunai Semasa Penghantaran",
+    "security": "Keselamatan",
+    "securityIntro": "Keselamatan awak keutamaan utama kami. Kami guna enkripsi standard industri untuk lindungi maklumat personal dan pembayaran awak.",
+    "securityFeature1": "Enkripsi SSL untuk semua pemindahan data",
+    "securityFeature2": "Pemprosesan bayaran compliant PCI DSS",
+    "securityFeature3": "Takde penyimpanan maklumat pembayaran sensitif kat server kami",
+    "securityFeature4": "Audit keselamatan regular dan penilaian kelemahan",
+    "securityFeature5": "Two-factor authentication tersedia untuk perlindungan akaun",
+    "securityOutro": "Kalau awak ada kebimbangan tentang keselamatan pembayaran, jangan ragu untuk contact team support kami.",
+    "faq": "Soalan Lazim",
+    "faqQ1": "S: Mata wang apa yang awak terima?",
+    "faqA1": "J: Kami terima bayaran dalam USD, EUR, GBP, dan JPY. Harga yang dipaparkan kat site kami dalam USD, tapi awak boleh pilih mata wang pilihan masa checkout.",
+    "faqQ2": "S: Ada caj tambahan untuk order antarabangsa ke?",
+    "faqA2": "J: Kami tak charge apa-apa caj tambahan, tapi bank atau payment provider awak mungkin kenakan yuran penukaran mata wang untuk transaksi antarabangsa.",
+    "faqQ3": "S: Macam mana nak dapat refund?",
+    "faqA3": "J: Kami tawarkan jaminan money-back 30 hari untuk semua produk. Kalau awak tak puas hati dengan pembelian, sila contact team customer service kami untuk mulakan pulangan.",
+    "faqQ4": "S: Maklumat pembayaran aku selamat ke?",
+    "faqA4": "J: Ya, kami guna enkripsi dan langkah keselamatan standard industri untuk lindungi maklumat pembayaran awak. Kami tak pernah simpan full credit card details awak kat server kami.",
+    "faqQ5": "S: Apa patut aku buat kalau bayaran gagal?",
+    "faqA5": "J: Pertama, check maklumat pembayaran awak betul ke tak. Kalau masalah terus berlaku, contact bank atau payment provider awak. Awak juga boleh cuba guna kaedah pembayaran lain."
+  },
+  "location": {
+      "title": "Tetapan Lokasi",
+      "yourLocation": "Lokasi anda",
+      "yourLocationValue": "Lokasi anda: {{location}}",
+      "trackLocation": "Jejak Lokasi Saya",
+      "detecting": "Mengesan...",
+      "enterLocation": "Atau masukkan lokasi anda:",
+      "enterAreaPlaceholder": "Masukkan kawasan anda",
+      "setLocation": "Tetapkan Lokasi",
+      "changeLocation": "Tukar Lokasi",
+      "or": "ATAU",
+      "close": "Tutup"
+    },
+  "footer": {
+    "copyright": "© 2025 nakachens — custom brewed just for here (˶ᵔ ᵕ ᵔ˶)",
+    "about": "Tentang",
+    "invest": "Labur",
+    "payments": "Bayaran",
+    "socials": "Sosial"
+  },
+  "common": {
+    "backToTop": "BALIK KE ATAS",
+    "close": "Tutup",
+    "price": "${{price}}"
+  },
+  "alerts": {
+    "addedToCart": "{{name}} dah masuk troli!",
+    "addedToLikes": "{{name}} dah masuk kegemaran!",
+    "locationTracked": "Lokasi dah jumpa!! WEEWOO",
+    "locationError": "SORRY.. Tak jumpa lokasi.. Tolong masukkan sendiri.",
+    "geolocationNotSupported": "soryla :( lokasi tak support...",
+    "languageChanged": "Yay! bahasa dah tukar ke {{lang}}!!",
+    "loginSuccess": "Selamat kembali!!! rindu kot!!, {{email}}!",
+    "signupSuccess": "Akaun berjaya dibuat! yayy Selamat datang, {{name}}!!!!",
+    "loginError": "alamak Email atau password salah. Cuba lagi :(",
+    "signupError": "eh Email ni dah register. Login je lah.",
+    "emailRequired": "Masukkan email anda !!!",
+    "passwordRequired": "Masukkan password anda !!!!",
+    "nameRequired": "Masukkan nama anda !!!",
+    "profileUpdated": "YAAAY Profil dah update! nampak cantik!",
+    "logoutSuccess": "Dah log keluar! jangan lupa datang balik!!",
+    "success": "Berjaya!",
+    "liked": "Dah masuk Kegemaran! Saya pun suka!!",
+    "logoutTitle": "Log Keluar",
+    "cancel": "Batal"
+}
+}

@@ -1,0 +1,760 @@
+{
+  "header": {
+    "logoAlt": "Logo"
+  },
+  "navigation": {
+  "home": "PÁGINA PRINCIPAL",
+  "about": "ACERCA DE",
+  "invest": "INVERTIR",
+  "payments": "PAGOS",
+  "contact": "CONTACTO",
+  "searchPlaceholder": "Buscar en shoppo...",
+  "allCategories": "Todas las Categorías",
+  "rizzMaster": "Maestro del Carisma",
+  "new": "Nueva Colección",
+  "new2": "Maravillas Susurradas",
+  "auraFarmers": "Cultivadores de Aura",
+  "hotPicks": "Lo Más Popular",
+  "casual": "Casual",
+  "clocked": "Atemporal"
+},
+  "sidebar": {
+    "checkSum": "échale un vistazo",
+    "newCollection": "Nueva Colección",
+    "newSubtitle1": "¡te hace sentir como un personaje de videojuego!",
+    "newSubtitle2": "Oh, me lo pondría todos los días.",
+    "auraFarmers": "¡¡CULTIVADORES DE AURA!!",
+    "auraSubtitle": "¿qué Mazmorra vamos a conquistar hoy?",
+    "hotPicks": "¡¡¡LOS MÁS POPULARES!!!",
+    "hotSubtitle": "popular desde el principio",
+    "casual": "¿Casual? Claro.",
+    "casualSubtitle": "¿por qué no algo cómodo?",
+    "clocked": "¡¡Los encontré!!",
+    "clockedSubtitle": "Jojo no kimyou na bouken, Eyes of heaven",
+    "rizzMaster": "Maestro del Carisma",
+    "rizzSubtitle": "aumenta tu encanto en 10xp"
+  },
+  "home": {
+    "newUpdate": "~Nueva Actualización~",
+    "nocturaSubtitle": "Nacido de la noche, cosido en silencio",
+    "nocturaDescription": "Un sueño gótico envuelto en tela. Cada pieza lleva el silencio de la medianoche, cosido con sombras y silencio, hecho para aquellos que prosperan cuando el mundo duerme.",
+    "nocturaName": "Noctura",
+    "fullOnFantasy": "Un sueño de fantasía completo",
+    "wingsSubtitle": "Envuélvete en el crepúsculo, desafía la luz.",
+    "wingsDescription": "Una colección nacida del borde del crepúsculo. Envuelta en sombras y tallada con desafío, cada pieza lleva el espíritu de rebeldía contra la luz que se desvanece. Hecha para quienes usan la oscuridad no como un velo, sino como su corona.",
+    "wingsName": "Alas del Crepúsculo",
+    "moreThanDream": "es más que un sueño",
+    "dontMissOut": "no te lo pierdas~",
+    "neverEnding": "Colecciones interminables",
+    "collectionDescription": "Una colección tejida de ensueños y luz del atardecer. Telas suaves, siluetas gentiles y tonos que se sienten como confort de luz lunar. Diseñada para quienes buscan magia en lo cotidiano y calidez en cada puntada.",
+    "allProducts": "Todos los Productos"
+  },
+  "cart": {
+    "title": "Tu Carrito de Compras",
+    "empty": "Tu carrito está vacío",
+    "remove": "Eliminar",
+    "total": "Total",
+    "checkout": "Finalizar Compra",
+    "shoppingCart": "Carrito de Compras",
+    "viewCart": "Ver Carrito",
+    "close": "Cerrar"
+  },
+  "likes": {
+    "title": "Tus Artículos Favoritos",
+    "empty": "Aún no has marcado ningún artículo como favorito",
+    "likedItems": "Artículos Favoritos",
+    "addToCart": "Añadir al Carrito",
+    "remove": "Eliminar",
+    "viewAllLikes": "Ver Todos los Favoritos"
+  },
+  "product": {
+    "back": "Volver",
+    "itemDetails": "Detalles del Artículo",
+    "addToCart": "Añadir al Carrito",
+    "like": "Me Gusta",
+    "buyNow": "Comprar Ahora",
+    "theOrigin": "El Origen",
+    "notFound": "Producto no encontrado"
+  },
+  "products": {
+    "1": {
+      "name": "Sudario del Tejedor de Espectros",
+      "description": "Una capa fluida cosida con hilo fantasmal, dejando humo tenue como un alma que aún no descansa.",
+      "heading_details": "Sudario del Tejedor de Espectros - No soy un Fantasma, en serio..",
+      "details": "Una capa hilada de los hilos de almas olvidadas, esta pieza se drapa sobre los hombros como una sombra viviente. La tela parece ingrávida, pero deja niebla por donde caminas, dejando un residuo fantasmal que se aferra al aire. La capucha cuelga baja, oscureciendo el rostro, y el dobladillo parpadea como si se deshiciera en humo. Este sudario se siente menos como ropa y más como un pacto—un susurro del más allá cosido en cada costura.",
+      "origin": "Perteneció a Seraphina Susurronoche, la última Alta Plañidera de las Cortes Etéreas circa 1847. Lo usó mientras dirigía el Gran Duelo - un ritual de un siglo para ayudar a las almas perdidas a encontrar paz. La leyenda dice que literalmente tejió hilos de espíritus dispuestos en la tela, razón por la cual todavía deja esa niebla fantasmal. Dato curioso: básicamente era la parca pero con mejor sentido de la moda y problemas con su padre. El sudario fue encontrado en su torre abandonada, aún perfectamente preservado porque aparentemente hasta el tiempo tuvo demasiado miedo de meterse con sus cosas."
+    },
+    "2": {
+      "name": "Vestimenta Atada a la Tumba",
+      "description": "Túnicas de luto entintadas con runas de remembranza, susurrando los nombres de los muertos.",
+      "heading_details": "Vestimenta Atada a la Tumba - ¡NO ESTOY MUERTO! todavía.",
+      "details": "Envuelta en telas negro-luto que se adhieren como la tristeza, esta vestimenta está bordada con runas de remembranza. Cada pliegue parece suspirar bajo un peso invisible, llevando ecos de nombres y voces demasiado pesados para olvidar. La túnica es cortada larga y en capas, parecida a vestimentas funerarias pero usada con orgulloso desafío. Esta pieza no solo cubre el cuerpo—lo conmemora, convirtiendo al portador en un santuario ambulante de pena y fuerza.",
+      "origin": "Originalmente usada por Marcus DesafíaLaMuerte (sí, ese era su nombre legal real) durante la Guerra de las Piedras Llorosas en 1692. Este tipo literalmente dijo 'la muerte puede esperar' y peleó tres batallas mientras técnicamente estaba fallecido - las runas mantuvieron su alma atada el tiempo suficiente para terminar el trabajo. Era ese amigo que se niega a irse de la fiesta incluso cuando todos los demás se han ido, excepto que la fiesta era la vida y él tenía asuntos pendientes. Las túnicas absorbieron tantas palabras finales que todavía susurran nombres de los caídos en noches tranquilas."
+    },
+    "3": {
+      "name": "Armadura del Velo Fantasma",
+      "description": "Placas espectrales ligeras, medio desvaneciéndose como si el portador existiera entre reinos.",
+      "heading_details": "Armadura del Velo Fantasma - ¿Es eso una Referencia a Persona?",
+      "details": "Una armadura que parece atrapada entre existencia y borrado, sus placas parpadean translúcidas, como si estuvieran tejidas de memorias medio formadas. Capas delgadas de acero están superpuestas con gasa brillante, desapareciendo en ciertos ángulos como un fantasma dándose la vuelta. El yelmo no lleva careta facial—solo un difuminado cambiante, una identidad inatrapable. Usarla hace que el cuerpo se sienta desatado, como si un paso en falso pudiera enviarte a la deriva a otro reino completamente.",
+      "origin": "Creada para Lady Cassandra Entremundos, una caballero que quedó atascada a medio camino de un hechizo de teletransportación en 1456 y simplemente... lo aceptó. Pasó décadas existiendo en dos reinos simultáneamente, lo que honestamente suena agotador pero ella lo hizo funcionar. La armadura refleja su existencia dual - lo suficientemente sólida para detener una espada pero lo suficientemente translúcida que los enemigos seguían golpeando aire vacío. Se retiró para convertirse en una bloguera de viajes interdimensionales, lo que explica por qué la armadura tiene esa energía de 'he visto cosas que no creerías'."
+    },
+    "4": {
+      "name": "Vestimenta de Venas Ébano",
+      "description": "Seda oscura tejida con hilo carmesí, pulsando débilmente como venas bajo la piel.",
+      "heading_details": "Vestimenta de Venas Ébano - ¿Cómo se pronuncia de nuevo?",
+      "details": "Seda oscura tejida con hilo carmesí en patrones similares a venas, brillando débilmente como sangre fluyendo bajo la piel. La tela se adhiere al cuerpo, pero las venas brillantes pulsan gentilmente, como si estuvieran vivas. A primera vista, es regia, pero tras inspección, inquietante—ropa que difumina la línea entre carne viva y vestimenta elaborada.",
+      "origin": "Creada por el vampiro fashionista Conde Vladimir Estético en 1734 porque la ropa gótica regular no era lo suficientemente extra para sus gustos. Literalmente mezcló su propia sangre en los hilos de seda porque la sutileza nunca fue su fuerte. El efecto pulsante viene de su esencia vampírica todavía fluyendo a través de la tela - es como usar el sistema circulatorio de alguien como declaración de moda, lo cual es comportamiento vampírico pico honestamente. Afirmó que era 'la expresión definitiva del arte viviente' pero todos sabemos que solo quería verse más cool en las fiestas."
+    },
+    "5": {
+      "name": "Atuendo del Tejedor de Elegías",
+      "description": "Telas elegantes pero sombrías tejidas con símbolos de luto, apropiadas para un bardo de sombras.",
+      "heading_details": "Atuendo del Tejedor de Elegías - Aglaea estaría orgullosa",
+      "details": "Confeccionado en grises y negros sombríos, la tela está bordada con símbolos de luto de culturas olvidadas. El diseño es elegante, fluido, y aún así innegablemente pesado, como si llevara la carga de siglos. Usarlo se siente como recitar una canción de pena con cada movimiento. Este no es un atuendo para la alegría, sino para el arte en la tristeza.",
+      "origin": "Perteneció a Melody Cantotristeza, la bardo de duelo más famosa de la Era Melancólica (1623-1698). Podía literalmente hacer llorar lágrimas hermosas a la gente solo caminando junto a ellos con este atuendo. Los símbolos de luto bordados son de 47 culturas diferentes porque era esa sobresaliente que tenía que coleccionarlos todos como cartas Pokemon, excepto mucho más deprimente. Lo usó durante el legendario 'Concierto de la Tristeza Eterna' que hizo llorar a todo un reino durante tres días seguidos. Incluso el aura actual del atuendo hace que la gente quiera escribir poesía sobre sus sentimientos."
+    },
+    "6": {
+      "name": "Ropa de Heridas Obsidiana",
+      "description": "Cortes dentados a través de telas oscuras, brillando débilmente en los bordes como heridas sanando.",
+      "heading_details": "Ropa de Heridas Obsidiana - Estoy herido.. ¿y qué?",
+      "details": "Cortes y rasgaduras desgarran la tela, revelando destellos de forro carmesí brillante debajo, como heridas tratando de sanar. Los bordes de cada desgarro brillan débilmente, pulsando como venas. Es violento pero hermoso, una declaración de dolor convertido en poder. El atuendo no intenta ocultar sus cicatrices—se convierte en ellas, haciendo de la ruptura la pieza central.",
+      "origin": "Usado por Scarlett Pintalaciudad (nombre artístico, obviamente) durante la Rebelión de los Corazones Rotos en 1789. Era una guerrera-poeta que creía que mostrar tus cicatrices era el máximo movimiento de poder - básicamente la energía original de 'mi trauma es mi superpoder'. Cada corte brillante en la tela representa una batalla que sobrevivió, y añadía nuevos después de cada pelea como el sistema de logros más emo del mundo. El atuendo literalmente convierte el daño en belleza, lo cual es un movimiento de personaje principal tan fuerte que hasta sus enemigos tuvieron que respetarlo."
+    },
+    "7": {
+      "name": "Centinela Aetherion",
+      "description": "¿Colores blanco y dorado? nah, bendecido con energía serena y radiante.",
+      "heading_details": "Centinela Aetherion — El Vigilante Elegido de la Luz",
+      "details": "Armadura elaborada en esmalte blanco prístino con filigrana dorada recorriendo los bordes, brilla débilmente como si fuera tocada por un aura divina. El yelmo es suave y redondeado, con una visera dorada que resplandece como luz solar reflejándose en una espada. Una larga capa azur fluye detrás, cosida con motivos de estrellas, dando la sensación de observar cielos incluso mientras estás en tierra. Irradia autoridad calmada, el aura de alguien que se para no solo como guerrero, sino como protector elegido por la luz.",
+      "origin": "Equipo estándar para la Guardia de Honor Celestial del Imperio Radiante, circa 1523-1834. Estos eran los tipos que se paraban en las puertas del cielo y se aseguraban de que solo los dignos entraran - básicamente guardias divinos con mejor armadura. Este set en particular perteneció al Capitán Portadordeluz Buenotipo, quien era tan puro de corazón que literalmente los pájaros cantaban cuando caminaba (lo cual debe haber sido molesto durante misiones sigilosas). El brillo de la armadura viene de siglos de buenas acciones acumuladas, haciéndola el máximo atuendo de señalización de virtud."
+    },
+    "8": {
+      "name": "Baluarte del Amanecer",
+      "description": "Oh, deseas ser alguien que irradia esperanza y protección.",
+      "heading_details": "Baluarte del Amanecer — Guardián de la Primera Luz",
+      "details": "Esta armadura brilla suavemente en tonos oro pálido, como si el sol naciente mismo bendijera el acero. Las hombreras se extienden hacia afuera, formando arcos protectores que enmarcan el símbolo del sol grabado en el peto. La capa es un gradiente de amanecer—naranja desvaneciéndose en amarillo suave—simbolizando renacimiento y esperanza. Cada paso en esta armadura se siente como llevar el amanecer a la oscuridad, una presencia que cultiva no miedo, sino admiración y confianza. Su aura es protectora, radiante e imposiblemente firme.",
+      "origin": "Forjada para Sir Optimismo Personamañanera, el único caballero que genuinamente estaba emocionado por las sesiones de entrenamiento a las 5 AM. Defendió los Reinos del Este durante la Gran Oscuridad de 1445, donde su actitud implacablemente positiva fue literalmente convertida en arma contra criaturas de sombra que no podían manejar su energía de 'buenos días sol'. La armadura absorbió tanta luz del amanecer que se volvió permanentemente color amanecer. Una vez derrotó a un ejército de pesadillas solo existiendo demasiado alegremente - lo cual es honestamente la habilidad más OP de todas."
+    },
+    "9": {
+      "name": "Égida Serafina",
+      "description": "Armadura elegante en plata y rosa para una noble doncella de luz.",
+      "heading_details": "Égida Serafina — El Resplandor de la Doncella",
+      "details": "Esta armadura está esculpida con delicada precisión, plateada en plata pulida que brilla como luz lunar. Sutiles incrustaciones de oro rosa trazan el pecho y brazos, formando motivos florales que suavizan el acero sin disminuir su fuerza. Las hombreras están elegantemente curvadas, diseñadas no para abrumar su figura sino para realzarla, como una caballero adornada tanto para batalla como para ceremonia. Fluyendo detrás hay una suave capa de seda en lavanda pálido, moviéndose gentilmente con cada paso como un aliento de primavera. El yelmo, a menudo llevado a su lado, está coronado con un circulo de plata en lugar de una corona—humilde pero regio. Égida Serafina no grita su presencia; canta, cultivando aura a través de gracia y majestuosidad silenciosa.",
+      "origin": "Creada para la Princesa Isabella Caraelegante de los Reinos de Plata en 1398. Era ese tipo de princesa Disney que podía domar dragones salvajes con amabilidad y hacer florecer flores con una sonrisa - básicamente tenía energía de personaje principal que doblaba la realidad a su alrededor. La armadura fue bendecida por siete órdenes diferentes de caballeros sagrados, lo cual es excesivo o seguro dependiendo de cómo lo veas. Nunca perdió una sola batalla porque los enemigos seguían deteniéndose a mitad de pelea para elogiar su estilo. Las incrustaciones de oro rosa vinieron de rosas reales que crecían en sus pisadas."
+    },
+    "10": {
+      "name": "Manto Eclipse",
+      "description": "Una capa asimétrica fluida sobre capas ajustadas—silueta de mago urbano con base táctica.",
+      "heading_details": "Manto Eclipse — El Borde Encapuchado",
+      "details": "Esta pieza está construida de ripstop negro mate, cortado asimétricamente para fluir como una capa sin perder la nitidez del corte streetwear. Se sujeta alto en el cuello con un broche magnético, dejando un lado drapearse libremente como una sombra en tu hombro. Debajo, un cuello de tortuga ajustado en carbón abraza el cuerpo, balanceando la silueta contra cargos de corte slim con costuras de cremallera táctica. Terminado con zapatillas con punta de acero, el Manto Eclipse se lee como hechicería urbana—mitad capa, mitad armadura, toda presencia.",
+      "origin": "Diseñado por el misterioso mago callejero conocido solo como 'Ese Tipo de Sudadera' en los Distritos Arcanos iluminados por neón de Neo-Místopolis, 2089. Era famoso por lanzar hechizos mientras parecía que acababa de levantarse de la cama, revolucionando la moda mágica para siempre. El diseño asimétrico vino de su filosofía de que 'el equilibrio es aburrido' y su incapacidad crónica de doblar la ropa correctamente. Este manto en particular fue usado durante el Gran Apagón de WiFi de 2091 cuando él solo mantuvo el internet místico de la ciudad funcionando usando pura terquedad y bebidas energéticas."
+    },
+    "11": {
+  "name": "Grinch Obsidiana",
+  "description": "Energía de caballero moderno reimaginada como una armadura urbana y elegante.",
+  "heading_details": "Grinch Obsidiana – Para que no parezcas uno.",
+  "details": "Un abrigo tipo trench largo en nailon negro profundo, impermeable pero estilizado, con un acolchado sutil en hombros y mangas que recuerda a armadura. El corte es recto, definido y poderoso, extendiéndose justo por encima de los tobillos para lograr el máximo dramatismo. Llevado sobre un cuello de tortuga gris pizarra y pantalones negros entallados, se transforma en el tabardo de un caballero moderno: refinado, fuerte e imposible de ignorar. Cada paso convierte el dobladillo del abrigo en una granja de aura discreta.",
+  "origin": "Hecho a la medida para el Detective Sombra Trenchcoat (sí, otra vez un cambio legal de nombre) de la División de Crímenes Sobrenaturales en unos años 1920 estilo Gotham-pero-con-magia. Resolvía misterios que la policía común no podía manejar, como ‘quién robó la magia de la Navidad’ o ‘por qué los gárgolas no paran de chismear’. El dramatismo del abrigo surgía de su costumbre de aparecer de la nada, soltar frases crípticas y desvanecerse al instante. Intentaba ser como Joker de Persona 5, pero con más estilo y menos traumas emocionales, lo cual lo hacía insoportablemente genial (aunque nunca lo sabremos con certeza)."
+},
+"12": {
+  "name": "Riftlayer",
+  "description": "Base de streetwear en capas con cortes angulares y sigilos reflectantes tejidos en la tela.",
+  "heading_details": "Riftlayer – Entre Reinos, Entre Outfits",
+  "details": "Una chaqueta híbrida tipo hoodie diseñada para movimiento y capas. La base es una sudadera negra oversize, su tela grabada con líneas reflectantes en forma de runas que sólo brillan bajo ciertos ángulos de luz. Sobre ella, una chaqueta táctica recortada con cortes angulares, hebillas y cuello alto que le da una silueta de ‘mago de combate futurista’. Combinada con pantalones cargo anchos que se ajustan en los tobillos, Riftlayer prospera en la dualidad—ropa cómoda de calle de día, armadura de poder con aire fantástico de noche.",
+  "origin": "Llevada por DJ Voidmix durante el legendario Rave Interdimensional de 2156, donde la música literalmente abría portales a otras realidades. Las runas reflectantes eran originalmente patrones de glowsticks que quedaron grabados permanentemente en la tela tras exponerse a pura energía de bajos. Este tipo estaba lanzando beats tan fuertes que varias dimensiones comenzaron a vibrar juntas—eso sí que es tener rango. La capacidad del outfit para existir en múltiples categorías de estilo al mismo tiempo proviene de absorber influencias de moda interdimensionales durante aquel épico set de 72 horas."
+},
+"13": {
+  "name": "Lunastra",
+  "description": "Minimalismo de satén oculto bajo una capa con capucha fluida—encantado yummy-core.",
+  "heading_details": "Lunastra – La Sirena Encapuchada",
+  "details": "Un minivestido negro de satén con escote cuadrado limpio forma el núcleo, ajustado al cuerpo pero minimalista. Encima: una capa corta con capucha en tela mate ligera, sus mangas fluidas aportan un aire ceremonial a cada paso. La capa se ajusta con un broche en forma de media luna plateada al cuello, y la capucha enmarca el rostro en una elegancia sombría. Botas altas hasta el muslo le dan base moderna de streetwear, pero el movimiento de la capa lo convierte en un hechizo: elegancia disfrazada de poder.",
+  "origin": "Creado para Luna Mystique, la bruja-influencer más influyente del Renacimiento Ocultista Victoriano tardío (1887). Era básicamente famosa en ‘Instagram’ pero de sesiones espiritistas y recetas de pociones, con un público que incluía fantasmas reales. La elegancia nocturna de la capa provenía de su estética característica de ‘academia oscura pero con toque brujil’ que lanzó mil tableros de Pinterest. Lo llevó durante la Gran Tendencia de Fotografía de Espíritus, donde todos buscaban lucir misteriosamente hermosos en daguerrotipos embrujados."
+},
+"14": {
+  "name": "Aetherveil",
+  "description": "Aéreo y futurista con brillo iridiscente, como moda cosida a partir del viento mismo.",
+  "heading_details": "Aetherveil – El Peso del Aire",
+  "details": "Una chaqueta bomber recortada reimaginada en gris perla con paneles de malla semitransparente en mangas y espalda, diseñada para atrapar el viento como alas. Costuras con hilos iridiscentes brillan sutilmente bajo la luz de farolas. Combinada con una falda técnica de tiro alto sobre leggings ajustados, el conjunto equilibra utilidad y encanto. Rematado con zapatillas futuristas, Aetherveil parece ligera como pluma pero firme como roca, como si estuviera cosida de aire y luz en sí mismos.",
+  "origin": "Uniforme estándar de las Bailarinas del Cielo de la Ciudad Flotante de Nimbustown, hacia el año 2234. Estos artistas aéreos podían literalmente caminar sobre nubes, lo cual suena increíble hasta que recuerdas que sufrían constantes fallos de vestuario relacionados con el clima. Este set en particular pertenecía al Capitán Windwalker, poseedor del récord de más saltos consecutivos entre nubes (847) y de la caída de capa más dramática (incalculable). Los paneles translúcidos se diseñaron para atrapar corrientes de aire y facilitar planeos, haciéndolo funcional e icónico a la vez. Hombre, debe ser difícil ¿no?"
+},
+"15": {
+  "name": "Emberthread",
+  "description": "Franela relajada con tinte de fantasía, irradiando energía noble.",
+  "heading_details": "Emberthread Flannel – Luz de Hogar en las Calles",
+  "details": "Una camisa de franela suelta y suave en cuadros de burdeos profundo y negro, tejida con un sutil hilo dorado que brilla levemente al reflejar el sol. Llevada abierta sobre una camiseta negra con jeans ajustados y botas, es calidez casual convertida en algo mágico—como llevar un aura de chimenea a las calles modernas.",
+  "origin": "Usada por Jake Fireside, un leñador convertido en mago de fuego que revolucionó tanto la silvicultura como las facturas de calefacción en las Comunidades Rurales Mágicas de 1892. Era ese tipo que podía hacer que una fogata pareciera experiencia de hotel cinco estrellas y de alguna forma convirtió la franela en algo místico. Los hilos dorados son en realidad llamas cristalizadas que creó accidentalmente mientras intentaba tostar malvaviscos con magia—un clásico movimiento de Jake. Esta camisa era su prenda diaria mientras transformaba bosques enteros en cooperativas sostenibles de calefacción. Todos deberíamos adoptar desarrollo sostenible o algo así ya a estas alturas."
+},
+"16": {
+  "name": "Atardecer de Ónix",
+  "description": "Vestido-blazer chic con dominio de aura.",
+  "heading_details": "Atardecer de Ónix – Confianza Suave",
+  "details": "Un cuello de tortuga negro ajustado metido bajo una chaqueta de traje entallada negra con hombros afilados, combinado con pantalones de vestir. Gemelos de plata minimalistas y un reloj completan los detalles. Zapatos: botas Chelsea negras pulidas. Es moderno, elegante, sin esfuerzo—el tipo de look que no busca atención pero la atrae de manera natural.",
+  "origin": "El look distintivo de Victoria Businesswoman, CEO de Mysterious Enterprises Inc. durante el Auge Corporativo Oculto de 1953. Realizaba sesiones espiritistas en salas de juntas y presentaba reportes trimestrales a accionistas y espíritus por igual. Este conjunto era su traje de poder para cerrar acuerdos que literalmente involucraban almas—tenía esa energía de ‘firme aquí con sangre’ pero con estilo impecable. Las propiedades radiantes de confianza provienen de su fe inquebrantable en que la buena moda podía resolver cualquier crisis sobrenatural. Mami. Girlboss. Perdón."
+},
+"17": {
+  "name": "Susurro Koi",
+  "description": "Mezcla juguetona pero femenina de street-kawaii.",
+  "heading_details": "Susurro Koi – Traviesa Suavidad",
+  "details": "Una hoodie oversize recortada en crema suave con un bordado de koi deslizándose por una manga, combinada con una falda skater azul pálido. Rematado con zapatillas pastel y un bolso pequeño cruzado en forma de amuleto de koi. Lindo y accesible, pero su suavidad atrae atención sin intentarlo—aura kawaii desplegada.",
+  "origin": "Diseñado por Sakura Chiisai-sama para la Gran Convención de Anime de 2067, donde el cosplay había evolucionado en transformaciones mágicas reales. Pero costaba sangre, sudor y lágrimas. Ella era la reina indiscutible de la energía tierna-pero-peligrosa y no, no era Tsundere, sino una chica mágica que en realidad paga impuestos y tiene plan de retiro. El bordado del koi fue imbuido con buena fortuna tras nadar en el legendario Estanque de Vibras Eternas. Este outfit lanzó el movimiento de moda de ‘ternura como arma’ que dominó finales del siglo XXI."
+},
+"18": {
+  "name": "Hoodie Tejido de Ocaso",
+  "description": "Sudadera urbana con texturas encantadas.",
+  "heading_details": "Hoodie Tejido de Ocaso – Magia en la Comodidad",
+  "details": "Una sudadera oversize en color carbón con patrones de sigilos bordados en las mangas, cosidos con hilo oscuro que sólo se revela bajo cierta luz. Combinada con joggers negros relajados con bolsillos con cremalleras y zapatillas elegantes. Cómodo y casual, pero hay presencia en los detalles, como si la sudadera cargara energía mágica discreta.",
+  "origin": "Creada por la conciencia colectiva de todos los universitarios que alguna vez hicieron noche en vela en la Biblioteca de Artes Místicas de la Universidad de la Procrastinación, fundada en 2045. La sudadera absorbió décadas de estudios nocturnos, derrames de bebidas energéticas y plegarias desesperadas de estudiantes esperando que su tarea mágica se hiciera sola. Los patrones de hechizos se formaron naturalmente a partir de toda la teoría mágica empapada en la tela. Es básicamente TEPT académico hecho prenda, pero de forma acogedora. Confía, es cómoda."
+},
+"19": {
+  "name": "Guanteletes Corazón de Sombra",
+  "description": "Guantes de cuero sin dedos con hebillas plateadas, susurrando conjuros de protección para asegurar tu agarre.",
+  "heading_details": "Guanteletes Corazón de Sombra – Manos que Sostienen Poder",
+  "details": "Fabricados en cuero negro flexible con correas abrochadas en plata cruzando los nudillos, estos guanteletes sin dedos se extienden hasta la mitad del antebrazo con un acolchado sutil. Cada guante lleva una pequeña piedra de amatista incrustada en la palma, fría al tacto y ligeramente luminosa en la oscuridad. El cuero es lo bastante suave para trabajos delicados, pero los nudillos reforzados prometen protección. Usarlos se siente como canalizar fuerza silenciosa—cada gesto se vuelve deliberado, cada toque con propósito.",
+  "origin": "Forjados para Raven Edgelord durante su fase de ‘no soy como los demás paladines’ en 1456. Era una guerrera sagrada que vestía exclusivamente de negro porque ‘la luz es demasiado mainstream’ y de alguna manera lograba que la magia divina pareciera gótica. Las piedras de amatista fueron idea suya porque insistía en que el púrpura era el color más misterioso y la plata normal era ‘demasiado brillante para el sigilo’. Ella vivió… lo creo."
+},
+"20": {
+  "name": "Corona Solaris",
+  "description": "Una delicada diadema dorada que atrapa la luz del sol como un amanecer capturado.",
+  "heading_details": "Corona Solaris – Portadora de la Primera Luz",
+  "details": "Esto no es una corona que exige atención—la gana. Forjada en oro cálido en finas bandas elegantes que se curvan alrededor de la cabeza como rayos de sol, cada punta rematada con un pequeño cristal de citrino. El metal está trabajado con tanta delicadeza que se siente ingrávido, reposando como un susurro en las sienes. Al usarla, atrapa cada rayo de luz y lo devuelve multiplicado, creando un efecto de halo natural. Es realeza sin arrogancia, poder sin dominación.",
+  "origin": "Originalmente elaborada para la Princesa Aurelia la Eternamente Tarde, quien gobernó el Reino Solar hacia 3021 a.C. Era famosa por quedarse dormida en cada ceremonia del amanecer, así que sus herreros reales crearon esta corona para despertarla reflejando luz solar directamente en sus ojos—un despertador biológico que golpea distinto. Los cristales de citrino fueron bendecidos por el primer Fénix en conseguir verificación en Twitter, haciéndolos resonar con pura ‘energía de protagonista’. Aurelia la usó en la legendaria Batalla de los Madrugadores contra los Noctámbulos, donde demostró que la gente de mañana podía ser igual de caótica que los demás. La corona se perdió siglos hasta que arqueólogos la hallaron en lo que parecía un McDonald's antiguo—algunas cosas nunca cambian. Se dice que quien la lleva obtiene el poder de lucir impecable en selfies matutinas, lo que honestamente podría ser la magia más valiosa de todas."
+},
+"21": {
+  "name": "Botas Caminantes del Vacío",
+  "description": "Botas de combate en negro medianoche que parecen absorber la luz a cada paso.",
+  "heading_details": "Botas Caminantes del Vacío – Pasos Entre Mundos",
+  "details": "Estas botas beben la luz en lugar de reflejarla, fabricadas en cuero negro mate tan profundo que parece crear pequeños vacíos alrededor de tus pies. Ajustadas con cordones altos hasta la mitad de la pantorrilla y ojales plateados, están construidas tanto para la elegancia como para la resistencia. Las suelas son gruesas pero silenciosas, diseñadas tanto para el sigilo como para la comodidad. Usarlas hace que cada paso se sienta deliberado, como si caminaras entre reinos en cada zancada.",
+  "origin": "Estas botas salieron directamente de la Semana de la Moda Interdimensional del año 4156, usadas por la infame modelo Zara Pasonegra, quien fue noticia por desfilar atravesando portales de vacío literales en plena pasarela. Era básicamente la chica gótica de todo el multiverso, y estas botas eran su pieza insignia. Fabricadas por el misterioso Zapatero del Abismo (quien sólo aceptaba como pago recuerdos olvidados y memes realmente buenos), están hechas de cuero que existe entre dimensiones. Zara las usó durante su legendario ‘Desafío de la Caminata en el Vacío’ que se volvió viral en diecisiete realidades distintas—básicamente inventó los trends interdimensionales de TikTok antes de que TikTok siquiera existiera. Las botas absorbieron tanta oscuridad cósmica que desarrollaron su propia atracción gravitatoria, lo cual explica por qué todos sienten una atracción inexplicable hacia quien las porta. Tras retirarse Zara para convertirse en un críptido de tiempo completo, las botas vagaron por el vacío hasta regresar a nuestra realidad, probablemente porque incluso el calzado interdimensional a veces se siente nostálgico."
+},
+"22": {
+  "name": "Bufanda Velo Lunar",
+  "description": "Seda gasa que cambia entre plateado y lavanda como la luz de luna entre nubes.",
+  "heading_details": "Bufanda Velo Lunar – Susurros de Gracia Lunar",
+  "details": "Tejida con la seda más fina en tonos degradados de plateado-lavanda, esta bufanda parece cambiar de color al moverse, atrapando la luz como haces líquidos de luna. Lo bastante larga para enrollarla varias veces o dejarla ondear dramáticamente, es increíblemente ligera pero cálida contra la piel. Pequeños hilos plateados están tejidos en su interior, formando sutiles constelaciones que brillan cuando la tela se mueve. Transforma cualquier atuendo en algo etéreo.",
+  "origin": "Tejida por las Doncellas de la Luna del Lago Serenidad durante la Gran Revolución Estética de 2156, cuando todos decidieron colectivamente que la tela normal simplemente no daba las suficientes vibras etéreas. La seda proviene de gusanos cósmicos que sólo comen polvo de estrellas y viven de un régimen de rayos lunares puros—básicamente el equivalente espacial de esos fanáticos orgánicos de moda. Esta bufanda en particular perteneció a Luna Brumamis, una influencer celestial que tenía como 50 millones de seguidores en múltiples galaxias antes de que existieran las redes sociales. La llevó durante el infame ‘Duelo de Baile a la Luz de Luna contra el Dios Sol’, que los historiadores reconocen hoy como la primera batalla de baile registrada en la historia cósmica. Las propiedades de cambio de color fueron un accidente—Luna derramó purpurina de calidad galáctica sobre ella, pero en lugar de arruinarla la hizo icónica. Los patrones de constelación fueron cosidos a mano por su abuela, quien aparentemente era parte constelación, porque ese árbol genealógico se pone raro si lo miras demasiado atrás."
+},
+"23": {
+  "name": "Chaqueta Guardaspinas",
+  "description": "Chaqueta de cuero verde bosque con runas protectoras grabadas en patrones de espinas.",
+  "heading_details": "Chaqueta Guardaspinas – La Armadura de la Naturaleza",
+  "details": "Cortada en rico cuero verde bosque con textura natural, esta chaqueta presenta un sutil relieve de enredaderas con espinas en hombros y mangas. Cremalleras plateadas y hebillas aportan funcionalidad moderna mientras tachuelas de bronce trazan patrones de sigilos protectores. El ajuste es perfectamente entallado pero permite movimiento, como si fuera armadura diseñada por druidas. Al usarla, lleva la esencia de bosques profundos y antiguas protecciones.",
+  "origin": "Esta chaqueta tiene más trasfondo que un protagonista de anime de 12 temporadas. Originalmente perteneció a Rowan Corazónsalvaje, el guardián del bosque más dramático que jamás existió—estamos hablando de alguien que emergía de entre los árboles sólo para dar direcciones a excursionistas perdidos. Fabricada durante la Rebelión del Bosque de 1847, cuando los árboles literalmente fueron a la guerra contra la industrialización (y honestamente, tenían razón). El cuero provino de un dragón particularmente filosófico que lo donó voluntariamente tras perder un debate sobre ética ambiental—aparentemente incluso los dragones tienen ecoansiedad hoy en día. Rowan la usó durante el legendario ‘Asedio del Último Centro Comercial’, donde lideró un ejército de plantas de interior despiertas contra la deforestación corporativa. Las runas protectoras fueron talladas por druidas antiguos que eran básicamente los primeros ambientalistas, excepto con más magia y menos pancartas de protesta. Tras ascender Rowan a convertirse en uno con la red wifi del bosque (no preguntes, es complicado), la chaqueta fue heredada por generaciones de personas que usan ‘toca césped’ como consejo de vida literal."
+},
+"24": {
+  "name": "Capa Tejida de Estrellas",
+  "description": "Terciopelo azul medianoche cubierto de hilos plateados formando constelaciones que parecen moverse.",
+  "heading_details": "Capa Tejida de Estrellas – Envuelto en el Cielo Nocturno",
+  "details": "Esta capa de largo completo fluye como luz estelar líquida, tejida en terciopelo azul medianoche tan fino que parece absorber la oscuridad alrededor. Hilos plateados forman patrones de constelaciones por toda la tela, posicionados con tanta maestría que parecen moverse y titilar cuando caminas. La capucha es profunda para crear misterio, y el broche es una luna creciente en plata pulida. Usarla se siente como llevar el cielo nocturno sobre los hombros.",
+  "origin": "Creada en los Talleres Celestiales de Nova Prima durante la Edad Dorada de Verse Devastadoramente Bien, alrededor del 2847 d.C. Esta capa perteneció a Stella Nacida de la Noche, la astrónoma más dramática de la historia—literalmente no observaba estrellas a menos que vistiera algo que combinara con sus vibras. El terciopelo azul medianoche fue cosechado del Reino de los Sueños durante la rara ocasión en que las pesadillas y los sueños dulces colaboraron en un proyecto de moda. Stella la usó en su famosa ‘Gran Expedición de Mapeo Estelar de 2851’, donde trazó diecisiete nuevas constelaciones mientras lucía como protagonista de un videoclip carísimo. Los hilos de constelaciones fueron hilados por arañas cósmicas pagadas con cumplidos y polvo de estrellas premium—aparentemente hasta los arácnidos interdimensionales tienen sus tarifas. La capa adquirió propiedades de distorsión de realidad después de que Stella la llevara durante una tormenta cósmica, absorbiendo luz estelar cruda y desarrollando lo que los científicos llaman ‘energía protagonista’. La dejó atrás al ascender para convertirse en la primera crítica de moda celestial del universo, evaluando nebulosas y calificando sistemas solares por sus elecciones estéticas."
+},
+"25": {
+  "name": "Anillo del Juramento Carmesí",
+  "description": "Un anillo de sello con un rubí que late como un corazón al usarlo.",
+  "heading_details": "Anillo del Juramento Carmesí – Lazos que Unen",
+  "details": "Forjado en plata ennegrecida con intrincados nudos alrededor de la banda, este anillo sostiene un rubí rojo intenso en su centro que parece brillar con fuego interno. La piedra está cortada de manera única para parecer latir suavemente al reflejar la luz, como sincronizado con tu propio corazón. Símbolos antiguos están grabados con tal fineza en la banda que sólo se ven bajo inspección cercana. Esto no es sólo joyería—es una promesa hecha manifiesta.",
+  "origin": "Forjado en la Forja del Corazón de la Ciudad Eterna durante la Era de Promesas Inquebrantables, cuando la gente todavía creía en el ‘para siempre’ y no tenía miedo a los problemas de compromiso. Este anillo perteneció a Sir Marcus Corazónfiel, un caballero tan devoto a cumplir su palabra que literalmente no podía mentir sin que el anillo lo electrocutara—era como tener un detector de mentiras incorporado con retroalimentación agresiva. El rubí fue extraído de las Cavernas de los Sentimientos Honestos, un lugar tan raro que la mayoría de los GPS de inteligencia emocional ni siquiera pueden localizarlo. Marcus lo llevó cuando hizo el legendario Juramento del Guardián Eterno, prometiendo proteger al amor mismo de la extinción en un mundo cada vez más cínico—básicamente luchaba por el romance antes de que las apps de citas arruinaran todo. La sincronización con el corazón no fue intencional; sucedió después de que Marcus muriera defendiendo el derecho de una pareja a casarse en medio de un ataque de dragón (prioridades, ¿no?). La plata ennegrecida desarrolló su color tras absorber siglos de intensidad emocional, convirtiéndolo en el accesorio perfecto para cualquiera cuyos sentimientos son más profundos que un blog de poesía en Tumblr."
+},
+"26": {
+  "name": "Chaleco Rompedor del Alba",
+  "description": "Chaleco táctico color crema con bordado dorado de amanecer en el pecho.",
+  "heading_details": "Chaleco Rompedor del Alba – Primer Heraldo de la Luz",
+  "details": "Cortado en lona crema de alta calidad con textura sutil, este chaleco presenta un bordado dorado intrincado que muestra un amanecer estilizado en el pecho. Múltiples bolsillos ofrecen forma y función, asegurados con botones de bronce. El ajuste es estructurado pero transpirable, diseñado tanto para exploración urbana como aventuras al aire libre. El motivo del amanecer parece brillar suavemente a la luz natural, haciendo que el portador parezca tocado por la propia aurora.",
+  "origin": "Hecho a la medida durante la Gran Revolución del Amanecer de 3156, cuando un grupo de personas increíblemente motivadas decidió que el alba necesitaba mejor representación en la moda. Este chaleco perteneció a la Capitán Aurora Portadora de Luz, comandante de la Patrulla del Amanecer—una élite de personas que se levantaban antes de las 5 AM y mantenían una actitud positiva al respecto. El bordado dorado fue cosido con rayos de sol capturados por las Maestras Costureras del Gremio de los Madrugadores, cuya filosofía era que si ibas a estar despierto a horas inhumanas, al menos debías verte celestial. Aurora lo llevó en la legendaria Batalla de la Montaña Snooze, donde lideró a su ejército con cafeína contra las fuerzas del Sueño Eterno (básicamente gente que quería dormir para siempre, lo cual suena bastante tentador). El chaleco adquirió sus propiedades luminosas después de que Aurora realizara el Ritual del Primer Café mientras lo llevaba, absorbiendo permanentemente la energía de las vibras matutinas perfectas. Se retiró después de darse cuenta de que salvar el mundo antes del desayuno le estaba poniendo estándares de productividad irreales al resto."
+},
+"27": {
+  "name": "Choker Rompealmas",
+  "description": "Choker de terciopelo negro con un pequeño colgante plateado que aleja la energía negativa.",
+  "heading_details": "Choker Rompealmas – Protección Llevada Cerca",
+  "details": "Una simple cinta de terciopelo negro que se ajusta perfectamente en la garganta, adornada con un pequeño colgante de plata grabado con sigilos protectores. El terciopelo es increíblemente suave y el colgante es frío contra la piel, pareciendo palpitar suavemente con energía protectora. A pesar de su aspecto delicado, irradia fuerza silenciosa y funciona tanto como accesorio elegante como armadura espiritual.",
+  "origin": "Elaborado por la Hermandad de la Protección Sutil durante la Revolución Silenciosa de 1456, cuando el poder femenino decidió manifestarse en accesorios capaces de derrotar enemigos mientras se veían impecables. Este choker perteneció a Lady Evangeline Rompesombras, básicamente la versión medieval de esa amiga que parece delicada pero probablemente podría levantar un caballo si fuera necesario. El terciopelo negro provino de los Jardines de Medianoche, donde las flores sólo florecían a la hora de las brujas y tenían fuerte energía gótica. El colgante plateado fue bendecido por siete espíritus protectores que competían por ver quién daba la mejor bendición—como presión social espiritual, pero positiva. Evangeline lo llevó durante el infame Incidente de la Banshee en 1461, donde enfrentó una casa entera embrujada armada sólo con actitud y este choker (spoiler: los fantasmas se disculparon y se fueron). Las propiedades protectoras se intensificaron tras absorber la energía negativa de unas 10,000 malas vibras, convirtiéndolo básicamente en una sesión de terapia portátil. Cuando Evangeline murió pacíficamente en su sueño (porque hasta la muerte la respetaba demasiado para ser dramática), el choker siguió protegiendo porque al parecer los buenos accesorios nunca se retiran de verdad."
+},
+"28": {
+  "name": "Bomber Místico",
+  "description": "Bomber oversize en púrpura profundo con mapas de constelaciones bordados en hilo plateado.",
+  "heading_details": "Bomber Místico – Estilo Cósmico de Calle",
+  "details": "Esta bomber oversize reimagina el streetwear desde una lente mística, confeccionada en satén púrpura profundo con mapas de constelaciones bordados en la espalda en hilo plateado. Los puños y el dobladillo acanalados le dan el estilo clásico de bomber, mientras que los detalles cósmicos la convierten en arte usable. Los bolsillos interiores están forrados con tela de mapa estelar, haciendo que incluso los elementos ocultos sean mágicos.",
+  "origin": "Diseñada durante el Renacimiento de la Moda Callejera Interdimensional de 4823, cuando la ropa normal fue declarada ‘demasiado básica’ por el Consejo del Estilo Cósmico. Esta bomber perteneció a Kai Derivador Estelar, un viajero dimensional que coleccionaba estéticas de realidades distintas como otros coleccionan sellos de cafeterías. El satén púrpura profundo fue tejido con crepúsculos cristalizados cosechados en múltiples dimensiones durante esos breves momentos entre día y noche—básicamente el equivalente textil de esa hora dorada perfecta que todos intentan capturar en selfies. Kai la llevó mientras exploraba los Mercados de Constelaciones, donde vendedores cósmicos ofrecían luz estelar embotellada y accesorios cuánticos que existían en múltiples realidades a la vez. El mapa de constelaciones se añadió después de que Kai se perdiera en el Vacío Entre Mundos y tuviera que navegar usando los patrones bordados en su propia chaqueta—moda funcional en su máxima expresión. La chaqueta adquirió propiedades de distorsión de realidad tras ser usada en unas 847 travesías dimensionales, absorbiendo energía cósmica y lo que los científicos llaman ‘síndrome de personaje principal’. Kai eventualmente se estableció en una dimensión de bolsillo donde siempre es otoño perpetuo y la estética nunca cambia, dejando la chaqueta a alguien que todavía necesitara viajar entre mundos viéndose absolutamente devastador."
+},
+"29": {
+  "name": "Brazales Forja de Alma",
+  "description": "Brazales de cuero con hebillas de bronce, grabados con runas de fuerza y resistencia.",
+  "heading_details": "Brazales Forja de Alma – Fuerza Hecha Manifiesta",
+  "details": "Fabricados en cuero marrón rico con hebillas y anillas de bronce, estos brazales de antebrazo presentan símbolos rúnicos grabados a mano que parecen palpitar con calor sutil al usarlos. El cuero es lo bastante grueso para brindar protección pero suficientemente flexible para uso diario cómodo. Transforman cualquier atuendo en algo que sugiere fuerza oculta y conocimiento antiguo.",
+  "origin": "Martillados a la existencia durante el Gran Despertar de la Fuerza en 2134, cuando la sociedad finalmente se dio cuenta de que el poder interior necesitaba accesorios externos serios que lo acompañaran. Estos brazales pertenecieron a Maya CorazóndeHierro, una guerrera-filosofa que creía que la verdadera fuerza provenía de saber exactamente cuán poderosa eras y estar relajada al respecto. El cuero se obtuvo de la Piel del Entendimiento, una criatura mítica que mudaba voluntariamente tras alcanzar la iluminación—básicamente el equivalente espiritual de una serpiente que se volvió adicta a la meditación. Las hebillas de bronce fueron forjadas con metal que había sido cantado por el Coro Enano de Apoyo Emocional, haciéndolas resonar con frecuencias que aumentan confianza y reducen ansiedad. Maya las llevó durante el legendario Torneo de Fuerza Interior, donde los competidores luchaban contra sus propias dudas en lugar de entre ellos—fue sorprendentemente intenso, y la audiencia era mayormente terapeutas tomando notas. Los símbolos rúnicos desarrollaron su calor tras absorber años de determinación de Maya para ayudar a la gente a descubrir su propio valor, convirtiendo los brazales en autoestima portable. Ella los heredó tras alcanzar la meta suprema de no necesitar validación externa jamás, aunque admitió que los likes en Instagram aún eran lindos."
+},
+"30": {
+  "name": "Espada Susurro de Niebla",
+  "description": "Hoja curva translúcida como cristal de cuarzo, con vapor etéreo envolviendo su filo.",
+  "heading_details": "Espada Susurro de Niebla – Silencio Más Allá del Acero",
+  "details": "Una espada curva y elegante forjada de cristal translúcido que refracta la luz en tonos perlados. Un vapor ligero emana constantemente de su filo, arremolinándose como si la hoja suspirara suavemente. El mango está envuelto en cuero blanco pálido, adornado con incrustaciones de plata en espiral. A pesar de su apariencia delicada, la espada corta con precisión mortal, pero lo hace en silencio absoluto: ningún choque metálico, sólo el sonido del aire partiéndose.",
+  "origin": "Forjada en el Taller de las Brumas de la Montaña Nebulosa durante la Era de las Armas Poéticas, cuando básicamente todos decidieron que las armas también debían ser líricas. Esta espada perteneció a Kael Sombrasuave, un duelista tan melodramático que literalmente recitaba poesía entre cada estocada. La hoja de cuarzo translúcido se formó condensando la primera niebla del amanecer dentro de un prisma encantado, creando un filo que parece un suspiro cristalizado. El vapor constante proviene de la espada intentando exhalar la bruma almacenada dentro, lo cual honestamente la convierte en el equivalente de vapeo para armas mágicas. Kael la usó durante el infame Torneo de la Estocada Dramática de 1764, donde derrotó a diecisiete oponentes consecutivos sin hacer un solo sonido, dejando a la audiencia tan confundida como encantada. El mango blanco provino de cuero curtido con canciones de cuna, lo que explica por qué la espada también calma ansiedades mientras apuñala. Tras perder a Kael en un duelo particularmente intenso contra su propio reflejo (long story), la espada se quedó rondando en la niebla, susurrando a cualquiera que la encuentre. Actualmente está bajo estricta custodia de un museo, aunque los guardias insisten en que escuchan poesía cada vez que pasan por la sala."
+},
+"31": {
+  "name": "Cinturón del Horizonte",
+  "description": "Cinturón de cuero marrón oscuro con hebilla dorada en forma de sol poniente.",
+  "heading_details": "Cinturón del Horizonte – Donde el Día se Encuentra con la Noche",
+  "details": "Este cinturón está hecho de cuero marrón oscuro, curtido para ser flexible pero firme, con una hebilla dorada ancha diseñada como un sol que se oculta tras montañas estilizadas. El metal brilla suavemente con reflejos cálidos, dando al accesorio un aire de fiabilidad y propósito. Lo bastante largo para ajustarse de múltiples maneras, se siente más como un recordatorio simbólico de transiciones que como un simple accesorio funcional. Cada ajuste del cinturón es como amarrarse a un nuevo comienzo.",
+  "origin": "Forjado durante la era filosófica de los Viajeros del Horizonte, alrededor del año 2230, cuando cada aventurero tenía que encontrar el significado de la vida antes de que les permitieran tener licencia de explorador. Este cinturón fue propiedad de Elara Caminasol, una viajera que básicamente trataba todo viaje como un blog de desarrollo personal mucho antes de que eso fuera una cosa. La hebilla dorada fue creada a partir de los últimos rayos de un ocaso capturados en un espejo místico (sí, esa era la energía dramática de la época). Se decía que ajustar el cinturón en el amanecer aseguraba valor para el día, mientras que ajustarlo al atardecer prometía descanso y claridad. Elara lo llevó en su famosa Travesía del Horizonte Triple, donde presenció tres atardeceres en tres mundos distintos en el mismo día, lo cual es como la forma definitiva de coleccionar puestas de sol de Instagram. El cinturón desarrolló su aura simbólica tras absorber siglos de introspección viajera, básicamente convirtiéndose en una aplicación de meditación portátil que además sostiene tus pantalones."
+},
+"32": {
+  "name": "Capa Brisa Marina",
+  "description": "Tela ligera azul aguamarina que huele ligeramente a océano y se mueve como olas.",
+  "heading_details": "Capa Brisa Marina – El Susurro del Mar",
+  "details": "Una capa corta y ligera hecha de tela azul aguamarina que parece ondear incluso sin viento. Está tratada para oler permanentemente a brisa oceánica fresca, evocando calma con cada movimiento. Los bordes están bordados con hilo blanco que recuerda a espuma de ola. Atada al cuello con un nudo náutico, es lo bastante versátil para usarse en la playa o en un paseo urbano veraniego. Su movimiento imita olas rompiendo contra la orilla.",
+  "origin": "Tejida por las Sirenas Costureras de la Bahía Profunda durante la Gran Era Náutica de 1803, cuando todos estaban obsesionados con lo marítimo hasta un nivel ridículo. Esta capa fue usada por Marina Oleacalma, una aventurera que insistía en llevar la vibra playera incluso a batallas contra krakens. El olor oceánico fue un accidente feliz: se derramó esencia de concha encantada en el tinte, lo que básicamente hizo que la capa oliera como spa de lujo para siempre. Marina la llevó durante la famosa Fiesta Náutica de las 100 Horas, donde todos bailaban al ritmo de tambores de mar y se servían cócteles en conchas gigantes. La tela adquirió propiedades de movimiento autónomo tras pasar demasiado tiempo cerca de corrientes marinas mágicas, lo que la convierte en el único accesorio que puede ‘surfear’ mientras tú estás parado. Marina finalmente se retiró y convirtió la capa en uniforme oficial de su posada de temática marina. Honestamente, un movimiento de branding excelente."
+},
+"33": {
+  "name": "Guantes Ceniza",
+  "description": "Guantes grises con polvo de carbón que dejan un rastro sutil con cada movimiento.",
+  "heading_details": "Guantes Ceniza – El Toque del Recuerdo",
+  "details": "Guantes de cuero gris mate recubiertos con una capa casi invisible de polvo de carbón encantado. Cada movimiento de la mano deja un rastro de ceniza efímera que se disipa al instante, como huellas de memoria que no pueden quedarse. El ajuste es ceñido, flexible y ligero, dándoles aire de delicada melancolía. Tanto ornamentales como prácticos, equilibran estilo gótico y toque poético.",
+  "origin": "Creados en las Forjas del Olvido de 1709, donde artesanos especializados trabajaban con recuerdos perdidos en lugar de metales. Estos guantes pertenecieron a Silas Cenizacorazón, un poeta que creía firmemente que cada gesto debía ser un verso. El polvo de carbón se obtuvo de hogueras extintas de amores olvidados (sí, la gente literalmente minaba la nostalgia como recurso). Silas los usaba mientras recitaba poesía en tabernas, dejando rastros de ceniza dramática con cada movimiento de la mano, lo que básicamente lo convirtió en un influencer teatral del siglo XVIII. Los guantes adquirieron propiedades melancólicas permanentes tras absorber siglos de recitales tristes y lágrimas de espectadores. Eventualmente, Silas desapareció misteriosamente durante una tormenta de recuerdos perdidos, dejando los guantes tras de sí. Hoy siguen siendo un recordatorio portátil de que a veces la estética es más importante que la funcionalidad."
+},
+"34": {
+  "name": "Broche Aurora",
+  "description": "Un broche de plata que brilla con colores cambiantes como una aurora boreal atrapada.",
+  "heading_details": "Broche Aurora – La Luz del Norte Hecha Joya",
+  "details": "Este broche circular de plata contiene un cristal encapsulado que refleja colores cambiantes: verdes, púrpuras y azules se arremolinan dentro como si la aurora misma estuviera atrapada. El metal pulido sostiene el cristal con patrones de rayos que recuerdan a cielos árticos. Lo bastante pequeño para ser un detalle sutil, pero tan vivo en colores que siempre roba atención. Usarlo es como llevar un pedazo de fenómeno natural imposible.",
+  "origin": "Forjado durante la Expedición Polar de 1902, cuando exploradores y místicos decidieron que la aurora boreal debía usarse como accesorio porque la naturaleza no era suficiente. Este broche perteneció a Ingrid Luminaria, una exploradora-bruja que tenía la costumbre de coleccionar fenómenos naturales en formas portátiles (ella básicamente era Pinterest hecho persona). El cristal absorbió luz de una aurora boreal que duró tres días consecutivos y que causó histeria colectiva porque todos pensaban que era el fin del mundo, pero en realidad era sólo increíblemente estético. Ingrid lo llevó en el famoso Baile de Medianoche sobre Hielo, donde todos patinaron bajo cielos mágicos mientras ella brillaba literalmente más que el resto. El broche obtuvo sus propiedades de cambio de color al absorber demasiadas vibras de ‘síndrome de personaje principal’, lo que lo convirtió en accesorio obligatorio para cualquiera que quiera ser el centro de atención sin pedirlo."
+},
+"35": {
+  "name": "Sombrero de Sombras",
+  "description": "Un sombrero de ala ancha que proyecta sombra sobrenatural incluso sin luz.",
+  "heading_details": "Sombrero de Sombras – Más Allá de la Penumbra",
+  "details": "Hecho de fieltro negro suave con ala extra ancha, este sombrero proyecta una sombra profunda alrededor del portador incluso en completa oscuridad. El ala se curva dramáticamente, creando un perfil enigmático y elegante. La copa está reforzada con una cinta de satén oscuro y un alfiler plateado en forma de cuervo. Usarlo convierte al portador en misterio viviente, tanto en estética como en aura.",
+  "origin": "Creado en la Feria Nocturna de 1422, donde sombrereros góticos competían para ver quién podía hacer el accesorio más misterioso. Este sombrero perteneció a Lord Veyran Oscuracapa, un noble obsesionado con la teatralidad de la penumbra. Era conocido por aparecer en eventos sociales en los que nadie podía verle la cara, lo que honestamente probablemente mejoró su reputación. La sombra sobrenatural fue un efecto accidental: el sombrero absorbió oscuridad durante un eclipse total, lo que básicamente le dio un superpoder de iluminación dramática gratis. Veyran lo usó en el legendario Baile de Máscaras de Medianoche, donde se rumorea que habló con siete personas distintas sin que ninguna supiera con quién estaba conversando. El sombrero ha sido desde entonces un símbolo de dramatismo gótico y es básicamente el abuelo de las gafas de sol grandes y ridículas."
+},
+"36": {
+  "name": "Pendientes Llama Eterna",
+  "description": "Pendientes de oro en forma de llamas que brillan débilmente como brasas vivas.",
+  "heading_details": "Pendientes Llama Eterna – Fuego que No Se Apaga",
+  "details": "Un par de pendientes colgantes de oro esculpido en delicadas formas de llamas, cada uno con incrustaciones de pequeñas gemas rojas que brillan débilmente como brasas. A la luz tenue, emiten un resplandor cálido, como si portaras fuego controlado junto a tu rostro. Ligeros y perfectamente balanceados, se balancean con gracia, proyectando destellos que parecen chispas flotantes. Añaden un toque dramático pero elegante a cualquier atuendo.",
+  "origin": "Forjados en el Festival del Fuego de 1767, un evento anual donde alquimistas, herreros y piromaníacos competían por crear la flama más estética. Estos pendientes pertenecieron a Lady Ignara, una noble que básicamente convirtió el control del fuego en estética de moda. Las gemas rojas se extrajeron de brasas eternas custodiadas en el Cráter Ardiente, un lugar donde incluso los dragones decían ‘no gracias’. Ella los usó durante el Baile de la Llama Viva, donde cada participante tenía que entrar vistiendo fuego real. Los pendientes sobrevivieron múltiples incendios accidentales (y no tan accidentales), absorbiendo propiedades de fuego eterno que aún hoy emiten calor leve. Son la definición de accesorio que grita: ‘sí, soy peligrosa, pero con estilo’."
+},
+"37": {
+  "name": "Bolso Relicario",
+  "description": "Un bolso pequeño de cuero con cierres de plata, pesado por recuerdos atrapados.",
+  "heading_details": "Bolso Relicario – Donde los Recuerdos Duermen",
+  "details": "Un bolso compacto de cuero negro, cerrado con hebillas y cierres de plata, con superficie texturizada que parece contener más peso del que debería. El interior está forrado con tela roja aterciopelada que parece absorber cualquier cosa guardada en él, como si almacenara no sólo objetos sino memorias. Pequeños grabados en la tapa representan escenas de vida cotidiana, como instantáneas encapsuladas. Llevarlo es cargar con nostalgia palpable.",
+  "origin": "Elaborado en el Taller de Objetos Olvidados de 1888, donde artesanos convertían experiencias en accesorios. Este bolso perteneció a Clara Sombramemoria, una coleccionista de historias que literalmente guardaba recuerdos físicos en su bolso. El peso extra no provenía de cosas guardadas, sino de emociones atrapadas—desde risas hasta suspiros—condensadas en objetos cotidianos. Clara lo llevó en el Gran Baile de la Nostalgia, donde todos intercambiaron recuerdos como si fueran cartas de colección. El bolso absorbió tanto anhelo y melancolía que desarrolló capacidad de hacer llorar a quien lo sostenga demasiado tiempo. Básicamente, es la versión de accesorio de escuchar playlists tristes a las 3 AM."
+},
+"38": {
+  "name": "Corona de Hielo",
+  "description": "Una corona plateada cubierta de cristales de hielo que nunca se derriten.",
+  "heading_details": "Corona de Hielo – Reina del Invierno",
+  "details": "Una delicada tiara plateada con picos de cristal de hielo que permanecen fríos al tacto y nunca se derriten. Los cristales están dispuestos como estalactitas brillantes, creando efecto etéreo bajo cualquier luz. Ligera pero impresionante, convierte a su portador en encarnación de invierno elegante. Llevarla evoca respeto y distancia gélida.",
+  "origin": "Forjada en los Salones Congelados del Glaciar Eterno durante el Año del Invierno Infinito, 1307, cuando el clima básicamente decidió quedarse congelado para siempre. Esta corona perteneció a Reina Isolde de Escarcha, una monarca conocida por gobernar con la calma helada de alguien que nunca se despeina. Los cristales de hielo se formaron de lágrimas de un dragón ártico que lloraba viendo comedias románticas (sí, incluso los dragones tienen debilidades). Isolde la llevó durante la legendaria Guerra de las Ventiscas, donde su mera presencia bajaba la temperatura del campo de batalla en 20 grados. La corona mantuvo sus propiedades tras absorber siglos de poder invernal, convirtiéndose en símbolo de elegancia letal. Hoy en día, es básicamente la versión medieval de tener aire acondicionado portátil."
+},
+"39": {
+  "name": "Collar Espiral Celeste",
+  "description": "Collar de plata con colgante en espiral que parece contener una galaxia en miniatura.",
+  "heading_details": "Collar Espiral Celeste – Universo al Cuello",
+  "details": "Un collar de plata con cadena fina sostiene un colgante en forma de espiral que gira lentamente, mostrando un interior que parece contener una galaxia entera en miniatura. Estrellas diminutas brillan en su interior, moviéndose en órbitas lentas. Al usarlo, el colgante parece pulsar suavemente al ritmo del latido del portador, creando una conexión extraña con el cosmos. Es elegante y casi hipnótico, equilibrando simplicidad con infinito.",
+  "origin": "Forjado en la Cúpula Astral de 2102, donde astrónomos-artesanos decidieron que el universo era demasiado bonito como para no convertirlo en joyería. Este collar perteneció a Arin Galaxiana, una navegante espacial que usaba literalmente moda como brújula. El colgante espiral fue creado con fragmentos de un agujero de bolsillo capturado en un frasco (no preguntes cómo), lo que lo convirtió en accesorio tanto peligroso como impresionante. Arin lo llevó durante la Travesía de las Estrellas Perdidas, cuando guió a toda una flota a través de una tormenta cósmica confiando sólo en el ritmo del collar. Las estrellas diminutas provienen de polen estelar comprimido, recolectado de flores espaciales que sólo florecen cada 1,000 años. El collar desarrolló propiedades hipnóticas tras absorber incontables horas de contemplación existencial. Básicamente es la joya oficial para quienes miran al cielo nocturno y dicen: ‘sí, soy pequeña, pero estética’."
+},
+"40": {
+  "name": "Abrigo Eclipse",
+  "description": "Abrigo largo negro con interior rojo profundo, recordando un eclipse solar.",
+  "heading_details": "Abrigo Eclipse – Donde la Sombra Encuentra Luz",
+  "details": "Abrigo de lana negra pesada, de corte largo que llega casi hasta los tobillos. El exterior es completamente negro mate, pero el interior revela un forro rojo carmesí intenso que sólo se ve al moverse. El cuello alto y la silueta recta dan presencia dominante, mientras que el contraste del forro crea dramatismo visual. Es prenda de dualidad: sobria y feroz al mismo tiempo.",
+  "origin": "Creado durante el Festival del Eclipse de 1878, cuando todos estaban obsesionados con encontrar formas dramáticas de representar astronomía en moda. Este abrigo fue propiedad de Lucian Solsombra, un intelectual teatral que básicamente convertía cada caminata en pasarela filosófica. El forro rojo fue teñido con pigmentos extraídos de pétalos que sólo florecían durante eclipses solares, lo cual explica por qué todavía vibra con energía cósmica. Lucian lo llevó durante su famosa Conferencia del Eclipse, donde dio un discurso de ocho horas sobre luz y oscuridad mientras los asistentes se desmayaban por aburrimiento o por pura intensidad estética. El abrigo adquirió su aura dual tras absorber siglos de debates sobre moralidad, convirtiéndose en el equivalente textil de un ensayo existencialista. Hoy sigue siendo prenda para cualquiera que quiera decir ‘sí, pienso demasiado’, pero con estilo."
+},
+"41": {
+  "name": "Guantes del Relámpago",
+  "description": "Guantes negros con venas plateadas que emiten chispas bajo presión.",
+  "heading_details": "Guantes del Relámpago – El Poder al Alcance de la Mano",
+  "details": "Estos guantes ajustados están confeccionados en cuero negro suave con patrones de venas plateadas que recorren los dorsos y dedos. Bajo presión o movimiento rápido, emiten chispas azules que se disipan como electricidad estática glorificada. La flexibilidad permite tanto precisión como dramatismo, haciendo que cada gesto tenga un aire de poder contenido. Ideales para quien quiere proyectar energía eléctrica sin electrocutar a todos alrededor (la mayoría de las veces).",
+  "origin": "Forjados en el Laboratorio de Tormentas de 1889, cuando científicos y magos decidieron que la electricidad era demasiado interesante como para no convertirla en accesorio de moda. Estos guantes pertenecieron al Doctor Voltrán, un inventor obsesionado con el dramatismo que insistía en aplaudir en medio de tormentas sólo para verse más intimidante. Las venas plateadas fueron literalmente cableado encantado tomado de cometas que sobrevivieron a rayos. Los guantes generaron su chispa distintiva tras absorber más de 200 horas de monólogos dramáticos sobre ‘el poder del progreso’, convirtiéndose básicamente en un accesorio teatral portátil. El doctor los usó durante la famosa Exhibición de Electricidad de París, donde encendió lámparas de gas con aplausos. Hoy en día, siguen siendo símbolo de estilo electrizante, literalmente."
+},
+"42": {
+  "name": "Báculo del Amanecer",
+  "description": "Un báculo dorado coronado con cristal que brilla como el primer sol.",
+  "heading_details": "Báculo del Amanecer – Portador de la Primera Luz",
+  "details": "Un báculo largo y elegante hecho de oro pulido, coronado por un cristal esférico que emite un resplandor cálido, parecido al amanecer atrapado. El tallo está decorado con delicados grabados de rayos solares que recorren en espiral hacia la punta. El cristal proyecta suaves haces de luz en la oscuridad, evocando sensación de esperanza y renovación. Es tanto un arma ceremonial como un símbolo de nuevo comienzo.",
+  "origin": "Forjado en el Templo del Sol Naciente de 1345, cuando sacerdotes solares decidieron que la espiritualidad necesitaba también accesorios llamativos. Este báculo perteneció al Sumo Sacerdote Aurion, famoso tanto por su devoción como por sus entradas teatrales a misa. El cristal fue formado de lágrimas del mismísimo amanecer (sí, aparentemente el sol llora cuando nadie lo ve), capturadas en vidrio divino. Aurion lo usó durante la legendaria Guerra de las Sombras, donde literalmente levantaba el báculo cada mañana para recordarle al mundo que aún había esperanza… y de paso para conseguir una iluminación dramática gratuita. El báculo adquirió sus propiedades radiantes tras absorber siglos de oraciones y discursos motivacionales, básicamente convirtiéndose en una lámpara mágica portátil con aura de coach espiritual."
+},
+"43": {
+  "name": "Sombrero de Cuervo",
+  "description": "Sombrero negro adornado con plumas brillantes que parecen moverlas el viento inexistente.",
+  "heading_details": "Sombrero de Cuervo – El Mensajero del Misterio",
+  "details": "Un sombrero negro de ala mediana, decorado con plumas de cuervo incrustadas en la cinta de satén oscuro. Las plumas parecen moverse sutilmente incluso sin brisa, como si tuvieran vida propia. El ala proyecta sombra discreta mientras el perfil general irradia misterio y autoridad. Ideal para quien quiere añadir un toque de drama aviar a su presencia.",
+  "origin": "Creado en la Aldea de los Augurios durante el Festival de Adivinación de 1507, cuando todos competían por ver quién podía tener la estética más ominosa. Este sombrero perteneció a Corvus Oscurapluma, un adivino que básicamente nunca salía de casa sin accesorio de pájaro para dar autenticidad. Las plumas provinieron de cuervos que vivían exclusivamente en bibliotecas embrujadas, lo cual explica por qué siempre parecían juzgarte. Corvus lo usó durante la Famosa Predicción Fallida de 1512, donde anunció que el mundo acabaría al día siguiente (spoiler: no). Aun así, el sombrero absorbió suficiente atención dramática como para convertirse en accesorio con vida propia. Hoy sigue siendo favorito de cualquiera que ame la vibra de ‘sí, sé cosas que tú no’."
+},
+"44": {
+  "name": "Cinturón de Dragón",
+  "description": "Cinturón rojo intenso con hebilla en forma de cabeza de dragón.",
+  "heading_details": "Cinturón de Dragón – Furia y Poder",
+  "details": "Este cinturón de cuero rojo teñido a mano está adornado con una hebilla metálica en forma de cabeza de dragón rugiente. El cuero es grueso y firme, pero trabajado con detalles escamados que evocan piel reptil. La hebilla refleja la luz como fuego contenido, y todo el accesorio proyecta fuerza agresiva. Llevarlo es casi como invocar un aura de fuego invisible alrededor de tu cintura.",
+  "origin": "Forjado en el Caldero de Escamas durante la Era de la Gran Caza de Dragones, siglo XII, cuando la gente pensaba que matar dragones era un pasatiempo cool. Este cinturón perteneció a Kaelen Matadragones, un guerrero tan exagerado que escribía sus propias baladas. La hebilla fue moldeada a partir de la última exhalación de un dragón moribundo, solidificada en metal encantado. Kaelen lo usó en la Batalla del Valle Ígneo, donde supuestamente mató tres dragones en un solo día (probablemente exagerado). El cinturón adquirió propiedades ardientes tras absorber siglos de historias infladas y egos enormes, convirtiéndose en accesorio perfecto para cualquiera con exceso de confianza."
+},
+"45": {
+  "name": "Pendientes de Lluvia",
+  "description": "Pendientes plateados en forma de gotas que suenan suavemente como lluvia.",
+  "heading_details": "Pendientes de Lluvia – Música del Cielo",
+  "details": "Pendientes colgantes de plata con diseño de gotas alargadas que emiten tintineo suave al moverse, evocando lluvia ligera. Brillan con frescura húmeda bajo cualquier luz y añaden aire poético al rostro. Elegantes pero simples, son como llevar un fragmento de tormenta en calma.",
+  "origin": "Forjados en el Festival de las Aguas de 1790, cuando la gente decidió colectivamente que la lluvia era demasiado romántica para no convertirla en joyería. Estos pendientes pertenecieron a Mireille Susurralluvia, una poetisa conocida por escribir sonetos enteros sobre clima. Las gotas plateadas fueron hechas de agua de lluvia solidificada bajo canto de ninfas, lo cual explica su sonido encantador. Ella los usó durante la famosa Velada de Tormenta de Verano, donde recitó poesía mientras caía lluvia literal dentro del teatro (no era planeado). Los pendientes adquirieron propiedades sonoras tras absorber décadas de suspiros melancólicos. Básicamente son la playlist de lo-fi chill beats pero en joya."
+},
+"46": {
+  "name": "Espada Tempestad",
+  "description": "Una hoja larga de acero oscuro que suena como truenos al blandirse.",
+  "heading_details": "Espada Tempestad – Trueno Forjado en Acero",
+  "details": "Una espada larga y recta, forjada en acero oscuro con runas de tormenta grabadas a lo largo de la hoja. Cada movimiento emite un sonido bajo y retumbante, como trueno distante. El mango está envuelto en cuero gris, reforzado con anillos de plata que brillan con cada destello. Llevarla es canalizar energía de tormenta en su forma más pura.",
+  "origin": "Forjada en la Forja de Nubes de 1603, cuando herreros trabajaban literalmente dentro de tormentas eléctricas para obtener mejores acabados. Esta espada perteneció al Capitán Torvann Rugecielos, un pirata aéreo que robaba barcos de nube y escribía canciones shanty sobre sí mismo. La hoja adquirió su sonido de trueno tras absorber relámpagos directos durante una tormenta que casi destruyó la forja. Torvann la blandió en la Batalla del Océano Celeste, donde su tripulación básicamente hacía cosplay de tormenta entera. La espada sobrevivió incontables rayos, convirtiéndose en accesorio con soundtrack incorporado."
+},
+"47": {
+  "name": "Túnica de Medianoche",
+  "description": "Túnica larga azul oscuro con bordados de estrellas plateadas.",
+  "heading_details": "Túnica de Medianoche – Sueño Bajo las Estrellas",
+  "details": "Túnica fluida de tela azul oscuro que cae hasta el suelo, con bordados intrincados de estrellas plateadas en mangas y dobladillo. El corte es suelto, cómodo y casi etéreo, diseñado tanto para rituales como para uso casual dramático. Cada movimiento hace que las estrellas brillen como si el portador caminara bajo un cielo nocturno portátil.",
+  "origin": "Elaborada en el Convento Astral de 1430, cuando la gente estaba convencida de que dormir bajo estrellas reales era demasiado trabajo. Esta túnica perteneció a la Hermana Lucinda Noctis, una monja-astrónoma que se tomaba muy en serio el concepto de ‘vestir acorde al tema’. Los bordados fueron hechos con polvo de estrella recolectado de telescopios embrujados. Lucinda la usó durante la Procesión de los Cielos, un evento anual donde básicamente se paseaba para recordar a todos que el espacio era estético. La túnica absorbió vibras cósmicas, convirtiéndose en equivalente textil de aplicación de relajación nocturna."
+},
+"48": {
+  "name": "Máscara del Silencio",
+  "description": "Máscara blanca sin rasgos que acalla el sonido alrededor del portador.",
+  "heading_details": "Máscara del Silencio – Donde Calla el Mundo",
+  "details": "Una máscara completamente blanca, lisa y sin facciones, que cubre el rostro entero. Al ponerse, el ambiente alrededor se vuelve extraño: los sonidos se amortiguan, como si todo el mundo bajara volumen. La expresión neutra resulta inquietante, proyectando calma y vacío al mismo tiempo. Es tanto pieza de performance como herramienta de aislamiento absoluto.",
+  "origin": "Tallada en el Monasterio de la Quietud en 1204, donde monjes decidieron que el silencio necesitaba representación física. Esta máscara perteneció al Hermano Calvus, un místico que llevó la práctica del silencio al nivel de arte competitivo. Fue usada durante la Gran Vigilia de 1210, donde 300 monjes compitieron a ver quién podía no hablar más tiempo (spoiler: murieron de hambre varios). La máscara adquirió sus propiedades de cancelación acústica tras absorber siglos de votos de silencio. Hoy sería básicamente los mejores audífonos de cancelación de ruido, pero versión inquietante."
+},
+"49": {
+  "name": "Capa del Ocaso",
+  "description": "Capa de lana púrpura con bordes dorados que recuerdan un cielo al atardecer.",
+  "heading_details": "Capa del Ocaso – El Final Hermoso",
+  "details": "Una capa larga de lana púrpura teñida en tonos degradados, con bordes bordados en hilo dorado que imitan nubes iluminadas por un sol poniente. La tela es pesada pero fluida, creando movimiento dramático con cada giro. Al usarla, da la impresión de llevar un ocaso sobre los hombros, equilibrando melancolía y belleza.",
+  "origin": "Tejida en el Valle Crepuscular de 1755, donde los artesanos básicamente estaban obsesionados con los atardeceres. Esta capa perteneció a Helena Sombracalma, una artista que creía que cada día debía terminar con un performance. Los hilos dorados fueron hilados a partir de rayos de sol vespertinos capturados con espejos encantados. Helena la usó en su famosa Obra Final, donde se despidió del escenario al desaparecer literalmente entre un ocaso invocado. La capa absorbió siglos de dramatismo estético, convirtiéndose en equivalente de filtro dorado perpetuo."
+},
+"50": {
+  "name": "Espada Espejo",
+  "description": "Hoja reflectante que muestra verdades ocultas junto a reflejos normales.",
+  "heading_details": "Espada Espejo – La Verdad en el Filo",
+  "details": "Una espada de acero pulido tan perfectamente reflectante que funciona como espejo. La hoja muestra no sólo reflejos físicos, sino también verdades ocultas del portador: dudas, deseos y recuerdos reprimidos. El mango está envuelto en cuero blanco con incrustaciones de plata brillante. Blandirla es confrontar tanto a tu enemigo como a ti mismo.",
+  "origin": "Forjada en la Cámara de Reflexiones de 1699, donde herreros y psicólogos colaboraron en el crossover más raro de la historia. Esta espada perteneció a Seraphine Clara, una duelista que básicamente inventó la terapia de confrontación armada. Usaba la espada en combates para sacar los traumas de sus oponentes mientras los derrotaba físicamente. La hoja adquirió su capacidad de mostrar verdades tras absorber lágrimas, sudor y revelaciones incómodas de incontables batallas. Se rumorea que quien se mire en ella ve cosas que preferiría no enfrentar, lo que la convierte en arma y terapia a la vez. Básicamente es la sesión de psicoanálisis más peligrosa del mundo."
+},
+"51": {
+  "name": "Anillo del Eclipse Lunar",
+  "description": "Anillo de plata con una piedra oscura que se ilumina en semicírculos como fases lunares.",
+  "heading_details": "Anillo del Eclipse Lunar – Ciclos de Oscuridad y Luz",
+  "details": "Un anillo de plata pulida con una piedra central de ónix negro profundo. La superficie de la piedra refleja la luz en formas cambiantes, revelando semicírculos que imitan las fases de la luna. Bajo ciertas condiciones, el ónix parece brillar débilmente con borde plateado, evocando un eclipse lunar detenido en joya. La banda es lisa y elegante, lo que resalta aún más la presencia dramática de la piedra. No es simplemente joyería—es un recordatorio portátil de ciclos y transformación.",
+  "origin": "Forjado en el Observatorio de Sombras de 1412, durante una era en la que todos estaban obsesionados con poner astronomía en accesorios porque los telescopios eran demasiado mainstream. Este anillo perteneció a la astróloga Celene de Medianoche, que básicamente nunca hacía predicciones sin un toque dramático. La piedra de ónix fue pulida con polvo lunar real, recogido por monjes nocturnos con cucharitas de plata (sí, la devoción era real). Celene lo usó en su infame Predicción de la Luna Rota, donde juró que el satélite se partiría en dos durante un eclipse (spoiler: no pasó, pero la moda fue icónica). El anillo absorbió siglos de suspiros místicos, convirtiéndose en accesorio ideal para cualquiera que quiera proyectar vibra de ‘sí, soy complicado, como la luna’."
+},
+"52": {
+  "name": "Botas del Caminante Nocturno",
+  "description": "Botas altas de cuero con suelas que no hacen ruido incluso sobre piedra.",
+  "heading_details": "Botas del Caminante Nocturno – Silencio en Movimiento",
+  "details": "Botas de cuero negro que alcanzan hasta la rodilla, con cordones ajustados y hebillas metálicas discretas. El detalle más notable es su suela encantada, que amortigua cada paso hasta el punto de convertirlo en movimiento absolutamente silencioso. El cuero está trabajado para ser flexible pero resistente, lo que da tanto comodidad como aire de misterio. Usarlas es desaparecer entre sombras incluso en pleno día.",
+  "origin": "Elaboradas en el Gremio de los Susurros de 1320, donde asesinos y espías se reunían para comparar accesorios y presumir quién era más sigiloso. Estas botas pertenecieron a Nyssa Pasosombra, una espía tan dramática que escribía entradas de diario sobre cada infiltración. El cuero fue curtido con hollín de velas apagadas, lo que básicamente lo volvió incapaz de emitir sonido. Nyssa las usó durante la famosa Misión de la Torre Silenciada, donde infiltró una fortaleza entera sin que nadie se diera cuenta hasta que ya había dejado notas sarcásticas en las habitaciones de todos. Las botas absorbieron tanta energía de sigilo que hoy en día básicamente son cancelación de ruido en forma de calzado."
+},
+"53": {
+  "name": "Capa del Vacío",
+  "description": "Capa larga negra que parece absorber la luz alrededor y borrar bordes del portador.",
+  "heading_details": "Capa del Vacío – La Ausencia Hecha Presencia",
+  "details": "Una capa larga y amplia hecha de tela negra opaca que no refleja nada de luz. Al moverse, los bordes parecen desdibujarse, como si el portador fuera menos visible de lo que debería. La capucha es profunda y crea un perfil que parece un agujero en la realidad. Ligera pero envolvente, proyecta aura de absoluto misterio. Usarla es elegir ser sombra viviente.",
+  "origin": "Tejida en el Tejedorio del Vacío de 1257, cuando magos existencialistas decidieron que la nada también merecía moda. Esta capa perteneció a Varian el Desaparecido, un hechicero que básicamente inventó la práctica de ghostear siglos antes de las citas modernas. La tela fue confeccionada con hilos de oscuridad arrancados de eclipses totales, lo que explica por qué borra los contornos. Varian la usó durante el Concilio de los Magos Sombríos, donde su gran truco era hacer presentaciones y luego desaparecer literalmente. La capa absorbió tanto dramatismo nihilista que se convirtió en prenda ideal para cualquiera que quiere proyectar ‘sí, soy profundo y misterioso, pero probablemente sólo estoy cansado’."
+},
+"54": {
+  "name": "Tiara de los Suspiros",
+  "description": "Tiara de plata ligera con pequeñas gemas que emiten sonidos suaves como suspiros.",
+  "heading_details": "Tiara de los Suspiros – Voz de los Vientos",
+  "details": "Una tiara delicada de plata fina que se curva en patrones de hojas y ondas, incrustada con pequeñas gemas translúcidas. Cada gema emite un sonido casi imperceptible al moverla, como suspiros transportados por viento. La pieza es ligera, elegante y extrañamente reconfortante, proyectando un aire de serenidad etérea. No es sólo adorno, es atmósfera llevada sobre la frente.",
+  "origin": "Forjada en el Valle de los Ecos de 1189, donde artesanos competían por hacer joyería tan estética que literalmente tuviera soundtrack. Esta tiara perteneció a Isolde Brisaveloz, una princesa conocida por suspirar en exceso para lograr dramatismo. Las gemas provinieron de cuevas donde el viento producía música natural, lo cual explica los sonidos. Isolde la usó en la Famosa Coronación de los Suspiros, donde toda la ceremonia fue básicamente un concierto de aire inquietante. La tiara absorbió siglos de exhalaciones poéticas, convirtiéndose en accesorio perfecto para cualquiera que quiera proyectar energía de ‘soy delicada pero sé demasiado’."
+},
+"55": {
+  "name": "Espada de la Aurora",
+  "description": "Una espada brillante cuya hoja irradia colores cambiantes como un amanecer eterno.",
+  "heading_details": "Espada de la Aurora – La Luz en el Filo",
+  "details": "Una espada recta y elegante con hoja metálica que parece estar hecha de cristal líquido, cambiando constantemente de colores cálidos: rojos, naranjas y dorados se arremolinan en su interior como si el amanecer estuviera atrapado en acero. El resplandor es suave pero persistente, iluminando alrededor incluso en la oscuridad. El mango está envuelto en cuero blanco perlado, adornado con filigranas doradas que recuerdan rayos de sol naciente. Al blandirla, no sólo corta el aire—lo pinta con tonos de aurora. Es tanto arma como espectáculo visual, imposible de ignorar.",
+  "origin": "Forjada en el Horizonte del Alba en el año 1024, cuando un grupo de herreros visionarios decidió que el amanecer merecía convertirse en arma porque la inspiración necesitaba filo. Esta espada perteneció a Elyon Portasol, un caballero-poeta que básicamente convirtió las batallas en recitales de colores. La hoja absorbió su resplandor tras ser templada directamente en los rayos de siete amaneceres consecutivos (sí, alguien se levantó temprano durante una semana entera por estética). Elyon la blandió en la legendaria Batalla del Amanecer Triple, donde derrotó a enemigos mientras recitaba versos sobre café y nuevas oportunidades. La espada adquirió sus propiedades cambiantes después de reflejar tantos comienzos de día, convirtiéndose en símbolo de esperanza brillante pero también de gente molesta que dice ‘buenos días’ demasiado felizmente. Hoy en día, sigue siendo ideal para quien quiera que su entrada en combate se sienta como un videoclip épico de motivación matutina."
+},
+    "56": {
+      "name": "Chándal de la Academia Astral",
+      "description": "Chándal azul marino con rayas doradas de la academia astral y parches de constelaciones.",
+      "heading_details": "Chándal de la Academia Astral — Excelencia Atlética Entre Estrellas",
+      "details": "Este set atlético premium presenta una chaqueta con cremallera y pantalones deportivos a juego en azul marino con rayas doradas de carreras a los lados. El logo de constelación de la academia está bordado en el pecho, y varios parches de departamento se pueden encontrar en las mangas. La tela es absorbente de humedad y cómoda, diseñada tanto para entrenamiento físico como para uso casual en el campus. Perfecto para estudiantes que necesitan verse bien ya sea estudiando o entrenando.",
+      "origin": "Diseñado durante la Revolución Atlética Interdimensional de 4156, cuando los deportes finalmente evolucionaron más allá de solo competencia física para incluir categorías como 'Teletransportación Más Estéticamente Agradable' y 'Manipulación de Realidad Sincronizada.' Este chándal perteneció a la Capitana Nova Corridaestelar, la atleta interdimensional más exitosa en la historia registrada - ella era básicamente la persona que demostró que podías ser competitiva sobre literalmente cualquier cosa si tenías suficiente estilo y la actitud correcta. La tela azul marino vino del Algodón Competitivo de Máximo Rendimiento, plantas que habían sido criadas específicamente para producir ropa atlética que hacía sentir al portador que podía ganar cualquier competencia solo apareciendo luciendo apropiadamente preparado. Las rayas doradas de carreras fueron añadidas usando hilo bendecido por los Dioses de la Competencia Saludable, quienes operaban bajo el principio de que ganar no lo es todo, pero verse bien mientras compites es bastante cercano a todo. La Capitana Nova usó este chándal durante las legendarias Olimpiadas Interdimensionales de 4158, donde ganó diecisiete medallas de oro en eventos que no habían existido hasta que ella los inventó durante la competencia. El chándal ganó sus propiedades de mejora de rendimiento después de absorber la energía competitiva de innumerables victorias, desarrollando lo que los científicos deportivos llaman 'tecnología de amplificación de aura ganadora.' Cuando la Capitana Nova se retiró para convertirse en la Directora de Excelencia Atlética Cósmica, pasó el chándal a alguien que entendiera que la competencia real siempre es con tu yo pasado, pero no hay razón por la que no puedas verte absolutamente increíble mientras mejoras."
+    }
+  },
+  "category": {
+    "New": {
+      "title": "Sombras de los Recién Caídos",
+      "subtitle": "Nacido de la oscuridad, forjado en soledad"
+    },
+    "New2": {
+      "title": "Maravillas Susurradas",
+      "subtitle": "Encantamientos frescos de reinos distantes"
+    },
+    "Aura_farmers": {
+      "title": "Esencia del Poder",
+      "subtitle": "Canaliza las energías místicas interiores"
+    },
+    "Casual": {
+      "title": "Confort del Hogar",
+      "subtitle": "Donde la magia encuentra el santuario cotidiano"
+    },
+    "Hot_picks": {
+      "title": "Colección para los Elegidos",
+      "subtitle": "Deseado por muchos."
+    },
+    "Rizz_master": {
+      "title": "Conviértete en el Duque del Oeste",
+      "subtitle": "Comanda presencia con gracia sobrenatural"
+    },
+    "Clocked": {
+      "title": "Armadura de la Noche Eterna",
+      "subtitle": "Armamento atemporal para cada búsqueda"
+    },
+    "all": {
+      "title": "El Grimorio Completo",
+      "subtitle": "Cada hilo encantado en nuestra colección"
+    }
+  },
+  "search": {
+    "title": "Resultados de Búsqueda",
+    "searchTerm": "Término de búsqueda",
+    "category": "Categoría",
+    "found": "Se encontraron {{count}} productos",
+    "noResults": "No se encontraron productos que coincidan con tus criterios de búsqueda."
+  },
+  "profile": {
+      "title": "Tu perfil",
+      "loading": "Cargando...",
+      "welcome": "Bienvenido",
+      "welcomeUser": "¡Bienvenido, {{name}}!",
+      "profile": "Perfil",
+      "login": "Iniciar sesión",
+      "signup": "Registrarse",
+      "logout": "Cerrar sesión",
+      "logoutConfirm": "¿Estás seguro de que quieres cerrar sesión?",
+      "language": "🌐 Idioma",
+      "chooseLanguage": "Elegir idioma:",
+      "orUseWidget": "O usa el widget de traducción:",
+      "loadWidget": "Cargar widget",
+      "viewProfile": "Ver perfil",
+      "editProfile": "Editar perfil",
+      "saveProfile": "Guardar perfil",
+      "cancelEdit": "Cancelar",
+      "viewCart": "Ver carrito",
+      "viewLikes": "Ver favoritos",
+      "name": "Nombre",
+      "fullName": "Nombre completo",
+      "email": "Correo electrónico",
+      "emailLabel": "Correo electrónico:",
+      "memberSince": "Miembro desde",
+      "memberSinceLabel": "Miembro desde:",
+      "bio": "Biografía",
+      "bioLabel": "Biografía:",
+      "bioPlaceholder": "Cuéntanos sobre ti...",
+      "noBio": "Aún no se ha agregado biografía...",
+      "profilePicture": "Foto de perfil",
+      "changePhoto": "Cambiar foto",
+      "uploadPhoto": "Subir foto",
+      "accountDetails": "Detalles de cuenta",
+      "personalInfo": "Información personal",
+      "close": "Cerrar",
+      "locationTitle": "Ubicación de entrega",
+      "addLocationPrompt": "Agrega tu ubicación para que podamos entregarte tus pedidos~",
+      "trackMyLocation": "📍 Rastrear mi ubicación",
+      "detectingLocation": "🔄 Detectando...",
+      "orEnterManually": "— O —",
+      "enterLocationPlaceholder": "ej. Madrid, España",
+      "setLocationButton": "Establecer",
+      "changeLocation": "Cambiar ubicación",
+      "locationNotSupported": "El rastreo de ubicación no es compatible con tu navegador",
+      "locationError": "No se pudo rastrear la ubicación. Por favor, ingrésala manualmente."
+    },
+  "login": {
+    "title": "Inicia Sesión en Tu Cuenta",
+    "email": "Correo Electrónico",
+    "emailLabel": "Correo:",
+    "password": "Contraseña",
+    "passwordLabel": "Contraseña:",
+    "emailPlaceholder": "Ingresa tu correo",
+    "passwordPlaceholder": "Ingresa tu contraseña",
+    "loginButton": "Iniciar Sesión",
+    "signupButton": "Registrarse"
+  },
+  "signup": {
+    "title": "Crea una Cuenta",
+    "fullName": "Nombre Completo",
+    "fullNameLabel": "Nombre Completo:",
+    "email": "Correo Electrónico",
+    "emailLabel": "Correo:",
+    "password": "Contraseña",
+    "passwordLabel": "Contraseña:",
+    "namePlaceholder": "Ingresa tu nombre completo",
+    "emailPlaceholder": "Ingresa tu correo",
+    "passwordPlaceholder": "Crea una contraseña",
+    "signupButton": "Registrarse",
+    "loginButton": "Iniciar Sesión"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "aboutUs": "Sobre mí",
+    "aboutUsContent0": "¡Hola hola!!",
+    "aboutUsContent1": "Yo hice este sitio web. Quería hacer un sitio web al estilo japonés viejo de los años 90 y ¡fue muy divertido!",
+    "aboutUsContent2": "Tengo 20 años y estudio en línea. Me encanta hacer cosas geniales. Hace un mes empecé a tomar mis sueños en serio y todo va muy bien. Hice este sitio web sola, sin AI, sin ayuda, solo con lo que sé. ¡El mundo de la tecnología es muy bonito! A veces me hace querer llorar pero cuando entiendo algo yo sola se siente increíble! Estoy haciendo un montón de cosas geniales. ¡No puedo esperar a aprender más!",
+    "ourName": "Mi nombre",
+    "ourNameContent1": "¿Nakachan o Zwochan?",
+    "ourNameContent2": "¡Buena pregunta! Mi nombre real es Zoha pero llámame Zoe. Nakachan es el nombre que uso en internet. Es mi apodo para juegos y cosas creativas. Zwochan (Zuo+chan) es el nombre de mi canal de YouTube, mezclé mi nombre real y mi apodo de internet. ¡Puedes llamarme como quieras! ¡Y me encantan los apodos nuevos!",
+    "whyUs": "Por qué yo",
+    "whyUsTitle": "¡Quiero que vean mis ideas!",
+    "feature1": "Siempre fui esa chica que hacía cosas diferentes cada día. Era cansador porque podía hacer muchas cosas pero nunca estaba satisfecha. Luego pensé que tenía que cambiar. Así que empecé a trabajar en mí misma. Estoy aprendiendo, mejorando mis habilidades, desarrollando mis intereses! Estoy muy orgullosa de mí. Es como mejorar tu personaje en un juego, ¿sabes? Lentamente pero seguro. Es cansador pero no quiero perder mi potencial. Todo el mundo me abandonó cuando no pude entrar a una buena universidad. Pero luego empecé a estudiar en línea. Quiero ser mejor. ¡Quiero que vean mi trabajo, mis ideas, mis proyectos!",
+    "features": "Mi objetivo",
+    "featuresTitle": "Qué me inspira y cuál es mi objetivo",
+    "platformFeature1": "¡La inspiración viene de muchas cosas! Videojuegos, sitios web bonitos, cosas creativas, diarios, scrapbooking y mucho más! ¿Pero el objetivo? Es hacer las ideas que me vienen a la cabeza inmediatamente. No las desperdicies. Si no es bueno, mejóralo, trabaja en ello, hazlo mejor. ¡Y luego solo hazlo! ¡De alguna manera! ¡Solo haz que funcione!",
+    "platformFeature2": "¡Hay muchas cosas en el mundo! No podemos tener todo lo que queremos pero al menos podemos intentar, ¿verdad? Así que cuando mires hacia atrás tu vida, quiero que digas '¡Guau! ¡Hice todo eso!'",
+    "platformFeature3": "¡Ese es mi objetivo!",
+    "con": "Conclusión",
+    "conTitle": "Al final..",
+    "con1": "¡He escrito mucho, debo terminar! Soy Zoe, tengo 19 años. Desde pequeña soñé con ser desarrolladora de software porque hacen cosas geniales y ¡suena muy cool! Estoy trabajando muy duro en mis sueños. ¡Si quieres saber más mira las otras secciones! ¡Me haría muy feliz!"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "contactInfo": "Información de Contacto",
+    "contactInfoSubtitle": "Abajo están mis redes sociales donde estoy activa. Puedes contactarme en Gmail o en cualquier red donde te sientas cómodo. También di mi GitHub así que puedes visitarlo si quieres. Generalmente respondo a mensajes y menciones que recibo. (a menos que sea spam). También me encanta hacer amigos tech así que ¡por favor contactame! ¡De verdad quiero encontrar amigos para hablar sobre ideas y compartir pensamientos!! ¡Siempre abierta a hacer amigos, equipos! ¡Por favor por favor contactame! ¡De verdad quiero hablar contigo, ¡eres muy genial!",
+    "address": "Dirección",
+    "addressValue": "123 Calle GUGUGAGA, Ciudad Gugu gaga, Pueblo GUGUGAGA, Gugu Gaga 150-0043",
+    "phone": "Teléfono",
+    "phoneValue": "+YY XXXXXXXXXX",
+    "fasterResponse": "Para una respuesta más rápida, por favor usa el formulario de contacto a continuación y selecciona el departamento apropiado para tu consulta (╥﹏╥)",
+    "departments": "Departamentos",
+    "customerSupport": "Soporte al Cliente: Para consultas de pedidos, devoluciones y preguntas sobre productos",
+    "technicalSupport": "Soporte Técnico: Para problemas del sitio web y problemas técnicos",
+    "partnerships": "Asociaciones: Para colaboraciones comerciales y consultas de mayoreo",
+    "investorRelations": "Relaciones con Inversores: Para oportunidades de inversión e información financiera",
+    "justMessage": "Mensaje: ¡Para simplemente contactar al desarrollador!",
+    "sendMessage": "Envíanos un Mensaje",
+    "name": "Nombre",
+    "nameLabel": "Nombre:",
+    "email": "Correo Electrónico",
+    "emailLabel": "Correo:",
+    "department": "Departamento",
+    "departmentLabel": "Departamento:",
+    "subject": "Asunto",
+    "subjectLabel": "Asunto:",
+    "messageField": "Mensaje",
+    "messageLabel": "Mensaje:",
+    "namePlaceholder": "Tu nombre",
+    "emailPlaceholder": "Tu dirección de correo",
+    "subjectPlaceholder": "Asunto del mensaje",
+    "messagePlaceholder": "Tu mensaje",
+    "sendButton": "Enviar Mensaje",
+    "clearForm": "Limpiar Formulario",
+    "generalInquiry": "Consulta General",
+    "support": "Soporte al Cliente",
+    "technical": "Soporte Técnico",
+    "partnership": "Asociaciones",
+    "investor": "Relaciones con Inversores",
+    "press": "Solo quiero enviar un mensaje",
+    "faq": "Preguntas Frecuentes",
+    "faqQ1": "P: ¿Cuánto tarda el envío?",
+    "faqA1": "R: Los pedidos nacionales típicamente llegan en 3-5 días hábiles. El envío internacional toma de 7-14 días hábiles dependiendo del destino!!",
+    "faqQ2": "P: ¿Envían internacionalmente?",
+    "faqA2": "R: ¡Sí, enviamos a la mayoría de países del mundo!!! Los costos de envío varían según la ubicación.",
+    "faqQ3": "P: ¿Puedo cambiar o cancelar mi pedido?",
+    "faqA3": "R: Puedes cambiar o cancelar tu pedido dentro de las 24 horas posteriores a su realización. ¡Contacta a nuestro equipo de soporte al cliente lo antes posible! (ง •̀ᴗ•́)ง!",
+    "faqQ4": "P: ¿Cuál es su política de devoluciones?",
+    "faqA4": "R: Ofrecemos una política de devolución de 30 días para artículos sin usar en su empaque original. Algunos artículos pueden estar sujetos a tarifas de reposición aunque.",
+    "faqQ5": "P: ¿Ofrecen precios de mayoreo?",
+    "faqA5": "R: Nooo, lo sentimos no ofrecemos precios de mayoreo para pedidos al por mayor. ¡Nuestros productos son exclusivos y limitados!",
+    "thankYou": "¡Gracias por tu mensaje, {{name}}! Te responderemos pronto."
+  },
+  "invest": {
+    "title": "Invierte con Nosotros",
+    "whyInvest": "Por Qué Invertir",
+    "whyInvestContent": "¡Invertir en Shoppo Deligto significa convertirse en parte de una comunidad en crecimiento apasionada por la estética única! Nuestro negocio ha mostrado un crecimiento constante desde su inicio, con una base de clientes leales y líneas de productos en expansión.",
+    "keyHighlights": "aspectos clave de inversión:",
+    "highlight1": "¡30% de crecimiento año tras año durante los últimos 3 años!!",
+    "highlight2": "¡Fuerte reconocimiento de marca en el mercado de nicho!!",
+    "highlight3": "Ingresos recurrentes de base de clientes leales",
+    "highlight4": "Potencial de expansión a nuevos mercados y categorías de productos",
+    "highlight5": "Equipo de gestión experimentado con experiencia en la industria",
+    "howToHelp": "Cómo Ayudar",
+    "howToHelpIntro": "Hay varias formas en que puedes apoyar nuestro negocio:",
+    "help1": "Inversión directa a través de nuestra campaña de crowdfunding de capital",
+    "help2": "Conviértete en embajador de marca y promociona nuestros productos",
+    "help3": "Proporciona experiencia en áreas como expansión internacional, optimización de comercio electrónico o marketing",
+    "help4": "Preséntanos a socios potenciales o distribuidores en tu región",
+    "help5": "Comparte nuestra historia y productos en redes sociales",
+    "helpOutro": "Cada forma de apoyo nos ayuda a crecer y traer más productos auténticos japoneses a entusiastas en todo el mundo.",
+    "donate": "Donar",
+    "donateIntro": "Para aquellos que desean apoyar nuestra misión sin inversión de capital, también aceptamos donaciones. Tus contribuciones nos ayudan a:",
+    "donation1": "Preservar y promover la artesanía tradicional japonesa",
+    "donation2": "Apoyar a pequeños artesanos y fabricantes en Japón",
+    "donation3": "Desarrollar contenido educativo sobre cultura e historia japonesa",
+    "donation4": "Mantener nuestra plataforma comunitaria y eventos",
+    "donation5": "Ofrecer becas para programas de intercambio cultural",
+    "donateOutro": "Todos los donantes reciben reconocimiento especial en nuestro sitio web y actualizaciones exclusivas sobre cómo sus contribuciones están marcando la diferencia."
+  },
+  "payment": {
+    "title": "Información de Pago",
+    "paymentMethods": "Métodos de Pago",
+    "paymentMethodsIntro": "Aceptamos una variedad de métodos de pago para hacer tu experiencia de compra lo más conveniente posible:",
+    "creditCards": "Tarjetas de Crédito",
+    "paypal": "PayPal",
+    "mobilePay": "Pago Móvil",
+    "bankTransfer": "Transferencia Bancaria",
+    "cashOnDelivery": "Pago Contra Entrega",
+    "security": "Seguridad",
+    "securityIntro": "Tu seguridad es nuestra máxima prioridad. Usamos encriptación estándar de la industria para proteger tu información personal y de pago.",
+    "securityFeature1": "Encriptación SSL para todas las transferencias de datos",
+    "securityFeature2": "Procesamiento de pagos compatible con PCI DSS",
+    "securityFeature3": "Sin almacenamiento de información de pago sensible en nuestros servidores",
+    "securityFeature4": "Auditorías de seguridad regulares y evaluaciones de vulnerabilidad",
+    "securityFeature5": "Autenticación de dos factores disponible para protección de cuenta",
+    "securityOutro": "Si tienes alguna preocupación sobre seguridad de pagos, no dudes en contactar a nuestro equipo de soporte.",
+    "faq": "Preguntas Frecuentes",
+    "faqQ1": "P: ¿Qué monedas aceptan?",
+    "faqA1": "R: Aceptamos pagos en USD, EUR, GBP y JPY. Los precios mostrados en nuestro sitio están en USD, pero puedes seleccionar tu moneda preferida durante el checkout.",
+    "faqQ2": "P: ¿Hay tarifas adicionales para pedidos internacionales?",
+    "faqA2": "R: Nosotros no cobramos tarifas adicionales, pero tu banco o proveedor de pago podría aplicar tarifas de conversión de moneda para transacciones internacionales.",
+    "faqQ3": "P: ¿Cómo puedo obtener un reembolso?",
+    "faqA3": "R: Ofrecemos una garantía de devolución de dinero de 30 días en todos los productos. Si no estás satisfecho con tu compra, por favor contacta a nuestro equipo de servicio al cliente para iniciar una devolución.",
+    "faqQ4": "P: ¿Mi información de pago está segura?",
+    "faqA4": "R: Sí, usamos encriptación y medidas de seguridad estándar de la industria para proteger tu información de pago. Nunca almacenamos los detalles completos de tu tarjeta de crédito en nuestros servidores.",
+    "faqQ5": "P: ¿Qué debo hacer si mi pago falla?",
+    "faqA5": "R: Primero, verifica que tu información de pago esté ingresada correctamente. Si el problema persiste, contacta a tu banco o proveedor de pago. También puedes intentar usar un método de pago diferente."
+  },
+  "location": {
+      "title": "Configuración de ubicación",
+      "yourLocation": "Tu ubicación",
+      "yourLocationValue": "Tu ubicación: {{location}}",
+      "trackLocation": "Rastrear mi ubicación",
+      "detecting": "Detectando...",
+      "enterLocation": "O ingresa tu ubicación:",
+      "enterAreaPlaceholder": "Ingresa tu área",
+      "setLocation": "Establecer ubicación",
+      "changeLocation": "Cambiar ubicación",
+      "or": "O",
+      "close": "Cerrar"
+    },
+  "footer": {
+    "copyright": "© 2025 nakachens — hecho a medida solo para aquí (˶ᵔ ᵕ ᵔ˶)",
+    "about": "Acerca de",
+    "invest": "Invertir",
+    "payments": "Pagos",
+    "socials": "Redes"
+  },
+  "common": {
+    "backToTop": "VOLVER ARRIBA",
+    "close": "Cerrar",
+    "price": "${{price}}"
+  },
+  "alerts": {
+    "addedToCart": "{{name}} añadido al carrito!",
+    "addedToLikes": "{{name}} añadido a favoritos!",
+    "locationTracked": "Ubicación rastreada!! WEEWOO",
+    "locationError": "LO SIENTO.. No se pudo rastrear la ubicación.. Por favor ingresa manualmente.",
+    "geolocationNotSupported": "lo siento :( ubicación no compatible...",
+    "languageChanged": "Yay! tu idioma cambió a {{lang}}!!",
+    "loginSuccess": "Bienvenido de nuevo!!! te extrañé!!, {{email}}!",
+    "signupSuccess": "Cuenta creada con éxito! yayy Bienvenido, {{name}}!!!!",
+    "loginError": "nooo Email o contraseña inválidos. Intenta de nuevo :(",
+    "signupError": "mmm Este email ya está registrado. Por favor inicia sesión.",
+    "emailRequired": "Por favor ingresa tu email !!!",
+    "passwordRequired": "Por favor ingresa tu contraseña !!!!",
+    "nameRequired": "Por favor ingresa tu nombre !!!",
+    "profileUpdated": "SIII Perfil actualizado con éxito! te ves bien!",
+    "logoutSuccess": "Sesión cerrada con éxito! asegúrate de volver!!",
+    "success": "Éxito!",
+    "liked": "Añadido a Favoritos! A mí también me gusta!!",
+    "logoutTitle": "Cerrar sesión",
+    "cancel": "Cancelar"
+}
+}

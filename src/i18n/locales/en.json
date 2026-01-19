@@ -1,0 +1,760 @@
+{
+  "header": {
+    "logoAlt": "Logo"
+  },
+  "navigation": {
+    "home": "HOME-PAGE",
+    "about": "ABOUT PAGE",
+    "invest": "INVEST PAGE",
+    "payments": "PAYMENTS",
+    "contact": "CONTACT US",
+    "searchPlaceholder": "Search shoppo...",
+    "allCategories": "All Categories",
+    "rizzMaster": "Rizz Master",
+    "new": "New Collection",
+    "new2": "Whispered Wonders",
+    "auraFarmers": "Aura Farmers",
+    "hotPicks": "Hot Picks",
+    "casual": "Casual",
+    "clocked": "Clocked"
+  },
+  "sidebar": {
+    "checkSum": "check sum out",
+    "newCollection": "New Collection",
+    "newSubtitle1": "makes you feel like a game character!",
+    "newSubtitle2": "Oh I'd wear this everyday.",
+    "auraFarmers": "AURA FARMERS !!",
+    "auraSubtitle": "which Dungeon are we clearing today?",
+    "hotPicks": "HOT PICKS !!!",
+    "hotSubtitle": "popular since the start",
+    "casual": "Casual? Sure.",
+    "casualSubtitle": "why not something comfy?",
+    "clocked": "Clocked em' !!",
+    "clockedSubtitle": "Jojo no kimyou na bouken, Eyes of heaven",
+    "rizzMaster": "Rizz Master",
+    "rizzSubtitle": "increase charm by 10xp"
+  },
+  "home": {
+    "newUpdate": "~New Update~",
+    "nocturaSubtitle": "Born of the night, stitched in silence",
+    "nocturaDescription": "A gothic dream draped in fabric. Each piece carries the hush of midnight, stitched with shadows and silence, made for those who thrive when the world sleeps.",
+    "nocturaName": "Noctura",
+    "fullOnFantasy": "A full on fantasy dream",
+    "wingsSubtitle": "Drape yourself in dusk, defy the light.",
+    "wingsDescription": "A collection born from twilight's edge. Draped in shadows and carved with defiance, each piece carries the spirit of rebellion against the fading light. Made for those who wear darkness not as a shroud, but as their crown.",
+    "wingsName": "Wings of Dusk",
+    "moreThanDream": "its more than a dream",
+    "dontMissOut": "dont miss out~",
+    "neverEnding": "never-ending Collections",
+    "collectionDescription": "A collection woven from daydreams and dusk-light. Soft fabrics, gentle silhouettes, and hues that feel like moonlit comfort. Designed for those who seek magic in the everyday and warmth in every stitch.",
+    "allProducts": "All Products"
+  },
+  "cart": {
+    "title": "Your Shopping Cart",
+    "empty": "Your cart is empty",
+    "remove": "Remove",
+    "total": "Total",
+    "checkout": "Checkout",
+    "shoppingCart": "Shopping Cart",
+    "viewCart": "View Cart",
+    "close": "Close"
+  },
+  "likes": {
+    "title": "Your Liked Items",
+    "empty": "You haven't liked any items yet",
+    "likedItems": "Liked Items",
+    "addToCart": "Add to Cart",
+    "remove": "Remove",
+    "viewAllLikes": "View All Likes"
+  },
+  "product": {
+    "back": "Back",
+    "itemDetails": "Item Details",
+    "addToCart": "Add to Cart",
+    "like": "Like",
+    "buyNow": "Buy Now",
+    "theOrigin": "The Origin",
+    "notFound": "Product not found"
+  },
+  "products": {
+    "1": {
+      "name": "Wraithweaver's Shroud",
+      "description": "A flowing cloak stitched with ghost-thread, trailing faint smoke like a soul not yet at rest.",
+      "heading_details": "Wraithweaver's Shroud - I'm not a Ghost Chat..",
+      "details": "A cloak spun from the threads of forgotten souls, this piece drapes across the shoulders like a living shadow. The fabric seems weightless, yet it trails mist wherever you walk, leaving a ghostly residue that clings to the air. The hood hangs low, obscuring the face, and the hem flickers as though it's unraveling into smoke. This shroud feels less like clothing and more like a pact—a whisper from the afterlife stitched into every seam.",
+      "origin": "Belonged to Seraphina Nightwhisper, the last High Mourner of the Ethereal Courts circa 1847. She wore this while conducting the Great Grieving - a century-long ritual to help lost souls find peace. Legend says she literally wove threads from willing spirits into the fabric, which is why it still trails that ghostly mist. Fun fact: she was basically the grim reaper but with better fashion sense and daddy issues. The shroud was found in her abandoned tower, still perfectly preserved because apparently even time was too scared to mess with her stuff."
+    },
+    "2": {
+      "name": "Gravebound Raiment",
+      "description": "Mourning robes inked with runes of remembrance, whispering the names of the dead.",
+      "heading_details": "Gravebound Raiment - IM NOT DEAD! yet.",
+      "details": "Draped in mourning-black fabrics that cling like sorrow, this raiment is embroidered with runes of remembrance. Every fold seems to sigh under unseen weight, carrying echoes of names and voices too heavy to forget. The robe is cut long and layered, resembling burial garments but worn with proud defiance. This piece doesn't just cover the body—it memorializes it, turning the wearer into a walking shrine of grief and strength.",
+      "origin": "Originally worn by Marcus DeathDefiant (yes, that was his actual legal name) during the War of Weeping Stones in 1692. This guy literally said 'death can wait' and fought three battles while technically deceased - the runes kept his soul tethered long enough to finish the job. He was that one friend who refuses to leave the party even when everyone else has gone home, except the party was life and he had unfinished business. The robes absorbed so many final words that they still whisper names of the fallen on quiet nights."
+    },
+    "3": {
+      "name": "Phantom Veil Armor",
+      "description": "Lightweight spectral plates, half-fading like the wearer exists between realms.",
+      "heading_details": "Phantom Veil Armor - Is that a Persona Reference?",
+      "details": "An armor that seems caught between existence and erasure, its plates flicker translucent, as though woven from half-formed memories. Thin layers of steel are overlaid with shimmering gauze, vanishing at certain angles like a ghost turning away. The helm carries no faceplate—only a shifting blur, an identity ungraspable. Wearing it makes the body feel untethered, like one misstep could send you drifting into another realm entirely.", 
+      "origin": "Crafted for Lady Cassandra Betweenworlds, a knight who got stuck halfway through a teleportation spell in 1456 and just... rolled with it. She spent decades existing in two realms simultaneously, which honestly sounds exhausting but she made it work. The armor reflects her dual existence - solid enough to stop a sword but translucent enough that enemies kept swinging at empty air. She retired to become a interdimensional travel blogger, which explains why the armor has that 'I've seen things you wouldn't believe' energy."
+    },
+    "4": {
+      "name": "Ebon Vein Vesture",
+      "description": "Dark silk webbed with crimson thread, pulsing faintly like veins beneath the skin.",
+      "heading_details": "Ebon Vein Vesture - How is it pronounced again?",
+      "details": "Dark silk woven with crimson thread in vein-like patterns, glowing faintly like blood flowing beneath skin. The fabric clings to the body, but the glowing veins pulse gently, as though alive. At a glance, it is regal, but upon inspection, unsettling—clothing that blurs the line between living flesh and crafted attire.", 
+      "origin": "Created by the vampire fashionista Count Vladimir Aesthetic in 1734 because regular gothic clothing wasn't extra enough for his tastes. He literally had his own blood mixed into the silk threads because subtlety was never his strong suit. The pulsing effect comes from his vampiric essence still flowing through the fabric - it's like wearing someone's circulatory system as a fashion statement, which is peak vampire behavior honestly. He claimed it was 'the ultimate expression of living art' but we all know he just wanted to look cooler at parties."
+    },
+    "5": {
+      "name": "Dirgeweaver's Attire",
+      "description": "Elegant yet somber fabrics woven with symbols of mourning, fit for a bard of shadows.",
+      "heading_details": "Dirgeweaver's Attire - Aglaea would be proud",
+      "details": "Tailored in somber grays and blacks, the fabric is embroidered with mourning symbols from forgotten cultures. The design is elegant, flowing, and yet undeniably heavy, as if it carries the burden of centuries. Wearing it feels like reciting a song of grief with every motion. This is not attire for joy, but for artistry in sorrow.",
+      "origin": "Belonged to Melody Sorrowsong, the most famous grief-bard of the Melancholy Era (1623-1698). She could literally make people cry beautiful tears just by walking past them in this outfit. The embroidered mourning symbols are from 47 different cultures because she was that overachiever who had to collect them all like Pokemon cards, except way more depressing. She wore this during the legendary 'Concert of Eternal Sadness' that made an entire kingdom weep for three days straight. Even the outfit's current aura makes people want to write poetry about their feelings."
+    },
+    "6": {
+      "name": "Obsidian Woundwear",
+      "description": "Jagged cuts through dark fabrics, glowing faintly at the edges like healing wounds.",
+      "heading_details": "Obsidian Woundwear - I'm wounded.. so what?",
+      "details": "Cuts and slashes tear through the fabric, revealing glimpses of glowing crimson lining beneath, like wounds trying to heal. The edges of every tear shimmer faintly, pulsing like veins. It's violent but beautiful, a declaration of pain turned to power. The outfit doesn't try to hide its scars—it becomes them, making brokenness the centerpiece.",
+      "origin": "Worn by Scarlett Paintsthetown (stage name, obviously) during the Rebellion of Broken Hearts in 1789. She was a warrior-poet who believed that showing your scars was the ultimate power move - basically the original 'my trauma is my superpower' energy. Every glowing cut in the fabric represents a battle she survived, and she added new ones after each fight like the world's most emo achievement system. The outfit literally turns damage into beauty, which is such a main character move that even her enemies had to respect it."
+    },
+     "7": {
+      "name": "Aetherion Sentinel",
+      "description": "White and gold colours? nah, blessed with serene and radiant energy.",
+      "heading_details": "Aetherion Sentinel – The Light's Chosen Watcher",
+      "details": "Armor crafted in pristine white enamel with golden filigree running across the edges, it glows faintly as though touched by a divine aura. The helm is smooth and rounded, with a golden visor that gleams like sunlight reflecting off a blade. A long azure cape flows behind, stitched with star motifs, giving the sense of watching skies even while on earth. It radiates calm authority, the aura of someone who stands not just as a warrior, but as a protector chosen by the light.",
+      "origin": "Standard issue for the Celestial Honor Guard of the Radiant Empire, circa 1523-1834. These were the guys who stood at heaven's gates and made sure only the worthy got in - basically divine bouncers with better armor. This particular set belonged to Captain Lightbringer McGoodguy, who was so pure of heart that birds literally sang when he walked by (which must have been annoying during stealth missions). The armor's glow comes from centuries of accumulated good deeds, making it the ultimate virtue signaling outfit."
+    },
+    "8": {
+      "name": "Dawnward Bulwark",
+      "description": "Oh you wish to be someone with radiating hope and protection.",
+      "heading_details": "Dawnward Bulwark – Guardian of the First Light",
+      "details": "This armor gleams softly in pale-gold hues, as though the rising sun itself blessed the steel. The pauldrons flare outward, forming protective arcs that frame the chestplate's embossed sun sigil. The cape is a gradient of sunrise—orange fading into soft yellow—symbolizing rebirth and hope. Every step in this armor feels like carrying the dawn into darkness, a presence that farms not fear, but admiration and trust. Its aura is protective, radiant, and impossibly steady.",
+      "origin": "Forged for Sir Optimism Morningperson, the only knight who was genuinely excited for 5 AM training sessions. He defended the Eastern Kingdoms during the Great Darkness of 1445, where his relentlessly positive attitude was literally weaponized against shadow creatures who couldn't handle his 'good morning sunshine' energy. The armor absorbed so much dawn light that it became permanently sunrise-colored. He once defeated an army of nightmares just by existing too cheerfully - which is honestly the most OP ability ever."
+    },
+    "9": {
+      "name": "Seraphine Aegis",
+      "description": "Graceful silver-and-rose armor for a noble maiden of light.",
+      "heading_details": "Seraphine Aegis – The Maiden's Radiance",
+      "details": "This armor is sculpted with delicate precision, plated in polished silver that gleams like moonlight. Subtle rose-gold inlays trace across the chest and arms, forming floral motifs that soften the steel without diminishing its strength. The pauldrons are elegantly curved, designed not to overwhelm her frame but to enhance it, like a knight adorned for both battle and ceremony. Flowing behind is a soft silk cape in pale lavender, shifting gently with every step like a breath of spring. The helm, often carried at her side, is crested with a silver circlet rather than a crown—humble yet regal. Seraphine Aegis does not shout its presence; it sings, farming aura through grace and quiet majesty.",
+      "origin": "Created for Princess Isabella Graceface of the Silver Kingdoms in 1398. She was that Disney princess type who could tame wild dragons with kindness and make flowers bloom by smiling - basically had main character energy that bent reality around her. The armor was blessed by seven different orders of holy knights, which is either overkill or insurance depending on how you look at it. She never lost a single battle because enemies kept stopping mid-fight to compliment her style. The rose-gold inlays came from actual roses that grew in her footsteps."
+    },
+    "10": {
+      "name": "Eclipse Mantle",
+      "description": "A flowing asymmetrical cloak over fitted layers—city mage silhouette with tactical grounding.",
+      "heading_details": "Eclipse Mantle – The Cloaked Edge",
+      "details": "This piece is built from matte black ripstop, cut asymmetrically to flow like a cloak without losing the sharpness of streetwear tailoring. It fastens high at the collar with a magnetic clasp, leaving one side to drape freely like a shadow at your shoulder. Underneath, a fitted charcoal turtleneck hugs the body, balancing the silhouette against slim-cut cargos with tactical zipper seams. Finished with steel-toed sneakers, the Eclipse Mantle reads like urban sorcery—half cloak, half armor, all presence.",
+      "origin": "Designed by the mysterious street mage known only as 'That Hoodie Guy' in the neon-lit Arcane Districts of Neo-Mystopolis, 2089. He was famous for casting spells while looking like he just rolled out of bed, revolutionizing magical fashion forever. The asymmetrical design came from his philosophy that 'balance is boring' and his chronic inability to fold laundry properly. This particular mantle was worn during the Great WiFi Outage of 2091 when he single-handedly kept the city's mystical internet running using pure spite and energy drinks."
+    },
+    "11": {
+      "name": "Obsidian Grinch",
+      "description": "Modern knight energy reimagined as sleek city armor.",
+      "heading_details": "Obsidian Grinch – So You don't look like one.",
+      "details": "A longline trench coat in deep black nylon, waterproof yet sleek, with subtle armored quilting across the shoulders and sleeves. The cut is lean, straight, and powerful, extending just above the ankles for full dramatic effect. Worn over a slate-gray turtleneck and black tapered trousers, it transforms into a modern knight's tabard—refined, strong, and impossible to ignore. Every step turns the coat's hem into a low-key aura farm.",
+      "origin": "Tailored for Detective Shadow Trenchcoat (yes, another legal name change) of the Supernatural Crimes Division in 1920s Gotham-but-with-magic. He solved mysteries that regular cops couldn't handle, like 'who stole Christmas magic' and 'why do all the gargoyles keep gossiping.' The coat's dramatic flair came from his habit of appearing out of nowhere to drop cryptic one-liners before vanishing again. He tried to be like Joker from Persona 5 but with more style and less emotional damage, which made him insufferably cool (we never know)."
+    },
+    "12": {
+      "name": "Riftlayer",
+      "description": "Streetwear base layered with angular cuts, reflective sigils woven in.",
+      "heading_details": "Riftlayer – Between Realms, Between Fits",
+      "details": "A hybrid hoodie-jacket designed for motion and layering. The base is an oversized black hoodie, its fabric etched with reflective rune-like lines that only flash under certain angles of light. Layered over it is a cropped tactical jacket with angular cuts, buckles, and a stand-up collar, giving it a futuristic 'combat mage' silhouette. Paired with wide-legged cargos that cinch at the ankles, the Riftlayer thrives in duality—cozy streetwear by day, fantasy-coded powerwear by night.",
+      "origin": "Worn by DJ Voidmix during the legendary Interdimensional Rave of 2156, where music literally opened portals to other realities. The reflective runes were originally glow-stick patterns that got permanently etched into the fabric after exposure to pure bass energy. This guy was dropping beats so hard that multiple dimensions started vibing together - talk about having range. The outfit's ability to exist in multiple style categories simultaneously is a direct result of absorbing cross-dimensional fashion influences during that epic 72-hour set."
+    },
+    "13": {
+      "name": "Lunastra",
+      "description": "Satin minimalism hidden under a flowing hooded cloak—enchanted yummy-core.",
+      "heading_details": "Lunastra – The Cloaked Siren",
+      "details": "A satin black mini dress with a clean square neckline forms the core, body-skimming but minimal. Draped over it: a cropped hooded cloak in lightweight matte fabric, its flowing sleeves giving every step a sense of ceremony. The cloak fastens with a silver crescent clasp at the neck, and the hood frames the face in shadowed elegance. Thigh-high boots ground the look in modern streetwear, but the cloak's movement turns it into a spell—elegance disguised as power.",
+      "origin": "Created for Luna Mystique, the most influential witch-fluencer of the late Victorian Occult Revival (1887). She was basically Instagram famous but for séances and potion recipes, with a following that included actual ghosts. The cloak's midnight elegance came from her signature 'dark academia but make it witchy' aesthetic that launched a thousand Pinterest boards. She wore this during the Great Spirit Photography Trend, where everyone was trying to look mysteriously beautiful in haunted daguerreotypes."
+    },
+    "14": {
+      "name": "Aetherveil",
+      "description": "Airy and futuristic with iridescent shimmer, like fashion stitched from wind itself.",
+      "heading_details": "Aetherveil – The Weight of Air",
+      "details": "A cropped bomber jacket reimagined in pearl-gray with semi-translucent mesh panels along the sleeves and back, designed to catch wind like wings. Iridescent threading shimmers faintly across the seams, subtle but ethereal under streetlights. Paired with a high-waisted tech skirt layered over fitted leggings, the look balances utility with enchantment. Finished with futuristic sneakers, Aetherveil looks feather-light yet unshakably grounded, as if stitched from air and light itself.",
+      "origin": "Standard uniform for the Sky Dancers of the Floating City of Nimbustown, circa 2234. These aerial performers could literally walk on clouds, which sounds cool until you realize they had to deal with constant weather-related wardrobe malfunctions. This particular set belonged to Captain Windwalker, who held the record for most consecutive cloud-to-cloud leaps (847) and the most dramatic cape billowing (unmeasurable). The translucent panels were designed to catch air currents for better gliding, making it both functional and absolutely iconic. Man, must be hard no?"
+    },
+    "15": {
+      "name": "Emberthread",
+      "description": "Relaxed fantasy-tinted flannel., radiating noble energy.",
+      "heading_details": "Emberthread Flannel – Hearthlight on the Streets",
+      "details": "A loose, soft flannel shirt in deep burgundy and black plaid, woven with a faint golden thread that shimmers subtly when it catches the sun. Worn open over a black tee with slim jeans and boots, it's casual warmth turned slightly magical—like carrying a fireplace aura into modern streets.",
+      "origin": "Worn by Jake Fireside, a lumberjack-turned-fire-mage who revolutionized both forestry and heating bills in the Rural Magic Communities of 1892. He was that guy who could make a campfire feel like a five-star hotel experience and somehow made flannel look mystical. The golden threads are actually crystallized flames he accidentally created while trying to toast marshmallows with magic - classic Jake move. This shirt was his daily wear while he transformed entire forests into sustainable heating cooperatives. We all should adapt sustainable development or something atp."
+    },
+    "16": {
+      "name": "Onyx Dusk",
+      "description": "Chic blazer dress with aura dominance.",
+      "heading_details": "Onyx Dusk – Smooth Confidence",
+      "details": "A fitted black turtleneck tucked beneath a slim black suit jacket with sharp shoulders, paired with tailored trousers. Minimalist silver cufflinks and a watch complete the detailing. Shoes: sleek black Chelsea boots. It's modern, suave, effortless—the kind of look that doesn't chase attention but pulls it naturally.",
+      "origin": "The signature look of Victoria Businesswoman, CEO of Mysterious Enterprises Inc. during the Corporate Occult Boom of 1953. She ran séances in boardrooms and made quarterly reports to both shareholders and spirits. This outfit was her power suit for closing deals that literally involved souls - she had that 'sign here in blood' energy but with impeccable style. The confidence-radiating properties come from her unshakeable belief that good fashion could solve any supernatural crisis. Mommy. Girlboss. Sorry."
+    },
+    "17": {
+      "name": "Koi Whisper",
+      "description": "Playful but feminine street-kawaii mix.",
+      "heading_details": "Koi Whisper – Gentle Mischief",
+      "details": "A cropped oversized hoodie in soft cream with a koi embroidery drifting along one sleeve, paired with a pale blue skater skirt. Finished with pastel sneakers and a small crossbody bag shaped like a koi charm. Cute and approachable, but its softness invites attention without trying—kawaii aura deployed.",
+      "origin": "Designed by Sakura Chiisai-sama for the Great Anime Convention of 2067, where cosplay had evolved into actual magical transformation. But it required blood sweat and tears for it. She was the undisputed queen of cute-but-deadly energy and no she wasn't a Tsundere, but a magical girl who actually pays her taxes and has a retirement plan. The koi embroidery was imbued with good fortune after swimming through the legendary Pond of Eternal Vibes. This outfit launched the 'weaponized cuteness' fashion movement that dominated the late 21st century."
+    },
+    "18": {
+      "name": "Duskweave Hoodie",
+      "description": "Street hoodie with enchanted textures.",
+      "heading_details": "Duskweave Hoodie – Magic in Comfort",
+      "details": "An oversized charcoal hoodie with faint, embroidered sigil patterns across the sleeves, stitched in dark thread that only reveals under certain light. Paired with relaxed black joggers with zippered pockets and sleek sneakers. Cozy and casual, but there's a presence in the details, as if the hoodie carries low-key spell energy.",
+      "origin": "Created by the collective consciousness of every college student who ever pulled an all-nighter in the Mystical Arts Library of Procrastination University, established 2045. The hoodie absorbed decades of late-night study sessions, energy drink spills, and the desperate prayers of students hoping their magic homework would do itself. The subtle spell patterns formed naturally from all the magic theory that soaked into the fabric. It's basically academic PTSD made wearable, but in a cozy way. Trust me its comfortable."
+    },
+    "19": {
+      "name": "Shadowheart Gauntlets",
+      "description": "Fingerless leather gloves with silver clasps, whispering protection spells to steady your grip.",
+      "heading_details": "Shadowheart Gauntlets – Hands That Hold Power",
+      "details": "Crafted from supple black leather with silver-buckled straps across the knuckles, these fingerless gauntlets extend to mid-forearm with subtle padding. Each glove bears a small amethyst stone embedded in the palm, cool to the touch and faintly luminous in darkness. The leather is soft enough for delicate work, yet the reinforced knuckles promise protection. Wearing them feels like channeling quiet strength—every gesture becomes deliberate, every touch purposeful.",
+      "origin": "Forged for Raven Edgelord during her 'I'm not like other paladins' phase in 1456. She was a holy warrior who exclusively wore black because 'light is too mainstream' and somehow made divine magic look goth. The amethyst stones were her idea because she insisted that purple was the most mysterious color and regular silver was 'too shiny for stealth. She lived.. I Believe."
+    },
+    "20": {
+      "name": "Solaris Crown",
+      "description": "A delicate golden circlet that catches sunlight like captured dawn.",
+      "heading_details": "Solaris Crown – Bearer of First Light",
+      "details": "This isn't a crown that demands attention—it earns it. Forged from warm gold in thin, elegant bands that curve around the head like rays of sunlight, each point tipped with a small citrine crystal. The metal is so finely worked it feels weightless, resting like a whisper against the temples. When worn, it catches every beam of light and throws it back tenfold, creating a natural halo effect. This is regality without arrogance, power without domination.",
+      "origin": "Originally crafted for Princess Aurelia the Perpetually Late, who ruled the Solar Kingdom around 3021 BCE. She was infamous for sleeping through every sunrise ceremony, so her royal smiths created this crown to literally wake her up by reflecting sunlight directly into her eyes - talk about a biological alarm clock that hits different. The citrine crystals were blessed by the first Phoenix ever to achieve verified Twitter status, making them resonate with pure 'main character energy.' Aurelia wore it during the legendary Battle of the Early Birds vs Night Owls, where she finally proved that morning people could be just as chaotic as the rest of us. The crown was lost for centuries until archaeologists found it in what appeared to be an ancient McDonald's - some things never change. It's said that whoever wears it gains the power to look flawless in morning selfies, which honestly might be the most valuable magic of all."
+    },
+    "21": {
+      "name": "Voidwalker Boots",
+      "description": "Midnight-black combat boots that seem to absorb light with every step.",
+      "heading_details": "Voidwalker Boots – Steps Between Worlds",
+      "details": "These boots drink in light rather than reflect it, crafted from matte black leather so deep it seems to create small voids around your feet. Laced high to mid-calf with silver eyelets, they're built for both elegance and endurance. The soles are thick but silent, designed for stealth and comfort alike. Wearing them makes every footstep feel deliberate, as though you're walking between realms with each stride.",
+      "origin": "These boots walked straight out of the Interdimensional Fashion Week of 4156, worn by the infamous model Zara Blackstep who made headlines for walking through literal void portals on the runway. She was basically the goth girl of the multiverse, and these boots were her signature piece. Crafted by the mysterious Cobbler of the Abyss (who only accepted payment in forgotten memories and really good memes), they're made from leather that exists between dimensions. Zara wore them during her legendary 'Void Walk Challenge' that went viral across seventeen different realities - she basically invented interdimensional TikTok trends before TikTok was even a thing. The boots absorbed so much cosmic darkness that they developed their own gravitational pull, which explains why everyone feels inexplicably drawn to the wearer. After Zara retired to become a full-time cryptid, the boots wandered the void until they found their way back to our reality, probably because even interdimensional footwear gets homesick sometimes."
+    },
+    "22": {
+      "name": "Moonveil Scarf",
+      "description": "Gossamer silk that shifts between silver and lavender like moonlight through clouds.",
+      "heading_details": "Moonveil Scarf – Whispers of Lunar Grace",
+      "details": "Woven from the finest silk in gradient hues of silver-lavender, this scarf seems to change color as it moves, catching light like liquid moonbeams. Long enough to wrap multiple times or let trail dramatically, it's impossibly light yet warm against the skin. Small silver threads are woven throughout, creating subtle constellation patterns that shimmer when the fabric moves. It transforms any outfit into something ethereal.",
+      "origin": "Woven by the Moon Maidens of Lake Serenity during the Great Aesthetic Revolution of 2156, when everyone collectively decided that normal fabric just wasn't giving enough ethereal vibes. The silk comes from cosmic silkworms that only eat stardust and exist on a diet of pure moonbeams - basically the space equivalent of those trendy organic health nuts. This particular scarf belonged to Luna Silvermist, a celestial influencer who had like 50 million followers across multiple galaxies before social media even existed. She wore it during the infamous 'Moonlight Dance-Off Against the Sun God' incident, which historians now recognize as the first recorded dance battle in cosmic history. The color-shifting properties were an accident - Luna spilled galaxy-grade glitter all over it, but instead of ruining it, it just made it more iconic. The constellation patterns were hand-stitched by her grandmother, who was apparently part constellation herself, because that family tree gets weird when you go back far enough."
+    },
+    "23": {
+      "name": "Thornward Jacket",
+      "description": "Forest-green leather jacket with protective runes etched into thorn-like patterns.",
+      "heading_details": "Thornward Jacket – Nature's Armor",
+      "details": "Cut from rich forest-green leather with natural grain texture, this jacket features subtle thorn-vine embossing across the shoulders and sleeves. Silver zippers and buckles provide modern functionality while brass studs trace protective sigil patterns. The fit is perfectly tailored but allows for movement, like armor designed by druids. When worn, it carries the essence of deep woods and ancient protections.",
+      "origin": "This jacket has more backstory than a main character in a 12-season anime. Originally belonged to Rowan Wildhart, the most extra forest guardian who ever lived - we're talking someone who would dramatically emerge from trees just to give directions to lost hikers. Crafted during the Woodland Rebellion of 1847, when the trees literally went to war against industrialization (and honestly, they had valid points). The leather came from a particularly philosophical dragon who donated it willingly after losing a debate about environmental ethics - apparently even dragons have eco-anxiety now. Rowan wore this jacket during the legendary 'Siege of the Last Mall,' where he led an army of awakened houseplants against corporate deforestation. The protective runes were carved by ancient druids who were basically the original environmentalists, except with more magic and fewer protest signs. After Rowan ascended to become one with the forest wifi network (don't ask, it's complicated), the jacket was passed down through generations of people who unironically use 'touch grass' as lifestyle advice."
+    },
+    "24": {
+      "name": "Starweave Cloak",
+      "description": "Midnight-blue velvet scattered with silver thread constellations that seem to move.",
+      "heading_details": "Starweave Cloak – Wrapped in Night Sky",
+      "details": "This full-length cloak flows like liquid starlight, woven from midnight-blue velvet so fine it seems to absorb surrounding darkness. Silver threads create constellation patterns across the fabric, and the positioning is so masterful that they appear to shift and twinkle as you move. The hood is deep enough to create mystery, and the clasp is a crescent moon in polished silver. Wearing it feels like carrying the night sky on your shoulders.",
+      "origin": "Created in the Celestial Ateliers of Nova Prima during the Golden Age of Looking Absolutely Devastating, around 2847 CE. This cloak belonged to Stella Nightborn, the most dramatic astronomer in recorded history - she literally wouldn't observe stars unless she was wearing something that matched their vibes. The midnight-blue velvet was harvested from the Dream Realm during the rare occurrence when nightmares and sweet dreams decided to collaborate on a fashion project. Stella wore this during her famous 'Great Star Mapping Expedition of 2851,' where she charted seventeen new constellations while looking like the main character in the universe's most expensive music video. The silver constellation threads were spun by cosmic spiders who were paid in compliments and premium stardust - apparently even interdimensional arachnids have their price. The cloak gained its reality-bending properties after Stella accidentally wore it during a cosmic storm, causing it to absorb raw starlight and develop what scientists technically call 'protagonist energy.' She left it behind when she ascended to become the universe's first celestial fashion critic, reviewing nebulae and rating solar systems on their aesthetic choices."
+    },
+    "25": {
+      "name": "Crimson Oath Ring",
+      "description": "A signet ring bearing a ruby that pulses like a heartbeat when worn.",
+      "heading_details": "Crimson Oath Ring – Bonds That Bind",
+      "details": "Forged from blackened silver with intricate knotwork around the band, this ring holds a deep red ruby at its center that seems to glow with inner fire. The stone is cut in a unique way that makes it appear to pulse gently when catching light, as if synchronized with your heartbeat. Ancient symbols are etched so finely into the band that they're only visible upon close inspection. This isn't just jewelry—it's a promise made manifest.",
+      "origin": "Forged in the Heart Forge of the Eternal City during the Age of Unbreakable Promises, back when people still believed in forever and weren't afraid of commitment issues. This ring belonged to Sir Marcus Heartbound, a knight so devoted to keeping his word that he literally couldn't tell a lie without the ring shocking him - it was like having a built-in truth detector with aggressive feedback. The ruby was mined from the Caverns of Honest Feelings, a place so rare that most people's emotional intelligence GPS can't even locate it. Marcus wore this ring when he made the legendary Oath of the Eternal Guardian, swearing to protect love itself from becoming extinct in an increasingly cynical world - basically he was fighting for romance before dating apps made everything weird. The ring's heartbeat synchronization wasn't intentional; it happened after Marcus died defending a couple's right to have their wedding during a dragon attack (priorities, right?). The blackened silver developed its color from absorbing centuries of emotional intensity, making it the perfect accessory for anyone whose feelings run deeper than a Tumblr poetry blog."
+    },
+    "26": {
+      "name": "Dawnbreaker Vest",
+      "description": "Cream-colored tactical vest with golden sunrise embroidery across the chest.",
+      "heading_details": "Dawnbreaker Vest – Light's First Herald",
+      "details": "Cut from high-quality cream canvas with a subtle texture, this vest features intricate golden embroidery depicting a stylized sunrise across the chest. Multiple pockets provide both form and function, each secured with brass buttons. The fit is structured but breathable, designed for both urban exploration and outdoor adventures. The sunrise motif seems to glow softly in natural light, making the wearer appear touched by dawn itself.",
+      "origin": "Tailored during the Great Sunrise Revolution of 3156, when a group of extremely motivated morning people decided that dawn needed better representation in fashion. This vest belonged to Captain Aurora Lightbringer, commander of the Dawn Patrol - an elite squad of people who voluntarily woke up before 5 AM and somehow maintained positive attitudes about it. The golden sunrise embroidery was stitched using actual captured sunbeams by the Master Seamstresses of the Early Bird Guild, who operated on the philosophy that if you're going to be awake at ungodly hours, you might as well look celestial doing it. Aurora wore this vest during the legendary Battle of Snooze Mountain, where she led her caffeine-fueled army against the forces of Eternal Slumber (basically people who wanted to sleep in forever, which honestly sounds pretty appealing). The vest gained its light-emanating properties after Aurora performed the Ritual of First Coffee while wearing it, causing it to permanently absorb the energy of perfect morning vibes. She retired after realizing that saving the world before breakfast was giving her unrealistic productivity standards for everyone else."
+    },
+    "27": {
+      "name": "Wraithbane Choker",
+      "description": "Black velvet choker with a small silver pendant that wards off negative energy.",
+      "heading_details": "Wraithbane Choker – Protection Worn Close",
+      "details": "A simple black velvet ribbon that sits perfectly at the throat, adorned with a small silver pendant carved with protective sigils. The velvet is impossibly soft, and the pendant is cool against the skin, seeming to pulse gently with protective energy. Despite its delicate appearance, it radiates quiet strength and serves as both elegant accessory and spiritual armor.",
+      "origin": "Crafted by the Sisterhood of Subtle Protection during the Quiet Revolution of 1456, when feminine power decided to manifest through accessories that could end your enemies while looking absolutely flawless. This choker belonged to Lady Evangeline Shadowbane, who was basically the medieval equivalent of that friend who looks delicate but could probably bench press a horse if necessary. The black velvet came from the Midnight Gardens, where flowers only bloomed during the witching hour and had serious goth energy. The silver pendant was blessed by seven different protective spirits who were all competing to see whose blessing would be most effective - it was like spiritual peer pressure, but in a good way. Evangeline wore this during the infamous Banshee Incident of 1461, where she faced down an entire haunted house armed with nothing but attitude and this choker (spoiler alert: the ghosts apologized and left). The protective properties intensified after the choker absorbed negative energy from approximately 10,000 bad vibes, making it basically a wearable therapy session. When Evangeline passed away (peacefully, in her sleep, because even death respected her too much to be dramatic), the choker continued protecting people because apparently good accessories never truly retire."
+    },
+    "28": {
+      "name": "Mystic Bomber",
+      "description": "Oversized bomber in deep purple with constellation mapping stitched in silver thread.",
+      "heading_details": "Mystic Bomber – Cosmic Street Style",
+      "details": "This oversized bomber jacket reimagines streetwear through a mystical lens, crafted in deep purple satin with constellation maps embroidered across the back in silver thread. The ribbed cuffs and hem provide classic bomber styling, while the cosmic details transform it into wearable art. Interior pockets are lined with star-map fabric, making even the hidden elements magical.",
+      "origin": "Designed during the Interdimensional Street Fashion Renaissance of 4823, when regular clothes were declared 'too basic' by the Council of Cosmic Style. This bomber belonged to Kai Stardrifter, a dimensional traveler who collected aesthetics from different realities like most people collect coffee shop stamps. The deep purple satin was woven from crystallized twilight harvested during the brief moments between day and night across multiple dimensions - basically the fabric equivalent of that perfect golden hour lighting everyone tries to capture in selfies. Kai wore this jacket while exploring the Constellation Markets, where cosmic vendors sold bottled starlight and quantum fashion accessories that existed in multiple realities simultaneously. The constellation mapping was added after Kai got lost in the Void Between Worlds and had to navigate using star patterns embroidered on their jacket - talk about fashion being functional. The jacket developed its reality-bending properties after being worn through approximately 847 dimensional portals, absorbing trace amounts of cosmic energy and what scientists call 'main character syndrome.' Kai eventually settled down in a pocket dimension where every day is perpetually autumn and the aesthetic never changes, leaving the jacket behind for someone who still needed to travel between worlds while looking absolutely devastating."
+    },
+    "29": {
+      "name": "Soulforge Bracers",
+      "description": "Leather bracers with brass buckles, etched with runes for strength and endurance.",
+      "heading_details": "Soulforge Bracers – Strength Made Manifest",
+      "details": "Crafted from rich brown leather with brass buckles and D-rings, these forearm bracers feature hand-etched runic symbols that seem to pulse with subtle warmth when worn. The leather is thick enough to provide protection yet supple enough for comfortable daily wear. They transform any outfit into something that suggests hidden strength and ancient knowledge.",
+      "origin": "Hammered into existence during the Great Strength Awakening of 2134, when society finally realized that inner power needed some serious exterior accessories to match. These bracers belonged to Maya Ironheart, a warrior-philosopher who believed that true strength came from knowing exactly how powerful you were and being chill about it. The leather was sourced from the Hide of Understanding, a mythical creature that voluntarily shed its skin once it achieved enlightenment - basically the spiritual equivalent of a snake that got really into meditation. The brass buckles were forged from metal that had been sung to by the Dwarven Choir of Emotional Support, making them resonate with frequencies that boost confidence and reduce anxiety. Maya wore these during the legendary Tournament of Inner Strength, where competitors battled their own self-doubt instead of each other - it was surprisingly intense, and the audience was mostly therapists taking notes. The runic symbols developed their warmth after absorbing years of Maya's determination to help people realize their own worth, making the bracers basically wearable self-esteem. She passed them down after achieving the ultimate goal of never needing external validation again, though she admitted the bracers were 'still pretty rad' even for someone who had transcended the need for cool accessories."
+    },
+    "30": {
+      "name": "Ethereal Kimono",
+      "description": "Flowing silk kimono in ethereal whites with hand-painted cherry blossoms.",
+      "heading_details": "Ethereal Kimono – Grace Between Worlds",
+      "details": "This modern interpretation of a traditional kimono flows like liquid moonlight, crafted from the finest silk in gradient whites and pale lavenders. Hand-painted cherry blossoms drift across the fabric as if caught in an eternal spring breeze. The sleeves are wide and dramatic, the obi sash a deeper purple that grounds the ethereal palette. Wearing it feels like stepping into a dream painted in pastels.",
+      "origin": "Woven during the Festival of Eternal Cherry Blossoms in Neo-Kyoto, 2847, when the city's AI achieved enlightenment and decided to celebrate by making everything aesthetically perfect for three consecutive months. This kimono belonged to Yuki Moonwhisper, a digital artist who specialized in painting with actual moonbeams and had somehow managed to make a living from it in the cosmic gig economy. The silk came from quantum silkworms that existed in a state of perpetual spring, fed on digital cherry blossoms and dreams of perfect weather - basically the most optimized insects in the multiverse. The hand-painted cherry blossoms were created using pigments made from crystallized hanami emotions, capturing that specific feeling of sitting under falling petals while contemplating life's fleeting beauty. Yuki wore this kimono during her legendary exhibition 'Pixels and Petals: When Technology Dreams of Nature,' which made half the audience cry tears of pure aesthetic appreciation. The kimono gained its ethereal properties after being worn during the Great Convergence, when digital and physical reality briefly merged and everything looked like a Studio Ghibli film for exactly seventeen minutes. Yuki eventually uploaded her consciousness to become the universe's first digital guardian of seasonal aesthetics, leaving the kimono behind for someone who still needed to exist in physical form while channeling maximum ethereal energy."
+    },
+    "31": {
+      "name": "Stormcaller Cloak",
+      "description": "Storm-gray wool with electric blue lightning patterns that seem to flicker.",
+      "heading_details": "Stormcaller Cloak – Thunder Made Wearable",
+      "details": "Heavy storm-gray wool forms the foundation of this dramatic cloak, with electric blue thread embroidered in lightning patterns that catch light in unexpected ways, creating the illusion of flickering electricity. The hood is deep and protective, the fabric thick enough to weather actual storms. Silver clasps shaped like thunderbolts secure it at the throat.",
+      "origin": "Woven during the Great Weather Wars of 2456, when climate mages battled for control over atmospheric aesthetics and everyone took storm-chasing way too seriously. This cloak belonged to Thunder Jenkins (yes, that was his actual legal name - his parents were meteorologists with commitment issues), the most extra storm summoner in recorded history. The storm-gray wool came from sheep that grazed exclusively in thunderclouds, giving them perpetually static-charged fleece and really bad attitudes about precipitation. The electric blue lightning patterns were embroidered using actual captured lightning by the Mad Seamstresses of Tesla Tower, who operated on the philosophy that if your clothes can't potentially electrocute someone, you're not trying hard enough. Thunder wore this cloak during the legendary Siege of Hurricane Heights, where he single-handedly convinced a category 5 hurricane to change directions by challenging it to a dance battle (the hurricane won, but it was impressed enough to spare the city). The cloak's reality-bending properties developed after absorbing seventeen different types of storm energy, making it basically a wearable weather system with anxiety issues. Thunder retired after realizing that controlling the weather was giving him too much responsibility for other people's outdoor plans, passing the cloak to someone who could handle the pressure of being indirectly responsible for every rained-out picnic in a three-county radius."
+    },
+    "32": {
+      "name": "Faelight Earrings",
+      "description": "Delicate gold hoops with hanging jade stones that seem to glow with inner light.",
+      "heading_details": "Faelight Earrings – Whispers of the Wild",
+      "details": "These elegant gold hoops suspend smooth jade teardrops that seem to hold captured forest light within their depths. The jade shifts from pale green to deeper emerald depending on the angle, and the gold is worked with such fine detail that tiny leaf patterns are visible upon close inspection. They catch and reflect light in ways that make them appear almost luminescent.",
+      "origin": "Crafted during the Great Jewelry Awakening of 1847, when the Fae Courts decided that human accessories were 'tragically under-enchanted' and took it upon themselves to fix the situation. These earrings belonged to Willow Brightleaf, a half-fae diplomat who specialized in translating between human common sense and fae logic (a job that required hazard pay and extensive therapy). The gold hoops were forged from sunlight that had been aged in moonbeams for exactly seven seasons, creating metal that existed in a permanent state of golden hour lighting. The jade stones were gifts from the Earth Spirits during the Treaty of Perpetual Spring, when humans and nature finally agreed to stop being weird about coexisting. Willow wore these during the infamous Diplomatic Incident of the Glowing Trees, where she successfully negotiated a peace treaty between urban development and an enchanted forest by proving that coexistence could actually look pretty cool. The earrings gained their luminescent properties after being worn during the Festival of Eternal Twilight, absorbing the specific energy of that perfect moment when day and night can't decide who's in charge. When Willow ascended to become the official Ambassador to All Things That Glow, she left the earrings behind with a note saying 'for someone who needs to light up the room without requiring actual electrical infrastructure."
+    },
+    "33": {
+      "name": "Shadowmend Cardigan",
+      "description": "Oversized charcoal cardigan with pockets deep enough to hold secrets.",
+      "heading_details": "Shadowmend Cardigan – Comfort in Mystery",
+      "details": "This oversized cardigan wraps you in charcoal-gray cashmere so soft it feels like wearing shadows. The pockets are unusually deep, perfect for carrying small treasures or keeping hands hidden. Black buttons march up the front, and the hem reaches mid-thigh for maximum coziness. It's the kind of piece that makes you want to curl up with ancient books and herbal tea.",
+      "origin": "Knitted during the Cozy Revolution of 3001, when society collectively decided that comfort was a human right and anyone preventing optimal coziness was committing crimes against hygge. This cardigan belonged to Luna Nightreader, a librarian who had achieved the ultimate goal of being paid to read books while wearing extremely comfortable clothes. The charcoal cashmere came from shadow goats that grazed in the twilight valleys between day and night, producing wool that felt like wearing a gentle hug from the universe itself. The impossibly deep pockets were engineered by the Guild of Practical Magic to exist in a slight dimensional fold, allowing them to hold approximately three times more than physics should permit - basically Mary Poppins' bag technology, but for cardigans. Luna wore this during the legendary Great Library Siege of 3003, where she defended the Sacred Archive of Forbidden Romance Novels against the forces of Literary Pretension (they lost, obviously). The cardigan developed its secret-keeping properties after years of being worn while Luna listened to patrons' confessions about their questionable reading habits, making it basically a wearable therapist with superior fashion sense. She passed it on after achieving the dream job of becoming the universe's official Keeper of Cozy Vibes, a position that apparently comes with excellent benefits and unlimited tea."
+    },
+    "34": {
+      "name": "Dragonscale Gloves",
+      "description": "Full-length gloves in emerald green with overlapping scale patterns.",
+      "heading_details": "Dragonscale Gloves – Ancient Power at Your Fingertips",
+      "details": "These opera-length gloves extend to the elbow in rich emerald green, with overlapping scale patterns etched into the leather that catch light like real dragon scales. The fit is precise, allowing for full dexterity while providing an air of otherworldly elegance. Small brass clasps at the wrists secure them in place, and the fingertips are reinforced with subtle metallic details.",
+      "origin": "Commissioned during the Great Dragon Diplomacy Initiative of 2189, when humans finally realized that maybe they should try talking to dragons instead of constantly trying to fight them. These gloves belonged to Sir Ember Drakewhisperer, the first human to successfully negotiate a peace treaty with dragons by offering them cryptocurrency (apparently ancient dragons are surprisingly good at understanding blockchain technology). The emerald green leather came from Verdania the Reasonable, an ancient dragon who participated in the Peace Accords after getting tired of humans constantly trying to steal her stuff - she figured if she was going to shed scales anyway, she might as well make it a business transaction. The overlapping scale patterns were hand-etched by the Dragon Artisans Guild, who took their craft seriously enough to make human fashion designers weep with envy. Sir Ember wore these during the legendary Council of Flame and Reason, where he successfully convinced twelve different dragon clans that humans were worth keeping around, mostly by demonstrating that human creativity could produce really aesthetically pleasing accessories. The gloves gained their otherworldly properties after being blessed by every dragon who signed the peace treaty, making them basically diplomatic immunity in wearable form. Sir Ember eventually retired to become the universe's first Dragon-Human Relations Counselor, leaving the gloves for someone who needed to handle powerful creatures with style and grace."
+    },
+    "35": {
+      "name": "Nebula Shift Dress",
+      "description": "Flowing shift dress in cosmic colors that seem to swirl and move across the fabric.",
+      "heading_details": "Nebula Shift Dress – Wearing the Universe",
+      "details": "This fluid shift dress captures the beauty of deep space in wearable form, with fabric that shifts between deep purples, electric blues, and touches of cosmic pink. The colors seem to move and swirl as you walk, creating the illusion of wearing a living nebula. The cut is simple and elegant, letting the cosmic fabric be the star of the show.",
+      "origin": "Designed during the Cosmic Fashion Revolution of 4156, when regular Earth-based clothing was declared 'dimensionally insufficient' by the Intergalactic Style Council. This dress belonged to Nova Starweaver, a cosmic dancer who performed exclusively in the spaces between star systems and somehow made a living from it in the universe's most niche entertainment market. The fabric was woven from actual nebula gases that had been crystallized during the brief moment when a dying star decided to go out in style, creating material that existed in a permanent state of beautiful cosmic drama. The swirling colors were captured from the Aurora Borealis of seventeen different planets, each contributing their unique electromagnetic signature to create a dress that was basically a wearable light show. Nova wore this during her legendary performance 'Dancing with Dying Stars,' which was witnessed by approximately three civilizations and made them all question their understanding of movement, art, and the fundamental nature of beauty. The dress gained its reality-shifting properties after being worn through multiple solar storms, absorbing cosmic radiation and developing what scientists call 'main character energy on a galactic scale.' Nova eventually transcended physical form to become pure cosmic dance energy, leaving the dress behind for someone who still needed to exist in a corporeal body while channeling the aesthetic power of the entire universe."
+    },
+    "36": {
+      "name": "Runeward Boots",
+      "description": "Knee-high leather boots with protective runes carved into the sides.",
+      "heading_details": "Runeward Boots – Steps Protected by Ancient Power",
+      "details": "These knee-high boots are crafted from rich brown leather with protective runes hand-carved into panels along the sides. Each rune is filled with gold leaf that gleams against the leather, and the boots lace up with leather cords threaded through brass eyelets. The soles are thick and durable, designed for both urban streets and mystical journeys.",
+      "origin": "Crafted during the Golden Age of Practical Magic in 1634, when wizards finally realized that all their power was useless if they kept getting blisters from cheap footwear. These boots belonged to Master Aldric Groundwalker, the most pragmatic wizard in recorded history - he was the guy who invented spell components that didn't require traveling to seventeen different mystical locations just to cast a simple light spell. The rich brown leather came from the Cattle of Understanding, a herd of philosophically enlightened cows who had achieved inner peace and voluntarily contributed to the greater good (they were basically the Buddhist monks of the bovine world). The protective runes were hand-carved by the Guild of Sensible Enchanters, who operated on the principle that if your magical protection was too complicated to remember during a crisis, it was probably useless. Aldric wore these during the infamous Expedition to the Practical Realm, where he proved that common sense and magic could coexist without causing reality to have an existential crisis. The gold leaf filling developed its power after centuries of being walked on by people who actually knew what they were doing, making the boots basically wearable competence. When Aldric ascended to become the Patron Saint of Getting Things Done, he left the boots behind with instructions that they should only be worn by people who understood that true power comes from being prepared for anything while looking absolutely professional about it."
+    },
+    "37": {
+      "name": "Celestial Pendant",
+      "description": "Silver chain with a golden star pendant that seems to pulse with celestial energy.",
+      "heading_details": "Celestial Pendant – A Star to Guide You",
+      "details": "This delicate silver chain holds a golden star pendant at its heart, crafted with such precision that it seems to hold actual starlight within its points. The star rotates freely on its mounting, catching light from every angle, and the silver chain is fine enough to feel weightless around the neck. It's said that those who wear it find their way more easily, both literally and metaphorically.",
+      "origin": "Forged during the Great Navigation Crisis of 2847, when humanity had colonized half the galaxy but somehow kept getting lost trying to find the space equivalent of a gas station. This pendant belonged to Captain Stella Wayfinder, the most directionally gifted person in the known universe - she was the human equivalent of GPS, but with better fashion sense and fewer annoying voice prompts. The silver chain was crafted from meteoric silver that had been blessed by the Constellation of Eternal Direction, a group of stars that had apparently gotten tired of watching space travelers fly in circles for centuries. The golden star pendant was carved from a fragment of the First Star, which had volunteered a piece of itself after witnessing too many people get lost in their own solar systems. Stella wore this during the legendary Great Space Rescue of 2851, where she successfully guided 10,000 lost ships back to their home systems using nothing but stellar navigation and an impressive amount of cosmic confidence. The pendant gained its guidance properties after absorbing the navigational prayers of every lost traveler in the galaxy, making it basically a wearable compass that works on existential as well as physical levels. When Stella retired to become the universe's official Director of Not Getting Lost, she passed the pendant on with a note saying 'for someone who needs to find their way, both literally and metaphorically, while looking stellar in the process."
+    },
+    "38": {
+      "name": "Nightfall Ensemble",
+      "description": "Complete three-piece outfit: velvet blazer, fitted pants, and silk shirt in midnight tones.",
+      "heading_details": "Nightfall Ensemble – Elegance After Dark",
+      "details": "This complete three-piece set includes a velvet blazer in deep midnight black, perfectly fitted trousers in matching fabric, and a silk shirt in deep purple that shifts to black in low light. Silver buttons and subtle purple stitching provide the only ornamentation needed. The ensemble is tailored to perfection, creating a silhouette that commands attention through pure elegance rather than flash.",
+      "origin": "Tailored during the Elegant Darkness Movement of 3456, when society decided that villains had been monopolizing all the best aesthetic choices for way too long and it was time for regular people to reclaim sophisticated darkness. This ensemble belonged to Lord Vincent Shadowmere, a reformed vampire who had traded his evil overlord career for a more sustainable lifestyle in fashion consulting (apparently even immortal creatures of the night need to pivot sometimes). The midnight velvet came from the Fabric Mills of Eternal Twilight, where they specialized in creating clothing that looked like it had been woven from the space between stars. The deep purple silk shirt was dyed using ink from the Midnight Squid, a creature that only existed during solar eclipses and had strong opinions about color coordination. Vincent wore this ensemble during the legendary Gala of Redeemed Villains, where former antagonists showcased their successful career transitions while looking absolutely devastating in formal wear. The outfit gained its reality-bending properties after being worn to approximately 200 high-society events where Vincent proved that you could look dangerously elegant without actually being dangerous. When Vincent finally achieved his dream of opening a finishing school for reformed supernatural creatures, he passed the ensemble on to someone who needed to command respect through pure aesthetic authority rather than centuries of accumulated dark magic."
+    },
+    "39": {
+      "name": "Academy Sentinel Uniform",
+      "description": "Navy blue military-inspired uniform with golden trim, designed for magical academy honor guards.",
+      "heading_details": "Academy Sentinel Uniform – Honor in Service",
+      "details": "This pristine uniform combines military precision with mystical elegance, featuring a navy blue wool jacket with golden braiding across the chest and shoulders. Silver buttons bear ancient protective sigils, and the high collar displays rank insignia in golden thread. The matching trousers have a perfect crease, and the ensemble includes white gloves and a peaked cap with a griffin emblem. Wearing it feels like joining an elite order dedicated to protecting ancient knowledge.",
+      "origin": "Commissioned during the Great Educational Reform of 2134, when magical academies realized that their security was being handled by people who looked like they'd rather be anywhere else and decided to fix the aesthetic alongside the actual protection. This uniform belonged to Captain Sarah Brightward, the most inspirational security officer in academic history - she was the person who made campus safety look like a calling rather than a job requirement. The navy blue wool came from the Sheep of Scholarly Dedication, a breed that only grew their finest fleece while listening to lectures about ancient magical theory (they were basically the academic equivalent of classical music cows). The golden braiding was crafted by the Master Tailors of Honor, who operated on the principle that if you're going to protect knowledge, you should look like knowledge itself chose you personally. Sarah wore this during the infamous Siege of Final Exams, where she defended the academy against an invasion of stress demons while maintaining perfect uniform standards and somehow still managing to encourage panicking students. The uniform gained its authority-radiating properties after years of being worn by someone who genuinely believed that education was worth protecting, making it basically wearable dedication to the pursuit of knowledge. When Sarah was promoted to become the Headmistress of the Academy for Practical Heroism, she passed the uniform on with a note saying 'for someone who understands that true strength comes from protecting people's right to learn without fear."
+    },
+    "40": {
+      "name": "Shadowmere Pajama Set",
+      "description": "Soft modal pajamas in midnight purple with constellation patterns for mystical dreams.",
+      "heading_details": "Shadowmere Pajama Set – Dreams Under Starlight",
+      "details": "These luxuriously soft modal pajamas come in deep midnight purple with delicate constellation patterns scattered across the fabric in pale lavender. The top features a relaxed button-front design with a classic collar, while the matching pants have an elastic waistband and side pockets. The fabric breathes beautifully and feels like sleeping wrapped in twilight magic.",
+      "origin": "Created during the Great Sleep Revolution of 3001, when humanity finally acknowledged that high-quality rest was a fundamental right and anyone preventing optimal sleep comfort was committing crimes against basic human welfare. This pajama set belonged to Dr. Luna Dreamweaver, a sleep researcher who had dedicated her life to proving that the right sleepwear could literally improve the quality of your dreams. The midnight purple modal came from the Dream Trees of the Twilight Forest, plants that only grew during the perfect conditions between wakefulness and sleep, producing fabric that felt like wearing a gentle hug from the universe's most comfortable cloud. The constellation patterns were embroidered using thread spun from actual starlight by the Seamstresses of Peaceful Slumber, who worked exclusively during the hours when most people were experiencing their deepest, most restorative sleep cycles. Luna wore this set during her groundbreaking research into the connection between sleepwear aesthetics and dream quality, proving that looking good while unconscious could actually improve your subconscious self-image. The pajamas gained their dream-enhancing properties after being worn during approximately 10,000 nights of Luna's experimental sleep sessions, absorbing the energy of countless peaceful dreams and developing what scientists call 'REM optimization capabilities.' When Luna achieved her ultimate goal of ascending to become the Guardian of Universal Sleep Quality, she left the pajamas behind for someone who needed their dreams to be as aesthetically pleasing as their waking life."
+    },
+    "41": {
+      "name": "Grimoire Keeper Robe",
+      "description": "Scholar's robe in charcoal gray with leather binding details and deep pockets for scrolls.",
+      "heading_details": "Grimoire Keeper Robe – Wisdom Made Wearable",
+      "details": "This flowing scholar's robe is cut from heavy charcoal wool with leather binding details along the edges, reminiscent of ancient tome covers. Multiple interior pockets are perfectly sized for scrolls, crystals, and other scholarly tools. The hood is deep and contemplative, and brass clasps shaped like quill pens secure the front. It's academic robes reimagined for the modern mystic.",
+      "origin": "Woven during the Great Library Renaissance of 1456, when scholarly institutions decided that if they were going to preserve all of human knowledge, their librarians should look like they could personally intimidate ignorance into submission. This robe belonged to Master Cornelius Bookwright, the most intimidating librarian in recorded history - he was the person who made returning books late feel like a personal betrayal of the entire concept of learning. The charcoal wool came from the Sheep of Accumulated Wisdom, a breed that spent their entire lives grazing in fields where ancient scholars had once walked, absorbing residual intellectual energy through their hooves. The leather binding details were crafted from the Hide of Philosophical Debates, sourced from creatures that had achieved enlightenment through extensive argumentation about the nature of existence. Cornelius wore this robe during the legendary Defense of the Forbidden Section, where he single-handedly protected dangerous knowledge from being stolen by people who definitely weren't ready for it and probably would have used it to start pyramid schemes. The robe gained its intimidation properties after decades of being worn by someone who genuinely believed that knowledge was sacred and should be treated with appropriate reverence, making it basically wearable academic authority. When Cornelius ascended to become the Eternal Guardian of All Books That Have Ever Been Written, he passed the robe on to someone who understood that preserving wisdom requires looking like you could personally rewrite reality if someone disrespected a first edition."
+    },
+    "42": {
+      "name": "Moonlit Loungewear",
+      "description": "Oversized cream sweater and matching shorts with silver moon phase embroidery.",
+      "heading_details": "Moonlit Loungewear – Celestial Comfort",
+      "details": "This cozy set includes an oversized cream cashmere sweater with dropped shoulders and silver moon phase embroidery along the sleeves, paired with matching knit shorts that hit mid-thigh. The fabric is impossibly soft, perfect for lazy weekends or late-night stargazing. The moon phases seem to shimmer subtly in different lighting, adding magic to comfort.",
+      "origin": "Designed during the Celestial Comfort Revolution of 2847, when the Moon Maiden herself got tired of humans wearing ugly clothes while trying to connect with lunar energy and decided to intervene directly in Earth's fashion industry. This loungewear set belonged to Serenity Moonchild, a cosmic wellness influencer who had somehow made a career out of teaching people how to optimize their relaxation through astronomical alignment. The cream cashmere came from the Goats of Eternal Tranquility, a herd that lived exclusively in mountain meadows where the moon's reflection created perfect conditions for producing the softest, most calming fiber in existence. The silver moon phase embroidery was stitched using actual moonbeams that had been crystallized during the rare phenomenon when all lunar phases existed simultaneously for exactly seventeen minutes. Serenity wore this set during her legendary 'Lounging with Luna' livestream series, where she taught 2.3 million followers how to achieve inner peace through strategic napping and high-quality sleepwear. The loungewear gained its tranquility-inducing properties after being worn during countless meditation sessions under direct moonlight, absorbing lunar energy and developing what scientists call 'optimal chill vibes.' When Serenity achieved her final form as the Moon's Official Ambassador to Earth, she left the set behind for someone who needed to master the art of looking celestially elegant while doing absolutely nothing productive."
+    },
+    "43": {
+      "name": "Royal Guard Ceremonial",
+      "description": "Purple velvet dress uniform with gold braiding, worn by elite palace guards.",
+      "heading_details": "Royal Guard Ceremonial – Protector of the Crown",
+      "details": "This magnificent ceremonial uniform features a deep purple velvet jacket with intricate gold braiding in Celtic knot patterns across the chest and cuffs. The high collar bears the royal crest in gold thread, and the matching trousers have gold piping down the sides. A ceremonial sword belt and white silk sash complete the ensemble. Reserved for the most elite guards, wearing it carries the weight of ancient oaths and noble duty.",
+      "origin": "Commissioned during the Golden Age of Dramatic Monarchy in 1634, when kings and queens competed to see whose personal guards could look the most intimidatingly fabulous while standing perfectly still for hours. This uniform belonged to Sir Reginald Purpleheart, the most dedicated royal guard in history - he once stood at attention for 72 hours straight just to prove that commitment to duty could be an art form. The purple velvet came from the Royal Silkworms of Majestic Intent, creatures that were fed exclusively on flower petals and classical music to produce fabric worthy of protecting divine right to rule. The gold braiding was crafted by the Master Weavers of Eternal Loyalty, who operated on the principle that if you're going to dedicate your life to protecting someone else's crown, your outfit should be compensation enough for never getting to wear the crown yourself. Reginald wore this during the legendary Siege of Spectacular Pageantry, where he defended the palace against an army of fashion critics who claimed that monarchical aesthetics were 'problematically extra' (he won by proving that sometimes being extra is actually a form of public service). The uniform gained its authority-radiating properties after absorbing decades of Reginald's unwavering dedication to the idea that some things are worth protecting just because they're beautiful, making it basically wearable loyalty with a really impressive thread count. When Reginald retired after achieving the impossible dream of making guard duty look like the most glamorous job in the kingdom, he passed the uniform on to someone who understood that true service sometimes requires looking so magnificent that people forget to question the system you're protecting."
+    },
+    "44": {
+      "name": "Starweaver Hoodie",
+      "description": "Ultra-soft hoodie in deep teal with glow-in-the-dark constellation threading.",
+      "heading_details": "Starweaver Hoodie – Comfort Among the Stars",
+      "details": "This incredibly soft hoodie is crafted from brushed cotton in deep teal, with constellation patterns embroidered in special thread that glows softly in the dark. The hood is lined with star-map fabric, and the kangaroo pocket is perfect for warming hands or storing small treasures. It's the kind of hoodie that makes you want to stay up all night watching the real stars.",
+      "origin": "Knitted during the Cosmic Comfort Revolution of 4823, when the universe's textile engineers finally solved the age-old problem of how to make regular clothes feel like wearing a hug from the entire galaxy. This hoodie belonged to Zara Nightglow, a cosmic comfort consultant who specialized in helping people achieve optimal coziness while maintaining their connection to celestial energy. The deep teal cotton came from the Comfort Plants of Nebula Seven, organisms that had evolved specifically to produce the softest fibers in the known universe after witnessing too many beings suffering from inadequate sleepwear. The glow-in-the-dark constellation threading was spun from actual starlight by the Cosmic Seamstresses Guild, who worked exclusively during solar eclipses when the boundary between light and dark was at its most aesthetically pleasing. Zara wore this hoodie during her legendary 'Great Cozy Quest of 4825,' where she traveled to seventeen different star systems to research optimal comfort conditions across various gravitational fields and atmospheric compositions. The hoodie gained its star-powered properties after being worn during countless nights of interstellar stargazing, absorbing cosmic radiation and developing what scientists call 'universal chill energy.' When Zara transcended physical form to become the Galaxy's Official Director of Optimal Comfort, she left the hoodie behind for someone who needed to feel connected to the cosmos while also being comfortable enough to fall asleep during astronomy documentaries."
+    },
+    "45": {
+      "name": "Mage Academy Blazer",
+      "description": "Traditional school blazer in midnight blue with house colors and magical insignia.",
+      "heading_details": "Mage Academy Blazer – Scholar of the Arcane",
+      "details": "This perfectly tailored blazer follows traditional academy styling in midnight blue wool with house colors in the trim and lining. Golden thread creates subtle magical symbols across the chest pocket, and the school crest is embroidered on the breast pocket. The jacket has a timeless cut that works equally well in lecture halls or city streets, representing both scholarly achievement and mystical potential.",
+      "origin": "Tailored during the Great Magical Education Reform of 2456, when wizarding schools realized that their graduates needed to look professionally competent in both magical and mundane job markets. This blazer belonged to Professor Evelyn Spellwright, the most stylishly intimidating educator in magical academia - she was the teacher who made Advanced Theoretical Magic feel like a privilege rather than a requirement. The midnight blue wool came from the Academic Sheep of Higher Learning, a breed that had been selectively bred for centuries to produce fabric that somehow made the wearer appear more intelligent and trustworthy. The golden magical symbols were embroidered by the Guild of Scholarly Seamstresses, who had mastered the art of making education look like the coolest possible career choice. Professor Spellwright wore this blazer during the legendary Conference of Interdisciplinary Magic, where she successfully argued that magical education should focus on practical applications rather than just making things explode in visually impressive ways. The blazer gained its competence-radiating properties after decades of being worn by someone who genuinely believed that knowledge was the most powerful magic of all, making it basically wearable academic authority with a really good thread count. When Professor Spellwright was promoted to become the Headmistress of the University of Applied Impossibility, she passed the blazer on to someone who understood that the best teachers are the ones who make learning look effortlessly elegant."
+    },
+    "46": {
+      "name": "Comfort Spell Sweatsuit",
+      "description": "Matching sweatshirt and joggers in soft lavender with comfort rune embroidery.",
+      "heading_details": "Comfort Spell Sweatsuit – Magic in Every Thread",
+      "details": "This matching set includes an oversized crewneck sweatshirt and tapered joggers, both in the softest French terry cotton in pale lavender. Comfort runes are subtly embroidered along the cuffs and hem in white thread, almost invisible until you look closely. The sweatshirt has a relaxed fit perfect for lounging, and the joggers have a flattering tapered cut with ribbed cuffs.",
+      "origin": "Created during the Great Relaxation Awakening of 3001, when society finally acknowledged that stress was literally killing everyone and decided to make comfort a form of magical self-defense. This sweatsuit belonged to Maya Zenmaster, a wellness witch who had revolutionized the self-care industry by proving that the right loungewear could actually cast protective spells on your mental health. The lavender French terry came from the Emotional Support Cotton Plants of Serenity Valley, organisms that had been magically engineered to produce fabric that felt like wearing a permanent therapy session. The comfort runes were embroidered using thread blessed by the Council of Universal Chill, a group of enlightened beings who had transcended the need for productivity anxiety. Maya wore this sweatsuit during her groundbreaking research into 'Practical Magic for Everyday Exhaustion,' proving that sometimes the most powerful spell you can cast is giving yourself permission to be comfortable. The sweatsuit gained its stress-relief properties after being worn during approximately 5,000 meditation sessions, absorbing peaceful energy and developing what scientists call 'optimal chill coefficient.' When Maya achieved enlightenment through strategic napping, she left the sweatsuit behind for someone who needed to understand that self-care isn't selfish—it's basically armor for your soul."
+    },
+    "47": {
+      "name": "Arcane University Cardigan",
+      "description": "Classic university cardigan in rich brown with gold trim and magical department patches.",
+      "heading_details": "Arcane University Cardigan – Academic Excellence",
+      "details": "This timeless cardigan follows classic university styling in rich chocolate brown wool with golden trim along the collar and cuffs. Department patches for various magical studies are embroidered on the sleeves, and the university crest adorns the chest. The fit is relaxed and scholarly, perfect for long hours in the library or strolling campus grounds while contemplating the mysteries of the universe.",
+      "origin": "Knitted during the Academic Prestige Wars of 1847, when universities competed to see whose faculty could look the most intellectually intimidating while remaining approachably cozy. This cardigan belonged to Professor Theodore Wisdomkeep, the most beloved instructor at the University of Applied Impossibility - he was the teacher who made quantum magical theory feel like storytime with your favorite grandfather. The chocolate brown wool came from the Scholarly Sheep of Deep Thoughts, a breed that grazed exclusively in libraries and had developed fleece with natural noise-dampening properties for optimal study conditions. The golden trim was added by the Guild of Academic Elegance, who believed that if you're going to dedicate your life to expanding human knowledge, you should at least look distinguished while doing it. Professor Wisdomkeep wore this cardigan during the legendary Great Debate of Theoretical vs. Practical Magic, where he successfully argued that the best magic is the kind that helps people with their actual problems rather than just looking impressive at parties. The cardigan gained its wisdom-radiating properties after decades of being worn during office hours where Professor Wisdomkeep dispensed both academic advice and life guidance to confused students. When he retired to become the universe's first Professor Emeritus of Common Sense, he passed the cardigan on to someone who understood that true intelligence is knowing how to make complicated things simple, not the other way around."
+    },
+    "48": {
+      "name": "Dreamweaver Nightgown",
+      "description": "Flowing silk nightgown in pale lavender with dream-catching embroidery at the hem.",
+      "heading_details": "Dreamweaver Nightgown – Sleep in Enchantment",
+      "details": "This ethereal nightgown flows like liquid moonlight, crafted from the finest silk in pale lavender that shifts to silver in lamplight. The hem is embroidered with intricate dreamcatcher patterns in deeper purple thread, said to encourage peaceful, magical dreams. The neckline is modest but elegant, and the sleeves flow like gentle wings. Perfect for those who want their sleep to feel like a fairytale.",
+      "origin": "Woven during the Great Sleep Renaissance of 2134, when humanity finally realized that the quality of your dreams could literally determine the quality of your entire existence and decided to take sleepwear seriously for once. This nightgown belonged to Lady Morphia Sweetdreams, the most successful dream consultant in recorded history - she was basically a personal trainer for people's subconscious minds. The pale lavender silk came from the Dream Moths of the Twilight Realm, creatures that existed primarily during the moments between sleeping and waking and produced cocoons that felt like wearing liquid tranquility. The dreamcatcher embroidery was stitched using thread spun from crystallized lullabies by the Seamstresses of Peaceful Slumber, who worked exclusively during the hours when nightmares were least active. Lady Morphia wore this nightgown during her groundbreaking research into 'Aesthetic Dream Enhancement,' proving that beautiful sleepwear could actually improve the visual quality of your dreams and reduce the likelihood of anxiety-based nightmares. The nightgown gained its dream-improving properties after being worn during thousands of nights of perfectly curated sleep experiences, absorbing the energy of peaceful dreams and developing what scientists call 'REM optimization magic.' When Lady Morphia ascended to become the Guardian of Universal Sleep Quality, she left the nightgown behind for someone who understood that taking care of your dreams is just as important as taking care of your waking life."
+    },
+    "49": {
+      "name": "Guild Artisan Apron",
+      "description": "Leather artisan apron with tool loops and pockets, bearing the guild seal.",
+      "heading_details": "Guild Artisan Apron – Master of Craft",
+      "details": "This professional-grade leather apron is crafted for serious artisans, featuring multiple pockets, tool loops, and reinforced stitching in key stress points. The rich brown leather bears the guild seal embossed in gold on the chest, marking the wearer as a certified master craftsperson. Adjustable straps ensure a perfect fit, and the leather will age beautifully with use, becoming more personal over time.",
+      "origin": "Crafted during the Great Maker Revival of 1634, when society rediscovered that creating things with your hands was actually more satisfying than whatever the digital equivalent was trying to be. This apron belonged to Master Craftswoman Elena Goldenhands, the most skilled artisan in the Guild of People Who Actually Finish Their Projects - she was basically the antithesis of everyone who has seventeen half-completed crafts stuffed in closets. The leather came from the Cattle of Completed Tasks, a herd that had achieved enlightenment through the simple joy of finishing what they started (they were basically the productivity gurus of the bovine world). The guild seal was embossed using techniques passed down through seventeen generations of people who understood that real craftsmanship requires both skill and the patience to not give up when things get difficult. Elena wore this apron during the legendary Great Making Competition of 1638, where she created a functional piece of furniture that was also somehow a musical instrument and a really effective anxiety-relief device. The apron gained its competence-enhancing properties after decades of being worn by someone who genuinely believed that making beautiful, useful things was one of the highest forms of human expression. When Elena achieved master status and opened her own school for Reformed Craft Hoarders, she passed the apron on to someone who needed the confidence to actually finish their creative projects instead of just buying more supplies."
+    },
+    "50": {
+      "name": "Celestial Court Uniform",
+      "description": "Pristine white ceremonial uniform with gold celestial motifs, worn by heaven's messengers.",
+      "heading_details": "Celestial Court Uniform – Herald of Divine Will",
+      "details": "This immaculate uniform represents the highest order of celestial service, crafted from pure white silk with golden celestial symbols embroidered across the chest and sleeves. The high collar bears wings in gold thread, and the fitted jacket creates a silhouette of divine authority. Matching white trousers and a golden sash complete the ensemble. Reserved for those chosen to carry messages between realms, it radiates an aura of otherworldly purpose.",
+      "origin": "Commissioned during the Divine Bureaucracy Reformation of 4156, when the celestial realm finally acknowledged that even heavenly administration needed to look professionally inspiring rather than just generically ethereal. This uniform belonged to Archangel Michael's personal assistant, Seraphina Lightbringer, who was basically the most competent middle manager in the entire multiverse - she was the person who kept paradise running on schedule while looking absolutely devastating in business attire. The pure white silk came from the Silkworms of Eternal Purity, creatures that existed in a state of permanent moral clarity and produced fabric that literally couldn't be stained by anything less than a major theological crisis. The golden celestial motifs were embroidered by the Angels of Aesthetic Excellence, who operated on the principle that if you're going to represent divine will, you should look like divine will personally chose your outfit. Seraphina wore this uniform during the legendary Celestial Performance Review of 4158, where she successfully reorganized heaven's entire operational structure while maintaining perfect uniform standards and somehow making bureaucracy look glamorous. The uniform gained its authority-radiating properties after being worn by someone whose job was literally to make sure that paradise met its quarterly goals for peace, love, and general cosmic harmony. When Seraphina was promoted to become the Director of Interdimensional Customer Service, she passed the uniform on to someone who understood that sometimes serving a higher power requires looking like you could personally negotiate with the universe and win."
+    },
+    "51": {
+      "name": "Cozy Spellcaster Set",
+      "description": "Soft knit sweater and leggings in storm gray with subtle spell circle patterns.",
+      "heading_details": "Cozy Spellcaster Set – Magic in Comfort",
+      "details": "This incredibly soft matching set includes a cable-knit sweater in storm gray with subtle spell circle patterns knitted into the design, paired with matching leggings that feel like a second skin. The sweater has a relaxed, oversized fit perfect for curling up with spellbooks, and the leggings have a high waist and hidden pockets. Tiny amethyst details catch the light along the cuffs.",
+      "origin": "Created during the Practical Magic Revolution of 3001, when witches finally admitted that most of their power came from being comfortable enough to focus properly rather than from wearing dramatically impractical robes that caught fire every time they lit a candle. This set belonged to Sage Willowmoon, a hedge witch who had revolutionized modern magic by proving that cozy clothes were actually more conducive to spellcasting than anything involving corsets or dramatic capes. The storm gray fabric came from the Comfort Sheep of Practical Decisions, a breed that had been selectively bred to produce wool that felt like wearing a permanent hug while still looking put-together enough for professional witch meetings. The subtle spell circle patterns were knitted into the fabric using techniques developed by the Coven of Sensible Enchanters, who believed that if your magical symbols weren't comfortable enough to wear all day, they probably weren't effective enough to bother with. Sage wore this set during her groundbreaking 'Comfort Magic' workshops, where she taught hundreds of practitioners that the most powerful spells are the ones you can cast while feeling completely at ease in your own skin. The set gained its magic-enhancing properties after being worn during countless successful spellcasting sessions, absorbing magical energy and developing what witches call 'optimal casting comfort.' When Sage opened her school for Reformed Dramatic Magic Users, she passed the set on to someone who needed to learn that true power comes from being comfortable with yourself rather than from looking intimidating to others."
+    },
+    "52": {
+      "name": "Shadow Guild Operative",
+      "description": "All-black tactical uniform with hidden pockets and noise-dampening fabric.",
+      "heading_details": "Shadow Guild Operative – Invisible Authority",
+      "details": "This professional-grade tactical uniform is engineered for stealth operations, featuring all-black ripstop fabric with noise-dampening properties. Multiple hidden pockets are strategically placed for tools and essentials, and the cut allows for maximum mobility while maintaining a sleek silhouette. Reinforced knees and elbows provide durability, while the fabric's special weave helps the wearer blend into shadows.",
+      "origin": "Designed during the Professional Espionage Renaissance of 2456, when the spy industry finally realized that their operatives needed to look competent and trustworthy rather than just mysteriously menacing all the time. This uniform belonged to Agent Midnight (real name: Jennifer Thompson), the most effective infiltration specialist in recorded history - she was basically the person who proved that the best way to be invisible is to look like you belong wherever you are. The all-black fabric came from the Stealth Cotton Cooperative, plants that had been genetically modified to absorb sound waves and produce textiles that made footsteps approximately 47% quieter. The hidden pockets were engineered by the Guild of Practical Paranoia using dimensional folding techniques that allowed operatives to carry approximately three times more equipment than should fit in a normal uniform. Agent Midnight wore this during the legendary Operation: Reasonable Explanation, where she successfully infiltrated seventeen different organizations by simply looking so professionally competent that no one thought to question her presence. The uniform gained its confidence-boosting properties after years of being worn by someone whose job required absolute certainty in her own abilities, making it basically wearable self-assurance with really good tactical functionality. When Agent Midnight retired to become a consultant for people who needed to project authority in challenging situations, she passed the uniform on to someone who understood that true stealth comes from belonging everywhere rather than hiding from everything."
+    },
+    "53": {
+      "name": "Comfort Mage Onesie",
+      "description": "Adult onesie in deep purple with golden star patterns and wizard hat hood.",
+      "heading_details": "Comfort Mage Onesie – Maximum Coziness, Maximum Magic",
+      "details": "This delightfully cozy adult onesie is crafted from the softest fleece in deep purple with golden stars scattered across the fabric. The hood is designed like a wizard's hat, complete with a floppy point, and the front features a convenient zipper. Ribbed cuffs at wrists and ankles keep warmth in, and the relaxed fit makes it perfect for lazy weekend spellcasting or binge-watching fantasy series.",
+      "origin": "Created during the Great Relaxation Revolution of 4823, when the magic community finally acknowledged that sometimes the most powerful thing you can do is give yourself permission to be completely, unapologetically cozy. This onesie belonged to Wizard Cuddles McGillicuddy (who legally changed his name after realizing that 'Archmage Serious Darkmore' was giving him imposter syndrome), the most self-actualized magic user in history - he was basically the guy who proved that you don't need to suffer for your art, even if your art involves manipulating fundamental forces of reality. The deep purple fleece came from the Comfort Llamas of Maximum Chill, creatures that had achieved enlightenment through strategic napping and produced wool that felt like wearing a therapy session. The golden stars were applied using actual starlight by the Seamstresses of Optimal Cozy, who operated on the principle that if you're going to dress like a child, you might as well dress like the most magically powerful child in the universe. Cuddles wore this onesie during his legendary 'Great Comfort Casting Experiment,' where he successfully performed advanced magic while looking like he was ready for the world's most adorable sleepover. The onesie gained its magic-amplifying properties after absorbing the energy of countless spells cast in a state of perfect comfort, developing what magical theorists call 'peak cozy energy.' When Cuddles achieved his final form as the Patron Saint of Self-Care Magic, he passed the onesie on to someone who needed to learn that the most radical thing you can do is prioritize your own comfort without apologizing for it."
+    },
+    "54": {
+      "name": "Enchanted Library Cardigan",
+      "description": "Burgundy wool cardigan with book spine patterns and reading light pockets.",
+      "heading_details": "Enchanted Library Cardigan – Wearable Wisdom",
+      "details": "This scholarly cardigan is designed for serious readers, crafted in rich burgundy wool with book spine patterns embroidered along the front panels. The deep pockets are lined with LED strips that provide gentle reading light, and small loops hold reading glasses or bookmarks. The fit is relaxed and academic, perfect for long hours among dusty tomes or cozy reading nooks.",
+      "origin": "Knitted during the Literary Magic Renaissance of 1847, when librarians finally got tired of people treating books like they were just decorative objects and decided to fight back using the ancient art of aggressively helpful customer service. This cardigan belonged to Head Librarian Beatrice Pagekeeper, the most intimidatingly knowledgeable person in recorded history - she was basically a human search engine with opinions about proper book care and the ability to make patrons feel guilty about dog-eared pages through pure disapproval energy. The burgundy wool came from the Scholarly Sheep of Deep Reading, a breed that spent their entire lives listening to audiobooks and had developed fleece with natural sound-dampening properties for optimal library ambiance. The LED-lined pockets were added by the Guild of Practical Bibliophiles, who believed that if you're going to spend your life surrounded by books, you should at least have adequate lighting to read them properly. Beatrice wore this cardigan during the legendary Battle of Overdue Fines, where she successfully defended the library's late fee policy against an army of people who thought that 'I forgot' was a valid excuse for keeping books for six months. The cardigan gained its wisdom-radiating properties after decades of being worn by someone who genuinely believed that every book deserved to be read with proper respect and care. When Beatrice ascended to become the Eternal Guardian of All Written Knowledge, she passed the cardigan on to someone who understood that true power comes from helping people find exactly the information they need, even when they're not entirely sure what they're looking for."
+    },
+    "55": {
+      "name": "Phoenix Wing Kimono Robe",
+      "description": "Flowing silk robe in flame colors with phoenix feather patterns for lounging in style.",
+      "heading_details": "Phoenix Wing Kimono Robe – Rebirth in Comfort",
+      "details": "This luxurious lounging robe flows like liquid fire, crafted from silk in gradient flame colors from deep orange to bright gold. Phoenix feather patterns are hand-painted across the fabric, and the wide sleeves create a dramatic silhouette perfect for rising from slumber renewed. The sash ties at the waist, and the robe falls to mid-calf for elegant coverage. It transforms morning routines into ceremonies of personal rebirth.",
+      "origin": "Woven during the Great Personal Transformation Movement of 2134, when society finally acknowledged that sometimes you need to burn your old life down and rise from the ashes looking absolutely magnificent. This robe belonged to Lady Phoenix Risingstar (birth name: Janet Smith), who had made a career out of helping people reinvent themselves after major life changes - she was basically a life coach for people going through their protagonist era. The flame-colored silk came from the Metamorphosis Moths of Eternal Change, creatures that existed in a permanent state of beautiful transformation and produced cocoons that felt like wearing liquid courage. The phoenix feather patterns were hand-painted using pigments made from crystallized sunrise energy by the Artists of New Beginnings, who specialized in capturing the exact moment when hope becomes reality. Lady Phoenix wore this robe during her legendary 'Rise and Shine Workshop Series,' where she taught thousands of people how to embrace change instead of hiding from it while looking like they could personally intimidate self-doubt into submission. The robe gained its transformation-inspiring properties after being worn during countless personal breakthrough moments, absorbing the energy of people discovering their own power and developing what psychologists call 'phoenix energy optimization.' When Lady Phoenix achieved her final form as the Director of Cosmic Personal Development, she left the robe behind for someone who needed to remember that every ending is just a really dramatic way of beginning something better."
+    },
+    "56": {
+      "name": "Astral Academy Tracksuit",
+      "description": "Navy tracksuit with gold astral academy stripes and constellation patches.",
+      "heading_details": "Astral Academy Tracksuit – Athletic Excellence Among Stars",
+      "details": "This premium athletic set features a zip-up jacket and matching track pants in navy blue with gold racing stripes down the sides. The academy's constellation logo is embroidered on the chest, and various department patches can be found on the sleeves. The fabric is moisture-wicking and comfortable, designed for both physical training and casual wear around campus. Perfect for students who need to look good whether they're studying or training.",
+      "origin": "Designed during the Interdimensional Athletic Revolution of 4156, when sports finally evolved beyond just physical competition to include categories like 'Most Aesthetically Pleasing Teleportation' and 'Synchronized Reality Manipulation.' This tracksuit belonged to Captain Nova Starsprinter, the most successful interdimensional athlete in recorded history - she was basically the person who proved that you could be competitive about literally anything if you had enough style and the right attitude. The navy fabric came from the Competitive Cotton of Peak Performance, plants that had been bred specifically to produce athletic wear that made the wearer feel like they could win any competition just by showing up looking properly prepared. The gold racing stripes were added using thread blessed by the Gods of Healthy Competition, who operated on the principle that winning isn't everything, but looking good while competing is pretty close to everything. Captain Nova wore this tracksuit during the legendary Interdimensional Olympics of 4158, where she won seventeen gold medals in events that hadn't existed until she invented them during the competition. The tracksuit gained its performance-enhancing properties after absorbing the competitive energy of countless victories, developing what sports scientists call 'winner's aura amplification technology.' When Captain Nova retired to become the Director of Cosmic Athletic Excellence, she passed the tracksuit on to someone who understood that the real competition is always with your past self, but there's no reason you can't look absolutely incredible while improving."
+    }
+  },
+  "category": {
+    "New": {
+      "title": "Shadows of the Newly Fallen",
+      "subtitle": "Born from darkness, forged in solitude"
+    },
+    "New2": {
+      "title": "Whispered Wonders",
+      "subtitle": "Fresh enchantments from distant realms"
+    },
+    "Aura_farmers": {
+      "title": "Essence of Power",
+      "subtitle": "Channel the mystical energies within"
+    },
+    "Casual": {
+      "title": "Hearthbound Comforts",
+      "subtitle": "Where magic meets everyday sanctuary"
+    },
+    "Hot_picks": {
+      "title": "Collection for the Chosen Ones",
+      "subtitle": "Desired by the many."
+    },
+    "Rizz_master": {
+      "title": "Become the Duke of the West",
+      "subtitle": "Command presence with otherworldly grace"
+    },
+    "Clocked": {
+      "title": "Armor of Eternal Night",
+      "subtitle": "Timeless armaments for every quest"
+    },
+    "all": {
+      "title": "The Complete Grimoire",
+      "subtitle": "Every enchanted thread in our collection"
+    }
+  },
+  "search": {
+    "title": "Search Results",
+    "searchTerm": "Search term",
+    "category": "Category",
+    "found": "Found {{count}} products",
+    "noResults": "No products found matching your search criteria."
+  },
+  "profile": {
+  "title": "Your Profile",
+  "loading": "Loading...",
+  "welcome": "Welcome",
+  "welcomeUser": "Welcome, {{name}}!",
+  "profile": "Profile",
+  "login": "Login",
+  "signup": "Sign Up",
+  "logout": "Logout",
+  "logoutConfirm": "Are you sure you want to logout?",
+  "language": "🌐 Language",
+  "chooseLanguage": "Choose Language:",
+  "orUseWidget": "Or use translate widget:",
+  "loadWidget": "Load Widget",
+  "viewProfile": "View Profile",
+  "editProfile": "Edit Profile",
+  "saveProfile": "Save Profile",
+  "cancelEdit": "Cancel",
+  "viewCart": "View Cart",
+  "viewLikes": "View Likes",
+  "name": "Name",
+  "fullName": "Full Name",
+  "email": "Email",
+  "emailLabel": "Email:",
+  "memberSince": "Member Since",
+  "memberSinceLabel": "Member Since:",
+  "bio": "Bio",
+  "bioLabel": "Bio:",
+  "bioPlaceholder": "Tell us about yourself...",
+  "noBio": "No bio added yet...",
+  "profilePicture": "Profile Picture",
+  "changePhoto": "Change Photo",
+  "uploadPhoto": "Upload Photo",
+  "accountDetails": "Account Details",
+  "personalInfo": "Personal Information",
+  "close": "Close",
+  "locationTitle": "Delivery Location",
+  "addLocationPrompt": "Add your location so we can give you your orders~",
+  "trackMyLocation": "📍 Track My Location",
+  "detectingLocation": "🔄 Detecting...",
+  "orEnterManually": "— OR —",
+  "enterLocationPlaceholder": "e.g., New York, USA",
+  "setLocationButton": "Set",
+  "changeLocation": "Change Location",
+  "locationNotSupported": "Location tracking not supported by your browser",
+  "locationError": "Unable to track location. Please enter manually."
+},
+  "login": {
+    "title": "Login to Your Account",
+    "email": "Email",
+    "emailLabel": "Email:",
+    "password": "Password",
+    "passwordLabel": "Password:",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "signupButton": "Sign Up"
+  },
+  "signup": {
+    "title": "Create an Account",
+    "fullName": "Full Name",
+    "fullNameLabel": "Full Name:",
+    "email": "Email",
+    "emailLabel": "Email:",
+    "password": "Password",
+    "passwordLabel": "Password:",
+    "namePlaceholder": "Enter your full name",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Create a password",
+    "signupButton": "Sign Up",
+    "loginButton": "Login"
+  },
+  "about": {
+    "title": "About Us",
+    "aboutUs": "About Us",
+    "aboutUsContent0": "Hiii !!",
+    "aboutUsContent1": "I am the designer and developer who made this website. The main Inspiration for this was to make it look like old 90’s fashion game-core japanese styled website and it was really fun to make this one. ",
+    "aboutUsContent2": "I am a 20 year old student pursuing my studies online and I wish to make cool stuff. Its been 1 month since I’ve started taking my goal seriously and I’m more than glad to share that my process is going smoothly. The goal of making this website was also to make it on my own, i.e, not take any help from AI or any other tutorial, just using my own knowledge. The world of tech is really a beautiful place. Though sometimes it makes me want to cry, but I love the feeling of digging deeper for something and finding out the answers myself and creating so many cool things. I look forward to learning more!",
+    "ourName": "Our Name",
+    "ourNameContent1": "Nakachan or Zwochan?",
+    "ourNameContent2": "Good question, though my real name is Zoha and I’d like you to call me Zoe, Nakachan is the alias I’ve been using throughout the internet. It’s like my gaming and creative name. Zwochan (zou+chan)  on the other hand, is the name of my YouTube channel that was made mixing the pronunciation of my real name and my online alias. I won’t mind you calling me any one of these though! and I am open to new nicknames as always !",
+    "whyUs": "Why Us",
+    "whyUsTitle": "I want my ideas to be recognized !",
+    "feature1": "I’ve always been that one kid who had multiple, actually thousands of hobbies and was always doing some different thing every other day. It was tiring actually, knowing to be able to do so many things but not being satisfied with one, I wanted to change myself, that’s why I started working on myself. I am educating myself, I am upskilling my skills, I am taking time for myself, I am taking time for my interests! and I am really proud of the journey it’s like upgrading myself as a character in a game. Slowly but surely and it does indeed gets overwhelming and exhausting but I hate to see myself rot with all the potential I don’t even know about, getting wasted! Everyone gave up on me when I couldn’t get into a good Computer Science university. But then I started my studies online. I want to get better. I want my progress and ideas and projects to be recognized!",
+    "features": "The Goal",
+    "featuresTitle": "Inspirations and Goals",
+    "platformFeature1": "The inspiration are many! video games, cool websites, creative stuff, journals, scrapbooking and ALOT more! while the goal? the goal is to just execute the idea that pops up in the mind right away. Don’t let it get wasted, enhance it if its not worth it, work on it, improve it and lastly.. um .. just make it. Somehow! Just make it work! if it works, it works!!",
+    "platformFeature2": "There’s so many things in the world! and we can’t have everything we want but at least we can give it a try no? So when you’re looking back reminiscing about your journey, I want you to think “waaa! i did it all didn’t I?”.",
+    "platformFeature3": "That’s my goal !",
+    "con": "Conclusion",
+    "conTitle": "In the end..",
+    "con1": "I’ve wrote too much I should just conclude already.. Um so I’d like to finish it off by Introducing myself one last time, I am Zoe, a 19 year old who has a childhood dream of becoming a software engineer because they make cool stuff and it sounds cool too! I am working hard on myself to achieve my small dreams! If you’d like to know more and Help me out, please check out the other Sections! I’d appreciate it a lot if you would !!"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "contactInfo": "Contact Information",
+    "contactInfoSubtitle": "Below are the provided Socials that I am active on. You can reach out to me on Gmail or any other social wherever you are most comfortable. I’ve also provided my GitHub Profile you can go give a visit if you’d like. I mostly  do respond to the messages or mentions if I recieve any. (unless spam). I am also up for making tech friends oh my god please reach out to me I’d love to make tech cool friends with whom I can discuss my ideas or someone who’d share and discuss their ideas with!! Always open to making friends, mutuals and teams! please please contact me! I’d reaally love to talk to you guys im a big fan!",
+    "address": "Address",
+    "addressValue": "123 GUGUGAGA Street, Gugu gaga city, GUGUGAGA town, Gugu Gaga 150-0043",
+    "phone": "Phone",
+    "phoneValue": "+YY XXXXXXXXXX",
+    "fasterResponse": "For faster response, please use the contact form below and select the appropriate department for your inquiry (╥﹏╥)",
+    "departments": "Departments",
+    "customerSupport": "Customer Support: For order inquiries, returns, and product questions",
+    "technicalSupport": "Technical Support: For website issues and technical problems",
+    "partnerships": "Partnerships: For business collaborations and wholesale inquiries",
+    "investorRelations": "Investor Relations: For investment opportunities and financial information",
+    "justMessage": "Message: For just reaching out to the dev!!",
+    "sendMessage": "Send Us a Message",
+    "name": "Name",
+    "nameLabel": "Name:",
+    "email": "Email",
+    "emailLabel": "Email:",
+    "department": "Department",
+    "departmentLabel": "Department:",
+    "subject": "Subject",
+    "subjectLabel": "Subject:",
+    "messageField": "Message",
+    "messageLabel": "Message:",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "Your email address",
+    "subjectPlaceholder": "Message subject",
+    "messagePlaceholder": "Your message",
+    "sendButton": "Send Message",
+    "clearForm": "Clear Form",
+    "generalInquiry": "General Inquiry",
+    "support": "Customer Support",
+    "technical": "Technical Support",
+    "partnership": "Partnerships",
+    "investor": "Investor Relations",
+    "press": "Just want to send a message",
+    "faq": "Frequently Asked Questions",
+    "faqQ1": "Q: How long does shipping take?",
+    "faqA1": "A: Domestic orders typically arrive within 3-5 business days. International shipping takes 7-14 business days depending on the destination!!",
+    "faqQ2": "Q: Do you ship internationally?",
+    "faqA2": "A: Yes, we ship to most countries worldwide!!! Shipping costs vary by location.",
+    "faqQ3": "Q: Can I change or cancel my order?",
+    "faqA3": "A: You can change or cancel your order within 24 hours of placement. Contact our customer support team as soon as possible! (๑•̀ᴗ•́)!",
+    "faqQ4": "Q: What is your return policy?",
+    "faqA4": "A: We offer a 30-day return policy for unused items in their original packaging. Some items may be subject to restocking fees tho.",
+    "faqQ5": "Q: Do you offer wholesale pricing?",
+    "faqA5": "A: Nooo, sorry we do not offer wholesale pricing for bulk orders. Our products are exclusive and limited!!",
+    "thankYou": "Thank you for your message, {{name}}! We'll get back to you soon."
+  },
+  "invest": {
+    "title": "Invest With Us",
+    "whyInvest": "Why Invest",
+    "whyInvestContent": "Investing in Shoppo Deligto means becoming part of a growing community passionate about unique aesthetics! Our business has shown consistent growth since inception, with a loyal customer base and expanding product lines.",
+    "keyHighlights": "key investment highlights:",
+    "highlight1": "30% year-over-year growth for the past 3 years!!",
+    "highlight2": "Strong brand recognition in the niche market!!",
+    "highlight3": "Recurring revenue from loyal customer base",
+    "highlight4": "Expansion potential into new markets and product categories",
+    "highlight5": "Experienced management team with industry expertise",
+    "howToHelp": "How to Help",
+    "howToHelpIntro": "There are several ways you can support our business:",
+    "help1": "Direct investment through our equity crowdfunding campaign",
+    "help2": "Become a brand ambassador and promote our products",
+    "help3": "Provide expertise in areas like international expansion, e-commerce optimization, or marketing",
+    "help4": "Introduce us to potential partners or distributors in your region",
+    "help5": "Share our story and products on social media",
+    "helpOutro": "Every form of support helps us grow and bring more authentic Japanese products to enthusiasts worldwide.",
+    "donate": "Donate",
+    "donateIntro": "For those who wish to support our mission without equity investment, we also accept donations. Your contributions help us:",
+    "donation1": "Preserve and promote traditional Japanese craftsmanship",
+    "donation2": "Support small artisans and manufacturers in Japan",
+    "donation3": "Develop educational content about Japanese culture and history",
+    "donation4": "Maintain our community platform and events",
+    "donation5": "Offer scholarships for cultural exchange programs",
+    "donateOutro": "All donors receive special recognition on our website and exclusive updates about how their contributions are making a difference."
+  },
+  "payment": {
+    "title": "Payment Information",
+    "paymentMethods": "Payment Methods",
+    "paymentMethodsIntro": "We accept a variety of payment methods to make your shopping experience as convenient as possible:",
+    "creditCards": "Credit Cards",
+    "paypal": "PayPal",
+    "mobilePay": "Mobile Pay",
+    "bankTransfer": "Bank Transfer",
+    "cashOnDelivery": "Cash on Delivery",
+    "security": "Security",
+    "securityIntro": "Your security is our top priority. We use industry-standard encryption to protect your personal and payment information.",
+    "securityFeature1": "SSL encryption for all data transfers",
+    "securityFeature2": "PCI DSS compliant payment processing",
+    "securityFeature3": "No storage of sensitive payment information on our servers",
+    "securityFeature4": "Regular security audits and vulnerability assessments",
+    "securityFeature5": "Two-factor authentication available for account protection",
+    "securityOutro": "If you have any concerns about payment security, please don't hesitate to contact our support team.",
+    "faq": "Frequently Asked Questions",
+    "faqQ1": "Q: What currencies do you accept?",
+    "faqA1": "A: We accept payments in USD, EUR, GBP, and JPY. The prices displayed on our site are in USD, but you can select your preferred currency during checkout.",
+    "faqQ2": "Q: Are there any additional fees for international orders?",
+    "faqA2": "A: We don't charge any additional fees, but your bank or payment provider might apply currency conversion fees for international transactions.",
+    "faqQ3": "Q: How can I get a refund?",
+    "faqA3": "A: We offer a 30-day money-back guarantee on all products. If you're not satisfied with your purchase, please contact our customer service team to initiate a return.",
+    "faqQ4": "Q: Is my payment information safe?",
+    "faqA4": "A: Yes, we use industry-standard encryption and security measures to protect your payment information. We never store your full credit card details on our servers.",
+    "faqQ5": "Q: What should I do if my payment fails?",
+    "faqA5": "A: First, check that your payment information is entered correctly. If the problem persists, contact your bank or payment provider. You can also try using a different payment method."
+  },
+  "location": {
+  "title": "Location Settings",
+  "yourLocation": "Your location",
+  "yourLocationValue": "Your location: {{location}}",
+  "trackLocation": "Track My Location",
+  "detecting": "Detecting...",
+  "enterLocation": "Or enter your location:",
+  "enterAreaPlaceholder": "Enter your area",
+  "setLocation": "Set Location",
+  "changeLocation": "Change Location",
+  "or": "OR",
+  "close": "Close"
+},
+  "footer": {
+    "copyright": "© 2025 nakachens – custom brewed just for here (˶ᵔ ᵕ ᵔ˶)",
+    "about": "About",
+    "invest": "Invest",
+    "payments": "Payments",
+    "socials": "Socials"
+  },
+  "common": {
+    "backToTop": "BACK TO TOP",
+    "close": "Close",
+    "price": "${{price}}"
+  },
+  "alerts": {
+    "addedToCart": "{{name}} added to cart!",
+    "addedToLikes": "{{name}} added to likes!",
+    "locationTracked": "Location tracked!! WEEWOO",
+    "locationError": "SORRY.. Unable to track location.. Please enter manually.",
+    "geolocationNotSupported": "sowweee :( location not supported...",
+    "languageChanged": "Yay! your language has changed to {{lang}}!!",
+    "loginSuccess": "Welcome back!!! missed you!!, {{email}}!",
+    "signupSuccess": "Account created successfully! yayy Welcome, {{name}}!!!!",
+    "loginError": "nooo Invalid email or password. Please try again :(",
+    "signupError": "umm This email is already registered. Please login instead.",
+    "emailRequired": "Please enter your email !!!",
+    "passwordRequired": "Please enter your password !!!!",
+    "nameRequired": "Please enter your name !!!",
+    "profileUpdated": "YAYYY Profile updated successfully! looking good!",
+    "logoutSuccess": "Logged out successfully! make sure you come back!!",
+    "success": "Success!",
+    "liked": "Added to Likes! I like it too!!",
+    "logoutTitle": "Logout",
+    "cancel": "Cancel"
+  }
+}

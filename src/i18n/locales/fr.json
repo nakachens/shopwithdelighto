@@ -1,0 +1,760 @@
+{
+  "header": {
+    "logoAlt": "Logo"
+  },
+  "navigation": {
+  "home": "PAGE D'ACCUEIL",
+  "about": "À PROPOS",
+  "invest": "INVESTIR",
+  "payments": "PAIEMENTS",
+  "contact": "CONTACT",
+  "searchPlaceholder": "Rechercher sur shoppo...",
+  "allCategories": "Toutes les Catégories",
+  "rizzMaster": "Maître du Charisme",
+  "new": "Nouvelle Collection",
+  "new2": "Merveilles Chuchotées",
+  "auraFarmers": "Cultivateurs d'Aura",
+  "hotPicks": "Coups de Cœur",
+  "casual": "Décontracté",
+  "clocked": "Intemporel"
+},
+  "sidebar": {
+    "checkSum": "viens voir ça",
+    "newCollection": "Nouvelle Collection",
+    "newSubtitle1": "te donne l'impression d'être un perso de jeu !",
+    "newSubtitle2": "Oh je porterais ça tous les jours.",
+    "auraFarmers": "FARMERS D'AURA !!",
+    "auraSubtitle": "quel Donjon on dégage aujourd'hui ?",
+    "hotPicks": "LES INCONTOURNABLES !!!",
+    "hotSubtitle": "populaires depuis le début",
+    "casual": "Du Casual ? Pourquoi pas.",
+    "casualSubtitle": "pourquoi pas quelque chose de confortable ?",
+    "clocked": "On les a claqués !!",
+    "clockedSubtitle": "Jojo no kimyou na bouken, Eyes of heaven",
+    "rizzMaster": "Maître du Rizz",
+    "rizzSubtitle": "augmente le charme de 10xp"
+  },
+  "home": {
+    "newUpdate": "~Nouvelle Mise à Jour~",
+    "nocturaSubtitle": "Né de la nuit, cousu dans le silence",
+    "nocturaDescription": "Un rêve gothique drapé de tissu. Chaque pièce porte le calme de minuit, cousue d'ombres et de silence, faite pour ceux qui prospèrent quand le monde dort.",
+    "nocturaName": "Noctura",
+    "fullOnFantasy": "Un vrai rêve de fantasy",
+    "wingsSubtitle": "Drape-toi dans le crépuscule, défie la lumière.",
+    "wingsDescription": "Une collection née de la limite du crépuscule. Drapée d'ombres et sculptée de défiance, chaque pièce porte l'esprit de rébellion contre la lumière qui s'éteint. Faite pour ceux qui portent les ténèbres non comme un linceul, mais comme leur couronne.",
+    "wingsName": "Ailes du Crépuscule",
+    "moreThanDream": "c'est plus qu'un rêve",
+    "dontMissOut": "rate pas ça~",
+    "neverEnding": "Collections sans fin",
+    "collectionDescription": "Une collection tissée de rêveries et de lumière crépusculaire. Des tissus doux, des silhouettes délicates et des teintes qui évoquent le confort lunaire. Conçue pour ceux qui cherchent la magie dans le quotidien et la chaleur dans chaque point.",
+    "allProducts": "Tous les Produits"
+  },
+  "cart": {
+    "title": "Votre Panier",
+    "empty": "Votre panier est vide",
+    "remove": "Retirer",
+    "total": "Total",
+    "checkout": "Commander",
+    "shoppingCart": "Panier",
+    "viewCart": "Voir le Panier",
+    "close": "Fermer"
+  },
+  "likes": {
+    "title": "Vos Articles Aimés",
+    "empty": "Vous n'avez pas encore aimé d'articles",
+    "likedItems": "Articles Aimés",
+    "addToCart": "Ajouter au Panier",
+    "remove": "Retirer",
+    "viewAllLikes": "Voir Tous les Favoris"
+  },
+  "product": {
+    "back": "Retour",
+    "itemDetails": "Détails de l'Article",
+    "addToCart": "Ajouter au Panier",
+    "like": "J'aime",
+    "buyNow": "Acheter Maintenant",
+    "theOrigin": "L'Origine",
+    "notFound": "Produit introuvable"
+  },
+  "products": {
+    "1": {
+      "name": "Linceul du Tisseur de Spectres",
+      "description": "Une cape fluide cousue de fil fantôme, traînant une fumée légère comme une âme pas encore au repos.",
+      "heading_details": "Linceul du Tisseur de Spectres - Je suis pas un Fantôme Chat..",
+      "details": "Une cape filée des fils d'âmes oubliées, cette pièce se drape sur les épaules comme une ombre vivante. Le tissu semble sans poids, pourtant il traîne une brume partout où tu marches, laissant un résidu fantomatique qui s'accroche à l'air. La capuche pend bas, obscurcissant le visage, et l'ourlet vacille comme s'il se défaisait en fumée. Ce linceul ressemble moins à un vêtement qu'à un pacte—un murmure de l'au-delà cousu dans chaque couture.",
+      "origin": "Appartenait à Seraphina Nightwhisper, la dernière Grande Pleureuse des Cours Éthérées vers 1847. Elle portait ça pendant le Grand Deuil - un rituel d'un siècle pour aider les âmes perdues à trouver la paix. La légende dit qu'elle a littéralement tissé des fils d'esprits volontaires dans le tissu, ce qui explique pourquoi il traîne encore cette brume fantomatique. Fun fact : elle était basiquement la faucheuse mais avec un meilleur sens de la mode et des daddy issues. Le linceul a été trouvé dans sa tour abandonnée, encore parfaitement préservé parce qu'apparemment même le temps avait trop peur de toucher ses affaires."
+    },
+    "2": {
+      "name": "Habit de Deuil Lié aux Tombes",
+      "description": "Robes de deuil gravées de runes du souvenir, murmurant les noms des morts.",
+      "heading_details": "Habit de Deuil Lié aux Tombes - JE SUIS PAS MORT ! enfin pas encore.",
+      "details": "Drapé dans des tissus noirs de deuil qui collent comme le chagrin, cet habit est brodé de runes du souvenir. Chaque pli semble soupirer sous un poids invisible, portant les échos de noms et de voix trop lourds pour être oubliés. La robe est coupée longue et en couches, ressemblant à des vêtements funéraires mais portés avec une défiance fière. Cette pièce ne couvre pas seulement le corps—elle le commémore, transformant celui qui la porte en sanctuaire ambulant de deuil et de force.",
+      "origin": "Porté à l'origine par Marcus DeathDefiant (oui, c'était son vrai nom légal) pendant la Guerre des Pierres Pleurantes en 1692. Ce mec a littéralement dit 'la mort peut attendre' et a combattu trois batailles alors qu'il était techniquement décédé - les runes gardaient son âme attachée assez longtemps pour finir le boulot. C'était cet ami qui refuse de quitter la fête même quand tout le monde est parti, sauf que la fête c'était la vie et il avait des trucs à régler. Les robes ont absorbé tellement de derniers mots qu'elles murmurent encore les noms des tombés les nuits tranquilles."
+    },
+    "3": {
+      "name": "Armure du Voile Fantôme",
+      "description": "Plaques spectrales légères, à moitié effacées comme si celui qui la porte existait entre les royaumes.",
+      "heading_details": "Armure du Voile Fantôme - C'est une Référence à Persona ?",
+      "details": "Une armure qui semble prise entre existence et effacement, ses plaques scintillent translucides, comme tissées de souvenirs à moitié formés. De fines couches d'acier sont superposées de gaze chatoyante, disparaissant sous certains angles comme un fantôme qui se détourne. Le heaume ne porte pas de visière—seulement un flou changeant, une identité insaisissable. La porter donne au corps une sensation de détachement, comme si un faux pas pouvait t'envoyer dériver dans un autre royaume entièrement.",
+      "origin": "Forgée pour Dame Cassandra Betweenworlds, une chevalière qui s'est retrouvée coincée à mi-chemin d'un sort de téléportation en 1456 et qui a juste... géré. Elle a passé des décennies à exister dans deux royaumes simultanément, ce qui honnêtement a l'air épuisant mais elle a assuré. L'armure reflète sa double existence - assez solide pour arrêter une épée mais assez translucide pour que les ennemis continuent de frapper dans le vide. Elle a pris sa retraite pour devenir blogueuse voyage interdimensionnel, ce qui explique pourquoi l'armure a cette énergie 'j'ai vu des trucs que tu croirais pas'."
+    },
+    "4": {
+      "name": "Vêture aux Veines d'Ébène",
+      "description": "Soie sombre tissée de fil cramoisi, pulsant faiblement comme des veines sous la peau.",
+      "heading_details": "Vêture aux Veines d'Ébène - Comment on prononce ça déjà ?",
+      "details": "Soie sombre tissée de fil cramoisi en motifs de veines, brillant faiblement comme du sang coulant sous la peau. Le tissu colle au corps, mais les veines brillantes pulsent doucement, comme si elles étaient vivantes. Au premier regard, c'est royal, mais à l'inspection, troublant—un vêtement qui brouille la ligne entre chair vivante et vêtement fabriqué.",
+      "origin": "Créé par le vampire fashionista Comte Vladimir Aesthetic en 1734 parce que les vêtements gothiques classiques n'étaient pas assez extra pour ses goûts. Il a littéralement fait mélanger son propre sang dans les fils de soie parce que la subtilité n'a jamais été son truc. L'effet pulsant vient de son essence vampirique qui coule encore dans le tissu - c'est comme porter le système circulatoire de quelqu'un comme déclaration de mode, ce qui est peak comportement vampire honnêtement. Il disait que c'était 'l'expression ultime de l'art vivant' mais on sait tous qu'il voulait juste avoir l'air plus cool aux soirées."
+    },
+    "5": {
+      "name": "Tenue du Tisseur de Complaintes",
+      "description": "Tissus élégants mais sombres tissés de symboles de deuil, faits pour un barde des ombres.",
+      "heading_details": "Tenue du Tisseur de Complaintes - Aglaea serait fière",
+      "details": "Taillée dans des gris et noirs sombres, le tissu est brodé de symboles de deuil de cultures oubliées. Le design est élégant, fluide, et pourtant indéniablement lourd, comme s'il portait le fardeau des siècles. La porter donne l'impression de réciter un chant de deuil à chaque mouvement. Ce n'est pas une tenue pour la joie, mais pour l'art dans la tristesse.",
+      "origin": "Appartenait à Melody Sorrowsong, la bardes du deuil la plus célèbre de l'Ère Mélancolique (1623-1698). Elle pouvait littéralement faire pleurer les gens de belles larmes juste en passant devant eux dans cette tenue. Les symboles de deuil brodés viennent de 47 cultures différentes parce qu'elle était cette overachiever qui devait tous les collectionner comme des cartes Pokemon, sauf version beaucoup plus déprimante. Elle portait ça pendant le légendaire 'Concert de la Tristesse Éternelle' qui a fait pleurer tout un royaume pendant trois jours d'affilée. Même l'aura actuelle de la tenue donne envie aux gens d'écrire de la poésie sur leurs sentiments."
+    },
+    "6": {
+      "name": "Vêture aux Blessures d'Obsidienne",
+      "description": "Coupes déchiquetées à travers des tissus sombres, brillant faiblement sur les bords comme des blessures en guérison.",
+      "heading_details": "Vêture aux Blessures d'Obsidienne - Je suis blessé.. et alors ?",
+      "details": "Des coupures et des entailles déchirent le tissu, révélant des aperçus de doublure cramoisi brillante en dessous, comme des blessures tentant de guérir. Les bords de chaque déchirure scintillent faiblement, pulsant comme des veines. C'est violent mais beau, une déclaration de douleur transformée en pouvoir. La tenue n'essaie pas de cacher ses cicatrices—elle le devient, faisant de la brisure la pièce maîtresse.",
+      "origin": "Portée par Scarlett Paintsthetown (nom de scène, évidemment) pendant la Rébellion des Cœurs Brisés en 1789. Elle était une guerrière-poète qui croyait que montrer ses cicatrices était le power move ultime - basiquement l'énergie originale 'mon trauma est mon super pouvoir'. Chaque coupure brillante dans le tissu représente une bataille qu'elle a survécu, et elle en ajoutait de nouvelles après chaque combat comme le système d'achievements le plus emo du monde. La tenue transforme littéralement les dégâts en beauté, ce qui est tellement un move de main character que même ses ennemis devaient le respecter."
+    },
+    "7": {
+      "name": "Sentinelle d'Aetherion",
+      "description": "Des couleurs blanc et or ? nan, bénie d'une énergie sereine et radieuse.",
+      "heading_details": "Sentinelle d'Aetherion — Le Gardien Choisi de la Lumière",
+      "details": "Armure forgée en émail blanc immaculé avec des filigranes d'or courant sur les bords, elle brille faiblement comme si touchée par une aura divine. Le heaume est lisse et arrondi, avec une visière dorée qui brille comme la lumière du soleil se reflétant sur une lame. Une longue cape azur flotte derrière, cousue de motifs d'étoiles, donnant l'impression de surveiller les cieux même sur terre. Elle rayonne d'autorité calme, l'aura de quelqu'un qui se tient non seulement comme un guerrier, mais comme un protecteur choisi par la lumière.",
+      "origin": "Équipement standard pour la Garde d'Honneur Céleste de l'Empire Radieux, vers 1523-1834. C'étaient les mecs qui se tenaient aux portes du paradis et s'assuraient que seuls les dignes entraient - basiquement des videurs divins avec une meilleure armure. Cet ensemble particulier appartenait au Capitaine Lightbringer McGoodguy, qui était tellement pur de cœur que les oiseaux chantaient littéralement quand il marchait (ce qui devait être chiant pendant les missions furtives). La lueur de l'armure vient de siècles de bonnes actions accumulées, ce qui en fait l'ultime tenue de virtue signaling."
+    },
+    "8": {
+      "name": "Rempart de l'Aube",
+      "description": "Oh tu veux être quelqu'un qui rayonne l'espoir et la protection.",
+      "heading_details": "Rempart de l'Aube — Gardien de la Première Lumière",
+      "details": "Cette armure brille doucement dans des teintes or pâle, comme si le soleil levant lui-même avait béni l'acier. Les épaulières s'évasent vers l'extérieur, formant des arcs protecteurs qui encadrent le sigil du soleil gravé sur le plastron. La cape est un dégradé de lever de soleil—orange s'estompant en jaune doux—symbolisant la renaissance et l'espoir. Chaque pas dans cette armure donne l'impression de porter l'aube dans les ténèbres, une présence qui farm non pas la peur, mais l'admiration et la confiance. Son aura est protectrice, radieuse et inébranlable.",
+      "origin": "Forgée pour Sir Optimism Morningperson, le seul chevalier qui était vraiment excité pour les séances d'entraînement à 5h du matin. Il a défendu les Royaumes de l'Est pendant la Grande Ténèbres de 1445, où son attitude résolument positive a été littéralement armée contre les créatures d'ombre qui ne pouvaient pas gérer son énergie 'bonjour soleil'. L'armure a absorbé tellement de lumière de l'aube qu'elle est devenue couleur lever de soleil de façon permanente. Il a une fois vaincu une armée de cauchemars juste en existant trop joyeusement - ce qui est honnêtement l'abilité la plus OP de tous les temps."
+    },
+    "9": {
+      "name": "Égide de Séraphine",
+      "description": "Armure gracieuse argent et rose pour une noble demoiselle de lumière.",
+      "heading_details": "Égide de Séraphine — La Radiance de la Demoiselle",
+      "details": "Cette armure est sculptée avec une précision délicate, plaquée en argent poli qui brille comme le clair de lune. De subtiles incrustations or-rose tracent la poitrine et les bras, formant des motifs floraux qui adoucissent l'acier sans diminuer sa force. Les épaulières sont élégamment courbées, conçues non pour submerger sa silhouette mais pour l'améliorer, comme une chevalière parée pour la bataille et la cérémonie. Flottant derrière se trouve une cape de soie douce en lavande pâle, se déplaçant doucement à chaque pas comme un souffle de printemps. Le heaume, souvent porté à ses côtés, est couronné d'un diadème argenté plutôt qu'une couronne—humble mais royal. L'Égide de Séraphine ne crie pas sa présence ; elle chante, farmant l'aura à travers la grâce et la majesté tranquille.",
+      "origin": "Créée pour la Princesse Isabella Graceface des Royaumes d'Argent en 1398. Elle était ce type de princesse Disney qui pouvait apprivoiser des dragons sauvages avec gentillesse et faire fleurir les fleurs en souriant - basiquement avait une énergie de main character qui pliait la réalité autour d'elle. L'armure a été bénie par sept ordres différents de chevaliers saints, ce qui est soit excessif soit une assurance selon comment tu vois les choses. Elle n'a jamais perdu une seule bataille parce que les ennemis arrêtaient en plein combat pour complimenter son style. Les incrustations or-rose venaient de vraies roses qui poussaient dans ses pas."
+    },
+    "10": {
+      "name": "Manteau d'Éclipse",
+      "description": "Une cape asymétrique fluide sur des couches ajustées—silhouette de mage urbain avec ancrage tactique.",
+      "heading_details": "Manteau d'Éclipse — Le Bord Voilé",
+      "details": "Cette pièce est construite en ripstop noir mat, coupée asymétriquement pour flotter comme une cape sans perdre le tranchant du streetwear taillé. Elle se ferme haut au col avec une attache magnétique, laissant un côté se draper librement comme une ombre à ton épaule. En dessous, un col roulé ajusté anthracite épouse le corps, équilibrant la silhouette contre des cargos slim avec des coutures zippées tactiques. Fini avec des baskets à bout renforcé, le Manteau d'Éclipse se lit comme de la sorcellerie urbaine—moitié cape, moitié armure, toute présence.",
+      "origin": "Designé par le mystérieux mage de rue connu seulement sous le nom de 'Ce Mec au Hoodie' dans les Districts Arcanes éclairés au néon de Neo-Mystopolis, 2089. Il était célèbre pour lancer des sorts tout en ayant l'air de sortir du lit, révolutionnant la mode magique pour toujours. Le design asymétrique venait de sa philosophie que 'l'équilibre c'est ennuyeux' et son incapacité chronique à plier le linge correctement. Ce manteau particulier a été porté pendant la Grande Panne WiFi de 2091 quand il a maintenu à lui seul l'internet mystique de la ville en fonctionnement en utilisant pur dépit et boissons énergisantes."
+    },
+        "11": {
+      "name": "Farmers d'Aura",
+      "description": "Des vêtements conçus pour amplifier ton énergie intérieure, parfaits pour ceux qui cultivent leur présence avec intention.",
+      "heading_details": "Farmers d'Aura — Cultive Ton Énergie, Récolte Ta Présence",
+      "details": "Cette tenue est bien plus qu'un simple assemblage de tissu ; c'est un outil pour le cultivateur d'énergie moderne. Conçue avec des matériaux respirants qui semblent absorber la lumière ambiante, elle présente des motifs subtils évoquant les champs d'énergie et les circuits d'aura. Le coupe est à la fois décontracté et intentionnel, permettant une liberté de mouvement totale pour les postures de méditation ou simplement pour se détendre en rayonnant. Les teintes sont des dégradés de violets et de bleus profonds, rappelant le ciel au crépuscule, un moment de transition et de puissance. Porter cet ensemble, c'est comme activer un amplificateur passif pour ton champ énergétique, attirant les regards et le respect sans effort apparent. Chaque couture est alignée avec les méridiens du corps, selon des principes anciens redécouverts, pour favoriser une circulation d'énergie optimale. Ce n'est pas une tenue que tu portes ; c'est une tenue qui te porte, élevant ton état d'être à chaque instant.",
+      "origin": "Popularisée par la communauté des « Cultivateurs Urbains » de Neo-Sanctuaire vers 2077, un groupe de personnes qui croyaient que le style personnel était la clé pour manifester son potentiel interne. Le design fut finalisé par la styliste énergéticienne Luna Fieldson, qui passait ses matinées à méditer dans des champs de lavande pour « s'imprégner des vibrations de croissance ». Elle a insisté pour que les tissus soient teints avec des pigments infusés de cristaux, un processus si fastidieux que cela a failli faire faillir son atelier à trois reprises. La légende raconte que le premier prototype fut porté lors du « Festival de l'Éveil » où le porteur, un certain Kai, a spontanément résolu une dispute de voisinage rien qu'en se promenant sur les lieux - son aura de calme était tout simplement trop convaincante. La tenue est depuis devenue l'uniforme officieux de ceux qui préfèrent farmer leur charisme plutôt que de forcer leur destinée."
+    },
+    "12": {
+      "name": "Vêtements de la Forêt Ancestrale",
+      "description": "Tissus organiques aux motifs de racines et de feuilles, évoquant la sagesse et la connexion aux anciens esprits de la nature.",
+      "heading_details": "Vêtements de la Forêt Ancestrale — Porte la Sagesse des Arbres",
+      "details": "Imagine un vêtement qui n'a pas été fabriqué, mais qui a poussé. C'est l'essence même de cette tenue, tissée à partir de fibres botaniques régénératives qui conservent la mémoire de la forêt. Les motifs complexes ne sont pas simplement imprimés ; ils sont le résultat d'un processus de bio-impression où les veines des feuilles et les motifs des écorces ont été transférés directement sur le tissu. La palette de couleurs va des verts mousses aux bruns profonds de la terre, avec des accents occasionnels de rouge cinabre comme des baies cachées. La porter procure une sensation de solidité et d'enracinement, comme si tu pouvais puiser une patience infinie dans le sol sous tes pieds. Le vêtement est léger mais étonnamment résistant, et il dégage une fragrance subtile de pin et d'humus après la pluie. C'est l'armure du gardien silencieux, du druide urbain, de celui qui comprend que la vraie force vient non de la domination, mais de la symbiose et du temps long. Chaque pli semble raconter une saison, chaque fibre chuchote les secrets de la photosynthèse.",
+      "origin": "Découvert, ou plutôt « communiqué », par l'écrivain et naturaliste Elara Woodsinger lors d'une retraite de trois ans dans les Forêts Sans Nom. Elle prétendait que les arbres eux-mêmes lui avaient murmuré le design dans ses rêves, ce que ses collègues attribuaient à un peu trop de temps seule avec des champignons spécifiques. Quoi qu'il en soit, les échantillons qu'elle a ramenés présentaient des propriétés textiles inexplicables, se réparant presque d'eux-mêmes lorsqu'exposés à la lumière lunaire. Le processus de production fut un cauchemar logistique, impliquant des bio-artisans qui chantaient aux métiers à tisser et une usine alimentée par l'énergie géothermique pour ne pas « offenser les esprits de la terre ». La première collection fut présentée lors d'un défilé sans musique, uniquement accompagné par le bruissement des feuilles et le craquement des branches, et bizarrement, tout le monde est reparti en se sentant incroyablement paisible et un peu coupable d'utiliser du plastique."
+    },
+    "13": {
+      "name": "Armure du Dragon Céleste",
+      "description": "Des plaques d'écailles métalliques irisées qui captent la lumière comme si elles étaient forgées dans les cieux.",
+      "heading_details": "Armure du Dragon Céleste — La Fierté des Cieux Incarnée",
+      "details": "Cette armure ne se contente pas de briller ; elle réfracte la lumière. Composée de milliers de petites écailles individuelles en un alliage à mémoire de forme, elle scintille d'un éclat changeant qui passe du bleu froid de la haute atmosphère au rouge-orange embrasé du coucher de soleil. Le plastron est sculpté pour évoquer la poitrine majestueuse d'un dragon en vol, et les épaulières se courbent en formes aérodynamiques rappelant des ailes repliées. Malgré son apparence imposante, l'armure est étonnamment légère et ne restreint pas les mouvements, épousant le corps comme une seconde peau. Porter cette armure, c'est faire une déclaration : tu n'es pas un simple mortel sur le sol, mais une force qui s'est temporairement incarnée. Elle émet un bourdonnement à peine audible, une fréquence basse que seuls les autres porteurs peuvent percevoir, créant un sentiment de fraternité silencieuse. C'est l'équipement ultime pour celui qui vise les sommets, littéralement et métaphoriquement, et qui refuse d'être ignoré par les cieux eux-mêmes.",
+      "origin": "Forgée dans les ateliers secrets des Forgerons des Nuages, une guilde recluse qui vivait sur les pics des Montagnes Vagabondes et qui disait commercer avec les dragons des tempêtes. Le maître forgeron Kaelen Sky-Anvil a passé quarante ans à perfectionner la technique de « la trempe dans l'éclair », où le métal était refroidi instantanément en le plongeant dans le cœur d'un nuage orageux. L'armure était si convoitée que trois rois se sont succédé sur le trône avant que la commande du premier ne soit finalisée. On dit que le premier ensemble complet fut porté par la chevalière Aella lors de son combat contre le Grand Ver des Plaines, et que la simple réflexion du soleil sur sa cuirasse a suffi à aveugler la bête, prouvant une fois pour toutes que le style pouvait être une stratégie militaire parfaitement valable. La guilde a disparu depuis, mais leur héritage continue de briller, littéralement, sur les champs de bataille et dans les soirées galantes."
+    },
+    "14": {
+      "name": "Tenue du Souffle de l'Océan",
+      "description": "Des tissus fluides aux nuances bleues et vertes qui ondulent comme les profondeurs marines au moindre mouvement.",
+      "heading_details": "Tenue du Souffle de l'Océan — La Sérénité des Abysses",
+      "details": "Cette tenue est une incarnation de la mer. Les tissus, d'une douceur liquide, sont des voiles de soie et de microfibre traités pour présenter un motif changeant de vagues et de courants. En bougeant, les plis capturent et libèrent la lumière d'une manière qui évoque irrésistiblement la surface de l'eau sous le soleil. Les manches sont larges et fluides, traînant délicatement derrière les poignets comme des algues dansant avec la marée. Les tons sont principalement des saphirs profonds, des émeraudes et des turquoises, avec des reflets argentés occasionnels qui rappellent les écailles de poisson. La porter induit un état de calme profond, le léger bruissement du tissu imitant le son des vagues se brisant au loin. C'est une tenue qui ne cherche pas à impressionner par sa vivacité, mais par sa tranquillité hypnotique. Elle est à la fois une robe et une méditation, un rappel que la plus grande force réside souvent dans la capacité à s'adapter et à couler, à être aussi immuable et changeante que l'océan lui-même.",
+      "origin": "Créée par les Tisseurs de Marée de la Cité Côtière d'Aquallon, un peuple qui vivait si près de l'eau que leurs doigts étaient toujours légèrement froissés. La chef des tisserandes, une femme nommée Coralia, prétendait avoir appris à tisser en observant les courants pendant vingt ans, affirmant que chaque vague avait un motif unique. Le fil lui-même était teint à l'aide d'encres dérivées de coquillages broyés et de plancton bioluminescent, ce qui donnait à la tenue sa lueur intérieure caractéristique. La collection fut présentée pour la première fois lors de la Cérémonie de la Pleine Lune, où les modèles marchaient le long du rivage et où, de manière inexplicable, la mer semblait devenir anormalement calme à leur passage. Les riches marchands se sont arraché les tenues, non seulement pour leur beauté, mais aussi parce qu'une rumeur persistante disait qu'elle protégeait du mal de mer – un avantage considérable pour le commerce maritime."
+    },
+    "15": {
+      "name": "Habits du Royaume des Fées",
+      "description": "Des vêtements délicats, presque immatériels, brodés de fils de lumière et de rosée, conçus pour se fondre dans les clairières enchantées.",
+      "heading_details": "Habits du Royaume des Fées — La Délicatesse comme Arme Ultime",
+      "details": "Ces vêtements défient la physique du textile. Tissés à partir de fibres de fleurs de lune et de brume matinale, ils possèdent une qualité éthérée qui les fait paraître semi-transparents sous certains angles. Les broderies ne sont pas faites de fil, mais de lumière solidifiée et de gouttes de rosée soigneusement arrangées, scintillant d'un éclat froid et captivant. La coupe est ample et aérienne, avec des rubans qui flottent sans être soumis à la gravité, comme s'ils étaient constamment caressés par une brise magique. La tenue est incroyablement fragile en apparence, mais elle est en réalité bien plus résiliente qu'il n'y paraît, capable de dévier les lames et les regards malveillants par la simple force de son enchantement. La porter, c'est comme porter un morceau de rêve éveillé. Tu ne marches pas, tu flottes ; tu ne parles pas, tu murmures des incantations. C'est le choix de prédilection pour les esprits espiègles, les poètes et quiconque souhaite rappeler au monde que la beauté la plus percutante est souvent celle qui est sur le point de disparaître.",
+      "origin": "Issu d'un pacte ancien (et probablement un peu naïf) entre un tailleur humain et la Reine des Fées elle-même. Le tailleur, un homme nommé Pippin, avait sauvé un papillon-lune qui s'avéra être le messager personnel de la reine. En récompense, il reçut un dé à coudre rempli de « lumière de gloaming » et l'accès aux Jardins de l'Aube pour récolter la brume. Le processus de création était si secret que Pippin devait travailler les yeux fermés, guidé uniquement par le son des clochettes de fées. Les vêtements résultants étaient si beaux qu'ils rendaient les gens mélancoliques rien qu'en les regardant. La Reine des Fées, appréciant le chaos que cela semait parmi les mortels, autorisa la production de quelques ensembles par siècle, faisant de chaque pièce une légende à part entière et la malédiction de tout collectionneur sérieux."
+    },
+    "16": {
+      "name": "Costume du Maître du Rizz",
+      "description": "Une tenue audacieuse et confiante, conçue pour amplifier le charisme naturel et garantir que tous les regards sont tournés vers toi.",
+      "heading_details": "Costume du Maître du Rizz — L'Art de la Captivation, Matérialisé",
+      "details": "Ce n'est pas un costume ; c'est un amplificateur de personnalité. Taillé pour mettre en valeur la silhouette avec une précision anatomique suspecte, il est composé d'un blazer aux épaules structurées mais aux lignes élégantes, d'un pantalon qui semble redéfinir le concept de « bien ajusté », et d'une chemise dont le tissu a un fini si parfait qu'il reflète la lumière d'une manière flatteuse, peu importe l'environnement. La couleur est un noir si profond qu'il semble absorber les doutes et les insécurités de quiconque ose le regarder. Des détails subtils – un bouton de manche gravé d'un symbole mystérieux, une doublure intérieure avec un motif géométrique hypnotique – ajoutent des couches d'intérêt et de conversation. Porter ce costume, c'est activer un mode de confiance permanent. Les compliments deviennent des attaques parfaitement esquivées, les conversations difficiles se transforment en badinages légers, et le concept d'« échec social » devient une relique théorique d'un passé lointain. C'est l'armure de l'homme moderne qui comprend que le vrai jeu se joue bien avant que les mots ne soient prononcés.",
+      "origin": "Popularisé par le légendaire séducteur et philosophe social, Giovanni « Rizz » Voltaire, dans les salons branchés de Veridia City aux alentours de 2085. Giovanni prétendait avoir déduit les ratios mathématiques parfaits pour la coupe d'un vêtement qui maximiserait l'attraction interpersonnelle, passant plus de temps avec des algorithmes qu'avec des êtres humains. Le tissu fut développé en laboratoire, infusé de nanoparticules censées émettre des phéromones de confiance synthétiques (une affirmation jamais vérifiée mais farouchement défendue par les fans). Le costume fut banni de plusieurs tournois d'échecs après que des joueurs aient soudainement abandonné pour demander au porteur des conseils de vie. Giovanni lui-même disparut mystérieusement après avoir atteint ce qu'il appelait « le Rizz Ultime », laissant derrière lui seulement des costumes et un manuel d'instructions énigmatique qui se vend encore aujourd'hui à prix d'or."
+    },
+    "17": {
+      "name": "Tenue du Vagabond des Sables",
+      "description": "Des couches résistantes et respirantes aux tons sable et ocre, conçues pour affronter les déserts les plus impitoyables en ayant l'air incroyablement cool.",
+      "heading_details": "Tenue du Vagabond des Sables — L'Élégance dans l'Austérité",
+      "details": "Cette tenue est un maître-ouvrage de pragmatisme stylisé. La cape extérieure, en lin résistant traité pour repousser le sable et la poussière, est ample et capuchonnée, protégeant des éléments sans sacrifier le drapé dramatique. En dessous, des couches plus fines en coton respirant permettent une régulation thermique naturelle, te gardant au frais sous le soleil brûlant et chaud pendant les nuits glaciales du désert. La palette de coueurs – chamois, terre de Sienne, brun rouille – est directement inspirée des paysages arides, permettant un camouflage naturel ou une déclaration de style audacieuse, selon ton humeur. Les poches sont nombreuses et stratégiquement placées, parfaites pour ranger des cartes, des artefacts ou des collations de survie. Chaque élément, des cordons de serrage aux fermetures cachées, a un but fonctionnel qui contribue néanmoins à l'esthétique globale de nomade intemporel. Porter cette tenue, c'est afficher une résilience tranquille, une capacité à trouver la beauté et la grâce même dans les environnements les plus hostiles. Elle dit : « Je suis à l'aise partout, car je me suis trouvé moi-même ».",
+      "origin": "Perfectionnée par les tribus nomades des Dunes Chantantes, qui parcouraient le Grand Erg depuis des siècles. Le design fut « emprunté » par l'explorateur et anthropologue Sir Reginald Pembleton III, qui fut sauvé d'une mort certaine par déshydratation par une tribu et fut si impressionné par leurs vêtements qu'il en passa le reste de son expédition à prendre des notes détaillées au lieu de chercher la cité perdue qu'il était censé cartographier. De retour en civilisation, il collabora (ou, selon la tribu, vola le savoir) avec un tailleur londonien pour adapter les coupes aux silhouettes occidentales, en gardant l'esprit mais en perdant une partie de l'âme. La tenue devint un succès instantané parmi les explorateurs, les archéologues et les hipsters en quête d'authenticité, prouvant une fois de plus que tout style assez cool finit par être récupéré, même s'il provient d'une lutte millénaire pour la survie."
+    },
+    "18": {
+      "name": "Armure du Chevalier Maudit",
+      "description": "Une armure noire comme l'ébène, marquée de runes anciennes et émettant une faible lueur vermillon, pour celui qui puise sa force dans l'obscurité.",
+      "heading_details": "Armure du Chevalier Maudit — La Rédemption par la Force Obscure",
+      "details": "Cette armure est l'antithèse de l'éclat céleste. Forgée dans un métal inconnu qui absorbe la lumière, elle est d'un noir si parfait qu'elle semble être une découpe en forme d'homme dans la réalité. Les runes gravées sur chaque plaque ne reflètent pas la lumière ; elles semblent brûler de l'intérieur d'une lueur cramoisie inquiétante, pulsant faiblement au rythme du battement de cœur du porteur. La silhouette est à la fois massive et élégante, avec des pointes tactiques et des bords tranchants qui laissent entendre qu'elle est conçue autant pour l'intimidation que pour le combat. Le heaume est dépourvu de fente pour les yeux, seulement deux points rouges ardents qui fixent le monde avec un mépris glacial. Contrairement aux apparences, l'armure n'est pas lourde ; elle est d'une légèreté surnaturelle, comme si la malédiction elle-même allégeait le fardeau. La porter, c'est faire l'expérience d'un calme terrible et dénué d'émotion, une focalisation absolue née non de la paix, mais de l'acceptation d'une puissance corrompue et du désir de la canaliser vers ses propres fins. Elle ne murmure pas des tentations à ton oreille ; elle est silencieuse, attendant que tu lui donnes un ordre.",
+      "origin": "On dit que la première de ces armures fut forgée dans le premier feu de l'Enfer même, par un démon forgeron qui s'ennuyait et qui voulait voir ce qui se passerait s'il créait une arme qui pouvait aussi bien servir le bien que le mal. L'armure traversa les âges, portée par des héros déchus, des vilains complexes et quelques individus simplement trop têtus pour mourir. Son propriétaire le plus célèbre fut le Chevalier Kain, qui, après avoir été trahi par son roi, utilisa le pouvoir de l'armure non pour se venger, mais pour protéger le royaume qui l'avait rejeté, devenant un protecteur craint et incompris. L'armure est quasi-indestructible, mais elle a une fâcheuse tendance à « se perdre » et à réapparaître dans des moments de grande détresse historique, cherchant toujours un nouveau porteur assez fort pour résister à ses chuchotements… ou assez désespéré pour les écouter."
+    },
+    "19": {
+      "name": "Tenue de la Cité Cyber-Néo",
+      "description": "Un mélange agressif de cuir synthétique, de néons intégrés et de composants technologiques, incarnant l'esprit des ruelles urbaines du futur.",
+      "heading_details": "Tenue de la Cité Cyber-Néo — Le Streetwear de l'Avenir, Ici et Maintenant",
+      "details": "Cette tenue ne suit pas les tendances ; elle les défie depuis un futur dystopique incroyablement stylé. La base est une combinaison moulante en cuir synthétique résistant, noire mate, servant de toile pour un réseau complexe de bandes électroluminescentes. Ces néons, généralement bleus, violets ou verts acides, peuvent être programmés pour pulser, clignoter ou afficher des motifs simples, reflétant l'humeur ou le statut du porteur. Des ports de connexion discrets sont dissimulés sous des rabats magnétiques, permettant de brancher des périphériques externes ou de recharger l'ensemble via une source d'énergie portable. Les poches sont renforcées et conçues pour transporter de l'équipement électronique, et les coutures sont faites avec un fil conducteur qui complète le circuit d'éclairage. La veste, asymétrique et coupée grossièrement, semble avoir été arrachée à un terminal d'ordinateur géant. Porter cet ensemble, c'est déclarer son appartenance à la nuit numérique, à la frontière trouble entre l'humain et la machine, entre la loi et la liberté. C'est froid, c'est dur, et c'est terriblement, terriblement séduisant.",
+      "origin": "Née dans les bas-fonds de Neo-Tokyo 2.0, cette esthétique fut popularisée par les « Circuit-Runners », des contrebandiers d'information et des artistes de rue hackers. Le design fut codifié par une icône anonyme connue seulement sous le pseudonyme « Ghost », qui postait des tutoriels de modification de vêtements sur le dark web. Les grandes marques tentèrent de copier le style, mais elles ne parvinrent jamais à reproduire l'authenticité sale et désinvolte de l'original fait maison. La tenue devint le symbole d'une contre-culture rejetant la perfection lisse du monde corporatiste, préférant une esthétique bricolée, personnalisable et franchement plus amusante. Elle est interdite dans plusieurs centres commerciaux haut de gamme pour « perturbation de l'ambiance shopping soigneusement curatée », ce qui, bien entendu, ne fit qu'augmenter sa popularité."
+    },
+    "20": {
+      "name": "Robe de la Sorcière des Brumes",
+      "description": "Une robe longue et vaporeuse de couleur gris perle, qui semble capturer et retenir la brume elle-même dans ses fibres.",
+      "heading_details": "Robe de la Sorcière des Brumes — Le Pouvoir du Mystère et de l'Éphémère",
+      "details": "Cette robe est un secret matérialisé. Confectionnée dans un tissu de gaze superposée et de soie vaporeuse, elle a une qualité spectrale, semblant être à moitié là et à moitié ailleurs. Sa couleur gris perle change subtilement avec la lumière, passant du blanc laiteux d'un brouillard matinal au gris argenté d'un ciel d'orage. La coupe est longue et fluide, avec des manches larges qui se terminent en pointes effilochées, comme des brumes se dissipant. Lorsque le porteur se déplace, la robe ne semble pas bouger avec lui, mais plutôt se réarranger un instant après, laissant une traînée visuelle résiduelle qui désoriente et captive. Elle est étonnamment légère et ne produit pratiquement aucun bruit. La porter, c'est embrasser l'ambiguïté. Tu n'es ni tout à fait visible ni tout à fait invisible ; tu es une présence suggérée, une idée à la bordure de la perception. C'est la tenue parfaite pour celles qui comprennent que le vrai pouvoir réside souvent dans ce qui n'est pas vu, dans ce qui est deviné, dans le silence entre les mots. Elle n'intimide pas par la force, mais par son refus d'être définie.",
+      "origin": "Les origines de cette robe sont aussi brumeuses que son apparence. Les contes parlent d'un coven de sorcières qui vivaient dans les Marais des Murmures, un endroit où la brume ne se levait jamais. Elles apprirent à tisser avec la condensation elle-même, utilisant des métiers à tisser en bois de saule et chantant des airs anciens pour solidifier la vapeur d'eau en un tissu portatif. La robe était leur outil principal pour se déplacer sans être vues parmi les villages des hommes, écoutant les secrets et offrant des conseils (ou des malédictions) à ceux qu'elles jugeaient dignes. Une robe complète prenait une génération à terminer, et chaque nouvelle sorcière en héritait une à sa naissance, grandissant avec elle jusqu'à ce qu'elle lui aille parfaitement, corps et esprit. On dit que si tu te tiens assez silencieusement dans une forêt au petit matin, tu pourrais peut-être en apercevoir une, flottant entre les arbres, un souvenir d'un monde plus magique et bien plus mystérieux."
+    },
+        "21": {
+      "name": "Manteau du Pèlerin Stellaire",
+      "description": "Un manteau sombre brodé de constellations lumineuses qui semblent bouger et briller selon leur propre volonté cosmique.",
+      "heading_details": "Manteau du Pèlerin Stellaire — Navigue les Nuits comme si tu tenais le Ciel dans tes Mains",
+      "details": "Ce manteau est une carte des cieux portée sur les épaules. Tissé d'une laine noire profonde qui absorbe la lumière ambiante, il est brodé de fils conducteurs argentés et dorés formant des constellations précises. La magie réside dans le fait que ces étoiles brodées ne sont pas statiques ; elles pulsent d'une faible lumière et changent subtilement de position au fil de la nuit, reflétant la vraie rotation du firmament au-dessus de toi. Le col est haut et structuré, protégeant des vents froids de l'espace interplanétaire, et l'intérieur est doublé d'une soie douce imprimée de diagrammes astronomiques anciens. Porter ce manteau, c'est sentir le poids et la beauté de l'univers entier reposant sur tes épaules, un rappel constant que tu n'es jamais vraiment perdu, seulement entre deux étoiles. C'est la tenue du rêveur, de l'explorateur, de celui qui trouve son chemin non pas sur des cartes terrestres, mais en suivant le ballet silencieux des corps célestes. Chaque pas que tu fais semble être fait avec l'autorité tranquille de quelqu'un qui connaît sa place dans le grand schéma cosmique.",
+      "origin": "Créé par l'Ordre des Astronomes-Vagabonds, un groupe d'érudits médiévaux qui croyaient que la navigation stellaire ne devait pas être réservée aux marins, mais devait être accessible à tous ceux qui se sentaient perdus. Le Maître Tisseur, Elara Cœlumen, passa trente ans à cartographier le ciel nocturne sur du tissu, utilisant des fils infusés de poussière d'étoiles météoritique pour obtenir l'effet lumineux. La légende dit que le premier manteau fut utilisé pour guider un village entier à travers une forêt enchantée lors d'une nuit sans lune, les habitants suivant simplement la lumière des broderies comme s'il s'agissait d'un véritable ciel. L'ordre a disparu, mais leurs manteaux réapparaissent parfois, offerts à ceux qui semblent avoir le plus besoin de retrouver leur chemin, littéralement ou métaphoriquement."
+    },
+    "22": {
+      "name": "Armure du Juggernaut",
+      "description": "Une plaque d'acier lourde et imposante, sans fioritures, conçue pour ceux qui préfèrent résoudre les problèmes en marchant directement à travers.",
+      "heading_details": "Armure du Juggernaut — La Subtilité est Surestimée, la Masse est Sous-estimée",
+      "details": "Oublie la finesse, oublie l'élégance. Cette armure, c'est de la physique pure et dure. Forgée dans des plaques d'acier trempé d'un pouce d'épaisseur, elle est si lourde que la plupart des gens ne peuvent même pas sourire en la portant. Il n'y a pas de jolies broderies, seulement des bosses, des égratignures et la patine honorable de nombreuses choses qui ont été heurtées de plein fouet. Le heaume est un seau de métal avec une fente étroite, parce que franchement, tu n'as pas besoin de voir grand-chose, tu as juste besoin de voir la chose que tu es sur le point de percuter. Porter cette armure, c'est faire une déclaration simple et directe : 'Je suis un mur. Tu es un problème. Devine qui va gagner.' Chaque pas fait trembler le sol, chaque mouvement de ton bras est comme le balancement d'un bélier. Elle n'offre aucune discrétion, aucune agilité, mais elle offre une certitude : ce qui se trouve devant toi va cesser de s'y trouver. C'est l'antithèse de la ruse, l'incarnation de la force brute, et c'est incroyablement libérateur pour ceux qui en ont assez de compliquer les choses.",
+      "origin": "Développée par les Ingénieurs de Siège de la forteresse de Karthas, qui en avaient marre des armures 'trop fantaisistes' qui se brisaient au premier coup de bélier. Le chef ingénieur, Borog, un homme qui communiquait principalement par grognements, a simplement pris les plans d'une porte de forteresse et les a adaptés pour un bipède. L'armure était si lourde qu'elle nécessitait un système de poulies pour être enfilée, et une fois à l'intérieur, le porteur était essentiellement une forteresse mobile. Elle fut utilisée avec un effet dévastateur lors du Percement des Montagnes de Fer, où un seul chevalier en Juggernaut a littéralement marché à travers les portes de l'ennemi, prouvant que parfois, la solution la plus simple – marcher droit devant – est aussi la plus efficace. Elle est depuis prisée des gardes du corps, des briseurs de grève et de quiconque a une foi inébranlable dans le concept de 'l'élan'."
+    },
+    "23": {
+      "name": "Tenue du Courtisan des Ombres",
+      "description": "Des vêtements si parfaitement ajustés et de couleurs si sobres qu'ils permettent de se fondre dans n'importe quel arrière-plan, ou de se démarquer avec une élégance discrète.",
+      "heading_details": "Tenue du Courtisan des Ombres — L'Art de Être Invisible tout en Étant au Premier Plan",
+      "details": "Cette tenue est un chef-d'œuvre de paradoxe stylistique. À première vue, elle semble incroyablement simple : un justaucorps noir, un pantalon coupé au cordeau, peut-être une veste aux lignes épurées. Mais c'est dans les détails que réside sa magie. Le tissu noir n'est pas un noir uni ; il a une profondeur, une texture qui absorbe la lumière d'une manière qui défie l'œil, rendant les contours du porteur légèrement flous. La coupe est si parfaite qu'elle ne tire ni ne froisse, permettant une liberté de mouvement totale tout en maintenant une silhouette impeccable. Porter cette tenue, c'est maîtriser l'art de la présence sélective. Dans une foule, tu peux devenir un fantôme, passant inaperçu jusqu'à ce que tu le désires. Sous les projecteurs, chaque ligne nette et chaque pli parfait te transforment en icône de l'élégance minimaliste. C'est la tenue de l'espion, du diplomate, de l'assassin social et de quiconque comprend que le pouvoir véritable ne réside pas toujours dans la personne qui parle le plus fort, mais parfois dans celle qui écoute le plus attentivement, vêtue d'un silence impeccable.",
+      "origin": "Popularisée par les Courtisans de la Cour d'Ombre de l'ancien empire de Lys, un groupe de conseurs et conseurs dont le pouvoir s'étendait non par les armes, mais par les mots chuchotés et les alliances secrètes. Leur tailleur attitré, un homme connu seulement sous le nom de 'Le Tisseur', refusait d'utiliser des miroirs dans son atelier, affirmant que la vraie élégance se jugeait au feeling. Il utilisait des tissus teints avec de l'encre de seiche et des fils de soie d'araignée pour obtenir cette qualité absorbante unique. Un courtisan pouvait assister à une fête entière, recueillir les secrets de chacun, et repartir sans que personne ne se souvienne de son visage, mais tout le monde se souvenait de l'impression d'une élégance troublante. La tenue est depuis devenue le uniforme de ceux qui jouent avec le feu social et préfèrent ne pas se brûler."
+    },
+    "24": {
+      "name": "Habits du Jardinier Céleste",
+      "description": "Des vêtements de lin clair et de coton, brodés de motifs de vignes et de fleurs, qui semblent dégager un parfum de terre fraîche et de rosée.",
+      "heading_details": "Habits du Jardinier Céleste — Cultive la Beauté, où que tu Sois",
+      "details": "Cette tenue est une antidote à la laideur du monde. Conçue pour le confort et le mouvement, elle est faite de tissus naturels et respirants qui semblent avoir été légèrement froissés par une brise printanière. Les broderies ne sont pas parfaitement symétriques ; elles serpentent sur les manches et le long de l'encolure comme de vraies plantes grimpantes, avec des feuilles, des bourgeons et des fleurs éclosant çà et là. Les couleurs sont douces et terreuses : des verts sauge, des bruns argile, des blancs cassés. Porter ces vêtements, c'est comme porter un petit jardin secret avec soi. Ils dégagent une aura de calme et de patience, rappelant que les plus belles choses prennent du temps à pousser. Ils sont pratiques, avec des poches profondes pour les graines ou les outils, mais aussi incroyablement beaux, transformant celui qui les porte en un symbole de croissance et d'harmonie avec la nature. C'est la tenue de celui qui ne se contente pas de traverser le monde, mais qui s'arrête pour le rendre plus beau, une plante, une action gentille à la fois.",
+      "origin": "Inspiré par les Guérisseurs des Terres Stériles, un ordre de druides modernes qui voyageaient à travers les landes dévastées par la guerre et la pollution, plantant des jardins et des bosquets là où ils passaient. Leur leader, une femme nommée Flora, croyait que la beauté était une forme de magie curative puissante. Elle concevait des vêtements à partir de lin cultivé dans des champs bénis et les brodait avec des fils teints avec des pétales et des baies. On disait que là où un Jardinier Céleste marchait, les fleurs sauvages fleurissaient et l'air devenait plus pur. Leurs habits n'étaient pas vendus, mais offerts à ceux qui montraient un engagement à nourrir la vie autour d'eux, faisant de chaque tenue un symbole de promesse et d'espoir pour l'avenir."
+    },
+    "25": {
+      "name": "Armure du Phénix",
+      "description": "Une armure qui semble forgée dans des plumes de métal et de feu, conçue pour renaître plus forte après chaque défaite apparente.",
+      "heading_details": "Armure du Phénix — La Défaite n'est qu'une Autre Forme de Préparation",
+      "details": "Cette armure est un symbole d'espoir et de résilience. Elle est composée de centaines de plaques qui ressemblent à des plumes, superposées comme les ailes d'un oiseau mythique. Le métal a une qualité changeante, passant du rouge-orange ardent au doré brillant, comme s'il était constamment au bord de l'embrasement. Lorsqu'elle est endommagée au combat, les plaques 'brûlées' noircissent et tombent, pour être rapidement remplacées par de nouvelles, plus brillantes et plus résistantes, qui semblent pousser de l'intérieur. Porter cette armure, c'est embrasser le cycle de la destruction et de la renaissance. Elle n'offre pas l'invulnérabilité, mais quelque chose de plus précieux : la certitude que peu importe à quel point tu es abattu, tu peux, et tu vas, te relever, plus fort et plus radieux qu'auparavant. Elle inspire non seulement son porteur, mais aussi tous ceux qui l'entourent, son éclat étant un rappel constant que les fins ne sont souvent que des nouveaux déguisés. C'est l'armure du héros qui a échoué plus de fois que quiconque n'a essayé, et qui refuse toujours de baisser les bras.",
+      "origin": "Forgée dans les Forges des Cendres, un atelier secret situé à l'intérieur d'un volcan actif. Les maîtres forgerons, les Frères et Sœurs de la Renaissante, croyaient que le vrai métal ne pouvait être purifié que par le feu, encore et encore. L'armure du Phénix était leur plus grande création, nécessitant qu'un forgeron plonge ses mains dans le métal en fusion pour y insuffler l'essence de la renaissance – un rituel qui, logiquement, ne laissait que des cicatrices ou pire. La première armure fut portée par la générale Kaelia, qui mena une armée décimée à la victoire après avoir été laissée pour morte sur le champ de bataille trois fois distinctes. Ses soldats jurèrent qu'elle se relevait à chaque fois entourée de flammes, plus déterminée que jamais. L'armure choisit son porteur, et on dit qu'elle ne s'active vraiment que pour ceux qui ont connu la défaite la plus amère et ont quand même choisi de se battre."
+    },
+    "26": {
+      "name": "Costume du Dandy Temporel",
+      "description": "Un costume du 19ème siècle parfaitement anachronique, avec une montre à gousset qui ne semble indiquer que l'heure qu'il *devrait* être.",
+      "heading_details": "Costume du Dandy Temporel — La Punctualité est une Vertu, mais l'Anachronisme est un Art",
+      "details": "Ce costume n'est pas simplement vieux ; il est intemporel dans le sens le plus littéral du terme. Taillé dans un velours bordeaux profond ou un tweed gris-vert subtil, il présente une précision historique méticuleuse – jusqu'à ce que tu regardes de plus près. La cravate semble être faite d'un tissu qui n'a pas encore été inventé, la montre à gousset attachée au gilet affiche des symboles alchimiques au lieu de chiffres, et les boutons de manchette ressemblent à de petits engrenages qui tournent doucement dans le vide. Porter ce costume, c'est défier la linéarité du temps lui-même. Tu n'es pas en avance ni en retard ; tu es simplement... ailleurs dans le flux temporel. Les gens peuvent avoir du mal à se souvenir de ton visage, mais ils se souviennent de ton style avec une clarté troublante. C'est la tenue de l'inventeur excentrique, du voyageur temporel discret, de l'esthète qui refuse d'être limité par des concepts aussi banals que les 'siècles' ou les 'décennies'. Il dit : 'Je suis arrivé à l'heure qui me convenait, et honnêtement, c'est la seule qui compte.'",
+      "origin": "Attribué au mystérieux Club des Horlogers Hérétiques, un groupe de gentlemen et de ladies du 19ème siècle qui croyaient que le temps était plus une suggestion qu'une règle. Leur tailleur, Alistair Tempus, était un homme qui portait toujours cinq montres, chacune réglée sur une heure différente d'un siècle différent. Il créa ces costumes en utilisant des fils teints avec des encres temporelles (un processus qu'il refusa toujours d'expliquer) et des tissus achetés à des marchands qui n'existaient pas. Les membres du club étaient célèbres pour arriver à des rendez-vous des jours, voire des années en 'retard', mais en insistant toujours, avec une politesse exquise, qu'ils étaient parfaitement à l'heure selon leur propre calendrier. Leurs costumes ont survécu, transmis à travers les générations à ceux qui partagent leur mépris élégant pour la tyrannie de l'horloge."
+    },
+    "27": {
+      "name": "Tenue du Alchimiste Urbain",
+      "description": "Un mélange de blouse de laboratoire usée, de vestes en cuir résistant et de gadgets bricolés, pour celui qui transforme les déchets en trésors.",
+      "heading_details": "Tenue du Alchimiste Urbain — La Magie n'est que de la Chimie dont on a Perdu la Recette",
+      "details": "Cette tenue sent l'ozone, l'huile et l'ingéniosité pure. Ce n'est pas un design cohérent, mais un assemblage pragmatique de vêtements de travail robustes qui ont été modifiés, adaptés et améliorés jusqu'à l'obsolescence. La blouse de laboratoire est tachée de produits chimiques mystérieux et brûlée à quelques endroits, mais elle est incroyablement résistante aux acides et aux flammes. En dessous, une veste en cuir est recousue avec des fils de cuivre conducteurs, et des bandes LED clignotantes sont fixées aux bras pour éclairer le travail de proximité. Les poches sont innombrables et remplies d'outils, de composants et de bribes de technologie en attente de réutilisation. Porter cette tenue, c'est afficher une foi inébranlable dans le principe que rien n'est un déchet, tout est une ressource mal comprise. C'est sale, c'est chaotique, mais c'est l'incarnation de la créativité pratique. Elle dit : 'Je ne vais pas attendre que quelqu'un invente la solution ; je vais la construire à partir de ces vieilles ferrailles, et elle fonctionnera *presque* aussi bien que la version achetée en magasin, mais elle aura bien plus de caractère.'",
+      "origin": "Née dans les ateliers de réparation clandestins et les makerspaces des mégapoles en déclin. Le 'style Alchimiste Urbain' n'a pas de créateur unique ; il a évolué naturellement parmi les bricoleurs, les ingénieurs de la débrouille et les hackers qui devaient faire plus avec moins. La figure emblématique est 'Momo', un adolescent anonyme qui a transformé un tas de déchets électroniques en un réseau de communication indépendant qui a sauvé son quartier pendant le Grand Black-out. Son 'uniforme' – une combinaison de vêtements récupérés et modifiés – fut adopté comme un badge d'honneur par ceux qui refusaient de se laisser abattre par l'effondrement et préféraient instead le réparer, le reconfigurer, ou au moins en extraire quelque chose d'utile et d'intéressant."
+    },
+    "28": {
+      "name": "Robe de l'Impératrice Oubliée",
+      "description": "Une robe d'un blanc immaculé et d'un argent éclatant, si radieuse qu'elle semble effacer les détails de son propre porteur de la mémoire des spectateurs.",
+      "heading_details": "Robe de l'Impératrice Oubliée — On se Souvient de la Lumière, on Oublie la Source",
+      "details": "Cette robe est un paradoxe vestimentaire. Elle est d'une beauté à couper le souffle, conçue pour attirer tous les regards. Faite de soie blanche, de satin argenté et de fils de platine, elle brille d'une lumière interne qui éclaire doucement les environs. Les perles et les cristaux qui la parsèment scintillent comme une constellation à bout de bras. Pourtant, son effet secondaire le plus puissant est l'oubli. Les personnes qui voient le porteur se souviennent de la robe dans ses moindres détails éblouissants – la coupe, la couleur, l'éclat – mais elles ont du mal à se rappeler le visage, la voix ou même le nom de la personne qui la portait. La robe éclipse son propre contenu. La porter, c'est devenir une icône plutôt qu'un individu, un symbole de pureté, de puissance ou de grâce si intense qu'il consume l'identité personnelle. C'est à la fois un pouvoir immense et une malédiction solitaire, parfait pour ceux qui veulent que leur légende survive, même si leur personne est oubliée.",
+      "origin": "Créée pour l'Impératrice Solaria du Royaume Radieux, une souveraine si dévouée à son image de dirigeante pure et éthérée qu'elle en vint à détester les imperfections de son humanité. Elle commanda à ses artisans une robe qui incarnerait si parfaitement l'idéal de la royauté que les gens oublieraient qu'elle n'était qu'une femme. La robe fonctionna trop bien. Sous son règne, le royaume prospéra, mais lorsque Solaria mourut, personne ne put se souvenir de son vrai visage, seulement de la silhouette éblouissante en blanc qu'elle avait été. La robe fut conservée comme une relique, et on dit que ceux qui la portent héritent de ce même destin : être aimés, vénérés, mais jamais vraiment *connus*, leur humanité sacrifiée sur l'autel de leur propre image."
+    },
+    "29": {
+      "name": "Armure du Berserker Tranquille",
+      "description": "Une armure lourde et pratique, sans ornements, portée par quelqu'un dont le calme est plus effrayant que toute rage.",
+      "heading_details": "Armure du Berserker Tranquille — La Tempête est plus Terrible quand elle est Silencieuse",
+      "details": "Cette armure n'a pas besoin de crier pour se faire remarquer. Forgée dans de l'acier brossé mat et du cuir renforcé, elle est fonctionnelle jusqu'à l'os. Il n'y a pas de symboles, pas de couleurs vives, seulement la promesse sobre de la durabilité et de la protection. Ce qui la rend unique, c'est l'aura qu'elle projette lorsqu'elle est portée. Alors que le berserker typique rugit et se déchaîne, le porteur de cette armure est d'un calme profond, presque méditatif. Ses mouvements sont lents, délibérés et économes. Le silence qui l'entoure est plus menaçant que n'importe quel cri de guerre, car il est rempli de l'intention non diluée et non exprimée de la violence. Porter cette armure, c'est maîtriser la fureur au point de la rendre froide et calculée. Chaque pas est lourd de promesse, chaque regard est une sentence. Elle dit : 'Je n'ai pas besoin de me mettre en colère. Je n'ai pas besoin de crier. Je suis simplement ici pour faire un travail, et le bruit est un gaspillage d'énergie qui pourrait être utilisé pour briser des os.' C'est terrifiant, et incroyablement efficace.",
+      "origin": "Développée par les Moines-Guérisseurs de la Montagne de Fer, un ordre qui croyait que la vraie force venait du contrôle total de ses émotions, pas de leur abandon. Ils entraînaient des guerriers à canaliser leur rage intérieure en une focalisation froide et meurtrière. L'armure était leur outil d'entraînement final : lourde et restrictive, elle forçait le porteur à se déplacer avec une lenteur réfléchie, transformant chaque action en une décision consciente. Le plus célèbre de ces guerriers, connu seulement sous le nom de 'Silence', a tenu un col de montagne seul contre une armée de cent hommes sans émettre un seul son, arrêtant l'avancée ennemie par la simple terreur que son calme implacable inspirait. L'armure n'est pas donnée ; elle est *méritée* par ceux qui peuvent maîtriser la tempête en eux-mêmes."
+    },
+    "30": {
+      "name": "Tenue du Rêveur Éveillé",
+      "description": "Un pyjama de soie luxueux et une robe de chambre douce, qui prétendent améliorer la clarté et le contrôle des rêves lucides.",
+      "heading_details": "Tenue du Rêveur Éveillé — Parce que la Aventure ne S'arrête pas quand tu Fermes les Yeux",
+      "details": "Cette tenue défie la frontière entre le sommeil et l'éveil. Le pyjama est fait d'une soie noire si douce qu'elle semble être une absence de texture, conçue pour réguler la température corporelle et permettre un sommeil profond et uninterrupted. La robe de chambre qui l'accompagne est en velours côtelé bleu nuit, brodée de symboles oniriques complexes et de constellations qui brillent faiblement dans l'obscurité. Mais sa véritable magie réside dans son effet sur l'esprit du dormeur. Porter cette tenue, c'est comme porter une clé pour les royaumes du rêve. Elle favorise une lucidité cristalline, permettant au porteur de reconnaître qu'il rêve et de prendre le contrôle de la narration. Soudain, voler, remodeler des paysages ou avoir des conversations profondes avec des versions oniriques de personnes réelles devient une possibilité réelle. C'est la tenue de l'explorateur intrépide, de l'artiste en quête d'inspiration, du thérapeute cherchant à résoudre des traumatismes, ou simplement de quelqu'un qui veut rendre ses huit heures de sommeil un peu plus épiques. Elle transforme le lit en un vaisseau et la nuit en une frontière infinie.",
+      "origin": "Développée par l'Institut Onirique, une organisation de recherche secrète du début du 20ème siècle qui étudiait les états de conscience modifiés. Leur chef, le Dr. Morpheus, était obsédé par l'idée de 'vacances mentales' – utiliser le temps de sommeil pour l'exploration et la croissance personnelle. La tenue fut le résultat de décennies d'expérimentation avec des tissus chargés de fréquences subtiles et de broderies basées sur des cartes de géométrie sacrée censées influencer l'esprit subconscient. Les testeurs rapportèrent des expériences incroyables, de l'apprentissage de nouvelles langues en rêve à la résolution de problèmes mathématiques complexes. L'Institut disparut mystérieusement (certains disent qu'ils 'sont simplement restés endormis'), mais leurs prototypes de vêtements circulent encore parmi les onironautes et les collectionneurs d'artéfacts psychédéliques."
+    },
+        "31": {
+      "name": "Habits du Voyageur Dimensionnel",
+      "description": "Des vêtements aux motifs psychédéliques qui semblent se déplacer et changer lorsque personne ne les regarde directement.",
+      "heading_details": "Habits du Voyageur Dimensionnel — Parce que la Réalité n'est qu'une Suggestion",
+      "details": "Cette tenue défie activement la perception. Les couleurs ne se contentent pas de briller - elles semblent exister dans plusieurs spectres lumineux simultanément, apparaissant différentes selon l'angle de vue et l'état d'esprit de l'observateur. Les motifs géométriques complexes ne sont pas simplement imprimés ; ils semblent respirer, s'étirer et se recomposer lentement, comme s'ils n'étaient que partiellement ancrés dans cette réalité. Le tissu lui-même a une texture changeante, passant de soyeux à métallique puis à une sensation quasi-liquide sous les doigts. Porter ces vêtements, c'est constamment rappeler à ton cerveau que le monde tel que tu le perçois n'est qu'une version parmi d'innombrables autres. Les passants peuvent avoir l'impression de voir ton reflet dans une vitrine faire quelque chose de complètement différent de toi, ou de percevoir brièvement une version de toi venant d'un univers parallèle où les lois de la physique sont légèrement différentes. C'est déstabilisant, fascinant, et parfait pour ceux qui refusent d'être limités par des concepts aussi ennuyeux que 'la cohérence spatiale' ou 'la permanence des formes'.",
+      "origin": "Découverts (ou créés ? L'histoire varie) par le Professeur Alistair Paradox, un physicien théorique qui disparaissait régulièrement pendant des semaines pour 'réapparaître' avec des idées révolutionnaires et des taches de couleurs impossibles sur ses vêtements. Il prétendait que les tissus étaient tissés dans l' 'Entre-Espaces', des zones entre les réalités où la logique conventionnelle ne s'applique pas. Le procédé de fabrication était (et reste) incompréhensible - les tentatives de reproduction en laboratoire ont abouti à des vêtements parfaitement normaux, ou à de petites singularités gravitationnelles qui ont dû être soigneusement contenues. Le Professeur Paradox a finalement 'déménagé' dans une autre dimension de façon permanente, laissant derrière lui une armoire pleine de ces tenues qui continuent de défier toute tentative d'explication rationnelle."
+    },
+    "32": {
+      "name": "Armure du Chevalier Zéro",
+      "description": "Une armure d'un gris mat parfait, sans aucun reflet ni ornement, conçue pour celui qui existe dans les silences entre les bruits.",
+      "heading_details": "Armure du Chevalier Zéro — Le Vide entre les Notes est aussi Important que la Musique",
+      "details": "Cette armure est l'incarnation du néant stylisé. Contrairement aux armures noires qui absorbent la lumière, celle-ci semble simplement... ne pas en avoir. C'est un gris si parfaitement neutre et mat qu'il défie la description. Aucun détail n'attire l'œil, aucune courbe n'est accentuée. Elle est fonctionnelle jusqu'à l'obsession, dépouillée de tout ce qui n'est pas strictement nécessaire à la protection. Porter cette armure, c'est devenir un fantôme dans la pièce. Les gens ont tendance à te regarder directement sans te voir, leur regard glissant comme sur une surface trop lisse pour s'accrocher. Tu n'inspires ni crainte ni admiration, seulement une étrange absence de réaction. C'est la tenue ultime pour l'observateur, le gardien qui préfère ne pas être remarqué, l'exécuteur dont personne ne se souvient. Elle n'affirme rien, ne nie rien - elle existe simplement, et c'est cette qualité de non-être qui la rend si profondément troublante. Dans un monde de couleurs vives et de déclarations bruyantes, être absolument, parfaitement neutre est la déclaration la plus radicale qui soit.",
+      "origin": "Forgée par l'Ordre des Moines du Silence Absolu, un groupe ascétique qui croyait que la perfection spirituelle était atteinte en éliminant toute forme d'expression personnelle. Ils passaient des années en méditation silencieuse avant de forger une seule pièce d'armure, vidant leur esprit de toute intention esthétique. Le métal était trempé dans des cendres spéciales et poli avec des pierres si fines qu'elles ne laissaient aucune marque. Le Chevalier Zéro le plus célèbre, connu seulement comme 'L'Absent', a résolu une guerre de cent ans simplement en se tenant au centre du champ de bataille pendant trois jours et trois nuits. Les deux armées, incapables de se concentrer sur le combat face à son vide existentiel écrasant, ont simplement... abandonné et sont rentrées chez elles, trop perturbées pour continuer."
+    },
+    "33": {
+      "name": "Tenue du Bibliothécaire Interdit",
+      "description": "Des vêtements sobres couverts de poches de dimensions impossibles, dégageant une odeur de vieux parchemin et de secrets bien gardés.",
+      "heading_details": "Tenue du Bibliothécaire Interdit — Certaines Connaissances Méritent d'Être Perdues. D'autres Méritent d'Être Trouvées.",
+      "details": "Cette tenue semble ordinaire au premier abord - un gilet sobre, un pantalon confortable, peut-être une veste aux coupes classiques. Mais c'est dans les poches que réside sa véritable magie. Elles défient les lois de l'espace, capable de contenir bien plus que leur volume ne le suggère. Une poche intérieure peut contenir un volume complet d'encyclopédie, une autre peut dissimuler un petit grimoire ancestral, une troisième une tasse de thé encore chaude (toujours pratique). Le tissu est imprégné de sorts mineurs de protection contre l'humidité, le feu et les insectes bibliophages. Porter cette tenue, c'est embrasser le rôle de gardien du savoir. Tu n'es pas flashy, tu n'es pas tape-à-l'œil - tu es simplement, fondamentalement, indispensable. Les gens viennent à toi non pour ton style, mais pour ce que tu peux sortir de tes poches apparemment sans fond : la réponse à une question obscure, la carte d'un lieu oublié, le livre qu'ils cherchaient depuis toujours. C'est la tenue de l'érudit pratique, du collectionneur de vérités inconfortables, de celui qui comprend que la connaissance est le vrai pouvoir, et que le vrai pouvoir doit être soigneusement rangé dans des poches dimensionnellement transcendantes.",
+      "origin": "Développée par les Gardiens de la Bibliothèque d'Alexandrie Infernale, une institution secrète dédiée à la préservation des livres que le monde n'était pas prêt à lire. Leur Grand Bibliothécaire, un homme nommé Phineas Pages, fut le premier à perfectionner l'art de la 'couture dimensionnelle', créant des espaces de stockage extra-dimensionnels dissimulés dans des vêtements apparemment normaux. La tenue standard fut distribuée à tous les bibliothécaires après l' 'Incident du Grimoire Gigogne' de 1894, où un apprenti tenta de transporter manuellement un livre plus grand que lui et causa un petit effondrement spatial dans la section des ouvrages de référence. Désormais, chaque bibliothécaire peut porter l'équivalent d'une petite aile de bibliothèque sur lui, prêt à produire la référence exacte nécessaire pour résoudre une dispute académique ou contrer une malédiction ancienne."
+    },
+    "34": {
+      "name": "Costume du Diplomate Céleste",
+      "description": "Un costume d'une coupe parfaite dans des nuances de bleu ciel et de blanc nuage, qui semble toujours être éclairé par une douce lumière matinale.",
+      "heading_details": "Costume du Diplomate Céleste — Parfois, la Meilleure Arme est une Bonne Impression",
+      "details": "Ce costume est une masterclass en persuasion non verbale. Chaque ligne est conçue pour inspirer confiance, calme et autorité bienveillante. Le tissu bleu a une profondeur particulière, évoquant un ciel d'été infini, tandis que les détails blancs rappellent des nuages paisibles. Une étrange qualité de la lumière fait que le porteur semble toujours être légèrement en contre-jour, entouré d'une lueur douce et flatteuse qui atténue les traits durs et met en valeur le sourire. Porter ce costume, c'est comme activer un charme de persuasion permanent. Les négociations difficiles deviennent plus fluides, les adversaires se radoucissent, et les situations tendues se détendent comme par magie. Ce n'est pas de la manipulation grossière - c'est simplement le pouvoir d'une apparence si profondément rassurante et compétente que les gens *veulent* être d'accord avec toi. C'est l'uniforme de l'ambassadeur, du médiateur, de celui qui comprend que gagner un argument est une chose, mais gagner un allié en est une autre, bien plus précieuse.",
+      "origin": "Créé pour le Conseil Céleste des Nations Unies, un corps diplomatique secret traitant des affaires entre les royaumes humains et les puissances extra-terrestres/extra-planaires. Le tailleur en chef, Madame Seraphina Accord, passa des décennies à étudier la psychologie de la perception pour créer un vêtement qui transcenderait les barrières culturelles et biologiques. Elle utilisa des fils teints avec des pigments dérivés de lapis-lazuli et de perles, et des tissus tissés sur des métiers calibrés pour produire des fréquences harmoniques subtiles. Le costume fut testé lors de la Crise Lunaire de 1969, où il aida à négocier un traité de paix avec une espèce d'êtres cristallins qui avaient initialement trouvé les humains 'esthétiquement déplaisants'. Le traité tient toujours, un témoignage au pouvoir d'un bon costume."
+    },
+    "35": {
+      "name": "Tenue du Forgeron de Rêves",
+      "description": "Des vêtements doux et confortables aux couleurs pastel, qui semblent absorber la lumière ambiante pour la restituer en douces lueurs oniriques.",
+      "heading_details": "Tenue du Forgeron de Rêves — Parce que le Monde a Besoin de plus de Merveille",
+      "details": "Cette tenue est une couverture de sécurité stylisée pour adultes. Fabriquée dans des matières incroyablement douces comme le cachemire, le velours côtelé et la soie, elle est conçue pour un confort maximal. Les couleurs sont des pastels profonds - lavande, rose poudré, bleu ciel - qui semblent pulser très légèrement, comme s'ils respiraient. De petites broderies subtiles représentent des motifs oniriques : étoiles filantes, licornes endormies, châteaux de nuages. Porter cette tenue, c'est comme porter un câlin permanent. Les gens se sentent instinctivement à l'aise en ta présence, les enfants te sourient sans raison, et même les animaux méfiants s'approchent pour se faire caresser. Elle n'inspire pas le respect craintif, mais l'affection et la confiance. C'est la tenue du conteur, du thérapeute, de l'artiste, de quiconque consacre sa vie à créer de la beauté, du confort ou de l'émerveillement dans un monde qui en manque cruellement. Elle ne résout pas les problèmes par la force, mais en rappelant aux gens ce pour quoi il vaut la peine de se battre.",
+      "origin": "Inspirée par les œuvres de l'artiste et philanthrope Isabella Rêve-doux, qui croyait que le monde devenait trop dur et trop cynique. Elle fonda les 'Ateliers du Rêve', où des artisans créaient des vêtements et des objets dont le seul but était d'apporter du réconfort et de l'inspiration. Les tenues étaient souvent offertes gratuitement aux enseignants, aux infirmières, aux soignants et à tous ceux dont le travail consistait à prendre soin des autres. La légende veut que porter l'une de ces tenues pendant une période prolongée puisse réellement influencer les rêves des personnes qui dorment à proximité, les rendant plus doux et plus pleins d'espoir. Isabella disparut un jour, laissant derrière elle seulement ses créations et une note qui disait : 'Je suis partie semer des rêves ailleurs. Prenez soin les uns des autres.'"
+    },
+    "36": {
+      "name": "Armure du Paladin Déchu",
+      "description": "Une armure autrefois brillante, maintenant ternie et cabossée, mais qui émet toujours une faible lueur d'espoir obstiné.",
+      "heading_details": "Armure du Paladin Déchu — La Lumière est plus Forte quand elle a Surmonté l'Obscurité",
+      "details": "Cette armure raconte une histoire de chute et de rédemption. Les plaques de métal, autrefois argentées et dorées, sont maintenant grises et rayées, avec des bosses et des entailles qui témoignent de combats perdus et d'erreurs commises. La cape, jadis d'un blanc immaculé, est déchirée et tachée. Pourtant, malgré cet aspect délabré, l'armure n'est pas brisée. Au contraire, elle semble plus forte, comme si chaque cicatrice avait ajouté à sa résilience. Une faible lueur persiste dans les crevasses les plus profondes, une lumière ténue mais obstinée qui refuse de s'éteindre. Porter cette armure, c'est accepter son propre passé imparfait. C'est l'armure de celui qui a échoué, qui a failli, qui a perdu la foi, mais qui a choisi de se relever et de continuer à se battre, non par innocence ou certitude, mais par une détermination farouche forgée dans le désespoir. Elle n'inspire pas l'admiration aveugle, mais un respect profond et mélancolique. Elle dit : 'J'ai vu les ténèbres, j'y ai habité, et j'ai choisi de ramener de la lumière quand même.'",
+      "origin": "Portée à l'origine par Sir Alistair le Désillusionné, un paladin qui avait perdu toute foi dans les dieux après avoir été témoin de trop de souffrance injuste. Il jeta son armure étincelante dans un ravin et erra pendant des années, amer et brisé. Mais face à une menace qui nécessitait son aide, il retourna sur les lieux, retrouva son armure rouillée et cabossée, et la porta non par devoir envers une divinité, mais par compassion pour les personnes qui souffraient. En combattant avec cette armure déchue, il découvrit que sa lumière intérieure, bien que différente, était plus forte et plus durable que celle qui lui avait été autrefois 'accordée'. Son armure, imprégnée de cette nouvelle forme de force, devint un symbole pour tous ceux qui continuent à se battre même après avoir perdu leur innocence."
+    },
+    "37": {
+      "name": "Tenue du Marchand d'Illusions",
+      "description": "Des vêtements élégants mais déroutants, aux motifs qui semblent changer en fonction de ce que le spectateur veut voir.",
+      "heading_details": "Tenue du Marchand d'Illusions — La Vérité est une Question de Perspective",
+      "details": "Cette tenue est un miroir pour l'âme de ceux qui la regardent. Le tissu n'a pas de couleur ou de motif fixes ; au lieu de cela, il reflète subtilement les désirs, les espoirs ou les peurs de l'observateur. Un chef d'entreprise ambitieux pourrait voir un costume d'une coupe impeccable évoquant le succès et le pouvoir. Un artiste rêveur pourrait y voir des robes fluides aux couleurs de l'arc-en-ciel. Un nostalgique pourrait y reconnaître le style d'une époque révolue qu'il chérit. Porter cette tenue, c'est devenir un caméléon social parfait. Tu n'as pas besoin de mentir sur qui tu es - les autres projetteront simplement sur toi la version de toi qu'ils sont le plus disposés à accepter et à apprécier. C'est incroyablement utile pour les négociations, les séductions ou toute situation où faire bonne impression est crucial. Mais c'est aussi une existence profondément solitaire, car personne ne voit jamais le vrai 'toi' - seulement le reflet de leurs propres attentes. C'est le pouvoir ultime de l'illusion, et la malédiction de ne jamais être vraiment vu.",
+      "origin": "Développée par les Maîtres Illusionnistes de la Guilde des Miroirs, une organisation secrète de marchands, d'espions et d'influenceurs qui comprirent très tôt que la perception est la seule réalité qui compte. Le tissu, connu sous le nom de 'Soi-miroir', est tissé avec des fibres optiques microscopiques et imprégné de sorts psychométriques subtils. La tenue fut popularisée par le célèbre marchand Elias Vex, qui pouvait vendre de la glace à un habitant du pôle Nord simplement en apparaissant comme la personne en qui cet habitant aurait le plus confiance. Il devint incroyablement riche, mais on dit qu'il mourut seul, entouré de miroirs, se demandant à quoi il ressemblait vraiment."
+    },
+    "38": {
+      "name": "Habits de l'Écolier Éternel",
+      "description": "Un uniforme scolaire parfaitement net qui semble toujours neuf, porté par quelqu'un qui a fait de l'apprentissage un mode de vie.",
+      "heading_details": "Habits de l'Écolier Éternel — La Curiosité est la seule Jeunesse Éternelle",
+      "details": "Cet uniforme est un paradoxe temporel stylisé. Il a l'apparence classique et un peu sévère d'un uniforme scolaire traditionnel - blazer, cravate, jupe ou pantalon bien coupé - mais il émane une aura de curiosité et de potentiel infinis. Le tissu est toujours impeccable, les plis parfaits, comme s'il venait d'être repassé pour le premier jour d'école. Porter cet uniforme, c'est adopter une posture d'humilité et d'ouverture d'esprit. C'est une déclaration que, peu importe ton âge ou ton expérience, tu es toujours un étudiant face à la vastitude du savoir universel. Les gens ont tendance à te donner des explications, à partager leurs connaissances, à te prendre sous leur aile. Cet uniforme désarme l'ego et ouvre les portes de l'apprentissage. C'est la tenue du chercheur perpétuel, du maître qui se présente toujours comme un débutant, de celui qui comprend que le jour où tu penses tout savoir est le jour où tu commences à mourir intellectuellement. Il rappelle que chaque personne que tu rencontres et chaque situation que tu vis est une salle de classe potentielle.",
+      "origin": "Popularisé par le Dr. Aris Thot, un professeur universitaire centenaire qui assistait à des conférences dans le monde entier en portant toujours un uniforme scolaire. Quand on lui demandait pourquoi, il répondait : 'Parce que face à l'océan de l'inconnu, nous sommes tous des écoliers.' Ses anciens élèves, touchés par sa sagesse et son humilité, créèrent une ligne de vêtements inspirée de son style. L'uniforme est devenu un symbole dans les cercles intellectuels et scientifiques, porté par ceux qui souhaitent constamment se rappeler qu'il y a toujours plus à apprendre. Une rumeur persistante prétend que porter l'uniforme améliore légèrement la capacité de rétention d'informations, mais cela n'a jamais été prouvé scientifiquement - ce qui, bien sûr, est une leçon d'humilité en soi."
+    },
+    "39": {
+      "name": "Armure du Gladiateur Numérique",
+      "description": "Une armure futuriste composée de panneaux de fibres de carbone et de bandes LED, conçue pour les champions des arènes virtuelles.",
+      "heading_details": "Armure du Gladiateur Numérique — Les Batailles sont Maintenant en 4K",
+      "details": "Cette armure est une déclaration de guerre stylisée pour l'ère numérique. Elle épouse parfaitement la silhouette, composée de plaques de carbone légères mais ultra-résistantes, articulées pour permettre une mobilité totale. Son véritable atout réside dans son système d'affichage intégré : des milliers de micro-LED couvrent sa surface, capable d'afficher n'importe quelle couleur, motif ou animation. Un gladiateur peut arborer les couleurs de son équipe, afficher un compte à rebours dramatique, ou même projeter une texture caméléon pour se fondre dans l'environnement (virtuel). Des capteurs intégrés surveillent les signes vitaux et les performances, fournissant des données en temps réel. Porter cette armure, c'est devenir une icône vivante de la culture compétitive moderne. Elle ne sent pas la sueur et le sang, mais l'ozone et l'innovation. Elle est conçue non pour protéger des lames réelles, mais pour impressionner un public mondial, pour incarner l'esprit d'un jeu, et pour faire de chaque victoire un spectacle mémorable. C'est l'armure de l'athlète électronique, du streamer, de celui qui comprend que dans le monde moderne, gagner n'est qu'une partie de la bataille - il faut aussi le faire avec un style incontestable.",
+      "origin": "Née dans les stades e-sport de Neo-Tokyo en 2047, lorsque la ligue professionnelle de 'Starfall Arena' cherchait à donner une identité visuelle plus spectaculaire à ses joueurs. La société tech 'Aegis Dynamics' remporta l'appel d'offres avec ce design révolutionnaire. L'armure fut immédiatement un succès, transformant les joueurs auparavant anonymes en super-héros numériques reconnaissables. Le design a depuis évolué, incorporant des technologies de réalité augmentée et des interfaces neurales rudimentaires. La légende du e-sport, 'Vortex', portait une version personnalisée de cette armure lorsqu'il a remporté le Championnat Mondial trois fois de suite, son armure affichant des schémas complexes qui, selon les fans, étaient en fait des visualisations en temps réel de ses stratégies de jeu. Aujourd'hui, c'est le graal de tout compétiteur numérique qui se respecte."
+    },
+    "40": {
+      "name": "Robe de la Sorcière des Neiges",
+      "description": "Une robe d'un blanc éclatant et de fourrure argentée, qui semble faire givrer l'air alentour et cristalliser le silence.",
+      "heading_details": "Robe de la Sorcière des Neiges — La Beauté Tranquille et Mortelle de l'Hiver",
+      "details": "Cette robe est l'hiver incarné. Faite de soie blanche aussi pure que la neige fraîche et bordée d'une fourrure argentée qui scintille comme le givre, elle abaisse sensiblement la température autour du porteur. L'air semble devenir plus vif, plus propre, et un silence profond l'enveloppe, étouffant les bruits ambiants comme une couverture de neige. Des cristaux de glace se forment et se dissipent continuellement dans les plis de la robe, et son souffle se condense en un nuage de vapeur élégant, même dans les pièces les plus chaudes. Porter cette robe, c'est incarner une beauté froide et distante, une grâce qui intimide autant qu'elle fascine. Les émotions bruyantes et chaotiques semblent se calmer en ta présence, remplacées par une sérénité glaciale. C'est la tenue de celle qui préfère la solitude majestueuse des sommets enneigés à la chaleur désordonnée de la foule, qui comprend que le silence peut être plus puissant que le cri, et que le froid peut préserver une beauté que la chaleur détruirait. Elle n'inspire pas l'affection, mais une crainte respectueuse, comme face à une force de la nature trop sublime pour être approchée.",
+      "origin": "Créée par les Sœurs du Pic Givré, un coven de sorcières vivant dans les montagnes les plus hautes et les plus isolées du monde. Elles apprirent à tisser avec les vents du nord et à coudre avec des aiguilles de glace magique qui ne fondaient jamais. La robe était leur outil de méditation et de protection, les isolant du 'bruit' émotionnel du monde d'en bas. La plus célèbre d'entre elles, Freya Blanchemont, utilisa le pouvoir de sa robe pour arrêter une avalanche qui menaçait un village, gelant la montagne entière dans un silence soudain et surnaturel. Le village fut sauvé, mais les habitants gardèrent désormais une distance respectueuse, considérant Freya moins comme une sauveuse que comme une personnification de la nature elle-même - belle, puissante, et fondamentalement étrangère à l'humanité."
+    },
+        "41": {
+      "name": "Costume du Détective Privé Nocturne",
+      "description": "Un trench-coat usé mais stylé, un chapeau fedora et un costume sobre, parfaits pour résoudre des mystères dans les rues sombres de la ville.",
+      "heading_details": "Costume du Détective Privé Nocturne — La Vérité est là, il suffit de regarder dans les Ombres",
+      "details": "Ce costume sent le whisky bon marché, la pluie urbaine et les secrets inavouables. Le trench-coat en gabardine est légèrement froissé, comme s'il avait été porté pendant trop de nuits blanches à suivre des suspects. Le chapeau fedora est incliné à l'angle parfait pour cacher les yeux tout en maintenant un air de mystère professionnel. En dessous, le costume est sobre et pratique, avec des poches profondes pour ranger un carnet, un flasque (purement décoratif, bien sûr) et peut-être un petit calibre discrètement dissimulé. Porter ce costume, c'est adopter une posture de cynisme romantique. Tu n'es pas un policier - tu es un loup solitaire, travaillant dans les zones grises de la moralité, prenant les cas que la police officielle ne peut ou ne veut pas résoudre. Les gens viennent te voir avec leurs histoires tordues, leurs maris infidèles, leurs disparitions inexplicables, et tu écoutes, tu observes, tu notes. Chaque pièce de ce costume raconte une histoire, chaque tache a une origine, chaque pli cache un indice. C'est l'uniforme du justicier désillusionné, de celui qui a vu le pire de l'humanité mais qui continue quand même à chercher la vérité, même quand elle fait mal.",
+      "origin": "Popularisé par le légendaire détective Jack Nighthawk, qui opérait dans les bas-fonds de Veridian City dans les années 2050. Jack était célèbre pour résoudre des affaires si complexes que la police les classait comme des accidents ou des suicides. Son secret ? Une capacité presque surnaturelle à lire les micro-expressions et un trench-coat qui semblait toujours être au bon endroit au bon moment. La légende dit qu'il résolut le Cas du Millionnaire Volatilisé simplement en remarquant une tache de boue spécifique sur le revers de son propre manteau qui ne correspondait pas à la géologie locale. Après sa disparition mystérieuse (bien sûr), son style fut adopté par une nouvelle génération de détectives qui espéraient capturer ne serait-ce qu'un fragment de son génie en portant les mêmes vêtements. Le trench-coat original est toujours introuvable, mais on dit qu'il apparaît parfois dans le reflet des vitrines de magasins fermés, attendant son prochain porteur."
+    },
+    "42": {
+      "name": "Tenue du Pilote de Course Rétro-Futuriste",
+      "description": "Une combinaison de course moulante aux couleurs vives, inspirée des années 80 mais avec des éléments technologiques avancés.",
+      "heading_details": "Tenue du Pilote de Course Rétro-Futuriste — La Vitesse n'a pas d'Âge, elle a juste un Style",
+      "details": "Cette tenue est un hommage vibrant à l'ère des excès tout en embrassant la technologie la plus avancée. La combinaison moulante présente des bandes colorées néon - rose fluo, bleu électrique, vert acide - qui semblent briller d'elles-mêmes. Le design est audacieux, avec des épaules structurées et des lignes aérodynamiques qui évoquent à la fois les voitures de sport vintage et les vaisseaux spatiaux. Mais sous son apparence rétro, cette tenue est bourrée de technologie : des micro-capteurs surveillent les signes vitaux, le tissu intelligent régule la température corporelle, et des fibres conductrices intégrées peuvent afficher des données de performance en temps réel. Porter cette tenue, c'est afficher une confiance absolue dans le futur tout en célébrant le passé. Tu n'es pas simplement rapide - tu es stylé en étant rapide. Chaque mouvement semble faire partie d'une chorégraphie de haute vitesse, chaque geste est optimisé pour l'efficacité et l'impact visuel. C'est la tenue de celui qui comprend que gagner une course n'est qu'une partie de la victoire - l'autre partie est de créer une légende en le faisant.",
+      "origin": "Créée pour la renaissance du sport automobile dans les années 2080, lorsque les courses sont devenues autant des spectacles de mode que des compétitions sportives. La designer Vega Synthwave, obsédée par l'esthétique vaporwave des années 80-90, a convaincu la Ligue de Course Galactique que le style pouvait être une stratégie gagnante. Sa première collection fut tellement populaire qu'elle devint instantanément l'uniforme non officiel des pilotes. La tenue fut rendue célèbre par la pilote Anya 'Neon' Petrova, qui remporta le Grand Prix de Neo-Tokyo en battant le record du circuit tout en arborant un motif de coucher de soleil synthwave personnalisé qui devint plus iconique que sa victoire elle-même. Aujourd'hui, chaque pilote qui se respecte a sa propre variation de cette tenue, prouvant que dans le futur, aller vite ne suffit pas - il faut aller vite avec panache."
+    },
+    "43": {
+      "name": "Armure du Samouraï Cybernétique",
+      "description": "Une armure traditionnelle japonaise fusionnée avec des composants technologiques, créant un hybride entre l'ancien code de l'honneur et la future efficacité.",
+      "heading_details": "Armure du Samouraï Cybernétique — Le Code du Bushido, Mis à Jour pour le 22ème Siècle",
+      "details": "Cette armure est un pont entre deux époques. Les plaques de protection sont inspirées des armures lamellaires traditionnelles, mais elles sont forgées dans des alliages de céramique et de titane imprimés en 3D. Le kabuto (casque) intègre un affichage tête haute qui superpose des données tactiques à la vision du porteur, tandis que le mempo (masque facial) dissimule un système de communication et de filtration d'air. Le do (cuirasse) est gravé de circuits qui pulsent d'une faible lumière bleue, évoquant à la fois les veines et les flux de données. Porter cette armure, c'est incarner la fusion entre la discipline ancestrale et l'innovation moderne. Ton katana pourrait être en acier forgé à la main, mais son tranchant est maintenu par un champ énergétique. Ta méditation est assistée par des bio-capteurs qui optimisent ta fréquence cérébrale. Tu respectes le code du bushido, mais tu utilises des drones de reconnaissance. C'est l'armure du guerrier qui comprend que l'honneur n'a pas d'époque, mais que les outils pour le défendre évoluent avec le temps.",
+      "origin": "Développée par le Clan Kagekawa après la Grande Fusion Technologique de 2145, lorsqu'il devint clair que s'accrocher aux traditions sans adaptation équivalait à un suicide culturel. Le daimyo Takeshi Kagekawa chargea ses meilleurs artisans et ingénieurs de créer une armure qui honorerait l'esprit du samouraï tout en embrassant les possibilités de la nouvelle ère. Le résultat fut si efficace que même les puristes les plus traditionalistes durent admettre son élégance mortelle. L'armure fut testée lors du Conflit des Ondes Silencieuses, où une petite unité de samouraïs cybernétiques défit une armée conventionnelle dix fois plus nombreuse grâce à leur combinaison unique de discipline martiale et de supériorité technologique. Aujourd'hui, elle symbolise la capacité du Japon à évoluer sans perdre son âme."
+    },
+    "44": {
+      "name": "Tenue du Poète Maudit Romantique",
+      "description": "Des vêtements sombres et légèrement débraillés, parfaits pour écrire de la poésie tragique au clair de lune dans des cimetières.",
+      "heading_details": "Tenue du Poète Maudit Romantique — Parce que la Mélancolie a Besoin d'une Garde-robe Appropriée",
+      "details": "Cette tenue est une déclaration d'intention tragique et romantique. La chemise blanche est légèrement froissée et ouverte au col, comme si elle avait été enfilée dans un moment d'inspiration frénétique. Le gilet en velours noir est usé aux coudes, témoin d'innombrables nuits passées penché sur un bureau d'écriture. Le pantalon est ample et sombre, permettant de s'asseoir sur des pierres tombales sans se soucier des taches. Une longue écharpe noire est négligemment enroulée autour du cou, prête à flotter dramatiquement dans la brise nocturne. Porter cette tenue, c'est embrasser le rôle de l'artiste incompris et tourmenté. Tu ne souris pas souvent, et quand tu le fais, c'est d'un sourire triste et connaisseur. Tu vois la beauté dans la décomposition, la poésie dans la douleur, l'amour dans la perte. Les gens pourraient te trouver déprimant, mais tu sais que tu es simplement profond. Cette tenue n'est pas conçue pour attirer l'attention bruyante, mais pour susciter une curiosité mélancolique. Elle dit : 'J'ai vu la beauté fragile de l'existence, et cela m'a brisé le cœur, mais d'une manière magnifique.'",
+      "origin": "Popularisée par le cercle des Poètes Oubliés de Paris dans les années 2020, un groupe d'écrivains qui croyaient que le vrai génie ne pouvait fleurir que dans la souffrance (et avec le bon dress code). Leur leader, Antoine 'Le Sombre', déclarait que porter des couleurs vives 'tuait l'âme créative'. Ils tenaient des séances de lecture dans des cimetières, des ruines et des appartements mal éclairés, toujours vêtus de cette tenue signature. Bien que peu d'entre eux aient connu le succès de leur vivant, leur style fut immortalisé lorsque le plus talentueux d'entre eux, Pierre Valery, se noya tragiquement dans la Seine en laissant derrière lui un recueil de poèmes qui devint un chef-d'œuvre culte. Aujourd'hui, des générations d'adolescents romantiques et d'écrivains en herbe adoptent ce style, espérant capturer ne serait-ce qu'une étincelle de cette mélancolie créative."
+    },
+    "45": {
+      "name": "Costume du Gentleman Cambrioleur",
+      "description": "Un costume trois-pièces élégant et sobre, conçu pour se fondre dans les soirées huppées tout en planifiant le casse du siècle.",
+      "heading_details": "Costume du Gentleman Cambrioleur — Parce que le Crime peut être une Affaire de Classe",
+      "details": "Ce costume crie le respectabilité et la discrétion. Taillé sur mesure dans des laines fines et des soies discrètes, il est conçu pour te faire paraître comme si tu appartenais naturellement aux cercles les plus exclusifs de la société. Rien n'est flashy - tout est sous-estimé, raffiné, impeccable. Mais regarde de plus près : la doublure intérieure est faite d'un tissu silencieux spécial qui ne produit aucun froissement. Les poches sont renforcées et compartimentées pour transporter des outils spécialisés sans créer de renflements suspects. Les boutons de manchette peuvent soudoyer des serrures électroniques, et la cravate dissimule un fil d'acier ultra-fin. Porter ce costume, c'est maîtriser l'art de la duplicité élégante. Tu peux discuter d'art avec un collectionneur tout en repérant les faiblesses de son système de sécurité. Tu peux danser avec la fille du commissaire tout en mémorisant les mouvements des gardes. Ce n'est pas simplement un déguisement - c'une armure sociale qui te permet d'opérer là où les criminels ordinaires ne pourraient même pas entrer. C'est le choix du professionnel qui comprend que parfois, le meilleur outil pour ouvrir un coffre-fort n'est pas un chalumeau, mais une invitation en bonne et due forme.",
+      "origin": "Perfectionné par le légendaire Arsène LaFontaine, le 'Voleur des Hautes Sociétés' qui dérobait les joyaux de la couronne pendant que leurs propriétaires lui servaient du champagne. Arsène croyait que la véritable élégance consistait à commettre le crime parfait sans jamais cesser d'être un gentleman. Il employait un tailleur aveugle (pour des raisons de sécurité évidentes) qui créait ces costumes sur mesure, chacun conçu pour une mission spécifique. Arsène fut finalement capturé non pas à cause d'une erreur, mais parce qu'il laissa une carte de visite en papier à lettres filigrané sur les lieux de son dernier casse - un acte de vantardise qu'il regretta amèrement pendant ses vingt ans de prison. Ses costumes, cependant, continuent d'inspirer une nouvelle génération de criminels ayant des goûts raffinés."
+    },
+    "46": {
+      "name": "Tenue du Surfeur des Vagues Quantiques",
+      "description": "Une combinaison de surf néoprène qui semble changer de couleur et de texture, conçue pour chevaucher non seulement les vagues océaniques mais aussi les fluctuations de la réalité elle-même.",
+      "heading_details": "Tenue du Surfeur des Vagues Quantiques — Parce que la Réalité est Fluide, alors Autant Surfer Dessus",
+      "details": "Cette tenue est une déclaration d'optimisme existentiel radical. La combinaison en néoprène de haute technologie n'a pas de couleur fixe - elle ondule à travers le spectre visible, reflétant les probabilités environnantes plutôt que la lumière. Parfois, elle semble presque transparente, comme si le porteur n'était qu'à moitié ancré dans cette réalité. Les motifs ressemblent à des diagrammes d'ondes de probabilité, des équations de Schrödinger stylisées, et des visualisations d'interférences quantiques. Porter cette tenue, c'est adopter une philosophie de fluidité absolue. Tu ne combats pas le courant de l'existence - tu chevauches ses vagues. Les problèmes ne sont que des opportunités de 'recalibrer ta trajectoire probabiliste'. Les échecs sont simplement des 'collapses de fonction d'onde qui n'ont pas aligné avec tes intentions'. C'est à la fois profondément spirituel et incroyablement pratique - quand tu portes cette tenue, tu as littéralement l'impression de pouvoir surfer sur les aléas de la vie. Les gens peuvent te trouver un peu new age, mais comment peuvent-ils argumenter contre quelqu'un qui semble littéralement glisser entre les dimensions ?",
+      "origin": "Développée par les Physiciens-Surfers de l'Institut de Recherche sur la Conscience de Maui, un groupe de scientifiques qui croyaient que la mécanique quantique n'était pas seulement une théorie physique mais un mode de vie. Leur leader, le Dr. Kai 'Shaka' Brahms, passa dix ans à méditer sur une planche de surf tout en résolvant des équations quantiques avant d'avoir l'illumination qui mena à cette tenue. Le matériau fut créé en imbriquant des particules quantiques dans du néoprène traditionnel - un processus si complexe qu'il nécessita la construction d'un accélérateur de particules sur la plage. La tenue fut testée lors du Grand Tsunami Probabiliste de 2087, où les surfeurs qui la portaient rapportèrent avoir 'chevauché la vague à travers plusieurs réalités alternatives simultanées'. Aujourd'hui, elle est prisée des surfeurs, des philosophes et de quiconque préfère naviguer dans les incertitudes de la vie plutôt que de les combattre."
+    },
+    "47": {
+      "name": "Armure du Chevalier de la Table Ronde Moderne",
+      "description": "Une armure médiévale réinterprétée avec des matériaux et une esthétique contemporains, pour le héros des temps modernes.",
+      "heading_details": "Armure du Chevalier de la Table Ronde Moderne — Les Dragons ont Changé de Forme, pas les Principes",
+      "details": "Cette armure reconnaît que les batailles d'aujourd'hui se gagnent différemment, mais que les valeurs chevaleresques restent pertinentes. Au lieu d'acier lourd, elle utilise des composites de carbone légers et des céramiques avancées. La silhouette évoque l'armure de plaque traditionnelle, mais avec des lignes épurées et une ergonomie moderne. L'écu n'est pas un bouclier physique mais un générateur de champ de force portable. L'épée n'est pas en métal mais en énergie pure contenue dans une poignée élégante. Porter cette armure, c'est incarner l'idéal chevaleresque adapté au 21ème siècle. Tu combats l'injustice non pas avec la force brute, mais avec l'intelligence stratégique, l'intégrité inébranlable et une détermination à protéger ceux qui ne peuvent se protéger eux-mêmes. Tu n'es pas au service d'un roi, mais de principes universels. Les 'dragons' que tu affrontes sont la corruption, la désinformation, l'indifférence - bien plus insidieux que des créatures à écailles, mais tout aussi dangereux. Cette armure est un rappel que l'honneur, le courage et la compassion ne sont pas des concepts démodés, mais des outils essentiels pour naviguer dans la complexité du monde moderne.",
+      "origin": "Conçue par l'Ordre de la Table Ronde Numérique, une organisation secrète de professionnels éthiques (avocats, journalistes, lanceurs d'alerte) qui croient que les valeurs chevaleresques peuvent sauver le monde moderne. Leur Grand Maître, Arthur Pendragon Jr. (un descendant direct, affirme-t-il), commissionna cette armure comme symbole de leur mission. Elle fut révélée pour la première fois lors de l'Affaire des Documents Cachés de 2034, où un chevalier moderne utilisa l'armure pour protéger un lanceur d'alerte contre des agents corporatifs corrompus. L'image de cette silhouette à la fois ancienne et futuriste faisant face à des adversaires en costume trois-pièces devint virale, inspirant une nouvelle génération à embrasser les vertus chevaleresques dans leur vie quotidienne. L'armure n'est pas donnée - elle est méritée par des actes de courage moral et d'intégrité exceptionnels."
+    },
+    "48": {
+      "name": "Tenue du Alchimiste Culinaire",
+      "description": "Une veste de chef traditionnelle mais avec des modifications pratiques, des poches dimensionnelles pour les ingrédients et des protections contre les explosions mineures.",
+      "heading_details": "Tenue du Alchimiste Culinaire — Parce que la Cuisine est la plus Ancienne et Plus Noble des Magies",
+      "details": "Cette tenue sent les épices rares, l'innovation et l'audace culinaire. La veste de chef en coton blanc est classique, mais elle est renforcée avec des fibres résistantes aux taches, aux déchirures et aux éclaboussures d'acide alimentaire (ça arrive plus souvent qu'on ne le pense). Les poches semblent normales mais peuvent contenir bien plus que leur volume apparent - une pour les herbes fraîches, une autre pour les épices exotiques, une troisième pour les ustensiles spécialisés. Un tablier résistant aux produits chimiques est assorti, protégeant contre les réactions culinaires imprévues. Porter cette tenue, c'est embrasser l'idée que cuisiner n'est pas simplement nourrir les gens, c'est transformer la matière première en expérience, en émotion, en art. Tu n'es pas un cuisinier - tu es un alchimiste qui transforme l'ordinaire en extraordinaire. Tes outils ne sont pas des casseroles et des poêles, mais des creusets et des athanors modernes. Tes recettes ne sont pas des instructions, mais des formules magiques qui doivent être exécutées avec précision et intuition. Cette tenue est le symbole de celui qui comprend que la meilleure magie ne se produit pas dans des grimoires poussiéreux, mais dans des cuisines bien équipées, où les sorts s'appellent 'soufflés', 'coulis' et 'reductions'.",
+      "origin": "Popularisée par le chef révolutionnaire Marco 'Mage' Voltaire, qui fut le premier à obtenir trois étoiles Michelin pour un restaurant servant une 'cuisine transcendantale'. Voltaire croyait que chaque ingrédient avait une 'signature énergétique' unique et que les combinaisons culinaires pouvaient affecter non seulement le palais mais aussi l'état d'esprit et même la réalité elle-même. Sa tenue signature fut copiée par des chefs du monde entier après qu'il servit un plat qui, selon de nombreux témoins, 'modifia légèrement la gravité dans la salle à manger pendant environ trente secondes'. Bien que sceptiques, les physiciens qui étudièrent le phénomène ne purent trouver d'autre explication. Aujourd'hui, les alchimistes culinaires les plus ambitieux portent cette tenue comme un badge d'honneur, chacun espérant créer le plat qui, enfin, résoudra la question de la théorie du tout."
+    },
+    "49": {
+      "name": "Costume du Entrepreneur Visionnaire",
+      "description": "Un costume qui semble ordinaire mais qui est en réalité bourré de technologie discrète, conçu pour celui qui voit le futur et veut le construire.",
+      "heading_details": "Costume du Entrepreneur Visionnaire — L'Avenir ne se Devine pas, il se Construit",
+      "details": "Ce costume est une machine à impressionner déguisée en vêtement d'affaires classique. La coupe est impeccable mais pas flashy - il s'agit de paraître compétent, pas fashionable. Le tissu est infroissable et résistant aux taches, parfait pour les journées de 20 heures et les vols long-courriers impromptus. Mais c'est dans les détails que réside la magie : les boutons de manchette sont en réalité des dispositifs de stockage de données, le nœud de cravate cache un microphone directionnel, les semelles des chaussures intègrent des générateurs piézoélectriques qui rechargeaient les appareils électroniques en marchant. Porter ce costume, c'est adopter une mentalité de construction du futur. Tu ne parles pas de ce qui pourrait arriver - tu montres des prototypes, des données, des plans d'affaires. Les gens ne te voient pas comme un rêveur, mais comme un faiseur. Cette tenue ne crie pas 'regardez-moi' - elle murmure 'j'ai déjà vu où nous allons, et j'ai un plan pour y arriver'. C'est l'uniforme de l'architecte du futur, de celui qui comprend que les plus grandes innovations ne viennent pas de laboratoires secrets, mais de salles de conférence, de cafés d'affaires et de pitchs devant des investisseurs sceptiques.",
+      "origin": "Perfectionné par la légendaire entrepreneuse Elena 'Vision' Petrova, fondatrice de la société tech 'Tomorrow Incorporated'. Elena croyait que la façon dont tu te présentes influence directement la façon dont les autres perçoivent tes idées. Elle travailla avec des tailleurs et des ingénieurs pour créer une tenue qui amplifierait sa crédibilité tout en fournissant les outils nécessaires pour fonctionner à son niveau élevé. Le costume fut rendu célèbre lors de sa présentation historique à la Conférence Mondiale des Technologies Émergentes, où elle dévoila le premier prototype d'interface neurale commerciale tout en paraissant parfaitement fraîche et préparée après un vol de 14 heures. Ses concurrents, vêtus de costumes ordinaires, parurent soudainement dépassés et démodés. Aujourd'hui, c'est le costume de choix pour quiconque cherche à lever des fonds, lancer une startup ou simplement paraître comme quelqu'un qui sait exactement ce qu'il fait, même (surtout) quand ce n'est pas le cas."
+    },
+    "50": {
+      "name": "Tenue du Gardien du Temps Libéré",
+      "description": "Des vêtements confortables et intemporels, conçus pour celui qui a rejeté la tyrannie des horaires et embrasse le flux naturel du temps.",
+      "heading_details": "Tenue du Gardien du Temps Libéré — Le Temps est une Rivière, pas une Cage",
+      "details": "Cette tenue est une déclaration de liberté temporelle. Les vêtements sont amples, doux et faits de matériaux naturels qui respirent - lin, coton, laine légère. Les couleurs sont neutres et apaisantes, des beiges, des gris souris, des bleus lavande. Il n'y a pas de poches pour une montre, pas de place pour un smartphone, aucun rappel visible de l'heure qui passe. Porter cette tenue, c'est adopter une philosophie de présence absolue. Tu ne vis pas selon un emploi du temps, mais selon ton intuition et les rythmes naturels. Les rendez-vous sont des 'rencontres potentielles', les délais sont des 'suggestions créatives', et être 'en retard' est un concept vide de sens. Les gens peuvent te trouver irresponsable au début, mais il y a une sérénité contagieuse dans ta manière d'être qui finit par les gagner. Cette tenue ne convient pas à un emploi de bureau traditionnel, mais elle est parfaite pour l'artiste, le méditant, le promeneur, le rêveur éveillé - pour quiconque a compris que la plus grande richesse n'est pas l'argent, mais le temps, et que le meilleur usage du temps est parfois de ne rien faire d'utile du tout, simplement d'être.",
+      "origin": "Inspirée par le mouvement 'Temps Libre' qui émergea en réaction à la culture de la productivité excessive du début du 21ème siècle. Le philosophe et styliste Kaito Sora fut le premier à articuler l'idée que nos vêtements devraient libérer notre relation au temps plutôt que la renforcer. Il créa cette collection après avoir passé un an dans un monastère où le temps était mesuré par les cloches des repas et la position du soleil, pas par des horloges. La tenue fut popularisée par le best-seller 'L'Art de Perdre son Temps', qui argumentait que nos plus grandes idées et nos moments les plus profonds viennent quand nous arrêtons de courir après le temps et permettons au temps de nous suivre. Aujourd'hui, la tenue est un symbole pour ceux qui ont choisi de vivre délibérément, de préférer la profondeur à la vitesse, et de croire que la meilleure manière de maîtriser le temps est de cesser d'essayer de le contrôler."
+    },
+        "51": {
+      "name": "Habits du Voyageur Temporel Débutant",
+      "description": "Des vêtements légèrement décalés qui semblent appartenir à plusieurs époques à la fois, parfaits pour ceux qui viennent d'arriver... ou qui viennent de partir.",
+      "heading_details": "Habits du Voyageur Temporel Débutant — Désolé, je suis nouveau. Dans quelle année sommes-nous ?",
+      "details": "Cette tenue est le résultat visible d'un paradoxe temporel vestimentaire mineur. Elle semble fondamentalement incertaine de son époque : la coupe générale évoque les années 1920, mais le tissu a la texture synthétique des années 2080. Les poches sont étrangement placées, comme si elles avaient été conçues pour des objets qui n'existent pas encore (ou plus). La couleur change subtilement selon l'angle de vue, passant d'un brun sépia à un bleu argenté futuriste. Porter cette tenue, c'est afficher une certaine confusion chronologique avec style. Les gens auront du mal à se souvenir de ton visage, mais se souviendront de ton style comme 'ce type qui avait l'air un peu perdu, mais avec classe'. Tu peux te tromper de références culturelles, confondre des inventions historiques, ou demander des directions pour des lieux qui n'existent plus (ou pas encore) sans que personne ne trouve ça particulièrement étrange - ils supposeront simplement que tu es très excentrique. C'est la tenue parfaite pour le voyageur temporel en formation, celui qui maîtrise encore mal les subtilités de la ligne temporelle mais qui refuse de laisser cela entacher son sens de la mode.",
+      "origin": "Découverts dans une valise abandonnée à la gare de Grand Central en 2024, étiquetée 'Pour débutants - Ne pas ouvrir avant d'arriver'. À l'intérieur, un manuel expliquait comment éviter les paradoxes vestimentaires majeurs (comme porter une montre intelligente à la cour de Louis XIV) et comment s'habiller pour 'passer inaperçu dans la plupart des périodes post-industrielles'. La valise elle-même semblait être en transit depuis le 22ème siècle, envoyée par l'Académie des Voyageurs Temporels pour leurs nouveaux étudiants. Le manuel précisait que ces vêtements étaient conçus pour 'minimiser les perturbations chronologiques tout en permettant au porteur de développer sa confiance temporelle'. Depuis, plusieurs exemplaires ont été repérés à différentes époques, toujours portés par des personnes qui semblaient légèrement désorientées mais incroyablement bien habillées pour quelqu'un ne connaissant pas les coutumes locales."
+    },
+    "52": {
+      "name": "Armure du Chevalier de la Comptabilité",
+      "description": "Une armure faite de dossiers renforcés, de calculatrices tactiques et d'un casque équipé de protège-oreilles anti-bruit de bureau.",
+      "heading_details": "Armure du Chevalier de la Comptabilité — Mon Épée est une Plume, mon Bouclier est un Tableur",
+      "details": "Cette armure est la défense ultime contre le chaos bureaucratique. Le plastron est constitué de classeurs à anneaux renforcés d'acier, capable de résister aux pires projections de café et aux assauts de paperasse. L'épaulière gauche comporte une calculatrice à 12 chiffres scellée contre les liquides, tandis que la droite a un porte-stylo tactique pouvant contenir jusqu'à quatre instruments d'écriture de couleur différente. Le casque intègre des protège-oreilles à réduction de bruit active, parfaits pour bloquer les bavardages des collègues pendant la période de clôture mensuelle. La cape n'est pas en tissu, mais en une impression tentaculaire du dernier tableau de bord trimestriel. Porter cette armure, c'est transformer la routine administrative en quête épique. Chaque rapport devient une mission, chaque réunion un conseil de guerre, chaque deadline un dragon à vaincre. Tu n'es pas un simple employé de bureau - tu es le gardien de l'ordre numérique, le défenseur de la précision comptable, le dernier rempart contre l'anarchie des états financiers. Les gens viennent à toi non pour ton épée, mais pour ton expertise en déduction fiscale et ta maîtrise des formules Excel complexes.",
+      "origin": "Développée en secret par l'Ordre des Comptables Pragmatiques après le Grand Chaos Fiscal de 2018, où une erreur de calcul dans une feuille de propagation avait failli faire s'effondrer l'économie mondiale. Le Grand Comptable Sir Ledger McColumns passa des nuits blanches à concevoir cette armure fonctionnelle, testant personnellement chaque composant lors d'audits particulièrement périlleux. L'armure fut déployée pour la première fois lors de l'Audit du Siècle en 2022, où une équipe de seulement trois chevaliers comptables découvrit une fraude si complexe que les autorités régulières n'avaient même pas remarqué qu'elle existait. Depuis, l'armure est produite en série limitée pour les professionnels des finances qui considèrent leur travail non comme une corvée, mais comme une croisade pour la vérité numérique. Une rumeur persistante veut que porter cette armure augmente miraculeusement la précision des calculs de 23,7%, mais cela n'a jamais été vérifié de façon indépendante (les chevaliers refusent de participer à l'étude, trop occupés à combattre la déduction fiscale abusive)."
+    },
+    "53": {
+      "name": "Tenue du Psychologue des Ombres",
+      "description": "Des vêtements aux tons neutres et à la coupe rassurante, conçus pour mettre en confiance même les âmes les plus tourmentées.",
+      "heading_details": "Tenue du Psychologue des Ombres — Parce que les Démon les plus Redoutables n'ont pas de Cornes, mais des Traumas",
+      "details": "Cette tenue est une masterclass en thérapie vestimentaire. Les couleurs sont douces et neutres - gris chiné, bleu lavande, beige chaleureux - spécialement choisies pour ne menacer personne. La coupe est confortable mais professionnelle, évoquant à la fois la compétence et l'empathie. Le tissu est doux au toucher, comme pour dire 'je comprends' à un niveau purement tactile. Porter cette tenue, c'est devenir un miroir bienveillant pour les âmes en détresse. Les gens se confient à toi sans savoir pourquoi, déballant leurs peurs les plus profondes et leurs traumatismes les mieux cachés. Tu n'as pas besoin de sorts ou d'incantations - ton simple silence attentif est plus puissant que n'importe quel enchantement. Cette tenue ne repousse pas les démons, elle les invite à s'asseoir pour une séance de thérapie. Elle transforme les peurs en compréhension, les colères en tristesses guérissables, les monstres sous le lit en enfants effrayés qui ont juste besoin qu'on leur tienne la main. C'est l'uniforme de celui qui comprend que la vraie magie ne consiste pas à bannir les ténèbres, mais à leur apprendre à danser avec la lumière.",
+      "origin": "Créée par le Dr. Seraphina Softvoice, la première psychologue à ouvrir un cabinet dans le Quartier des Ombres, un endroit où les créatures de cauchemar venaient volontairement pour parler de leurs problèmes existentiels. Elle découvrit que les démons répondaient mieux à la thérapie cognitive-comportementale qu'aux exorcismes, et que les fantômes avaient surtout besoin de validation émotionnelle. Sa tenue signature fut copiée par des thérapeutes du monde entier après qu'elle publia l'étude révolutionnaire 'Anxiété de Performance chez les Succubes' et 'Troubles de l'Attachement dans la Communauté Vampirique'. Aujourd'hui, cette tenue est le symbole d'une approche radicale de la psychologie : au lieu de combattre les monstres, pourquoi ne pas simplement les écouter ? Après tout, même le plus terrifiant des démons a probablement eu une enfance difficile."
+    },
+    "54": {
+      "name": "Costume du Diplomate Intergalactique",
+      "description": "Un costume qui s'adapte automatiquement aux coutumes vestimentaires de toute espèce intelligente, évitant les incidents interstellaires dus à un faux pas de mode.",
+      "heading_details": "Costume du Diplomate Intergalactique — L'Univers est Vaste, mais les Malentendus de Mode sont Universels",
+      "details": "Ce costume est un chef-d'œuvre de technologie adaptative et de psychologie inter-espèces. À première vue, il semble être un costume humain parfaitement ordinaire. Mais lorsqu'il entre en contact avec une culture extraterrestre, il commence immédiatement à s'adapter. Les couleurs changent pour correspondre à leur spectre visuel, les textures s'ajustent pour évoquer des associations culturelles positives, et même la coupe se modifie pour respecter leurs normes de pudeur et de statut social. Porter ce costume, c'est devenir un caméléon interstellaire. Tu peux négocier avec des êtres cristallins qui communiquent par la réfraction de la lumière, des nuages de gaz intelligents qui perçoivent le monde par densité moléculaire, ou des colossus de pierre pour qui une poignée de main serait un acte de guerre, tout en paraissant parfaitement respectable selon leurs standards. Le costume ne traduit pas les mots - il traduit la présence. Il dit 'je vous respecte' dans un million de langages non verbaux différents. C'est l'outil ultime pour celui qui comprend que dans un univers infini, la chose la plus rare et la plus précieuse n'est pas la technologie avancée, mais la compréhension mutuelle.",
+      "origin": "Développé en urgence après l'Incident Embarrassant de la Cravate de 2145, où un ambassadeur humain offensa accidentellement l'Empereur des Zorblax en portant une cravate rayée qui, dans leur culture, signifiait 'Je souhaite copuler avec votre mère porteuse'. L'ingénieur en chef de la Division des Relations Extraterrestres, le Dr. Elara Vogue, passa les dix années suivantes à créer ce costume adaptatif. Le premier prototype fut testé lors des Négociations de Paix des Nébulosides, où il sauva littéralement la galaxie en changeant spontanément de motif pour présenter des excuses culturellement appropriées après que le diplomate humain eut accidentellement marché sur l'appendice cérémoniel du dirigeant nébuloside. Depuis, aucun diplomate n'est autorisé à quitter la Terre sans en porter un, prouvant que parfois, la fashion peut littéralement sauver le monde."
+    },
+    "55": {
+      "name": "Tenue du Gardien des Rêves Oubliés",
+      "description": "Un pyjama si confortable qu'il peut capturer et préserver les rêves les plus fragiles, ceux qui disparaissent normalement au réveil.",
+      "heading_details": "Tenue du Gardien des Rêves Oubliés — Parce que certains Rêves Méritent de ne pas Être Perdus",
+      "details": "Cette tenue est une douce prison pour l'éphémère. Confectionnée dans un tissu si doux qu'il semble être fait de nuages et de souvenirs, elle possède la propriété unique de piéger délicatement les rêves dans ses fibres. Pendant ton sommeil, les songes les plus délicats - ces fragments d'histoire qui glissent habituellement entre les doigts de la mémoire au réveil - viennent se lover dans le tissu. Au matin, en enfilant la robe de chambre assortie, tu peux littéralement revivre ces rêves en effleurant le tissu. Une tache particulière pourrait contenir la fin de ce rêve épique que tu as oublié, un pli pourrait révéler la solution à un problème qui te tracassait, une manche pourrait te permettre de revivre un moment de pur bonheur onirique. Porter cette tenue, c'est devenir l'archiviste de ton propre subconscient. Tu ne perds plus les cadeaux que ton esprit te fait pendant la nuit. Les idées créatives, les résolutions de conflits intérieurs, les mondes imaginaires complets - tout est préservé, catalogué, accessible. C'est la tenue de l'artiste qui craint l'oubli, du rêveur qui prend ses songes au sérieux, de celui qui comprend que parfois, la vérité la plus profonde ne se trouve pas dans la réalité éveillée, mais dans ces royaumes fragiles que nous visitons chaque nuit.",
+      "origin": "Découverte par la chercheuse en onirologie Dr. Morvana Rêve-Doux, qui passa trente ans à étudier pourquoi les meilleurs rêves sont toujours ceux que nous oublions. Elle développa un tissu spécial tissé avec des fibres 'mnémosynes' - un matériau capable de stocker des informations oniriques de manière non volatile. La première version fut testée sur elle-même, et elle se réveilla en pleurs en retrouvant un rêve d'enfance qu'elle croyait perdu à jamais, dans lequel elle parlait avec sa grand-mère décédée. La tenue est maintenant produite en quantité limitée pour les artistes, les écrivains et les thérapeutes, mais aussi pour toute personne qui a simplement peur de perdre les magnifiques histoires que son esprit lui raconte la nuit. Une note amusante : les pyjamas doivent être 'défragmentés' une fois par mois, sinon les rêves commencent à se mélanger de façon chaotique, créant des hybrides oniriques étranges comme des licornes-pirates ou des réunions de famille dans l'espace."
+    },
+    "56": {
+      "name": "Survêtement de l'Académie Astrale",
+      "description": "Survêtement bleu marine avec des bandes dorées de l'académie astrale et des patchs de constellations.",
+      "heading_details": "Survêtement de l'Académie Astrale — Excellence Athlétique Parmi les Étoiles",
+      "details": "Cet ensemble athlétique premium comprend une veste zippée et un pantalon de survêtement assorti en bleu marine avec des bandes de course dorées sur les côtés. Le logo constellation de l'académie est brodé sur la poitrine, et divers patchs de département peuvent être trouvés sur les manches. Le tissu évacue l'humidité et est confortable, conçu à la fois pour l'entraînement physique et le port décontracté sur le campus. Parfait pour les étudiants qui ont besoin d'avoir l'air bien qu'ils étudient ou s'entraînent.",
+      "origin": "Designé pendant la Révolution Athlétique Interdimensionnelle de 4156, quand le sport a finalement évolué au-delà de la simple compétition physique pour inclure des catégories comme 'Téléportation la Plus Esthétiquement Plaisante' et 'Manipulation de Réalité Synchronisée.' Ce survêtement appartenait à la Capitaine Nova Starsprinter, l'athlète interdimensionnelle la plus réussie de l'histoire - elle était basiquement la personne qui a prouvé que tu pouvais être compétitif sur littéralement n'importe quoi si tu avais assez de style et la bonne attitude. Le tissu bleu marine venait du Coton Compétitif de Performance de Pointe, des plantes qui avaient été élevées spécifiquement pour produire des vêtements de sport qui donnaient au porteur l'impression qu'il pouvait gagner n'importe quelle compétition juste en se présentant avec l'air bien préparé. Les bandes de course dorées ont été ajoutées en utilisant du fil béni par les Dieux de la Compétition Saine, qui opéraient sur le principe que gagner n'est pas tout, mais avoir l'air bien en compétitionnant est assez proche de tout. La Capitaine Nova portait ce survêtement pendant les légendaires Jeux Olympiques Interdimensionnels de 4158, où elle a gagné dix-sept médailles d'or dans des épreuves qui n'existaient pas jusqu'à ce qu'elle les invente pendant la compétition. Le survêtement a gagné ses propriétés d'amélioration de performance après avoir absorbé l'énergie compétitive d'innombrables victoires, développant ce que les scientifiques du sport appellent 'technologie d'amplification d'aura de gagnant.' Quand la Capitaine Nova a pris sa retraite pour devenir la Directrice de l'Excellence Athlétique Cosmique, elle a passé le survêtement à quelqu'un qui comprenait que la vraie compétition est toujours avec ton moi passé, mais il n'y a aucune raison de ne pas avoir l'air absolument incroyable en s'améliorant."
+    }
+  },
+  "category": {
+    "New": {
+      "title": "Ombres des Nouveaux Tombés",
+      "subtitle": "Nés des ténèbres, forgés dans la solitude"
+    },
+    "New2": {
+      "title": "Merveilles Murmurées",
+      "subtitle": "Enchantements frais de royaumes lointains"
+    },
+    "Aura_farmers": {
+      "title": "Essence du Pouvoir",
+      "subtitle": "Canalise les énergies mystiques intérieures"
+    },
+    "Casual": {
+      "title": "Conforts du Foyer",
+      "subtitle": "Où la magie rencontre le sanctuaire quotidien"
+    },
+    "Hot_picks": {
+      "title": "Collection pour les Élus",
+      "subtitle": "Désirés par beaucoup."
+    },
+    "Rizz_master": {
+      "title": "Deviens le Duc de l'Ouest",
+      "subtitle": "Commande la présence avec grâce surnaturelle"
+    },
+    "Clocked": {
+      "title": "Armure de la Nuit Éternelle",
+      "subtitle": "Armements intemporels pour chaque quête"
+    },
+    "all": {
+      "title": "Le Grimoire Complet",
+      "subtitle": "Chaque fil enchanté de notre collection"
+    }
+  },
+  "search": {
+    "title": "Résultats de Recherche",
+    "searchTerm": "Terme de recherche",
+    "category": "Catégorie",
+    "found": "{{count}} produits trouvés",
+    "noResults": "Aucun produit trouvé correspondant à vos critères de recherche."
+  },
+  "profile": {
+      "title": "Votre profil",
+      "loading": "Chargement...",
+      "welcome": "Bienvenue",
+      "welcomeUser": "Bienvenue, {{name}} !",
+      "profile": "Profil",
+      "login": "Connexion",
+      "signup": "S'inscrire",
+      "logout": "Déconnexion",
+      "logoutConfirm": "Êtes-vous sûr de vouloir vous déconnecter ?",
+      "language": "🌐 Langue",
+      "chooseLanguage": "Choisir la langue :",
+      "orUseWidget": "Ou utilisez le widget de traduction :",
+      "loadWidget": "Charger le widget",
+      "viewProfile": "Voir le profil",
+      "editProfile": "Modifier le profil",
+      "saveProfile": "Enregistrer le profil",
+      "cancelEdit": "Annuler",
+      "viewCart": "Voir le panier",
+      "viewLikes": "Voir les favoris",
+      "name": "Nom",
+      "fullName": "Nom complet",
+      "email": "E-mail",
+      "emailLabel": "E-mail :",
+      "memberSince": "Membre depuis",
+      "memberSinceLabel": "Membre depuis :",
+      "bio": "Biographie",
+      "bioLabel": "Biographie :",
+      "bioPlaceholder": "Parlez-nous de vous...",
+      "noBio": "Aucune biographie ajoutée pour le moment...",
+      "profilePicture": "Photo de profil",
+      "changePhoto": "Changer la photo",
+      "uploadPhoto": "Télécharger une photo",
+      "accountDetails": "Détails du compte",
+      "personalInfo": "Informations personnelles",
+      "close": "Fermer",
+      "locationTitle": "Lieu de livraison",
+      "addLocationPrompt": "Ajoutez votre emplacement pour que nous puissions vous livrer vos commandes~",
+      "trackMyLocation": "📍 Suivre ma position",
+      "detectingLocation": "🔄 Détection...",
+      "orEnterManually": "— OU —",
+      "enterLocationPlaceholder": "ex. Paris, France",
+      "setLocationButton": "Définir",
+      "changeLocation": "Changer l'emplacement",
+      "locationNotSupported": "Le suivi de localisation n'est pas pris en charge par votre navigateur",
+      "locationError": "Impossible de suivre l'emplacement. Veuillez saisir manuellement."
+    },
+  "login": {
+    "title": "Connexion à Votre Compte",
+    "email": "Email",
+    "emailLabel": "Email :",
+    "password": "Mot de passe",
+    "passwordLabel": "Mot de passe :",
+    "emailPlaceholder": "Entrez votre email",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "loginButton": "Se Connecter",
+    "signupButton": "S'inscrire"
+  },
+  "signup": {
+    "title": "Créer un Compte",
+    "fullName": "Nom Complet",
+    "fullNameLabel": "Nom Complet :",
+    "email": "Email",
+    "emailLabel": "Email :",
+    "password": "Mot de passe",
+    "passwordLabel": "Mot de passe :",
+    "namePlaceholder": "Entrez votre nom complet",
+    "emailPlaceholder": "Entrez votre email",
+    "passwordPlaceholder": "Créez un mot de passe",
+    "signupButton": "S'inscrire",
+    "loginButton": "Se Connecter"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "aboutUs": "À propos de moi",
+    "aboutUsContent0": "Salut salut!!",
+    "aboutUsContent1": "C'est moi qui ai fait ce site. Je voulais faire un vieux site style japonais des années 90 et c'était vraiment fun!",
+    "aboutUsContent2": "J'ai 20 ans et j'étudie en ligne. J'aime faire des trucs cool. Il y a un mois j'ai commencé à prendre mes rêves au sérieux et tout va super bien. J'ai fait ce site toute seule, sans AI, sans aide, juste avec ce que je sais. Le monde de la tech c'est vraiment beau! Parfois ça me fait pleurer mais quand je comprends quelque chose toute seule c'est trop cool! Je fais plein de trucs sympa. J'ai trop hâte d'apprendre plus!",
+    "ourName": "Mon nom",
+    "ourNameContent1": "Nakachan ou Zwochan?",
+    "ourNameContent2": "Bonne question! Mon vrai nom c'est Zoha mais appelle-moi Zoe. Nakachan c'est le nom que j'utilise sur Internet. C'est mon pseudo pour les jeux et la créativité. Zwochan (Zuo+chan) c'est le nom de ma chaîne YouTube, j'ai mélangé mon vrai nom et mon pseudo. Tu peux m'appeler comme tu veux! Et j'aime les nouveaux surnoms!",
+    "whyUs": "Pourquoi moi",
+    "whyUsTitle": "Je veux que mes idées soient vues!",
+    "feature1": "J'ai toujours été celle qui faisait plein de trucs différents chaque jour. C'était fatigant parce que je pouvais faire beaucoup de choses mais j'étais jamais satisfaite. Puis j'ai pensé que je devais changer. Alors j'ai commencé à travailler sur moi. J'apprends, je m'améliore, je développe mes intérêts! Je suis tellement fière de moi. C'est comme upgrader son personnage dans un jeu, tu sais? Doucement mais sûrement. C'est fatigant mais je ne veux pas gaspiller mon potentiel. Tout le monde m'a abandonnée quand je n'ai pas pu entrer à une bonne université. Mais ensuite j'ai commencé mes études en ligne. Je veux être meilleure. Je veux que mes travaux, mes idées, mes projets soient remarqués!",
+    "features": "Mon objectif",
+    "featuresTitle": "Ce qui m'inspire et mon objectif",
+    "platformFeature1": "L'inspiration vient de plein de choses! Les jeux vidéo, les beaux sites, les choses créatives, les journaux, le scrapbooking et encore plus! Mais l'objectif? C'est de faire tout de suite les idées qui me viennent à la tête. Ne les gaspille pas. Si c'est pas bon, améliore-le, travaille dessus, rends-le meilleur. Et puis fais-le! D'une façon ou d'une autre! Fais juste en sorte que ça marche!",
+    "platformFeature2": "Il y a plein de choses dans le monde! On ne peut pas tout avoir mais au moins on peut essayer non? Alors quand tu regarderas ton passé, je veux que tu dises 'Waouh! J'ai vraiment tout fait!'",
+    "platformFeature3": "C'est ça mon objectif!",
+    "con": "Conclusion",
+    "conTitle": "À la fin..",
+    "con1": "J'ai écrit beaucoup, je vais arrêter! Je suis Zoe, j'ai 19 ans. Depuis toute petite j'ai rêvé de devenir développeuse parce qu'elles font des trucs cool et ça sonne cool! Je travaille super dur pour mes rêves. Si tu veux en savoir plus regarde les autres sections! Je serais très heureuse!"
+  },
+  "contact": {
+    "title": "Nous Contacter",
+    "contactInfo": "Informations de Contact",
+    "contactInfoSubtitle": "En bas ce sont mes réseaux sociaux où je suis active. Tu peux me contacter sur Gmail ou n'importe quel réseau où tu te sens bien. J'ai aussi donné mon GitHub donc tu peux aller voir si tu veux. Je réponds généralement aux messages et mentions que je reçois. (sauf le spam). J'aime beaucoup faire des tech amis donc s'il te plaît contacte moi! Je veux vraiment trouver des amis cool pour discuter d'idées et partager nos pensées!! Je suis toujours ouverte pour faire des amis, des équipes! S'il te plaît contacte moi! Je veux vraiment parler avec toi, vous êtes trop cool!",
+    "address": "Adresse",
+    "addressValue": "123 Rue GUGUGAGA, Ville Gugu gaga, Quartier GUGUGAGA, Gugu Gaga 150-0043",
+    "phone": "Téléphone",
+    "phoneValue": "+YY XXXXXXXXXX",
+    "fasterResponse": "Pour une réponse plus rapide, veuillez utiliser le formulaire de contact ci-dessous et sélectionner le département approprié pour votre demande (╥﹏╥)",
+    "departments": "Départements",
+    "customerSupport": "Support Client : Pour les demandes de commande, retours et questions produits",
+    "technicalSupport": "Support Technique : Pour les problèmes de site web et problèmes techniques",
+    "partnerships": "Partenariats : Pour les collaborations commerciales et demandes de vente en gros",
+    "investorRelations": "Relations Investisseurs : Pour les opportunités d'investissement et informations financières",
+    "justMessage": "Message : Juste pour contacter le dev !!",
+    "sendMessage": "Envoyez-nous un Message",
+    "name": "Nom",
+    "nameLabel": "Nom :",
+    "email": "Email",
+    "emailLabel": "Email :",
+    "department": "Département",
+    "departmentLabel": "Département :",
+    "subject": "Sujet",
+    "subjectLabel": "Sujet :",
+    "messageField": "Message",
+    "messageLabel": "Message :",
+    "namePlaceholder": "Votre nom",
+    "emailPlaceholder": "Votre adresse email",
+    "subjectPlaceholder": "Sujet du message",
+    "messagePlaceholder": "Votre message",
+    "sendButton": "Envoyer le Message",
+    "clearForm": "Effacer le Formulaire",
+    "generalInquiry": "Demande Générale",
+    "support": "Support Client",
+    "technical": "Support Technique",
+    "partnership": "Partenariats",
+    "investor": "Relations Investisseurs",
+    "press": "Juste envoyer un message",
+    "faq": "Questions Fréquentes",
+    "faqQ1": "Q : Combien de temps prend la livraison ?",
+    "faqA1": "R : Les commandes domestiques arrivent généralement sous 3-5 jours ouvrables. La livraison internationale prend 7-14 jours ouvrables selon la destination !!",
+    "faqQ2": "Q : Livrez-vous à l'international ?",
+    "faqA2": "R : Oui, on livre dans la plupart des pays du monde !!! Les frais de livraison varient selon la localisation.",
+    "faqQ3": "Q : Puis-je modifier ou annuler ma commande ?",
+    "faqA3": "R : Vous pouvez modifier ou annuler votre commande dans les 24 heures suivant le placement. Contactez notre équipe de support client dès que possible ! (ᑕ•̀ᴗ•́) !",
+    "faqQ4": "Q : Quelle est votre politique de retour ?",
+    "faqA4": "R : On offre une politique de retour de 30 jours pour les articles non utilisés dans leur emballage d'origine. Certains articles peuvent être sujets à des frais de restockage par contre.",
+    "faqQ5": "Q : Offrez-vous des prix de gros ?",
+    "faqA5": "R : Nonnn, désolé on n'offre pas de prix de gros pour les commandes en volume. Nos produits sont exclusifs et limités !!",
+    "thankYou": "Merci pour votre message, {{name}} ! On vous recontacte bientôt."
+  },
+  "invest": {
+    "title": "Investissez Avec Nous",
+    "whyInvest": "Pourquoi Investir",
+    "whyInvestContent": "Investir dans Shoppo Deligto signifie devenir partie d'une communauté grandissante passionnée par les esthétiques uniques ! Notre business a montré une croissance constante depuis sa création, avec une base de clients fidèles et des gammes de produits en expansion.",
+    "keyHighlights": "points forts clés de l'investissement :",
+    "highlight1": "30% de croissance d'année en année depuis 3 ans !!",
+    "highlight2": "Forte reconnaissance de marque dans le marché de niche !!",
+    "highlight3": "Revenu récurrent de la base de clients fidèles",
+    "highlight4": "Potentiel d'expansion vers de nouveaux marchés et catégories de produits",
+    "highlight5": "Équipe de gestion expérimentée avec expertise de l'industrie",
+    "howToHelp": "Comment Aider",
+    "howToHelpIntro": "Il y a plusieurs façons de soutenir notre business :",
+    "help1": "Investissement direct via notre campagne de crowdfunding d'equity",
+    "help2": "Devenir ambassadeur de marque et promouvoir nos produits",
+    "help3": "Fournir une expertise dans des domaines comme l'expansion internationale, l'optimisation e-commerce ou le marketing",
+    "help4": "Nous présenter à des partenaires potentiels ou distributeurs dans votre région",
+    "help5": "Partager notre histoire et produits sur les réseaux sociaux",
+    "helpOutro": "Chaque forme de soutien nous aide à grandir et apporter plus de produits authentiques aux passionnés du monde entier.",
+    "donate": "Faire un Don",
+    "donateIntro": "Pour ceux qui souhaitent soutenir notre mission sans investissement en equity, on accepte aussi les dons. Vos contributions nous aident à :",
+    "donation1": "Préserver et promouvoir l'artisanat traditionnel",
+    "donation2": "Soutenir les petits artisans et fabricants",
+    "donation3": "Développer du contenu éducatif sur la culture et l'histoire",
+    "donation4": "Maintenir notre plateforme communautaire et événements",
+    "donation5": "Offrir des bourses pour les programmes d'échange culturel",
+    "donateOutro": "Tous les donateurs reçoivent une reconnaissance spéciale sur notre site web et des mises à jour exclusives sur comment leurs contributions font la différence."
+  },
+  "payment": {
+    "title": "Informations de Paiement",
+    "paymentMethods": "Méthodes de Paiement",
+    "paymentMethodsIntro": "On accepte une variété de méthodes de paiement pour rendre votre expérience d'achat aussi pratique que possible :",
+    "creditCards": "Cartes de Crédit",
+    "paypal": "PayPal",
+    "mobilePay": "Paiement Mobile",
+    "bankTransfer": "Virement Bancaire",
+    "cashOnDelivery": "Paiement à la Livraison",
+    "security": "Sécurité",
+    "securityIntro": "Votre sécurité est notre priorité absolue. On utilise le cryptage standard de l'industrie pour protéger vos informations personnelles et de paiement.",
+    "securityFeature1": "Cryptage SSL pour tous les transferts de données",
+    "securityFeature2": "Traitement de paiement conforme PCI DSS",
+    "securityFeature3": "Pas de stockage d'informations de paiement sensibles sur nos serveurs",
+    "securityFeature4": "Audits de sécurité réguliers et évaluations de vulnérabilité",
+    "securityFeature5": "Authentification à deux facteurs disponible pour la protection du compte",
+    "securityOutro": "Si vous avez des préoccupations sur la sécurité des paiements, n'hésitez pas à contacter notre équipe de support.",
+    "faq": "Questions Fréquentes",
+    "faqQ1": "Q : Quelles devises acceptez-vous ?",
+    "faqA1": "R : On accepte les paiements en USD, EUR, GBP et JPY. Les prix affichés sur notre site sont en USD, mais vous pouvez sélectionner votre devise préférée lors du paiement.",
+    "faqQ2": "Q : Y a-t-il des frais supplémentaires pour les commandes internationales ?",
+    "faqA2": "R : On ne facture pas de frais supplémentaires, mais votre banque ou fournisseur de paiement peut appliquer des frais de conversion de devise pour les transactions internationales.",
+    "faqQ3": "Q : Comment puis-je obtenir un remboursement ?",
+    "faqA3": "R : On offre une garantie satisfait ou remboursé de 30 jours sur tous les produits. Si vous n'êtes pas satisfait de votre achat, veuillez contacter notre équipe de service client pour initier un retour.",
+    "faqQ4": "Q : Mes informations de paiement sont-elles en sécurité ?",
+    "faqA4": "R : Oui, on utilise des mesures de cryptage et de sécurité standard de l'industrie pour protéger vos informations de paiement. On ne stocke jamais les détails complets de votre carte de crédit sur nos serveurs.",
+    "faqQ5": "Q : Que dois-je faire si mon paiement échoue ?",
+    "faqA5": "R : D'abord, vérifiez que vos informations de paiement sont entrées correctement. Si le problème persiste, contactez votre banque ou fournisseur de paiement. Vous pouvez aussi essayer d'utiliser une méthode de paiement différente."
+  },
+  "location": {
+      "title": "Paramètres de localisation",
+      "yourLocation": "Votre emplacement",
+      "yourLocationValue": "Votre emplacement : {{location}}",
+      "trackLocation": "Suivre ma position",
+      "detecting": "Détection...",
+      "enterLocation": "Ou entrez votre emplacement :",
+      "enterAreaPlaceholder": "Entrez votre région",
+      "setLocation": "Définir l'emplacement",
+      "changeLocation": "Changer l'emplacement",
+      "or": "OU",
+      "close": "Fermer"
+    },
+  "footer": {
+    "copyright": "© 2025 nakachens — préparé sur mesure juste pour ici (˶ᵔ ᵕ ᵔ˶)",
+    "about": "À Propos",
+    "invest": "Investir",
+    "payments": "Paiements",
+    "socials": "Réseaux Sociaux"
+  },
+  "common": {
+    "backToTop": "RETOUR EN HAUT",
+    "close": "Fermer",
+    "price": "{{price}}$"
+  },
+  "alerts": {
+    "addedToCart": "{{name}} ajouté au panier !",
+    "addedToLikes": "{{name}} ajouté aux favoris !",
+    "locationTracked": "Localisation trouvée !! WEEWOO",
+    "locationError": "DÉSOLÉ.. Impossible de localiser.. Veuillez entrer manuellement.",
+    "geolocationNotSupported": "désolé :( localisation non supportée...",
+    "languageChanged": "Yay ! ta langue a changé en {{lang}} !!",
+    "loginSuccess": "Content de te revoir !!! tu m'as manqué !!, {{email}} !",
+    "signupSuccess": "Compte créé avec succès ! yayy Bienvenue, {{name}} !!!!",
+    "loginError": "nooon Email ou mot de passe invalide. Réessaie :(",
+    "signupError": "euh Cet email est déjà enregistré. Connecte-toi plutôt.",
+    "emailRequired": "Entre ton email s'il te plaît !!!",
+    "passwordRequired": "Entre ton mot de passe s'il te plaît !!!!",
+    "nameRequired": "Entre ton nom s'il te plaît !!!",
+    "profileUpdated": "OUIII Profil mis à jour avec succès ! tu es beau !",
+    "logoutSuccess": "Déconnecté avec succès ! reviens vite !!",
+    "success": "Réussi !",
+    "liked": "Ajouté aux Favoris ! J'aime bien aussi !!",
+    "logoutTitle": "Déconnexion",
+    "cancel": "Annuler"
+}
+}

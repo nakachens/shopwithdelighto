@@ -1,0 +1,760 @@
+{
+  "header": {
+    "logoAlt": "Logo"
+  },
+  "navigation": {
+  "home": "STARTSEITE",
+  "about": "ÜBER UNS",
+  "invest": "INVESTIEREN",
+  "payments": "ZAHLUNGEN",
+  "contact": "KONTAKT",
+  "searchPlaceholder": "Shoppo durchsuchen...",
+  "allCategories": "Alle Kategorien",
+  "rizzMaster": "Charisma Meister",
+  "new": "Neue Kollektion",
+  "new2": "Geflüsterte Wunder",
+  "auraFarmers": "Aura Sammler",
+  "hotPicks": "Top Auswahl",
+  "casual": "Casual",
+  "clocked": "Zeitlos"
+},
+  "sidebar": {
+    "checkSum": "schau dir das mal an",
+    "newCollection": "Neue Kollektion",
+    "newSubtitle1": "damit fühlst du dich wie ein Spielcharakter!",
+    "newSubtitle2": "Oh, das würde ich jeden Tag tragen.",
+    "auraFarmers": "AURA SAMMLER !!",
+    "auraSubtitle": "welchen Dungeon räumen wir heute?",
+    "hotPicks": "HEISSE PICKS !!!",
+    "hotSubtitle": "beliebt seit dem Start",
+    "casual": "Casual? Klar.",
+    "casualSubtitle": "warum nicht was Bequemes?",
+    "clocked": "Erwischt !!",
+    "clockedSubtitle": "Jojo no kimyou na bouken, Eyes of heaven",
+    "rizzMaster": "Rizz Master",
+    "rizzSubtitle": "erhöhe Charisma um 10xp"
+  },
+  "home": {
+    "newUpdate": "~Neues Update~",
+    "nocturaSubtitle": "Geboren aus der Nacht, in Stille genäht",
+    "nocturaDescription": "Ein gothischer Traum in Stoff gehüllt. Jedes Stück trägt die Stille der Mitternacht, genäht mit Schatten und Stille, gemacht für die, die aufblühen wenn die Welt schläft.",
+    "nocturaName": "Noctura",
+    "fullOnFantasy": "Ein kompletter Fantasy-Traum",
+    "wingsSubtitle": "Hüll dich in Dämmerung, trotze dem Licht.",
+    "wingsDescription": "Eine Kollektion, die am Rand der Dämmerung geboren wurde. In Schatten gehüllt und mit Trotz geschnitzt, trägt jedes Stück den Geist der Rebellion gegen das schwindende Licht. Gemacht für die, die Dunkelheit nicht als Hülle tragen, sondern als ihre Krone.",
+    "wingsName": "Wings of Dusk",
+    "moreThanDream": "es ist mehr als ein Traum",
+    "dontMissOut": "verpasse es nicht~",
+    "neverEnding": "endlose Kollektionen",
+    "collectionDescription": "Eine Kollektion gewebt aus Tagträumen und Dämmerlicht. Weiche Stoffe, sanfte Silhouetten und Farbtöne, die sich anfühlen wie mondbeleuchteter Komfort. Entworfen für die, die Magie im Alltag suchen und Wärme in jedem Stich.",
+    "allProducts": "Alle Produkte"
+  },
+  "cart": {
+    "title": "Dein Warenkorb",
+    "empty": "Dein Warenkorb ist leer",
+    "remove": "Entfernen",
+    "total": "Gesamt",
+    "checkout": "Zur Kasse",
+    "shoppingCart": "Warenkorb",
+    "viewCart": "Warenkorb anzeigen",
+    "close": "Schließen"
+  },
+  "likes": {
+    "title": "Deine gelikten Artikel",
+    "empty": "Du hast noch keine Artikel geliket",
+    "likedItems": "Gelikte Artikel",
+    "addToCart": "In den Warenkorb",
+    "remove": "Entfernen",
+    "viewAllLikes": "Alle Likes anzeigen"
+  },
+  "product": {
+    "back": "Zurück",
+    "itemDetails": "Artikel-Details",
+    "addToCart": "In den Warenkorb",
+    "like": "Liken",
+    "buyNow": "Jetzt kaufen",
+    "theOrigin": "Die Herkunft",
+    "notFound": "Produkt nicht gefunden"
+  },
+  "products": {
+    "1": {
+      "name": "Wraithweaver's Shroud",
+      "description": "Ein fließender Umhang genäht mit Geister-Faden, der leichten Rauch hinterlässt wie eine Seele, die noch nicht zur Ruhe gekommen ist.",
+      "heading_details": "Wraithweaver's Shroud - Ich bin kein Geist Chat..",
+      "details": "Ein Umhang gesponnen aus den Fäden vergessener Seelen, dieses Stück legt sich über die Schultern wie ein lebender Schatten. Der Stoff scheint schwerelos, doch er hinterlässt überall wo du gehst Nebel, einen geisterhaften Rückstand der in der Luft hängt. Die Kapuze hängt tief, verbirgt das Gesicht, und der Saum flackert als würde er sich in Rauch auflösen. Dieser Umhang fühlt sich weniger wie Kleidung an und mehr wie ein Pakt - ein Flüstern aus dem Jenseits in jede Naht genäht.",
+      "origin": "Gehörte Seraphina Nightwhisper, der letzten Hohen Trauernden der Ethereal Courts um 1847. Sie trug das hier während der Großen Trauer - ein jahrhundertlanges Ritual um verlorenen Seelen Frieden zu bringen. Die Legende sagt, sie hat buchstäblich Fäden von freiwilligen Geistern in den Stoff gewebt, weshalb er immer noch diesen geisterhaften Nebel hinterlässt. Fun Fact: sie war im Grunde der Sensenmann aber mit besserem Fashion-Sinn und Daddy-Issues. Der Umhang wurde in ihrem verlassenen Turm gefunden, immer noch perfekt erhalten, weil anscheinend selbst die Zeit zu viel Angst hatte ihre Sachen anzufassen."
+    },
+    "2": {
+      "name": "Gravebound Raiment",
+      "description": "Trauerroben mit Runen der Erinnerung bedruckt, flüstern die Namen der Toten.",
+      "heading_details": "Gravebound Raiment - ICH BIN NICHT TOT! noch nicht.",
+      "details": "Gehüllt in trauerschwarze Stoffe die sich anklammern wie Kummer, dieses Gewand ist mit Runen der Erinnerung bestickt. Jede Falte scheint unter unsichtbarem Gewicht zu seufzen, trägt Echos von Namen und Stimmen, die zu schwer sind um vergessen zu werden. Die Robe ist lang und geschichtet geschnitten, ähnelt Grabkleidung aber wird mit stolzem Trotz getragen. Dieses Stück bedeckt nicht nur den Körper - es macht ihn zu einem Denkmal, verwandelt den Träger in einen wandelnden Schrein aus Trauer und Stärke.",
+      "origin": "Ursprünglich getragen von Marcus DeathDefiant (ja, das war sein echter legaler Name) während des Krieges der Weinenden Steine 1692. Dieser Typ hat buchstäblich gesagt 'der Tod kann warten' und drei Schlachten gefochten während er technisch tot war - die Runen hielten seine Seele lang genug gefesselt um den Job zu beenden. Er war der eine Freund der sich weigert die Party zu verlassen selbst wenn alle anderen nach Hause gegangen sind, nur dass die Party das Leben war und er unerledigte Angelegenheiten hatte. Die Roben haben so viele letzte Worte absorbiert, dass sie in stillen Nächten immer noch Namen der Gefallenen flüstern."
+    },
+    "3": {
+      "name": "Phantom Veil Armor",
+      "description": "Leichte Geisterplatten, halb verblassend als würde der Träger zwischen Welten existieren.",
+      "heading_details": "Phantom Veil Armor - Ist das eine Persona-Referenz?",
+      "details": "Eine Rüstung die zwischen Existenz und Auslöschung gefangen scheint, ihre Platten flackern durchscheinend, als wären sie aus halb geformten Erinnerungen gewebt. Dünne Stahlschichten sind mit schimmernder Gaze überzogen, verschwinden aus bestimmten Winkeln wie ein Geist der sich wegdreht. Der Helm trägt keine Gesichtsplatte - nur eine sich verschiebende Unschärfe, eine nicht greifbare Identität. Sie zu tragen lässt den Körper ungebunden fühlen, als könnte ein Fehltritt dich komplett in eine andere Welt treiben lassen.",
+      "origin": "Geschmiedet für Lady Cassandra Betweenworlds, eine Ritterin die auf halbem Weg durch einen Teleportationszauber 1456 stecken blieb und einfach... damit klar kam. Sie verbrachte Jahrzehnte damit in zwei Welten gleichzeitig zu existieren, was ehrlich gesagt anstrengend klingt aber sie hat's hingekriegt. Die Rüstung reflektiert ihre duale Existenz - fest genug um ein Schwert zu stoppen aber durchscheinend genug dass Gegner immer wieder ins Leere schlugen. Sie ging in Rente um interdimensionale Reise-Bloggerin zu werden, was erklärt warum die Rüstung diese 'Ich hab Dinge gesehen die ihr nicht glauben würdet'-Energie hat."
+    },
+    "4": {
+      "name": "Ebon Vein Vesture",
+      "description": "Dunkle Seide durchzogen mit karmesinrotem Faden, pulsiert leicht wie Adern unter der Haut.",
+      "heading_details": "Ebon Vein Vesture - Wie spricht man das nochmal aus?",
+      "details": "Dunkle Seide gewebt mit karmesinrotem Faden in Adermuster, glüht leicht wie Blut das unter der Haut fließt. Der Stoff schmiegt sich an den Körper, aber die leuchtenden Adern pulsieren sanft, als wären sie lebendig. Auf den ersten Blick ist es königlich, bei genauerer Betrachtung verstörend - Kleidung die die Grenze zwischen lebendigem Fleisch und gefertigtem Gewand verwischt.",
+      "origin": "Erschaffen vom Vampir-Fashionista Graf Vladimir Aesthetic 1734, weil normale Gothic-Kleidung für seinen Geschmack nicht extra genug war. Er hat buchstäblich sein eigenes Blut in die Seidenfäden mischen lassen, weil Subtilität nie seine Stärke war. Der pulsierende Effekt kommt von seiner vampirischen Essenz die immer noch durch den Stoff fließt - es ist wie das Kreislaufsystem von jemandem als Fashion-Statement zu tragen, was ehrlich gesagt peak Vampir-Verhalten ist. Er behauptete es sei 'der ultimative Ausdruck lebendiger Kunst' aber wir wissen alle dass er nur auf Partys cooler aussehen wollte."
+    },
+    "5": {
+      "name": "Dirgeweaver's Attire",
+      "description": "Elegant aber düstere Stoffe gewebt mit Trauersymbolen, passend für einen Barden der Schatten.",
+      "heading_details": "Dirgeweaver's Attire - Aglaea wäre stolz",
+      "details": "Geschneidert in düsterem Grau und Schwarz, der Stoff ist bestickt mit Trauersymbolen aus vergessenen Kulturen. Das Design ist elegant, fließend, und doch unbestreitbar schwer, als würde es die Last von Jahrhunderten tragen. Es zu tragen fühlt sich an als würde man mit jeder Bewegung ein Lied der Trauer rezitieren. Das ist keine Kleidung für Freude, sondern für Kunstfertigkeit in Trauer.",
+      "origin": "Gehörte Melody Sorrowsong, der berühmtesten Trauer-Bardin der Melancholie-Ära (1623-1698). Sie konnte buchstäblich Menschen schöne Tränen weinen lassen nur indem sie in diesem Outfit an ihnen vorbeiging. Die bestickten Trauersymbole stammen aus 47 verschiedenen Kulturen, weil sie dieser Overachiever war der sie alle sammeln musste wie Pokemon-Karten, nur viel deprimierender. Sie trug das während des legendären 'Konzerts der ewigen Traurigkeit' das ein ganzes Königreich drei Tage lang weinen ließ. Selbst die aktuelle Aura des Outfits lässt Menschen Gedichte über ihre Gefühle schreiben wollen."
+    },
+      "6": {
+      "name": "Obsidian-Wundengewand",
+      "description": "Zackige Schnitte durch dunkle Stoffe, die an den Rändern schwach glühen wie heilende Wunden.",
+      "heading_details": "Obsidian-Wundengewand – Ich bin verwundet.. na und?",
+      "details": "Schnitte und Schlitze reißen durch den Stoff und geben den Blick auf ein darunterliegendes, glühend karmesinrotes Futter frei, wie Wunden, die zu heilen versuchen. Die Ränder jedes Risses schimmern schwach und pulsieren wie Adern. Es ist gewalttätig aber schön, eine Deklaration von Schmerz, der zu Macht wird. Das Outfit versucht nicht, seine Narben zu verbergen - es wird zu ihnen, macht die Zerbrochenheit zum Mittelpunkt.",
+      "origin": "Getragen von Scarlett Maltdastadt (Künstlername, offensichtlich) während der Rebellion der Gebrochenen Herzen im Jahr 1789. Sie war eine Kriegerdichterin, die daran glaubte, dass das Zeigen seiner Narben der ultimative Power Move war - basically die ursprüngliche 'Mein Trauma ist meine Superkraft'-Energy. Jeder leuchtende Schnitt im Stoff repräsentiert eine Schlacht, die sie überlebte, und sie fügte nach jedem Kampf neue hinzu wie das weltweit emo-ischte Errungenschaftssystem. Das Outfit verwandelt buchstäblich Schaden in Schönheit, was so eine Hauptcharakter-Move ist, dass selbst ihre Feinde es respektieren mussten."
+    },
+        "7": {
+      "name": "Aetherion-Wächter",
+      "description": "Weiß- und Goldtöne? Nein, gesegnet mit sanfter und strahlender Energie.",
+      "heading_details": "Aetherion-Wächter – Der Auserwählte Wächter des Lichts",
+      "details": "Rüstung aus makellosem weißem Emaille mit goldenen Filigranverzierungen an den Kanten, die schwach zu glühen scheinen, als wären sie von einer göttlichen Aura berührt. Der Helm ist glatt und abgerundet, mit einem goldenen Visier, das wie Sonnenlicht blitzt, das sich auf einer Klinge spiegelt. Ein langer azurblauer Umhang fließt hinterher, mit Sternmotiven bestickt, was das Gefühl vermittelt, selbst auf der Erde den Himmel im Blick zu behalten. Es strahlt gelassene Autorität aus, die Aura von jemandem, der nicht nur als Krieger dasteht, sondern als ein vom Licht auserwählter Beschützer.",
+      "origin": "Standardausgabe für die Himmlische Ehrengarde des Strahlenden Imperiums, circa 1523-1834. Das waren die Typen, die an den Himmelspforten standen und sicherstellten, dass nur die Würdigen Einlass fanden – basically göttliche Türsteher mit besserer Rüstung. Dieses spezielle Set gehörte Captain Lichtbringer McGoodguy, der so reinen Herzens war, dass Vögel buchstäblich sangen, wenn er vorbeiging (was bei Stealth-Missionen äußerst nervig gewesen sein muss). Das Glühen der Rüstung kommt von Jahrhunderten angesammelter guter Taten, was sie zum ultimativen Virtue-Signaling-Outfit macht."
+    },
+    "8": {
+      "name": "Dämmerungs-Bollwerk",
+      "description": "Oh, du wünscht dir, jemand mit strahlender Hoffnung und Schutz zu sein.",
+      "heading_details": "Dämmerungs-Bollwerk – Wächter des Ersten Lichts",
+      "details": "Diese Rüstung schimmert sanft in blassgoldenen Tönen, als hätte die aufgehende Sonne selbst den Stahl gesegnet. Die Schulterstücke weiten sich nach außen und bilden schützende Bögen, die das Sonnensigill der Brustplatte einrahmen. Der Umhang ist ein Gradient des Sonnenaufgangs – von Orange zu weichem Gelb verlaufend – und symbolisiert Wiedergeburt und Hoffnung. Jeder Schritt in dieser Rüstung fühlt sich an, als trüge man die Dämmerung in die Dunkelheit, eine Präsenz, die nicht Furcht, sondern Bewunderung und Vertuen erntet. Ihre Aura ist beschützend, strahlend und unmöglich standhaft.",
+      "origin": "Geschmiedet für Sir Optimismus Morgenmuffel, den einzigen Ritter, der sich ernsthaft auf das 5-Uhr-Morgens-Training freute. Er verteidigte die Östlichen Königreiche während der Großen Dunkelheit von 1445, wo seine unermüdlich positive Einstellung buchstäblich gegen Schattenkreaturen eingesetzt wurde, die seine 'Guten Morgen, Sonnenschein'-Energy nicht ertragen konnten. Die Rüstung absorbierte so viel Dämmerlicht, dass sie permanent sonnenaufgangsfarben wurde. Er besiegte einst eine Armee von Albträumen, einfach indem er zu fröhlich existierte – was ehrlich gesagt die übermächtigste Fähigkeit ever ist."
+    },
+    "9": {
+      "name": "Seraphine-Aegis",
+      "description": "Anmutige Silber-und-Rosen-Gold-Rüstung für eine edle Maid des Lichts.",
+      "heading_details": "Seraphine-Aegis – Die Ausstrahlung der Maid",
+      "details": "Diese Rüstung ist mit delikater Präzision geformt, mit poliertem Silber plattiert, das wie Mondlicht glänzt. Subtil Roségold-Intarsien ziehen sich über Brust und Arme und bilden florale Motive, die den Stahl aufweichen, ohne seine Stärke zu mindern. Die Schulterstücke sind elegant geschwungen, designed, um ihren Rahmen nicht zu überwältigen, sondern ihn zu betonen, wie eine Ritterin, geschmückt für Schlacht und Zeremonie. Hinter ihr fließt ein weicher Seidenumhang in hellem Lavendel, der sich mit jedem Schritt sanft bewegt wie ein Hauch von Frühling. Der Helm, oft an ihrer Seite getragen, ist mit einem silbernen Reif rather than einer Krone gekrönt – bescheiden doch königlich. Die Seraphine-Aegis verkündet nicht ihre Anwesenheit; sie singt sie, erntet Aura durch Anmut und leise Majestät.",
+      "origin": "Erschaffen für Prinzessin Isabella Graziegesicht der Silbernen Königreiche im Jahr 1398. Sie war dieser Disney-Princess-Typ, der wilde Drachen mit Freundlichkeit zähmen und Blumen zum Blühen bringen konnte, nur indem sie lächelte – basically hatte sie Hauptcharakter-Energy, die die Realität um sie herum bog. Die Rüstung wurde von sieben verschiedenen Orden heiliger Ritter gesegnet, was je nach Betrachtung entweder Overkill oder Versicherung ist. Sie verlor nie eine einzige Schlacht, weil Feinde mitten im Kampf innehalten mussten, um ihren Stil zu komplimentieren. Die Roségold-Intarsien stammten von echten Rosen, die in ihren Fußstapfen wuchsen."
+    },
+    "10": {
+      "name": "Finsternis-Mantel",
+      "description": "Ein fließender asymmetrischer Umhang über angepassten Lagen – Stadthexer-Silhouette mit taktischem Grundton.",
+      "heading_details": "Finsternis-Mantel – Die Umhüllte Schärfe",
+      "details": "Dieses Stück ist aus mattschwarzem Ripstop gefertigt, asymmetrisch geschnitten, um wie ein Umhang zu fließen, ohne die Schärfe des Streetwear-Schnitts zu verlieren. Er schließt hoch am Kragen mit einem magnetischen Verschluss und lässt eine Seite frei über der Schulter flattern wie ein Schatten. Darunter umschmeichelt ein enger kohlegrauer Rollkragenpullover den Körper und balanciert die Silhouette gegen slim-cut Cargohosen mit taktischen Reißverschlussnähten. Vollendet mit stahlkappigen Sneakers, liest sich der Finsternis-Mantel wie urbane Zauberkunst – halb Umhang, halb Rüstung, voller Präsenz.",
+      "origin": "Designt von dem mysteriösen Stadthexer, bekannt nur als 'Dieser Hoodie-Typ' in den neonbeleuchteten Arkane Bezirken von Neo-Mystopolis, 2089. Er war berühmt dafür, Zaubersprüche zu wirken, während er aussah, als wäre er gerade aus dem Bett gerollt, und revolutionierte damit die magische Mode für immer. Das asymmetrische Design entstand aus seiner Philosophie, dass 'Gleichgewicht langweilig ist' und seiner chronischen Unfähigkeit, Wäsche richtig zu falten. Dieser spezielle Mantel wurde während des Großen WiFi-Ausfalls von 2091 getragen, als er allein das mystische Internet der Stadt am Laufen hielt, nur mit purem Trotz und Energy-Drinks."
+    },
+        "11": {
+      "name": "Obsidian Grinch",
+      "description": "Moderne Ritter-Energie, neu interpretiert als schicke Stadt-Rüstung.",
+      "heading_details": "Obsidian Grinch – Damit du nicht wie einer aussiehst.",
+      "details": "Ein langer Trenchcoat aus tiefschwarzem Nylon, wasserdicht und dennoch schlank, mit dezent gepolsterten Quiltungen über den Schultern und Ärmeln. Der Schnitt ist schlank, gerade und kraftvoll und reicht bis knapp über die Knöchel für volle dramatische Wirkung. Über einem schiefergrauen Rollkragenpullover und schwarzen, enggeschnittenen Hosen getragen, verwandelt es sich in das moderne Tabard eines Ritters – raffiniert, stark und unmöglich zu ignorieren. Jeder Schritt verwandelt die Rocksaumkante in eine unaufdringliche Aura-Farm.",
+      "origin": "Maßgeschneidert für Detective Shadow Trenchcoat (ja, wieder eine legale Namensänderung) von der Supernatural Crimes Division im Gotham-der-1920er-Jahre-aber-mit-Magie. Er löste Fälle, die normale Polizisten nicht bewältigen konnten, wie 'wer hat die Weihnachtsmagie gestohlen' und 'warum klatschen alle Gargoyles ständig'. Der dramatische Stil des Mantels kam von seiner Angewohnheit, aus dem Nichts aufzutauchen, um kryptische Einzeiler von sich zu geben, bevor er wieder verschwand. Er versuchte, wie Joker aus Persona 5 zu sein, aber mit mehr Stil und weniger emotionalen Schäden, was ihn unerträglich cool machte (wir wissen es nicht)."
+    },
+    "12": {
+      "name": "Riftlayer",
+      "description": "Streetwear-Basis, geschichtet mit eckigen Schnitten, reflektierende Siegel eingewoben.",
+      "heading_details": "Riftlayer – Zwischen den Realitäten, zwischen den Styles",
+      "details": "Eine Hybrid-Hoodie-Jacke, designed für Bewegung und Layering. Die Basis ist eine übergroße schwarze Hoodie, deren Stoff mit reflektierenden, runenähnlichen Linien versehen ist, die nur unter bestimmten Lichtwinkeln aufblitzen. Darüber liegt eine croppte taktische Jacke mit eckigen Schnitten, Verschlüssen und einem Stehkragen, die eine futuristische 'Kampfmagier'-Silhouette verleiht. Kombiniert mit weiten Cargohosen, die an den Knöcheln gebündelt sind, lebt der Riftlayer von der Dualität – gemütliche Streetwear bei Tag, fantasy-geprägtes Powerwear bei Nacht.",
+      "origin": "Getragen von DJ Voidmix während des legendären Interdimensional Rave von 2156, bei dem Musik buchstäblich Portale zu anderen Realitäten öffnete. Die reflektierenden Runen waren ursprünglich Glowstick-Muster, die nach der Exposition mit puren Bass-Energien permanent in den Stoff geätzt wurden. Dieser Typ legte Beats auf, die so hart waren, dass mehrere Dimensionen anfingen, gemeinsam zu vibrieren – was für eine Reichweite. Die Fähigkeit des Outfits, gleichzeitig in mehreren Stilkategorien zu existieren, ist ein direktes Ergebnis der Aufnahme cross-dimensionaler Modeeinflüsse während dieses epischen 72-Stunden-Sets."
+    },
+    "13": {
+      "name": "Lunastra",
+      "description": "Satin-Minimalismus versteckt unter einer fließenden, kapuzenbesetzten Umhang – verzaubertes yummy-core.",
+      "heading_details": "Lunastra – Die Umhüllte Sirene",
+      "details": "Ein schwarzes Satin-Minikleid mit einem sauberen Quadrat-Ausschnitt bildet die Basis, körpernah und dennoch minimalistisch. Darüber geworfen: ein croppter, kapuzenbesetzter Umhang aus leichtem Matt-Gewebe, dessen fließende Ärmel jedem Schritt ein Gefühl von Zeremonie verleihen. Der Umhang schließt mit einer silbernen Mondsichel-Schnalle am Hals, und die Kapuze umrahmt das Gesicht in eleganter Schattierung. Oberschenkelhohe Stiefel verankern den Look in moderner Streetwear, aber die Bewegung des Umhangs verwandelt ihn in einen Zauber – Eleganz, die als Macht getarnt ist.",
+      "origin": "Erschaffen für Luna Mystique, die einflussreichste Hexen-Influencerin der spät-viktorianischen okkulten Wiederbelebung (1887). Sie war praktisch Instagram-berühmt, aber für Séancen und Zaubertrankrezepte, mit einer Anhängerschaft, die echte Geister einschloss. Die mitternächtliche Eleganz des Umhangs stammte von ihrer unverwechselbaren 'Dark Academia, aber mach es hexenhaft'-Ästhetik, die tausende Pinterest-Boards startete. Sie trug dies während des großen Spirit-Fotografie-Trends, bei dem alle versuchten, auf geisterhaften Daguerreotypien mysteriös schön auszusehen."
+    },
+    "14": {
+      "name": "Aetherveil",
+      "description": "Luftig und futuristisch mit irisierendem Schimmer, wie Mode, die aus dem Wind selbst genäht wurde.",
+      "heading_details": "Aetherveil – Das Gewicht der Luft",
+      "details": "Eine croppte Bomberjacke, neu interpretiert in perlgrau mit halbtransparenten Mesh-Einsätzen an den Ärmeln und am Rücken, designed um Wind wie Flügel einzufangen. Irisierender Faden glitzert dezent entlang der Nähte, subtil aber ätherisch unter Straßenlaternen. Kombiniert mit einem hochtaillierten Tech-Rock, der über enganliegenden Leggings getragen wird, balanciert der Look Funktionalität mit Verzauberung. Abgerundet mit futuristischen Sneakern sieht Aetherveil federleicht und doch unerschütterlich geerdet aus, als wäre es aus Luft und Licht selbst genäht.",
+      "origin": "Standarduniform für die Himmels-Tänzer der schwebenden Stadt Nimbustown, circa 2234. Diese Luftakrobaten konnten buchstäblich auf Wolken laufen, was cool klingt, bis man realisiert, dass sie ständig wetterbedingte Garderoben-Pannen bewältigen mussten. Dieses spezielle Set gehörte Captain Windwalker, der den Rekord für die meisten aufeinanderfolgenden Wolken-zu-Wolken-Sprünge (847) und das dramatischste Umhang-Wehen (unmessbar) hielt. Die durchsichtigen Einsätze waren designed, um Luftströmungen für besseres Gleiten einzufangen, was es sowohl funktional als auch absolut ikonisch machte. Mann, das muss hart sein, oder?"
+    },
+    "15": {
+      "name": "Emberthread",
+      "description": "Entspanntes, fantasy-getöntes Flanell., das edle Energie ausstrahlt.",
+      "heading_details": "Emberthread Flanell – Herdlicht auf den Straßen",
+      "details": "Ein lockerer, weicher Flanell-Hemd in tiefem Bordeauxrot und schwarzem Karo, gewebt mit einem dezenten goldenen Faden, der subtil schimmert, wenn er die Sonne einfängt. Offen über einem schwarzen T-Shirt mit schlanken Jeans und Stiefeln getragen, ist es lässige Wärme, die leicht magisch wirkt – als trüge man die Aura eines Kamins in die modernen Straßen.",
+      "origin": "Getragen von Jake Fireside, einem Holzfäller, der sich zum Feuer-Magier wandelte und sowohl die Forstwirtschaft als auch Heizkosten in den ländlichen magischen Gemeinden von 1892 revolutionierte. Er war dieser Typ, der ein Lagerfeuer wie ein Fünf-Sterne-Hotel-Erlebnis wirken lassen konnte und Flanell irgendwie mystisch aussehen ließ. Die goldenen Fäden sind eigentlich kristallisierte Flammen, die er versehentlich erschuf, als er versuchte, Marshmallows mit Magie zu toasten – eine klassische Jake-Aktion. Dieses Hemd war seine Alltagskleidung, während er ganze Wälder in nachhaltige Heiz-Kooperativen verwandelte. Wir sollten uns alle an nachhaltiger Entwicklung anpassen oder so."
+    },
+    "16": {
+      "name": "Onyx Dusk",
+      "description": "Schicke Blazer-Kleidung mit Aura-Dominanz.",
+      "heading_details": "Onyx Dusk – Glatte Selbstsicherheit",
+      "details": "Eine enganliegende schwarze Turtleneck, gesteckt unter einer schlanken schwarzen Sakko-Jacke mit scharfen Schultern, kombiniert mit taillierten Hosen. Minimalistische silberne Manschettenknöpfe und eine Uhr vervollständigen die Details. Schuhe: schlanke schwarze Chelsea Boots. Es ist modern, lässig, mühelos – die Art von Look, die nicht nach Aufmerksamkeit jagt, sondern sie natürlich auf sich zieht.",
+      "origin": "Der unverwechselbare Look von Victoria Businesswoman, CEO von Mysterious Enterprises Inc. während des Corporate Occult Booms von 1953. Sie leitete Séancen in Konferenzräumen und erstellte Quartalsberichte für sowohl Aktionäre als auch Geister. Dieses Outfit war ihr Power-Anzug für den Abschluss von Geschäften, die buchstäblich Seelen betrafen – sie hatte diese 'Unterschreiben Sie hier mit Blut'-Energie, aber mit makellosem Stil. Die selbstbewusstsein-ausstrahlenden Eigenschaften kommen von ihrem unerschütterlichen Glauben, dass gute Mode jede übernatürliche Krise lösen könnte. Mommy. Girlboss. Sorry."
+    },
+    "17": {
+      "name": "Koi Whisper",
+      "description": "Verspielte aber feminine Street-Kawaii-Mischung.",
+      "heading_details": "Koi Whisper – Sanfter Unfug",
+      "details": "Eine croppte, übergroße Hoodie in weichem Creme mit einem Koi-Stickerei, der entlang eines Ärmels treibt, kombiniert mit einem hellblauen Skater-Rock. Abgerundet mit Pastell-Sneakern und einer kleinen Crossbody-Tasche in Form eines Koi-Anhängers. Niedlich und zugänglich, aber seine Weichheit zieht Aufmerksamkeit an, ohne es zu versuchen – Kawaii-Aura aktiviert.",
+      "origin": "Designed von Sakura Chiisai-sama für den großen Anime-Convention von 2067, wo Cosplay sich zu echter magischer Verwandlung entwickelt hatte. Aber es erforderte Blut, Schweiß und Tränen dafür. Sie war die unbestrittene Königin der niedlich-aber-tödlich-Energie und nein, sie war kein Tsundere, sondern ein Magical Girl, das tatsächlich seine Steuern zahlt und einen Rentenplan hat. Die Koi-Stickerei wurde mit Glück gesegnet, nachdem sie durch den legendären Teich der ewigen Stimmungen schwamm. Dieses Outfit startete die 'Waffenisierte Niedlichkeit'-Bewegung, die das späte 21. Jahrhundert dominierte."
+    },
+    "18": {
+      "name": "Duskweave Hoodie",
+      "description": "Street-Hoodie mit verzauberten Texturen.",
+      "heading_details": "Duskweave Hoodie – Magie im Komfort",
+      "details": "Eine übergroße Hoodie in Kohlenschwarz mit dezenten, bestickten Siegel-Mustern über die Ärmel, gestickt in dunklem Faden, der sich nur unter bestimmten Lichtverhältnissen offenbart. Kombiniert mit lockeren schwarzen Jogginghosen mit Reißverschlusstaschen und schlanken Sneakern. Gemütlich und lässig, aber in den Details liegt eine Präsenz, als trüge die Hoodie unterschwellige Zauberenergie.",
+      "origin": "Erschaffen vom kollektiven Bewusstsein aller Studenten, die jemals eine Nachtschicht in der Mystical Arts Library der Procrastination University, gegründet 2045, eingelegt haben. Die Hoodie absorbierte Jahrzehnte von nächtlichen Lernsessionen, Energy-Drink-Verschüttungen und den verzweifelten Gebeten von Studenten, die hofften, ihre Magie-Hausaufgaben würden sich von selbst erledigen. Die subtilen Zaubermuster bildeten sich natürlich aus all der Magietheorie, die in den Stoff einsickerte. Es ist im Grunde akademisches PTSD, tragbar gemacht, aber auf eine gemütliche Art. Vertrau mir, es ist bequem."
+    },
+    "19": {
+      "name": "Shadowheart Gauntlets",
+      "description": "Fingerlose Lederhandschuhe mit silbernen Verschlüssen, die Schutz-Zauber flüstern, um deinen Griff zu stabilisieren.",
+      "heading_details": "Shadowheart Gauntlets – Hände, die Macht halten",
+      "details": "Gefertigt aus geschmeidigem schwarzem Leder mit silbernen, geschnallten Riemen über den Knöcheln, erstrecken sich diese fingerlosen Stulpen bis zur Mitte des Unterarms mit dezenten Polsterungen. Jeder Handschuh trägt einen kleinen Amethyst-Stein, eingebettet in der Handfläche, kühl anzufassen und schwach leuchtend in der Dunkelheit. Das Leder ist weich genug für feine Arbeiten, doch die verstärkten Knöchel versprechen Schutz. Sie zu tragen fühlt sich an, als kanalisiere man leise Stärke – jede Geste wird bewusst, jede Berührung zielgerichtet.",
+      "origin": "Geschmiedet für Raven Edgelord während ihrer 'Ich bin nicht wie andere Paladine'-Phase im Jahr 1456. Sie war eine heilige Kriegerin, die ausschließlich Schwarz trug, weil 'Licht zu mainstream ist' und es irgendwie schaffte, göttliche Magie goth aussehen zu lassen. Die Amethyst-Steine waren ihre Idee, weil sie darauf bestand, dass Lila die geheimnisvollste Farbe sei und normales Silber 'zu glänzend für Heimlichkeit'. Sie lebte... Ich glaube es."
+    },
+    "20": {
+      "name": "Solaris Crown",
+      "description": "Eine zarte goldene Krone, die Sonnenlicht einfängt wie eingefangene Dämmerung.",
+      "heading_details": "Solaris Crown – Trägerin des ersten Lichts",
+      "details": "Dies ist keine Krone, die Aufmerksamkeit einfordert – sie verdient sie. Geschmiedet aus warmem Gold in dünnen, eleganten Bändern, die sich wie Sonnenstrahlen um den Kopf schwingen, jede Spitze mit einem kleinen Citrin-Kristall versehen. Das Metall ist so fein gearbeitet, dass es sich schwerelos anfühlt und wie ein Flüstern an den Schläfen ruht. Wenn getragen, fängt sie jeden Lichtstrahl ein und wirft ihn zehnfach zurück, wodurch ein natürlicher Heiligenscheineffekt entsteht. Dies ist Herrschaft ohne Arroganz, Macht ohne Dominanz.",
+      "origin": "Ursprünglich geschmiedet für Prinzessin Aurelia die Chronisch Verspätete, die etwa 3021 v. Chr. über das Sonnenkönigreich herrschte. Sie war berüchtigt dafür, jede Sonnenaufgangszeremonie verschlafen zu haben, also erschufen ihre königlichen Schmiede diese Krone, um sie buchstäblich aufzuwecken, indem sie Sonnenlicht direkt in ihre Augen reflektierte – was für ein biologischer Wecker, der anders tickt. Die Citrin-Kristalle wurden vom ersten Phönix gesegnet, der jemals einen verifizierten Twitter-Status erreicht hatte, was sie mit reiner 'Hauptcharakter-Energie' in Resonanz bringt. Aurelia trug sie während der legendären Schlacht der Frühaufsteher gegen die Nachteulen, wo sie endlich bewies, dass Morgenmenschen genauso chaotisch sein können wie der Rest von uns. Die Krone war jahrhundertelang verschollen, bis Archäologen sie in einer Art antiken McDonald's fanden – manche Dinge ändern sich nie. Es wird gesagt, dass wer sie trägt, die Kraft erlangt, in morgendlichen Selfies makellos auszusehen, was ehrlich gesagt die wertvollste Magie von allen sein könnte."
+    },
+        "21": {
+      "name": "Voidwalker Boots",
+      "description": "Mitternachtsschwarze Kampfstiefel, die mit jedem Schritt Licht zu absorbieren scheinen.",
+      "heading_details": "Voidwalker Boots – Schritte zwischen den Welten",
+      "details": "Diese Stiefel schlucken Licht, anstatt es zu reflektieren, gefertigt aus mattschwarzem Leder, das so tief wirkt, dass es kleine Leerräume um Ihre Füße zu schaffen scheint. Hoch bis zur Mitte der Wade mit silbernen Ösen geschnürt, sind sie sowohl für Eleganz als auch für Ausdauer gebaut. Die Sohlen sind dick aber geräuschlos, designed für Heimlichkeit und Komfort gleichermaßen. Sie zu tragen lässt jeden Schritt bewusst wirken, als würde man mit jedem Tritt zwischen den Sphären wandern.",
+      "origin": "Diese Stiefel spazierten direkt von der Interdimensional Fashion Week 4156, getragen vom berüchtigten Model Zara Blackstep, das Schlagzeilen damit machte, auf dem Laufsteg durch buchstäbliche Leere-Portale zu laufen. Sie war praktisch das Goth-Mädchen des Multiversums, und diese Stiefel waren ihr Markenzeichen. Gefertigt vom mysteriösen Cobbler des Abgrunds (der nur mit vergessenen Erinnerungen und wirklich guten Memes bezahlt wurde), sind sie aus Leder gemacht, das zwischen den Dimensionen existiert. Zara trug sie während ihrer legendären 'Void Walk Challenge', die über siebzehn verschiedene Realitäten hinweg viral ging – sie erfand basically interdimensionale TikTok-Trends, bevor es TikTok überhaupt gab. Die Stiefel absorbierten so viel kosmische Dunkelheit, dass sie ihre eigene Gravitation entwickelten, was erklärt, warum sich jeder unwiderstehlich zum Träger hingezogen fühlt. Nachdem Zara in den Ruhestand ging, um ein Vollzeit-Kryptid zu werden, wanderten die Stiefel durch die Leere, bis sie ihren Weg zurück in unsere Realität fanden, wahrscheinlich weil sogar interdimensionales Schuhwerk manchmal Heimweh bekommt."
+    },
+    "22": {
+      "name": "Moonveil Scarf",
+      "description": "Gossamerseide, die sich zwischen Silber und Lila verändert wie Mondlicht durch Wolken.",
+      "heading_details": "Moonveil Scarf – Flüstern lunarer Anmut",
+      "details": "Gewoben aus der feinsten Seide in verlaufenden Farbtönen von Silber-Lila, scheint dieser Schal die Farbe zu wechseln, während er sich bewegt, und fängt Licht ein wie flüssige Mondstrahlen. Lang genug, um ihn mehrmals zu wickeln oder dramatisch flattern zu lassen, ist er unglaublich leicht und dennoch warm auf der Haut. Kleine silberne Fäden sind throughout eingewoben und erzeugen subtile Konstellationsmuster, die schimmern, wenn der Stoff sich bewegt. Er verwandelt jedes Outfit in etwas Ätherisches.",
+      "origin": "Gewebt von den Mondjungfern des Lake Serenity während der Großen Ästhetischen Revolution von 2156, als alle kollektiv beschlossen, dass normaler Stoff einfach nicht genug ätherische Vibes hergab. Die Seife stammt von kosmischen Seidenraupen, die nur Sternenstaub fressen und sich von einer Diät aus puren Mondstrahlen ernähren – basically die Weltraum-Entsprechung dieser trendigen Bio-Gesundheitsfreaks. Dieser besondere Schal gehörte Luna Silvermist, einer himmlischen Influencerin, die etwa 50 Millionen Follower über mehrere Galaxien hinweg hatte, bevor es soziale Medien überhaupt gab. Sie trug ihn während des berüchtigten 'Moonlight Dance-Off Against the Sun God'-Vorfalls, den Historiker heute als den ersten aufgezeichneten Tanz-Battle der kosmischen Geschichte anerkennen. Die farbwechselnden Eigenschaften waren ein Unfall – Luna verschüttete galaxie-tauglichen Glitzer darüber, aber anstatt ihn zu ruinieren, machte es ihn nur ikonischer. Die Konstellationsmuster wurden von ihrer Großmutter von Hand gestickt, die anscheinend selbst teilweise Konstellation war, weil dieser Stammbaum ziemlich seltsam wird, wenn man weit genug zurückgeht."
+    },
+    "23": {
+      "name": "Thornward Jacket",
+      "description": "Waldgrüne Lederjacke mit Schutzrunen, die in dornenartige Muster geätzt sind.",
+      "heading_details": "Thornward Jacket – Die Rüstung der Natur",
+      "details": "Geschnitten aus reichem waldgrünem Leder mit natürlicher Maserung, zeigt diese Jacke dezenten Dornen-Ranken-Prägedruck über den Schultern und Ärmeln. Silberne Reißverschlüsse und Schnallen bieten moderne Funktionalität, während Messing-Stifte Schutz-Siegel-Muster nachzeichnen. Die Passform ist perfekt tailliert, erlaubt aber Bewegung, wie eine von Druiden designte Rüstung. Wenn getragen, trägt sie die Essenz tiefer Wälder und uralter Schutzmechanismen in sich.",
+      "origin": "Diese Jacke hat mehr Hintergrundgeschichte als ein Hauptcharakter in einer 12-teiligen Anime-Serie. Ursprünglich gehörte sie Rowan Wildhart, dem extravertiertesten Waldhüter, der je gelebt hat – wir reden von jemandem, der sich dramatisch aus Bäumen schälte, nur um verlorenen Wanderern den Weg zu weisen. Gefertigt während der Waldrebellion von 1847, als die Bäume buchstäblich gegen die Industrialisierung in den Krieg zogen (und ehrlich gesagt hatten sie valide Punkte). Das Leder stammte von einem besonders philosophischen Drachen, der es freiwillig spendete, nachdem er eine Debatte über Umweltethik verloren hatte – anscheinend haben sogar Drachen jetzt Eco-Angst. Rowan trug diese Jacke während der legendären 'Belagerung der Letzten Mall', wo er eine Armee von erwachten Zimmerpflanzen gegen corporate Entwaldung anführte. Die Schutzrunen wurden von alten Druiden geschnitzt, die basically die ursprünglichen Umweltaktivisten waren, nur mit mehr Magie und weniger Protestschildern. Nachdem Rowan aufstieg, um eins zu werden mit dem Wald-WLAN-Netzwerk (frag nicht, es ist kompliziert), wurde die Jacke durch Generationen von Menschen weitergegeben, die 'touch grass' unironisch als Lifestyle-Rat verwenden."
+    },
+    "24": {
+      "name": "Starweave Cloak",
+      "description": "Mitternachtsblaues Samttuch, übersät mit silbernen Faden-Konstellationen, die sich zu bewegen scheinen.",
+      "heading_details": "Starweave Cloak – In Nachthimmel gehüllt",
+      "details": "Dieser bodenlange Umhang fließt wie flüssiges Sternenlicht, gewoben aus mitternachtsblauem Samt, so fein, dass er die umgebende Dunkelheit zu absorbieren scheint. Silberne Fäden erzeugen Konstellationsmuster über den Stoff, und die Platzierung ist so meisterhaft, dass sie zu wandern und zu funkeln scheinen, wenn Sie sich bewegen. Die Kapuze ist tief genug, um Mysteriösität zu erzeugen, und die Schnalle ist eine Mondsichel aus poliertem Silber. Ihn zu tragen fühlt sich an, als trüge man den Nachthimmel auf seinen Schultern.",
+      "origin": "Erschaffen in den Celestial Ateliers von Nova Prima während des Goldenen Zeitalters des Absolute Verheerend Aussehens, ungefähr 2847 n. Chr. Dieser Umhang gehörte Stella Nightborn, der dramatischsten Astronomin der aufgezeichneten Geschichte – sie würde buchstäblich keine Sterne beobachten, es sei denn, sie trug etwas, das zu deren Vibes passte. Der mitternachtblaue Samt wurde aus dem Traumreich geerntet während des seltenen Ereignisses, wenn Albträume und süße Träume beschlossen, an einem Mode-Projekt zusammenzuarbeiten. Stella trug dies während ihrer berühmten 'Großen Sternenkartierungsexpedition von 2851', bei der sie siebzehn neue Konstellationen kartierte, während sie aussah wie die Hauptdarstellerin im teuersten Musikvideo des Universums. Die silbernen Konstellationsfäden wurden von kosmischen Spinnen gesponnen, die mit Komplimenten und Premium-Sternenstaub bezahlt wurden – anscheinend haben sogar interdimensionale Spinnen ihren Preis. Der Umhang erhielt seine realitätsverzerrenden Eigenschaften, nachdem Stella ihn versehentlich während eines kosmischen Sturms trug, wodurch er rohes Sternenlicht absorbierte und entwickelte, was Wissenschaftler technisch als 'Protagonisten-Energie' bezeichnen. Sie ließ ihn zurück, als sie aufstieg, um die erste kosmische Modekritikerin des Universums zu werden, die Nebula bewertete und Sonnensysteme nach ihren ästhetischen Entscheidungen beurteilte."
+    },
+    "25": {
+      "name": "Crimson Oath Ring",
+      "description": "Ein Siegelring mit einem Rubin, der beim Tragen wie ein Herzschlag pulsiert.",
+      "heading_details": "Crimson Oath Ring – Bande, die binden",
+      "details": "Geschmiedet aus geschwärztem Silber mit kompliziertem Knotenwerk um das Band, hält dieser Ring einen tiefroten Rubin in seiner Mitte, der mit innerem Feuer zu glühen scheint. Der Stein ist einzigartig geschliffen, sodass er beim Auffangen von Licht sanft zu pulsieren scheint, als wäre er mit Ihrem Herzschlag synchronisiert. Uralte Symbole sind so fein in das Band geätzt, dass sie nur bei genauer Betrachtung sichtbar sind. Dies ist nicht nur Schmuck – es ist ein manifestiertes Versprechen.",
+      "origin": "Geschmiedet in der Herz-Schmiede der Ewigen Stadt während des Zeitalters der Unbrechbaren Versprechen, als die Menschen noch an 'Für Immer' glaubten und keine Angst vor Bindungsängsten hatten. Dieser Ring gehörte Sir Marcus Heartbound, einem Ritter, der seinem Wort so ergeben war, dass er buchstäblich nicht lügen konnte, ohne dass der Ring ihn schockierte – es war wie ein eingebauter Wahrheitsdetektor mit aggressivem Feedback. Der Rubin wurde aus den Höhlen der Ehrlichen Gefühle abgebaut, einem Ort, der so selten ist, dass das emotionale Intelligenz-GPS der meisten Menschen ihn nicht einmal finden kann. Marcus trug diesen Ring, als er den legendären Eid des Ewigen Wächters ablegte und schwor, die Liebe selbst vor dem Aussterben in einer zunehmend zynischen Welt zu beschützen – basically kämpfte er für Romantik, bevor Dating-Apps alles seltsam machten. Die Herzschlagsynchronisation war nicht beabsichtigt; sie geschah, nachdem Marcus starb, während er das Recht eines Paares verteidigte, während eines Drachenangriffs zu heiraten (Prioritäten, richtig?). Das geschwärzte Silber entwickelte seine Farbe durch die Absorption von Jahrhunderten emotionaler Intensität, was es zum perfekten Accessoire für jeden macht, dessen Gefühle tiefer gehen als ein Tumblr-Poesie-Blog."
+    },
+    "26": {
+      "name": "Dawnbreaker Vest",
+      "description": "Cremefarbene taktische Weste mit goldener Sonnenaufgangs-Stickerei auf der Brust.",
+      "heading_details": "Dawnbreaker Vest – Der erste Herold des Lichts",
+      "details": "Geschnitten aus hochwertigem Creme-Canvas mit einer subtilen Textur, zeigt diese Weste intricate goldene Stickerei, die einen stilisierten Sonnenaufgang auf der Brust darstellt. Mehrere Taschen bieten sowohl Form als auch Funktion, jede mit Messingknöpfen gesichert. Die Passform ist strukturiert aber atmungsaktiv, designed für sowohl urbane Erkundungen als auch Outdoor-Abenteuer. Das Sonnenaufgangsmotiv scheint im natürlichen Licht sanft zu glühen, was den Träger vom Morgengrauen selbst berührt erscheinen lässt.",
+      "origin": "Maßgeschneidert während der Großen Sonnenaufgangs-Revolution von 3156, als eine Gruppe extrem motivierter Morgenmenschen beschloss, dass der Sonnenaufgang eine bessere Repräsentation in der Mode brauchte. Diese Weste gehörte Captain Aurora Lightbringer, Kommandantin der Morgendienst-Patrouille – einer Elite-Einheit von Menschen, die freiwillig vor 5 Uhr morgens aufwachten und irgendwie positive Einstellungen dazu beibehielten. Die goldene Sonnenaufgangs-Stickerei wurde mit tatsächlich eingefangenen Sonnenstrahlen gestickt von den Meister-Schneiderinnen der Early Bird Gilde, die nach der Philosophie handelten, dass man, wenn man schon zu unchristlichen Stunden wach sein muss, wenigstens dabei himmlisch aussehen sollte. Aurora trug diese Weste während der legendären Schlacht am Snooze Mountain, wo sie ihre koffeingetriebene Armee gegen die Mächte des Ewigen Schlummers anführte (basically Leute, die für immer ausschlafen wollten, was ehrlich gesagt ziemlich verlockend klingt). Die Weste erhielt ihre lichtausstrahlenden Eigenschaften, nachdem Aurora das Ritual des Ersten Kaffees darin durchführte, wodurch sie permanent die Energie perfekter Morgen-Vibes absorbierte. Sie ging in den Ruhestand, nachdem sie realisierte, dass die Welt vor dem Frühstück zu retten ihr unrealistische Produktivitätsstandards für alle anderen gab."
+    },
+    "27": {
+      "name": "Wraithbane Choker",
+      "description": "Schwarzer Samt-Choker mit einem kleinen silbernen Anhänger, der negative Energie abwehrt.",
+      "heading_details": "Wraithbane Choker – Schutz, der nah getragen wird",
+      "details": "Ein einfaches schwarzes Samtband, das perfekt am Hals sitzt, verziert mit einem kleinen silbernen Anhänger, der mit Schutz-Siegeln graviert ist. Der Samt ist unglaublich weich, und der Anhänger ist kühl auf der Haut und scheint sanft mit schützender Energie zu pulsieren. Trotz seines zarten Erscheinungsbildes strahlt er leise Stärke aus und dient sowohl als elegantes Accessoire als auch als spirituelle Rüstung.",
+      "origin": "Gefertigt von der Schwesternschaft des Subtilen Schutzes während der Stillen Revolution von 1456, als feminine Kraft sich entschied, sich durch Accessoires zu manifestieren, die deine Feinde erledigen konnten, während sie absolut makellos aussahen. Dieser Choker gehörte Lady Evangeline Shadowbane, die basically die mittelalterliche Entsprechung dieser Freundin war, die zart aussieht, aber wahrscheinlich ein Pferd bankdrücken könnte, wenn nötig. Der schwarze Samt kam aus den Mitternachtsgärten, wo Blumen nur während der Geisterstunde blühten und ernsthafte Goth-Energie hatten. Der silberne Anhänger wurde von sieben verschiedenen Schutzgeistern gesegnet, die alle darum wetteiferten, dessen Segen am effektivsten sein würde – es war wie spiritueller Gruppenzwang, aber auf eine gute Art. Evangeline trug ihn während des berüchtigten Banshee-Vorfalls von 1461, wo sie ein ganzes Spukhaus gegenüberstand, bewaffnet mit nichts als Attitüde und diesem Choker (Spoiler-Alarm: Die Geister entschuldigten sich und gingen). Die Schutzeigenschaften intensivierten sich, nachdem der Choker negative Energie von ungefähr 10.000 schlechten Vibes absorbiert hatte, was ihn basically zu einer tragbaren Therapiesitzung machte. Als Evangeline starb (friedlich, im Schlaf, weil sogar der Tod sie zu sehr respektierte, um dramatisch zu sein), schützte der Choker weiterhin Menschen, denn anscheinend gehen gute Accessoires niemals wirklich in Rente."
+    },
+    "28": {
+      "name": "Mystic Bomber",
+      "description": "Übergroße Bomberjacke in tiefem Lila mit in Silberfaden gestickter Konstellationskartierung.",
+      "heading_details": "Mystic Bomber – Kosmischer Street Style",
+      "details": "Diese übergroße Bomberjacke reinterpretiert Streetwear durch eine mystische Linse, gearbeitet in tiefem Lilasatin mit Konstellationskarten, die in Silberfaden über den Rücken gestickt sind. Die gerippten Bündchen und der Saum bieten klassisches Bomber-Styling, während die kosmischen Details es in tragbare Kunst verwandeln. Innentaschen sind mit Sternenkarten-Stoff gefüttert, was sogar die versteckten Elemente magisch macht.",
+      "origin": "Designed während der Interdimensionalen Street Fashion Renaissance von 4823, als normale Kleidung vom Rat des Kosmischen Stils als 'zu basic' erklärt wurde. Diese Bomberjacke gehörte Kai Stardrifter, einem dimensionalen Reisenden, der Ästhetik aus verschiedenen Realitäten sammelte wie die meisten Menschen Kaffeehaus-Stempel. Der tiefe Lilasatin wurde aus kristallisierter Dämmerung gewebt, geerntet während der kurzen Momente zwischen Tag und Nacht über mehrere Dimensionen hinweg – basically das stoffliche Äquivalent dieses perfekten goldenen Stunden-Lichts, das jeder in Selfies einzufangen versucht. Kai trug diese Jacke während der Erforschung der Konstellations-Märkte, wo kosmische Händler abgefülltes Sternenlicht und Quanten-Modeaccessoires verkauften, die in mehreren Realitäten gleichzeitig existierten. Die Konstellationskartierung wurde hinzugefügt, nachdem Kai sich in der Leere zwischen den Welten verirrt hatte und sich mit auf seiner Jacke gestickten Sternenmustern orientieren musste – was für eine funktionale Mode. Die Jacke entwickelte ihre realitätsverzerrenden Eigenschaften, nachdem sie ungefähr 847 Dimensionsportale durchquert hatte, wobei sie Spuren kosmischer Energie und dessen, was Wissenschaftler 'Hauptcharakter-Syndrom' nennen, absorbierte. Kai ließ sich schließlich in einer Taschen-Dimension nieder, in der jeder Tag ewig Herbst ist und die Ästhetik sich nie ändert, und ließ die Jacke für jemanden zurück, der noch zwischen Welten reisen musste, während er absolut verheerend aussah."
+    },
+    "29": {
+      "name": "Soulforge Bracers",
+      "description": "Leder-Armschienen mit Messingverschlüssen, geätzt mit Runen für Stärke und Ausdauer.",
+      "heading_details": "Soulforge Bracers – Manifestierte Stärke",
+      "details": "Gefertigt aus reichem braunem Leder mit Messingverschlüssen und D-Ringen, zeigen diese Unterarm-Armschienen handgeätzte runische Symbole, die beim Tragen mit subtiler Wärme zu pulsieren scheinen. Das Leder ist dick genug für Schutz, aber geschmeidig genug für bequemen Alltagstragen. Sie verwandeln jedes Outfit in etwas, das verborgene Stärke und uraltes Wissen suggeriert.",
+      "origin": "In die Existenz gehämmert während des Großen Stärke-Erwachens von 2134, als die Gesellschaft endlich realisierte, dass innere Kraft einige ernsthafte externe Accessoires brauchte, um zu passen. Diese Armschienen gehörten Maya Ironheart, einer Krieger-Philosophen, die glaubte, dass wahre Stärke daher kam, genau zu wissen, wie mächtig man war, und gelassen damit umzugehen. Das Leder stammte aus dem Fell des Verstehens, einer mythischen Kreatur, die freiwillig ihre Haut abwarf, sobald sie Erleuchtung erreicht hatte – basically die spirituellen Pendants eines produktiven Guru. Die Messingverschlüsse wurden aus Metall geschmiedet, das vom Zwergenchor der Emotionalen Unterstützung besungen worden war, was sie mit Frequenzen in Resonanz bringt, die Selbstvertrauen steigern und Ängste reduzieren. Maya trug diese während des legendären Turniers der Inneren Stärke, bei dem die Teilnehmer gegen ihren eigenen Selbstzweifel kämpften, anstatt gegeneinander – es war überraschend intensiv, und das Publikum bestand mostly aus Therapeuten, die Notizen machten. Die runischen Symbole entwickelten ihre Wärme, nachdem sie Jahre von Mayas Entschlossenheit absorbiert hatten, Menschen dabei zu helfen, ihren eigenen Wert zu erkennen, was die Armschienen basically zu tragbarer Selbstachtung machte. Sie reichte sie weiter, nachdem sie das ultimative Ziel erreicht hatte, keine externe Validierung mehr zu brauchen, obwohl sie zugab, dass die Armschienen 'immer noch ziemlich abgefahren' seien, selbst für jemanden, der das Bedürfnis nach coolen Accessoires transzendiert hatte."
+    },
+    "30": {
+      "name": "Ethereal Kimono",
+      "description": "Fließender Seidenkimono in ätherischen Weißtönen mit handbemalten Kirschblüten.",
+      "heading_details": "Ethereal Kimono – Anmut zwischen den Welten",
+      "details": "Diese moderne Interpretation eines traditionellen Kimonos fließt wie flüssiges Mondlicht, gefertigt aus der feinsten Seide in verlaufenden Weiß- und Blasslila-Tönen. Handbemalte Kirschblüten treiben über den Stoff, als wären sie in einer ewigen Frühlingsbrise gefangen. Die Ärmel sind weit und dramatisch, der Obi-Gürtel ein tieferes Lila, das die ätherische Palette erdet. Ihn zu tragen fühlt sich an, als träte man in einen Traum, der in Pastellfarben gemalt ist.",
+      "origin": "Gewebt während des Festivals der Ewigen Kirschblüten in Neo-Kyoto, 2847, als die KI der Stadt Erleuchtung erlangte und beschloss, dies zu feiern, indem sie drei Monate lang alles ästhetisch perfekt aussehen ließ. Dieser Kimono gehörte Yuki Moonwhisper, einer digitalen Künstlerin, die sich darauf spezialisiert hatte, mit tatsächlichen Mondstrahlen zu malen und irgendwie damit im kosmischen Gig-Economy ihren Lebensunterhalt bestritt. Die Seide kam von Quanten-Seidenraupen, die in einem Zustand des ewigen Frühlings existierten, gefüttert mit digitalen Kirschblüten und Träumen von perfektem Wetter – basically die optimiertesten Insekten im Multiversum. Die handbemalten Kirschblüten wurden mit Pigmenten aus kristallisierten Hanami-Emotionen erschaffen, die dieses spezifische Gefühl einfingen, unter fallenden Blütenblättern zu sitzen und über die Vergänglichkeit des Lebens nachzudenken. Yuki trug diesen Kimono während ihrer legendären Ausstellung 'Pixel und Blütenblätter: Wenn Technologie von Natur träumt', die die Hälfte des Publikums Tränen der puren ästhetischen Wertschätzung weinen ließ. Der Kimono erhielt seine ätherischen Eigenschaften, nachdem er während der Großen Konvergenz getragen wurde, als digitale und physische Realität kurzzeitig verschmolzen und alles für genau siebzehn Minuten wie ein Studio Ghibli-Film aussah. Yuki lud schließlich ihr Bewusstsein hoch, um der erste digitale Hüter der saisonalen Ästhetik des Universums zu werden, und ließ den Kimono für jemanden zurück, der noch in physischer Form existieren musste, während er maximale ätherische Energie kanalisierte."
+    },
+        "31": {
+      "name": "Sturmrufer-Umhang",
+      "description": "Sturmgraue Wolle mit elektrisch blauen Blitzmustern, die zu flackern scheinen.",
+      "heading_details": "Sturmrufer-Umhang – Donner tragbar gemacht",
+      "details": "Schwere sturmgraue Wolle bildet das Fundament dieses dramatischen Umhangs, mit elektrisch blauem Faden, der in Blitzmustern bestickt ist und Licht auf unerwartete Weise einfängt, wodurch die Illusion von flackernder Elektrizität entsteht. Die Kapuze ist tief und schützend, der Stoff dick genug, um echten Stürmen zu trotzen. Silberne Verschlüsse in Form von Donnerkeilen sichern ihn an der Kehle.",
+      "origin": "Gewebt während der Großen Wetterkriege von 2456, als Klimamagier um die Kontrolle über atmosphärische Ästhetik kämpften und alle Sturmjagd viel zu ernst nahmen. Dieser Umhang gehörte Donner Jenkins (ja, das war sein echter, legaler Name - seine Eltern waren Meteorologen mit Bindungsproblemen), dem extravertiertesten Sturm-Beschwörer der aufgezeichneten Geschichte. Die sturmgraue Wolle kam von Schafen, die ausschließlich in Gewitterwolken grasten, was ihnen permanent statisch aufgeladene Vliese und eine wirklich schlechte Einstellung zu Niederschlag verpasste. Die elektrisch blauen Blitzmuster wurden mit tatsächlich eingefangenem Blitz von den Verrückten Näherinnen des Tesla-Turms bestickt, die nach der Philosophie handelten, dass Kleidung, die nicht in der Lage ist, jemanden zu elektrifizieren, nicht ausreichend bemüht ist. Donner trug diesen Umhang während der legendären Belagerung von Hurricane Heights, wo er einen Hurrikan der Kategorie 5 überredete, die Richtung zu ändern, indem er ihn zu einer Tanzschlacht herausforderte (der Hurrikan gewann, war aber beeindruckt genug, um die Stadt zu verschonen). Die wirklichkeitsverzerrenden Eigenschaften des Umhangs entwickelten sich nach der Absorption von siebzehn verschiedenen Arten von Sturmenergie, was ihn basically zu einem tragbaren Wettersystem mit Angstzuständen machte. Donner zog sich zurück, nachdem er erkannt hatte, dass die Kontrolle über das Wetter ihm zu viel Verantwortung für die Outdoor-Pläne anderer Leute gab, und gab den Umhang an jemanden weiter, der mit dem Druck umgehen konnte, indirekt für jedes verregnete Picknick in einem Drei-Landkreis-Umkreis verantwortlich zu sein."
+    },
+    "32": {
+      "name": "Feenlicht-Ohrringe",
+      "description": "Zarte Goldreifen mit hängenden Jadesteinen, die mit innerem Licht zu leuchten scheinen.",
+      "heading_details": "Feenlicht-Ohrringe – Flüstern der Wildnis",
+      "details": "Diese eleganten Goldreifen lassen glatte Jadetropfen hängen, die gefangenes Waldlicht in ihren Tiefen zu bergen scheinen. Der Jade wechselt je nach Blickwinkel von blassem Grün zu tieferem Smaragd, und das Gold ist mit so feinen Details gearbeitet, dass winzige Blattmuster bei genauer Betrachtung sichtbar sind. Sie fangen und reflektieren Licht auf eine Weise, die sie fast lumineszierend erscheinen lässt.",
+      "origin": "Gefertigt während des Großen Schmuck-Erwachens von 1847, als die Feenhöfe beschlossen, dass menschlicher Schmuck 'tragisch unterverzaubert' sei und es upon themselves nahmen, die Situation zu korrigieren. Diese Ohrringe gehörten Willow Brightleaf, einer Halb-Feen-Diplomatin, die sich auf die Übersetzung zwischen menschlichem Common Sense und Feen-Logik spezialisierte (ein Job, der Gefahrenzulage und extensive Therapie erforderte). Die Goldreifen wurden aus Sonnenlicht geschmiedet, das genau sieben Jahreszeiten lang in Mondstrahlen gereift war, um Metall zu schaffen, das sich in einem permanenten Zustand des Golden Hour-Lichts befand. Die Jadesteine waren Geschenke der Erdgeister während des Vertrags des Ewigen Frühlings, als Menschen und Natur endlich zustimmten, nicht mehr seltsam bezüglich Koexistenz zu sein. Willow trug diese während des berüchtigten Diplomatischen Zwischenfalls der Leuchtenden Bäume, wo sie erfolgreich einen Friedensvertrag zwischen Stadtentwicklung und einem verzauberten Wald aushandelte, indem sie bewies, dass Koexistenz tatsächlich ziemlich cool aussehen konnte. Die Ohrringe erhielten ihre leuchtenden Eigenschaften, nachdem sie während des Festivals des Ewigen Zwielichts getragen wurden und die spezifische Energie dieses perfekten Moments absorbierten, in dem Tag und Nacht nicht entscheiden können, wer das Sagen hat. Als Willow aufstieg, um die offizielle Botschafterin für Alles, was Glänzt, zu werden, ließ sie die Ohrringe mit einer Notiz zurück: 'Für jemanden, der den Raum erleuchten muss, ohne tatsächliche elektrische Infrastruktur zu benötigen.'"
+    },
+    "33": {
+      "name": "Schattenflicker-Cardigan",
+      "description": "Übergroßer Cardigan in kohlegrau mit Taschen, die tief genug für Geheimnisse sind.",
+      "heading_details": "Schattenflicker-Cardigan – Trost in der Mystik",
+      "details": "Dieser übergroße Cardigan hüllt Sie in kohlegrauen Kaschmir, der so weich ist, dass er sich anfühlt, als trüge man Schatten. Die Taschen sind ungewöhnlich tief, perfekt, um kleine Schätze zu tragen oder Hände versteckt zu halten. Schwarze Knöpfe marschieren die Vorderseite entlang, und der Saum reicht bis zur Mitte der Oberschenkel für maximales Gemütlichkeitsgefühl. Es ist das Stück, das einen dazu bringt, sich mit alten Büchern und Kräutertee kuscheln zu wollen.",
+      "origin": "Gestrickt während der Gemütlichkeits-Revolution von 3001, als die Gesellschaft kollektiv beschloss, dass Komfort ein Menschenrecht sei und jeder, der optimales Hygge verhindere, Verbrechen gegen das menschliche Wohl begehe. Dieser Cardigan gehörte Luna Nachleserin, einer Bibliothekarin, die das ultimative Ziel erreicht hatte, dafür bezahlt zu werden, Bücher zu lesen und dabei extrem bequeme Kleidung zu tragen. Der kohlegraue Kaschmir kam von Schattenziegen, die in den Zwielicht-Tälern zwischen Tag und Nacht grasten und Wolle produzierten, die sich anfühlte wie eine sanfte Umarmung des Universums selbst. Die unmöglich tiefen Taschen wurden von der Gilde der Praktischen Magie entwickelt, um in einer leichten Dimensionsfalte zu existieren, was ihnen erlaubt, etwa das Dreifache von dem zu halten, was die Physik erlauben sollte – basically Mary Poppins' Taschentechnologie, aber für Cardigans. Luna trug diesen während der legendären Belagerung der Großen Bibliothek von 3003, wo sie das Heilige Archiv für Verbotene Liebesromane gegen die Kräfte des Literarischen Prätentiösen verteidigte (sie verloren, offensichtlich). Der Cardigan entwickelte seine geheimnishütenden Eigenschaften, nachdem er Jahre lang getragen wurde, während Luna den Beichten der Besucher über ihre fragwürdigen Lesegewohnheiten lauschte, was ihn basically zu einem tragbaren Therapeuten mit überlegenem Modebewusstsein machte. Sie reichte ihn weiter, nachdem sie den Traumjob als universeller Hüter der Gemütlichkeits-Vibes erreicht hatte, eine Position, die anscheinend mit exzellenten Benefits und unbegrenztem Tee einhergeht."
+    },
+    "34": {
+      "name": "Drachenschuppen-Handschuhe",
+      "description": "Lange Handschuhe in smaragdgrün mit überlappenden Schuppenmustern.",
+      "heading_details": "Drachenschuppen-Handschuhe – Uralte Macht an Ihren Fingerspitzen",
+      "details": "Diese opernlangen Handschuhe reichen bis zum Ellenbogen in reichem Smaragdgrün, mit überlappenden Schuppenmustern, die in das Leder geätzt sind und Licht einfangen wie echte Drachenschuppen. Die Passform ist präzise, erlaubt volle Geschicklichkeit und verleiht gleichzeitig eine Aura jenseitiger Eleganz. Kleine Messingschnallen an den Handgelenken sichern sie, und die Fingerspitzen sind mit subtilen metallischen Details verstärkt.",
+      "origin": "In Auftrag gegeben während der Großen Drachen-Diplomatie-Initiative von 2189, als Menschen endlich realisierten, dass sie vielleicht lieber mit Drachen reden sollten, anstatt ständig zu versuchen, sie zu bekämpfen. Diese Handschuhe gehörten Sir Ember Drakeflüsterer, dem ersten Menschen, der erfolgreich einen Friedensvertrag mit Drachen aushandelte, indem er ihnen Kryptowährung anbot (anscheinend verstehen uralte Drachen Blockchain-Technologie überraschend gut). Das smaragdgrüne Leder kam von Verdania der Vernünftigen, einem uralten Drachen, der den Friedensverträgen beitrat, nachdem er es leid war, dass Menschen ständig versuchten, ihre Sachen zu stehlen – sie dachte, wenn sie ohnehin Schuppen verlor, konnte sie daraus auch eine Geschäftstransaktion machen. Die überlappenden Schuppenmuster wurden von Hand von der Drachen-Handwerks-Gilde geätzt, die ihr Handwerk ernst genug nahm, um menschliche Modedesigner vor Neid weinen zu lassen. Sir Ember trug diese während des legendären Rates von Flamme und Vernunft, wo er zwölf verschiedene Drachenclans erfolgreich überzeugte, dass Menschen es wert seien, behalten zu werden, mostly indem er demonstrierte, dass menschliche Kreativität wirklich ästhetisch ansprechende Accessoires hervorbringen kann. Die Handschuhe erhielten ihre jenseitigen Eigenschaften, nachdem sie von jedem Drachen gesegnet wurden, der den Friedensvertrag unterzeichnete, was sie basically zu diplomatischer Immunität in tragbarer Form machte. Sir Ember zog sich schließlich zurück, um der universelle Erste Drachen-Mensch-Beziehungs-Berater zu werden, und ließ die Handschuhe für jemanden zurück, der mächtige Kreaturen mit Stil und Anmut behandeln muss."
+    },
+    "35": {
+      "name": "Nebelwandler-Kleid",
+      "description": "Fließendes Schlichtkleid in kosmischen Farben, die über den Stoff zu wirbeln und sich zu bewegen scheinen.",
+      "heading_details": "Nebelwandler-Kleid – Das Universum tragen",
+      "details": "Dieses fließende Schlichtkleid fängt die Schönheit des tiefen Weltraums in tragbarer Form ein, mit Stoff, der sich zwischen tiefem Lila, elektrischem Blau und Tupfern von kosmischem Rosa verändert. Die Farben scheinen sich beim Gehen zu bewegen und zu wirbeln und erzeugen die Illusion, einen lebendigen Nebel zu tragen. Der Schnitt ist einfach und elegant und lässt den kosmischen Stoff zum Star der Show werden.",
+      "origin": "Designt während der Kosmischen Mode-Revolution von 4156, als normale erdbasierte Kleidung vom Intergalaktischen Stil-Rat für 'dimensional unzureichend' erklärt wurde. Dieses Kleid gehörte Nova Sterneweber, einer kosmischen Tänzerin, die ausschließlich in den Räumen zwischen Sternensystemen auftrat und irgendwie damit ihren Lebensunterhalt in der Nischen-Branche der Unterhaltung des Universums bestritt. Der Stoff wurde aus tatsächlichen Nebelgasen gewebt, die während des kurzen Moments kristallisiert wurden, in dem ein sterbender Stern beschloss, stilvoll zu vergehen, und schuf so Material, das sich in einem permanenten Zustand schönen kosmischen Dramas befand. Die wirbelnden Farben wurden von der Aurora Borealis von siebzehn verschiedenen Planeten eingefangen, von denen jeder seine einzigartige elektromagnetische Signatur beitrug, um ein Kleid zu schaffen, das basically eine tragbare Lichtshow war. Nova trug dieses während ihrer legendären Aufführung 'Tanz mit sterbenden Sternen', die von ungefähr drei Zivilisationen bezeugt wurde und sie alle ihr Verständnis von Bewegung, Kunst und der fundamentalen Natur der Schönheit in Frage stellen ließ. Das Kleid erhielt seine wirklichkeitsverändernden Eigenschaften, nachdem es durch mehrere Sonnenstürme getragen wurde, kosmische Strahlung absorbierte und entwickelte, was Wissenschaftler 'Hauptcharakter-Energie auf galaktischer Ebene' nennen. Nova transzendierte schließlich die physische Form, um reine kosmische Tanzenergie zu werden, und ließ das Kleid für jemanden zurück, der noch in einem körperlichen Körper existieren muss, während er die ästhetische Kraft des gesamten Universums kanalisiert."
+    },
+    "36": {
+      "name": "Runenschutz-Stiefel",
+      "description": "Lederstiefel bis zum Knie mit Schutzrunen, die in die Seiten geschnitzt sind.",
+      "heading_details": "Runenschutz-Stiefel – Schritte, beschützt durch uralte Macht",
+      "details": "Diese Stiefel bis zum Knie sind aus reichem braunem Leder gefertigt, mit Schutzrunen, die von Hand in Paneele entlang der Seiten geschnitzt wurden. Jede Rune ist mit Blattgold gefüllt, das gegen das Leder schimmert, und die Stiefel schnüren sich mit Lederschnüren, die durch Messingösen gefädelt sind. Die Sohlen sind dick und langlebig, konzipiert sowohl für städtische Straßen als auch für mystische Reisen.",
+      "origin": "Gefertigt während des Goldenen Zeitalters der Praktischen Magie im Jahr 1634, als Zauberer endlich realisierten, dass all ihre Macht nutzlos war, wenn sie ständig Blasen von billigem Schuhwerk bekamen. Diese Stiefel gehörten Meister Aldric Bodenläufer, dem pragmatischsten Zauberer der aufgezeichneten Geschichte – er war der Typ, der Zauberkomponenten erfand, die nicht das Reisen zu siebzehn verschiedenen mystischen Orten erforderten, nur um einen einfachen Lichtzauber zu wirken. Das reiche braune Leder kam vom Rindvieh des Verstehens, einer Herde philosophisch erleuchteter Kühe, die inneren Frieden erreicht hatten und freiwillig zum Gemeinwohl beitrugen (sie waren basically die buddhistischen Mönche der Rinderwelt). Die Schutzrunen wurden von Hand von der Gilde der Sinnvollen Verzauberer geschnitzt, die nach dem Prinzip handelten, dass magischer Schutz, der in einer Krise zu kompliziert war, um ihn sich zu merken, wahrscheinlich nutzlos sei. Aldric trug diese während der berüchtigten Expedition ins Praktische Reich, wo er bewies, dass gesunder Menschenverstand und Magie koexistieren können, ohne die Realität in eine existenzielle Krise zu stürzen. Die Blattgold-Füllung entwickelte ihre Kraft, nachdem sie Jahrhunderte lang von Leuten betreten wurde, die tatsächlich wussten, was sie taten, und machte die Stiefel basically zu tragbarer Kompetenz. Als Aldric aufstieg, um der Schutzpatron der Dinge-Erledigt-Bekommen zu werden, ließ er die Stiefel mit der Anweisung zurück, dass sie nur von Leuten getragen werden sollten, die verstehen, dass wahre Macht davon kommt, auf alles vorbereitet zu sein, während man dabei absolut professionell aussieht."
+    },
+    "37": {
+      "name": "Himmlisches Anhänger",
+      "description": "Silberkette mit einem goldenen Stern-Anhänger, der mit himmlischer Energie zu pulsieren scheint.",
+      "heading_details": "Himmlisches Anhänger – Ein Stern, der dich führt",
+      "details": "Diese zarte Silberkette hält einen goldenen Stern-Anhänger in ihrem Herzen, der mit solcher Präzision gearbeitet ist, dass er tatsächliches Sternenlicht in seinen Spitzen zu bergen scheint. Der Stern dreht sich frei in seiner Halterung, fängt Licht aus jedem Winkel ein, und die Silberkette ist fein genug, um sich schwerelos um den Hals anzufühlen. Es heißt, dass diejenigen, die ihn tragen, ihren Weg leichter finden, sowohl buchstäblich als auch metaphorisch.",
+      "origin": "Geschmiedet während der Großen Navigationskrise von 2847, als die Menschheit die Hälfte der Galaxie kolonisiert hatte, aber irgendwie ständig verloren ging, wenn sie versuchte, das weltraumäquivalente einer Tankstelle zu finden. Dieser Anhänger gehörte Captain Stella Wegfinder, der person mit der größten Orientierungsbegabung im bekannten Universum – sie war das menschliche Äquivalent von GPS, aber mit besserem Modebewusstsein und weniger nervtötenden Sprachansagen. Die Silberkette wurde aus Meteoritensilber gefertigt, das vom Sternbild der Ewigen Richtung gesegnet worden war, einer Gruppe von Sternen, die es anscheinend leid waren, jahrhundertelang zuzusehen, wie Raumreisende im Kreis flogen. Der goldene Stern-Anhänger wurde aus einem Fragment des Ersten Sterns geschnitzt, der ein Stück von sich selbst spendete, nachdem er zu viele Menschen gesehen hatte, die in ihren eigenen Sonnensystemen verloren gingen. Stella trug diesen während der legendären Großen Weltraum-Rettung von 2851, bei der sie erfolgreich 10.000 verlorene Schiffe zurück in ihre Heimsysteme führte, nur mit stellarer Navigation und einer beeindruckenden Menge kosmischen Selbstvertrauens. Der Anhänger erhielt seine Führungseigenschaften, nachdem er die Navigationsgebete jedes verlorenen Reisenden in der Galaxie absorbiert hatte, was ihn basically zu einem tragbaren Kompass macht, der sowohl auf existenzieller als auch auf physischer Ebene funktioniert. Als Stella in den Ruhestand ging, um universeller Direktor des Nicht-Verirrens zu werden, gab sie den Anhänger mit einer Notiz weiter: 'Für jemanden, der seinen Weg finden muss, sowohl buchstäblich als auch metaphorisch, und dabei stellar aussehen muss.'"
+    },
+    "38": {
+      "name": "Nachtfall-Ensemble",
+      "description": "Komplettes Dreiteiler: Samt-Blazer, taillierte Hose und Seidenhemd in Mitternachtstönen.",
+      "heading_details": "Nachtfall-Ensemble – Eleganz nach Einbruch der Dunkelheit",
+      "details": "Dieses komplette Dreiteiler-Set beinhaltet einen Samt-Blazer in tiefem Mitternachtsschwarz, perfekt sitzende Hosen im passenden Stoff und ein Seidenhemd in tiefem Lila, das bei wenig Licht zu Schwarz wechselt. Silberne Knöpfe und subtile lila Stickerei bieten den einzigen benötigten Schmuck. Das Ensemble ist perfekt tailliert und schafft eine Silhouette, die Aufmerksamkeit durch pure Eleganz und nicht durch Auffälligkeit erregt.",
+      "origin": "Maßgeschneidert während der Elegante-Dunkelheit-Bewegung von 3456, als die Gesellschaft beschloss, dass Bösewichte viel zu lange die besten ästhetischen Entscheidungen monopolisiert hatten und es Zeit für normale Menschen war, die sophisticated Dunkelheit zurückzufordern. Dieses Ensemble gehörte Lord Vincent Schattenmeer, einem reformierten Vampir, der seine Karriere als böser Overlord gegen einen nachhaltigeren Lebensstil in der Modeberatung eingetauscht hatte (anscheinend müssen selbst unsterbliche Nachtkreaturen manchmal umsatteln). Der Mitternachtssamt kam aus den Stoffmühlen des Ewigen Zwielichts, die sich darauf spezialisiert hatten, Kleidung zu schaffen, die aussah, als wäre sie aus dem Raum zwischen den Sternen gewebt. Das tief lila Seidenhemd wurde mit Tinte des Mitternachts-Tintenfischs gefärbt, einer Kreatur, die nur während Sonnenfinsternissen existierte und starke Meinungen zur Farbkoordination hatte. Vincent trug dieses Ensemble während des legendären Galas der Geläuterten Bösewichte, bei dem ehemalige Antagonisten ihre erfolgreichen Karrierewechsel präsentierten, während sie absolut verheerend in Abendkleidung aussahen. Das Outfit erhielt seine wirklichkeitsverzerrenden Eigenschaften, nachdem es auf ungefähr 200 High-Society-Events getragen wurde, bei denen Vincent bewies, dass man gefährlich elegant aussehen konnte, ohne tatsächlich gefährlich zu sein. Als Vincent schließlich seinen Traum verwirklichte und eine Finishing-School für reformierte übernatürliche Kreaturen eröffnete, gab er das Ensemble an jemanden weiter, der Respekt durch pure ästhetische Autorität anstatt durch Jahrhunderte angesammelter dunkler Magie einfordern musste."
+    },
+    "39": {
+      "name": "Akademie-Wächter-Uniform",
+      "description": "Marineblaue, militärisch inspirierte Uniform mit goldener Verzierung, designed für Ehrenwachen der Zauberschulen.",
+      "heading_details": "Akademie-Wächter-Uniform – Ehre im Dienst",
+      "details": "Diese makellose Uniform kombiniert militärische Präzision mit mystischer Eleganz und verfügt über eine marineblaue Wolljacke mit goldenen Borten über der Brust und den Schultern. Silberne Knöpfe tragen uralte Schutzsigille, und der hohe Kragen zeigt Rangabzeichen in goldenem Faden. Die passenden Hosen haben eine perfekte Bügelfalte, und das Ensemble beinhaltet weiße Handschuhe und eine Schirmmütze mit einem Greifen-Emblem. Sie zu tragen fühlt sich an, als trete man einer Elite-Ordnung bei, die dem Schutz uralten Wissens gewidmet ist.",
+      "origin": "In Auftrag gegeben während der Großen Bildungsreform von 2134, als Zauberschulen realisierten, dass ihre Sicherheit von Leuten gehandhabt wurde, die aussahen, als wären sie lieber irgendwo anders, und beschlossen, die Ästhetik neben dem tatsächlichen Schutz zu korrigieren. Diese Uniform gehörte Captain Sarah Hellwart, der inspirierendsten Sicherheitsbeauftragten der akademischen Geschichte – sie war die Person, die Campus-Sicherheit wie eine Berufung und nicht wie eine Jobanforderung aussehen ließ. Die marineblaue Wolle kam von den Schafen der Gelehrten Hingabe, einer Rasse, die nur dann ihr feinstes Vlies wachsen ließ, wenn sie Vorlesungen über alte magische Theorie hörten (sie waren basically das akademische Äquivalent von Klassik-Musik-Kühen). Die goldenen Borten wurden von den Meisterschneidern der Ehre gefertigt, die nach dem Prinzip handelten, dass man, wenn man Wissen beschützt, auch so aussehen sollte, als hätte das Wissen einen persönlich ausgewählt. Sarah trug diese während der berüchtigten Belagerung der Abschlussprüfungen, wo sie die Akademie gegen eine Invasion von Stress-Dämonen verteidigte, während sie perfekte Uniform-Standards beibehielt und irgendwie immer noch verzweifelte Studenten ermutigte. Die Uniform erhielt ihre autoritätsausstrahlenden Eigenschaften, nachdem sie Jahre lang von jemandem getragen wurde, der wirklich glaubte, dass Bildung schützenswert sei, was sie basically zu tragbarer Hingabe an die Verfolgung von Wissen machte. Als Sarah befördert wurde, um Schulleiterin der Akademie für Praktischen Heldentum zu werden, gab sie die Uniform mit einer Notiz weiter: 'Für jemanden, der versteht, dass wahre Stärke daher kommt, das Recht der Menschen zu schützen, ohne Angst zu lernen.'"
+    },
+    "40": {
+      "name": "Schattenmeer-Schlafanzug-Set",
+      "description": "Weiches Modal-Schlafanzug-Set in Mitternachtslila mit Sternbildmustern für mystische Träume.",
+      "heading_details": "Schattenmeer-Schlafanzug-Set – Träume unter Sternenlicht",
+      "details": "Dieser luxuriös weiche Modal-Schlafanzug kommt in tiefem Mitternachtslila mit zarten Sternbildmustern, die in hellem Lila über den Stoff verstreut sind. Das Oberteil verfügt über ein lockeres Design mit Knopfleiste und klassischem Kragen, während die passende Hose einen elastischen Bund und Seitentaschen hat. Der Stoff ist atmungsaktiv und fühlt sich an, als schliefe man in Zwielichtmagie eingewickelt.",
+      "origin": "Erschaffen während der Großen Schlaf-Revolution von 3001, als die Menschheit endlich anerkannte, dass hochwertige Erholung ein fundamentales Recht sei und jeder, der optimalen Schlafkomfort verhindere, Verbrechen gegen das grundlegende menschliche Wohl begehe. Dieses Schlafanzug-Set gehörte Dr. Luna Traumweber, einer Schlafforscherin, die ihr Leben dem Beweis gewidmet hatte, dass die richtige Schlafbekleidung buchstäblich die Qualität Ihrer Träume verbessern könne. Das mitternachtslila Modal kam von den Traumbäumen des Zwielichtwalds, Pflanzen, die nur unter den perfekten Bedingungen zwischen Wachsein und Schlaf wuchsen und Stoff produzierten, der sich anfühlte, als trage man eine sanfte Umarmung der bequemsten Wolke des Universums. Die Sternbildmuster wurden mit Faden gestickt, der aus tatsächlichem Sternenlicht von den Näherinnen des Friedlichen Schlummers gesponnen wurde, die ausschließlich während der Stunden arbeiteten, in denen die meisten Menschen ihren tiefsten, erholsamsten Schlafzyklus erlebten. Luna trug dieses Set während ihrer bahnbrechenden Forschung zur Verbindung zwischen Schlafbekleidungsästhetik und Traumqualität und bewies, dass gut auszusehen während des Bewusstlosseins tatsächlich Ihr unterbewusstes Selbstbild verbessern konnte. Der Schlafanzug erhielt seine traumverbessernden Eigenschaften, nachdem er während ungefähr 10.000 Nächten von Lunas experimentellen Schlafsitzungen getragen wurde, die Energie von unzähligen friedlichen Träumen absorbierte und entwickelte, was Wissenschaftler 'REM-Optimierungsfähigkeiten' nennen. Als Luna ihr ultimatives Ziel erreichte, aufzusteigen, um Hüterin der universellen Schlafqualität zu werden, ließ sie den Schlafanzug für jemanden zurück, der benötigte, dass seine Träume so ästhetisch ansprechend sind wie sein Wachleben."
+    },
+        "41": {
+      "name": "Grimoire-Hüter-Robe",
+      "description": "Gelehrtenrobe in kohlegrau mit Ledereinbanddetails und tiefen Taschen für Schriftrollen.",
+      "heading_details": "Grimoire-Hüter-Robe – Weisheit tragbar gemacht",
+      "details": "Diese fließende Gelehrtenrobe ist aus schwerem kohlegrauem Wollstoff geschnitten mit Ledereinbanddetails entlang der Kanten, die an alte Buchdeckel erinnern. Mehrere Innentaschen sind perfekt auf Schriftrollen, Kristalle und andere gelehrtliche Werkzeuge zugeschnitten. Die Kapuze ist tief und nachdenklich, und Messingverschlüsse in Form von Federkielen sichern die Vorderseite. Es sind akademische Roben, neu interpretiert für den modernen Mystiker.",
+      "origin": "Gewebt während der Großen Bibliotheksrenaissance von 1456, als Bildungseinrichtungen beschlossen, dass ihre Bibliothekare, wenn sie schon das gesamte menschliche Wissen bewahren sollten, auch so aussehen mussten, als könnten sie Unwissenheit persönlich in die Unterwerfung einschüchtern. Diese Robe gehörte Meister Cornelius Buchwert, dem einschüchterndsten Bibliothekar der aufgezeichneten Geschichte – er war die Person, die das verspätete Zurückgeben von Büchern wie einen persönlichen Verrat am gesamten Konzept des Lernens wirken ließ. Die kohlegraue Wolle kam von den Schafen der Angesammelten Weisheit, einer Rasse, die ihr ganzes Leben auf Feldern verbrachte, wo einst alte Gelehrte wandelten und durch ihre Hufe residuale intellektuelle Energie absorbierten. Die Leder-Einbanddetails wurden aus dem Leder der Philosophischen Debatten gefertigt, von Kreaturen, die durch extensive Argumentation über die Natur der Existenz Erleuchtung erlangt hatten. Cornelius trug diese Robe während der legendären Verteidigung der Verbotenen Sektion, wo er gefährliches Wissen eigenhändig davor beschützte, von Leuten gestohlen zu werden, die definitiv nicht bereit dafür waren und es wahrscheinlich genutzt hätten, um Pyramidensysteme zu starten. Die Robe erhielt ihre einschüchternden Eigenschaften, nachdem sie Jahrzehnte lang von jemandem getragen wurde, der aufrichtig glaubte, dass Wissen heilig sei und mit angemessener Ehrfurcht behandelt werden sollte, was sie basically zu tragbarer akademischer Autorität machte. Als Cornelius aufstieg, um der Ewige Wächter Aller Bücher, die Jemals Geschrieben Wurden, zu werden, gab er die Robe an jemanden weiter, der verstand, dass die Bewahrung von Weisheit erfordert, so auszusehen, als könnte man die Realität persönlich neu schreiben, wenn jemand eine Erstausgabe nicht respektiert."
+    },
+    "42": {
+      "name": "Mondbeschienene Loungekleidung",
+      "description": "Übergroßer cremefarbener Pullover und passende Shorts mit silberner Mondphasen-Stickerei.",
+      "heading_details": "Mondbeschienene Loungekleidung – Himmlischer Komfort",
+      "details": "Dieses gemütliche Set beinhaltet einen übergroßen cremefarbenen Kaschmirpullover mit fallengelassenen Schultern und silberner Mondphasen-Stickerei an den Ärmeln, gepaart mit passenden Strickshorts, die bis zur Mitte der Oberschenkel reichen. Der Stoff ist unmöglich weich, perfekt für faule Wochenenden oder nächtliches Sternegucken. Die Mondphasen scheinen in unterschiedlichem Licht subtil zu schimmern und fügen dem Komfort Magie hinzu.",
+      "origin": "Designt während der Himmlischen Komfort-Revolution von 2847, als die Mondjungfer selbst es leid wurde, dass Menschen hässliche Kleidung trugen, während sie versuchten, sich mit lunarer Energie zu verbinden, und sich entschied, direkt in die Erd-Modeindustrie einzugreifen. Diese Loungekleidung gehörte Serenity Mondkind, einem kosmischen Wellness-Influencer, der irgendwie eine Karriere daraus gemacht hatte, Leuten beizubringen, wie sie ihre Entspannung durch astronomische Ausrichtung optimieren können. Der cremefarbene Kaschmir kam von den Ziegen der Ewigen Gelassenheit, einer Herde, die ausschließlich in Bergwiesen lebte, wo die Reflektion des Mondes perfekte Bedingungen für die Produktion der weichsten, beruhigendsten Faser der Existenz schuf. Die silberne Mondphasen-Stickerei wurde mit tatsächlichen, kristallisierten Mondstrahlen gestickt, die während des seltenen Phänomens eingefangen wurden, bei dem alle Mondphasen gleichzeitig für genau siebzehn Minuten existierten. Serenity trug dieses Set während ihrer legendären 'Lounging mit Luna' Livestream-Serie, in der sie 2,3 Millionen Followern lehrte, wie man inneren Frieden durch strategisches Nickerchen und hochwertige Schlafbekleidung erreicht. Die Loungekleidung erhielt ihre tranquility-fördernden Eigenschaften, nachdem sie während unzähliger Meditationseinheiten unter direktem Mondlicht getragen wurde, lunare Energie absorbierte und entwickelte, was Wissenschaftler 'optimale Chill-Vibes' nennen. Als Serenity ihre Endform als Offizielle Botschafterin des Mondes auf der Erde erreichte, ließ sie das Set für jemanden zurück, der die Kunst meistern musste, himmlisch elegant auszusehen, während er absolut nichts Produktives tat."
+    },
+    "43": {
+      "name": "Zeremonialuniform der Königlichen Garde",
+      "description": "Purpurrote Samt-Galauniform mit Goldborte, getragen von Elite-Palastwachen.",
+      "heading_details": "Zeremonialuniform der Königlichen Garde – Beschützer der Krone",
+      "details": "Diese prächtige Zeremonialuniform verfügt über eine tief purpurrote Samtjacke mit intricate Goldborte in keltischen Knotenmustern über der Brust und den Manschetten. Der hohe Kragen trägt das königliche Wappen in goldenem Faden, und die passenden Hosen haben goldene Paspelierung an den Seiten. Ein zeremonieller Schwertgurt und eine weiße Seidenschärpe komplettieren das Ensemble. Reserviert für die elitärsten Wachen, trägt das Tragen das Gewicht uralter Eide und adeliger Pflicht in sich.",
+      "origin": "In Auftrag gegeben während des Goldenen Zeitalters des Dramatischen Monarchie im Jahr 1634, als Könige und Königinnen darum wetteiferten, wessen persönliche Wachen am einschüchterndsten fabelhaft aussehen konnten, während sie stundenlang perfekt still standen. Diese Uniform gehörte Sir Reginald Purpurherz, der hingebungsvollsten königlichen Wache der Geschichte – er stand einmal 72 Stunden lang stramm, nur um zu beweisen, dass Pflichtbewusstsein eine Kunstform sein konnte. Der purpurrote Samt kam von den Königlichen Seidenraupen der Majestätischen Absicht, Kreaturen, die ausschließlich mit Blütenblättern und klassischer Musik gefüttert wurden, um Stoff zu produzieren, der es wert war, das göttliche Recht zu herrschen zu beschützen. Die Goldborte wurde von den Meisterwebern der Ewigen Loyalität gefertigt, die nach dem Prinzip handelten, dass Ihr Outfit Belohnung genug sein sollte, wenn Sie Ihr Leben dem Schutz der Krone eines anderen widmen, selbst wenn Sie sie nie tragen dürfen. Reginald trug diese während der legendären Belagerung der Spektakulären Prunkentfaltung, wo er den Palast gegen eine Armee von Modekritikern verteidigte, die behaupteten, monarchistische Ästhetik sei 'problematisch over-the-top' (er gewann, indem er bewies, dass manchmal over-the-top zu sein tatsächlich eine Form des öffentlichen Dienstes ist). Die Uniform erhielt ihre autoritätsausstrahlenden Eigenschaften, nachdem sie Jahrzehnte von Reginalds unerschütterlicher Hingabe an die Idee absorbiert hatte, dass einige Dinge allein deshalb schützenswert sind, weil sie schön sind, was sie basically zu tragbarer Loyalität mit einer wirklich beeindruckenden Fadendichte machte. Als Reginald in den Ruhestand ging, nachdem er den unmöglichen Traum erreicht hatte, Wachdienst wie den glamourösesten Job des Königreichs aussehen zu lassen, gab er die Uniform an jemanden weiter, der verstand, dass wahrer Dienst manchmal erfordert, so magnificent auszusehen, dass die Leute vergessen, das System in Frage zu stellen, das man beschützt."
+    },
+    "44": {
+      "name": "Sternenweber-Pullover",
+      "description": "Ultraweicher Pullover in tiefem Petrol mit im Dunkeln leuchtenden Sternkonstellationen als Fadendesign.",
+      "heading_details": "Sternenweber-Pullover – Komfort unter den Sternen",
+      "details": "Dieser unglaublich weiche Pullover ist aus Baumwoll-Fleece in tiefem Petrol gefertigt, mit Sternbildmustern, die in speziellem Faden gestickt sind, der im Dunkeln sanft leuchtet. Die Kapuze ist mit Sternenkartenstoff gefüttert, und die Kangaroo-Tasche ist perfekt, um Hände zu wärmen oder kleine Schätze zu verstauen. Es ist die Art von Pullover, die einen die ganzen Nacht die echten Sterne beobachten lassen will.",
+      "origin": "Gestrickt während der Kosmischen Komfort-Revolution von 4823, als die Textilingenieure des Universums endlich das uralte Problem lösten, wie man normale Kleidung so anfühlen lassen kann, als trage man eine Umarmung der gesamten Galaxie. Dieser Pullover gehörte Zara Nachtglanz, einer kosmischen Komfort-Beraterin, die sich darauf spezialisiert hatte, Menschen zu helfen, optimalen Gemütlichkeitszustand zu erreichen und gleichzeitig ihre Verbindung zur himmlischen Energie aufrechtzuerhalten. Die tief petrole Baumwolle kam von den Komfort-Pflanzen des Nebel Sieben, Organismen, die sich speziell entwickelt hatten, um die weichsten Fasern des bekannten Universums zu produzieren, nachdem sie zu viele Wesen mit unzureichender Schlafbekleidung leiden gesehen hatten. Der im Dunkeln leuchtende Sternen-Faden wurde aus tatsächlichem Sternenlicht von der Kosmischen Näherinnen-Gilde gesponnen, die ausschließlich während Sonnenfinsternissen arbeitete, wenn die Grenze zwischen Licht und Dunkelheit am ästhetischsten war. Zara trug diesen Pullover während ihrer legendären 'Großen Gemütlichkeitsquest von 4825', bei der sie zu siebzehn verschiedenen Sternensystemen reiste, um optimale Komfortbedingungen in verschiedenen Gravitationsfeldern und atmosphärischen Zusammensetzungen zu erforschen. Der Pullover erhielt seine sternengestützten Eigenschaften, nachdem er während unzähliger Nächte interstellaren Sterneguckens getragen wurde, kosmische Strahlung absorbierte und entwickelte, was Wissenschaftler 'universelle Chill-Energie' nennen. Als Zara die physische Form transzendierte, um der Galaxie Offizielle Direktorin für Optimalen Komfort zu werden, ließ sie den Pullover für jemanden zurück, der sich mit dem Kosmos verbunden fühlen musste, während er bequem genug war, um während Astronomie-Dokus einzuschlafen."
+    },
+    "45": {
+      "name": "Magierakademie-Blazer",
+      "description": "Traditioneller Schulblazer in Mitternachtsblau mit Hausfarben und magischem Insigne.",
+      "heading_details": "Magierakademie-Blazer – Gelehrter des Arkanen",
+      "details": "Dieser perfekt taillierte Blazer folgt dem traditionellen Akademiestil in mitternachtsblauer Wolle mit Hausfarben in der Paspelierung und dem Futter. Goldener Faden erzeugt subtile magische Symbole über der Brusttasche, und das Schulsiegel ist auf der Brusttasche gestickt. Die Jacke hat einen zeitlosen Schnitt, der gleichermaßen in Hörsälen oder Stadtstraßen funktioniert und sowohl akademische Errungenschaft als auch mystisches Potenzial repräsentiert.",
+      "origin": "Maßgeschneidert während der Großen Magischen Bildungsreform von 2456, als Zauberschulen realisierten, dass ihre Absolventen sowohl auf magischen als auch auf weltlichen Arbeitsmärkten professionell kompetent aussehen mussten. Dieser Blazer gehörte Professorin Evelyn Zauberrecht, der stilvollsten einschüchternden Pädagogin der magischen Akademia – sie war die Lehrerin, die Fortgeschrittene Theoretische Magie wie ein Privileg und nicht wie eine Anforderung wirken ließ. Die mitternachtsblaue Wolle kam von den Akademie-Schafen der Höheren Bildung, einer Rasse, die über Jahrhunderte selektiv gezüchtet worden war, um Stoff zu produzieren, der den Träger irgendwie intelligenter und vertrauenswürdiger erscheinen ließ. Die goldenen magischen Symbole wurden von der Gilde der Gelehrten Näherinnen gestickt, die die Kunst gemeistert hatten, Bildung wie die coolste aller Karriereoptionen aussehen zu lassen. Professorin Zauberrecht trug diesen Blazer während der legendären Konferenz der Interdisziplinären Magie, wo sie erfolgreich argumentierte, dass magische Bildung sich auf praktische Anwendungen konzentrieren sollte, anstatt nur Dinge auf visuell beeindruckende Weise explodieren zu lassen. Der Blazer erhielt seine kompetenzausstrahlenden Eigenschaften, nachdem er Jahrzehnte lang von jemandem getragen wurde, der aufrichtig glaubte, dass Wissen die mächtigste Magie von allen sei, was ihn basically zu tragbarer akademischer Autorität mit einer wirklich guten Fadendichte machte. Als Professorin Zauberrecht befördert wurde, um Rektorin der Universität für Angewandte Unmöglichkeit zu werden, gab sie den Blazer an jemanden weiter, der verstand, dass die besten Lehrer diejenigen sind, die Lernen mühelos elegant aussehen lassen."
+    },
+    "46": {
+      "name": "Komfortzauber-Jogginganzug",
+      "description": "Passendes Sweatshirt und Jogginghose in weichem Lila mit Komfortrunen-Stickerei.",
+      "heading_details": "Komfortzauber-Jogginganzug – Magie in jedem Faden",
+      "details": "Dieses passende Set beinhaltet einen übergroßen Sweatshirt mit Rundhalsausschnitt und taillierte Jogginghosen, beide aus dem weichsten French-Terry-Baumwollstoff in blassem Lila. Komfortrunen sind subtil an den Manschetten und dem Saum in weißem Faden gestickt, fast unsichtbar, bis man genau hinsieht. Der Sweatshirt hat eine lockere Passform, perfekt zum Lounge, und die Jogginghosen haben einen schmeichelhaften taillierten Schnitt mit Rippbündchen.",
+      "origin": "Erschaffen während des Großen Entspannungserwachens von 3001, als die Gesellschaft endlich anerkannte, dass Stress buchstäblich alle umbringe und beschloss, Komfort zu einer Form der magischen Selbstverteidigung zu machen. Dieser Jogginganzug gehörte Maya Zenmeisterin, einer Wellness-Hexe, die die Selbstfürsorge-Branche revolutioniert hatte, indem sie bewies, dass die richtige Loungekleidung tatsächlich Schutz-Zauber auf Ihre mentale Gesundheit wirken könne. Die lila French-Terry-Baumwolle kam von den Emotionalen Unterstützungs-Baumwollpflanzen des Serenity-Tals, Organismen, die magisch so konstruiert worden waren, dass sie Stoff produzierten, der sich anfühlte, als trage man eine permanente Therapiesitzung. Die Komfortrunen wurden mit Faden gestickt, der vom Rat des Universellen Chill gesegnet worden war, einer Gruppe erleuchteter Wesen, die das Bedürfnis nach Produktivitätsangst transzendiert hatten. Maya trug diesen Jogginganzug während ihrer bahnbrechenden Forschung zu 'Praktische Magie für Alltägliche Erschöpfung' und bewies, dass manchmal der mächtigste Zauber, den man wirken kann, darin besteht, sich selbst die Erlaubnis zu geben, es sich bequem zu machen. Der Jogginganzug erhielt seine stresslindernden Eigenschaften, nachdem er während ungefähr 5.000 Meditationseinheiten getragen wurde, friedliche Energie absorbierte und entwickelte, was Wissenschaftler 'optimalen Chill-Koeffizienten' nennen. Als Maya Erleuchtung durch strategisches Nickerchen erreichte, ließ sie den Jogginganzug für jemanden zurück, der verstehen musste, dass Selbstfürsorge nicht egoistisch ist – sie ist basically Rüstung für Ihre Seele."
+    },
+    "47": {
+      "name": "Arkanuniversität-Cardigan",
+      "description": "Klassischer Universitätscardigan in reichem Braun mit Goldbesatz und magischen Fachbereichs-Patches.",
+      "heading_details": "Arkanuniversität-Cardigan – Akademische Exzellenz",
+      "details": "Dieser zeitlose Cardigan folgt dem klassischen Universitätsstil in reichhaltiger schokoladenbrauner Wolle mit goldenem Besatz entlang des Kragens und der Manschetten. Fachbereichs-Patches für verschiedene magische Studien sind auf den Ärmeln gestickt, und das Universitätswappen ziert die Brust. Die Passform ist locker und gelehrt, perfekt für lange Stunden in der Bibliothek oder Spaziergänge auf dem Campusgelände, während man über die Geheimnisse des Universums nachdenkt.",
+      "origin": "Gestrickt während der Akademischen Prestigekriege von 1847, als Universitäten darum wetteiferten, wessen Fakultät am intellektuell einschüchterndsten aussehen konnte, während sie zugänglich gemütlich blieb. Dieser Cardigan gehörte Professor Theodore Weisheitshüter, dem beliebtesten Dozenten an der Universität für Angewandte Unmöglichkeit – er war der Lehrer, der Quantenmagische Theorie wie eine Gutenachtgeschichte mit dem Lieblingsgroßvater wirken ließ. Die schokoladenbraune Wolle kam von den Gelehrten Schafen der Tiefen Gedanken, einer Rasse, die ausschließlich in Bibliotheken graste und ein Vlies mit natürlichen geräuschdämpfenden Eigenschaften für optimale Lernbedingungen entwickelt hatte. Der Goldbesatz wurde von der Gilde der Akademischen Eleganz hinzugefügt, die glaubte, dass man zumindest distinguiert aussehen sollte, wenn man sein Leben der Erweiterung des menschlichen Wissens widmet. Professor Weisheitshüter trug diesen Cardigan während der legendären Großen Debatte von Theoretischer vs. Praktischer Magie, wo er erfolgreich argumentierte, dass die beste Magie diejenige ist, die Menschen mit ihren tatsächlichen Problemen hilft, anstatt nur bei Partys beeindruckend auszusehen. Der Cardigan erhielt seine weisheitsausstrahlenden Eigenschaften, nachdem er Jahrzehnte lang während der Sprechstunden getragen wurde, in denen Professor Weisheitshüter sowohl akademischen Rat als auch Lebensberatung an verwirrte Studenten verteilte. Als er in den Ruhestand ging, um der universelle Erste Professor Emeritus des Gesunden Menschenverstands zu werden, gab er den Cardigan an jemanden weiter, der verstand, dass wahre Intelligenz darin besteht, zu wissen, wie man komplizierte Dinge einfach macht, und nicht umgekehrt."
+    },
+    "48": {
+      "name": "Traumweber-Nachthemd",
+      "description": "Fließendes Seiden-Nachthemd in blassem Lila mit traumfänger-Stickerei am Saum.",
+      "heading_details": "Traumweber-Nachthemd – Schlaf in Verzauberung",
+      "details": "Dieses ätherische Nachthemd fließt wie flüssiges Mondlicht, aus feinster Seide in blassem Lila gefertigt, das im Lampenlicht zu Silber wechselt. Der Saum ist mit intricate Traumfänger-Mustern in tieferem lila Faden bestickt, von denen gesagt wird, dass sie friedliche, magische Träume fördern. Der Ausschnitt ist dezent aber elegant, und die Ärmel fließen wie sanfte Flügel. Perfekt für diejenigen, die möchten, dass sich ihr Schlaf wie ein Märchen anfühlt.",
+      "origin": "Gewebt während der Großen Schlafrenaissance von 2134, als die Menschheit endlich realisierte, dass die Qualität Ihrer Träume buchstäblich die Qualität Ihrer gesamten Existenz bestimmen konnte und beschloss, Schlafbekleidung ernst zu nehmen. Dieses Nachthemd gehörte Lady Morphia Süßtraum, der erfolgreichsten Traumberaterin der aufgezeichneten Geschichte – sie war basically ein Personal Trainer für das Unterbewusstsein der Menschen. Die blass lila Seide kam von den Traummotten des Zwielichtreichs, Kreaturen, die primär während der Momente zwischen Schlafen und Wachen existierten und Kokons produzierten, die sich anfühlten, als trüge man flüssige Gelassenheit. Die Traumfänger-Stickerei wurde mit Faden gestickt, der aus kristallisierten Schlafliedern von den Näherinnen des Friedlichen Schlummers gesponnen wurde, die ausschließlich während der Stunden arbeiteten, in denen Albträume am wenigsten aktiv waren. Lady Morphia trug dieses Nachthemd während ihrer bahnbrechenden Forschung zu 'Ästhetischer Traumverbesserung' und bewies, dass schöne Schlafbekleidung tatsächlich die visuelle Qualität Ihrer Träume verbessern und die Wahrscheinlichkeit von angstbasierten Albträumen reduzieren konnte. Das Nachthemd erhielt seine traumverbessernden Eigenschaften, nachdem es während Tausender Nächte perfekt kuratierter Schlaferfahrungen getragen wurde, die Energie friedlicher Träume absorbierte und entwickelte, was Wissenschaftler 'REM-Optimierungsmagie' nennen. Als Lady Morphia aufstieg, um die Hüterin der Universellen Schlafqualität zu werden, ließ sie das Nachthemd für jemanden zurück, der verstand, dass sich um seine Träume zu kümmern genauso wichtig ist wie sich um sein Wachleben zu kümmern."
+    },
+    "49": {
+      "name": "Gilden-Handwerker-Schürze",
+      "description": "Lederne Handwerkerschürze mit Werkzeugschlaufen und Taschen, die das Gildensiegel trägt.",
+      "heading_details": "Gilden-Handwerker-Schürze – Meister des Handwerks",
+      "details": "Diese professionelle Lederschürze ist für ernsthafte Handwerker gefertigt und verfügt über mehrere Taschen, Werkzeugschlaufen und verstärkte Nähte an key stress points. Das reiche braune Leder trägt das geprägte Gildensiegel in Gold auf der Brust und kennzeichnet den Träger als zertifizierten Meisterhandwerker. Verstellbare Träger sorgen für eine perfekte Passform, und das Leder wird mit der Nutzung schön altern und mit der Zeit persönlicher werden.",
+      "origin": "Gefertigt während der Großen Macher-Revival von 1634, als die Gesellschaft wiederentdeckte, dass das Erschaffen von Dingen mit den eigenen Händen tatsächlich befriedigender war als was auch immer das digitale Äquivalent zu sein versuchte. Diese Schürze gehörte Meisterhandwerkerin Elena Goldhändin, der geschicktesten Handwerkerin in der Gilde der Leute, die Ihre Projekte Tatsächlich Beenden – sie war basically das Gegenteil von jedem, der siebzehn halbfertige Bastelprojekte in Schränken stopft. Das Leder kam vom Rindvieh der Abgeschlossenen Aufgaben, einer Herde, die Erleuchtung durch die simple Freude erreicht hatte, das zu beenden, was sie angefangen hatten (sie waren basically die Produktivitäts-Gurus der Rinderwelt). Das Gildensiegel wurde mit Techniken geprägt, die durch siebzehn Generationen von Menschen weitergegeben wurden, die verstanden, dass echtes Handwerk sowohl Geschick als auch die Geduld erfordert, nicht aufzugeben, wenn die Dinge schwierig werden. Elena trug diese Schürze während des legendären Großen Herstellungswettbewerbs von 1638, bei dem sie ein funktionales Möbelstück erschuf, das irgendwie auch ein Musikinstrument und ein wirklich effektives Anti-Angst-Gerät war. Die Schürze erhielt ihre kompetenzsteigernden Eigenschaften, nachdem sie Jahrzehnte lang von jemandem getragen wurde, der aufrichtig glaubte, dass das Erschaffen von schönen, nützlichen Dingen eine der höchsten Formen menschlichen Ausdrucks sei. Als Elena Meisterstatus erreichte und ihre eigene Schule für Reformierte Bastel-Horter eröffnete, gab sie die Schürze an jemanden weiter, der das Selbstvertrauen benötigte, seine kreativen Projekte tatsächlich zu beenden, anstatt nur mehr Material zu kaufen."
+    },
+    "50": {
+      "name": "Uniform des Himmlischen Hofes",
+      "description": "Makellose weiße Zeremonialuniform mit goldenen himmlischen Motiven, getragen von Himmelsboten.",
+      "heading_details": "Uniform des Himmlischen Hofes – Herold des Göttlichen Willens",
+      "details": "Diese makellose Uniform repräsentiert die höchste Ordnung des himmlischen Dienstes, aus reinster weißer Seide mit goldenen himmlischen Symbolen, die über Brust und Ärmel gestickt sind. Der hohe Kragen trägt Flügel in goldenem Faden, und die taillierte Jacke schafft eine Silhouette göttlicher Autorität. Passende weiße Hosen und eine goldene Schärpe komplettieren das Ensemble. Reserviert für die Auserwählten, die dazu bestimmt sind, Botschaften zwischen den Reichen zu tragen, strahlt es eine Aura jenseitiger Bestimmung aus.",
+      "origin": "In Auftrag gegeben während der Göttlichen Bürokratie-Reformation von 4156, als das himmlische Reich endlich anerkannte, dass selbst himmlische Verwaltung professionell inspirierend aussehen musste, anstatt nur generisch ätherisch. Diese Uniform gehörte der persönlichen Assistentin von Erzengel Michael, Seraphina Lichtbringerin, die basically die kompetentste mittlere Führungskraft im gesamten Multiversum war – sie war die Person, die das Paradies im Zeitplan hielt, während sie absolut verheerend in Business-Kleidung aussah. Die reine weiße Seide kam von den Seidenraupen der Ewigen Reinheit, Kreaturen, die sich in einem Zustand permanenter moralischer Klarheit befanden und Stoff produzierten, der buchstäblich von nichts weniger als einer großen theologischen Krise befleckt werden konnte. Die goldenen himmlischen Motive wurden von den Engeln der Ästhetischen Exzellenz gestickt, die nach dem Prinzip handelten, dass man, wenn man den göttlichen Willen repräsentiert, auch so aussehen sollte, als hätte der göttliche Wille persönlich Ihr Outfit ausgewählt. Seraphina trug diese Uniform während der legendären Himmlischen Leistungsbeurteilung von 4158, bei der sie die gesamte Betriebsstruktur des Himmels erfolgreich reorganisierte, während sie perfekte Uniformstandards beibehielt und Bürokratie irgendwie glamourös aussehen ließ. Die Uniform erhielt ihre autoritätsausstrahlenden Eigenschaften, nachdem sie von jemandem getragen wurde, dessen Job buchstäblich darin bestand, sicherzustellen, dass das Paradies seine quartalsmäßigen Ziele für Frieden, Liebe und allgemeine kosmische Harmonie erreichte. Als Seraphina befördert wurde, um Direktorin des Interdimensionalen Kundenservice zu werden, gab sie die Uniform an jemanden weiter, der verstand, dass der Dienst an einer höheren Macht manchmal erfordert, so auszusehen, als könnte man persönlich mit dem Universum verhandeln und gewinnen."
+    },
+    "51": {
+      "name": "Gemütlicher Zauberwirker-Set",
+      "description": "Weicher Strickpullover und Leggings in Sturmgrau mit subtilen Zauberkreis-Mustern.",
+      "heading_details": "Gemütlicher Zauberwirker-Set – Magie im Komfort",
+      "details": "Dieses unglaublich weiche passende Set beinhaltet einen kabelgestrickten Pullover in Sturmgrau mit subtilen Zauberkreis-Mustern, die in das Design gestrickt sind, gepaart mit passenden Leggings, die sich wie eine zweite Haut anfühlen. Der Pullover hat eine lockere, übergroße Passform, perfekt zum Zusammenrollen mit Zauberbüchern, und die Leggings haben einen hohen Bund und versteckte Taschen. Winzige Amethyst-Details an den Manschetten fangen das Licht ein.",
+      "origin": "Erschaffen während der Praktische Magie-Revolution von 3001, als Hexen endlich zugaben, dass der größte Teil ihrer Macht daher kam, bequem genug zu sein, um sich richtig konzentrieren zu können, anstatt dramatisch unpraktische Roben zu tragen, die jedes Mal Feuer fingen, wenn sie eine Kerze anzündeten. Dieses Set gehörte Sage Weidenmond, einer Hexe, die die moderne Magie revolutioniert hatte, indem sie bewies, dass gemütliche Kleidung tatsächlich zauberwirksamer war als alles mit Korsetts oder dramatischen Umhängen. Der sturmgraue Stoff kam von den Komfort-Schafen der Praktischen Entscheidungen, einer Rasse, die selektiv gezüchtet worden war, um Wolle zu produzieren, die sich anfühlte, als trüge man eine permanente Umarmung, während sie immer noch gepflegt genug für professionelle Hexentreffen aussah. Die subtilen Zauberkreismuster wurden mit Techniken in den Stoff gestrickt, die vom Coven der Sinnvollen Verzauberer entwickelt worden waren, die glaubten, dass magische Symbole, die nicht bequem genug zum den ganzen Tag Tragen waren, wahrscheinlich nicht effektiv genug waren, um sich damit zu beschäftigen. Sage trug dieses Set während ihrer bahnbrechenden 'Komfort-Magie'-Workshops, in denen sie Hunderten von Praktizierenden beibrachte, dass die mächtigsten Zauber diejenigen sind, die man wirken kann, während man sich in seiner eigenen Haut vollkommen wohl fühlt. Das Set erhielt seine magieverstärkenden Eigenschaften, nachdem es während unzähliger erfolgreicher Zauberwirkeinheiten getragen wurde, magische Energie absorbierte und entwickelte, was Hexen 'optimalen Zauberkomfort' nennen. Als Sage ihre Schule für Reformierte Dramatische Magie-Anwender eröffnete, gab sie das Set an jemanden weiter, der lernen musste, dass wahre Macht daher kommt, sich mit sich selbst wohlzufühlen, anstatt für andere einschüchternd auszusehen."
+    },
+    "52": {
+      "name": "Schattengilden-Agent",
+      "description": "Ganz schwarze taktische Uniform mit versteckten Taschen und geräuschdämpfendem Stoff.",
+      "heading_details": "Schattengilden-Agent – Unsichtbare Autorität",
+      "details": "Diese professionelle taktische Uniform ist für Tarnoperationen konstruiert und verfügt über einen ganz schwarzen Ripstop-Stoff mit geräuschdämpfenden Eigenschaften. Mehrere versteckte Taschen sind strategisch für Werkzeuge und Essentials platziert, und der Schnitt erlaubt maximale Bewegungsfreiheit bei gleichzeitiger Beibehaltung einer schlanken Silhouette. Verstärkte Knie und Ellenbogen sorgen für Langlebigkeit, während die spezielle Webart des Stoffes hilft, sich in Schatten aufzulösen.",
+      "origin": "Designt während der Professionellen Spionage-Renaissance von 2456, als die Spionageindustrie endlich realisierte, dass ihre Agenten kompetent und vertrauenswürdig aussehen mussten, anstatt nur die ganze Zeit mysteriös bedrohlich. Diese Uniform gehörte Agentin Mitternacht (echter Name: Jennifer Thompson), der effektivsten Infiltrationsspezialistin der aufgezeichneten Geschichte – sie war basically die Person, die bewies, dass der beste Weg, unsichtbar zu sein, darin besteht, so auszusehen, als gehöre man überall hin, wo man ist. Der ganz schwarze Stoff kam von der Tarn-Baumwoll-Kooperative, Pflanzen, die genetisch modifiziert worden waren, um Schallwellen zu absorbieren und Textilien zu produzieren, die Fußtritte ungefähr 47% leiser machten. Die versteckten Taschen wurden von der Gilde der Praktischen Paranoia mit Dimensionsfalttechniken konstruiert, die es Agenten erlaubten, ungefähr das Dreifache an Ausrüstung zu tragen, als in eine normale Uniform passen sollte. Agentin Mitternacht trug diese während der legendären Operation: Vernünftige Erklärung, bei der sie erfolgreich siebzehn verschiedene Organisationen infiltrierte, indem sie einfach so professionell kompetent aussah, dass niemand auf die Idee kam, ihre Anwesenheit in Frage zu stellen. Die Uniform erhielt ihre selbstvertrauenssteigernden Eigenschaften, nachdem sie Jahre lang von jemandem getragen wurde, dessen Job absolutes Vertrauen in die eigenen Fähigkeiten erforderte, was sie basically zu tragbarer Selbstsicherheit mit wirklich guter taktischer Funktionalität machte. Als Agentin Mitternacht in den Ruhestand ging, um Beraterin für Menschen zu werden, die in schwierigen Situationen Autorität ausstrahlen müssen, gab sie die Uniform an jemanden weiter, der verstand, dass wahre Tarnung daher kommt, überall dazu zu gehören, anstatt sich vor allem zu verstecken."
+    },
+    "53": {
+      "name": "Komfortmagier-Einteiler",
+      "description": "Erwachsenen-Einteiler in tiefem Lila mit goldenen Sternmustern und Zauberhut-Kapuze.",
+      "heading_details": "Komfortmagier-Einteiler – Maximaler Komfort, maximale Magie",
+      "details": "Dieser entzückend gemütliche Erwachsenen-Einteiler ist aus dem weichsten Fleece in tiefem Lila mit goldenen Sternen gefertigt, die über den Stoff verstreut sind. Die Kapuze ist wie ein Zauberhut designt, komplett mit einer schlaffen Spitze, und die Vorderseite verfügt über einen praktischen Reißverschluss. Rippbündchen an Handgelenken und Knöcheln halten die Wärme, und die lockere Passform macht ihn perfekt für faule Wochenend-Zaubereien oder Fantasy-Serien-Marathons.",
+      "origin": "Erschaffen während der Großen Entspannungsrevolution von 4823, als die Magie-Gemeinschaft endlich anerkannte, dass manchmal das Mächtigste, was man tun kann, darin besteht, sich selbst die Erlaubnis zu geben, vollständig, unerschütterlich gemütlich zu sein. Dieser Einteiler gehörte Zauberer Kuschel McGillicuddy (der seinen Namen legal änderte, nachdem er realisierte, dass 'Erzmagier Ernst Dunkelmeer' ihm Impostor-Syndrom verpasste), dem selbstverwirklichtesten Magie-Anwender der Geschichte – er war basically der Typ, der bewies, dass man für seine Kunst nicht leiden muss, selbst wenn sie die Manipulation fundamentaler Kräfte der Realität beinhaltet. Das tief lila Fleece kam von den Komfort-Lamas des Maximalen Chill, Kreaturen, die Erleuchtung durch strategisches Nickerchen erreicht hatten und Wolle produzierten, die sich anfühlte, als trage man eine Therapiesitzung. Die goldenen Sterne wurden mit tatsächlichem Sternenlicht von den Näherinnen des Optimalen Komforts aufgetragen, die nach dem Prinzip handelten, dass man, wenn man sich schon wie ein Kind anzieht, sich auch wie das magisch mächtigste Kind im Universum anziehen sollte. Kuschel trug diesen Einteiler während seines legendären 'Großen Komfort-Zauber-Experiments', bei dem er erfolgreich fortgeschrittene Magie anwandte, während er aussah, als wäre er bereit für die niedlichste Übernachtungsparty der Welt. Der Einteiler erhielt seine magieverstärkenden Eigenschaften, nachdem er die Energie von unzähligen Zaubersprüchen absorbierte, die in einem Zustand perfekten Komforts gewirkt wurden, und entwickelte, was magische Theoretiker 'Spitzen-Gemütlichkeitsenergie' nennen. Als Kuschel seine Endform als Schutzpatron der Selbstfürsorge-Magie erreichte, gab er den Einteiler an jemanden weiter, der lernen musste, dass das Radikalste, was man tun kann, darin besteht, den eigenen Komfort zu priorisieren, ohne sich dafür zu entschuldigen."
+    },
+    "54": {
+      "name": "Verzauberter Bibliotheks-Cardigan",
+      "description": "Bordeauxroter Wollcardigan mit Buchrücken-Mustern und Leselicht-Taschen.",
+      "heading_details": "Verzauberter Bibliotheks-Cardigan – Tragbare Weisheit",
+      "details": "Dieser gelehrte Cardigan ist für ernsthafte Leser designt, in reichem bordeauxrotem Wollstoff mit Buchrücken-Mustern, die entlang der Vorderteile gestickt sind. Die tiefen Taschen sind mit LED-Leisten gefüttert, die sanftes Leselicht bieten, und kleine Schlaufen halten Lesebrillen oder Lesezeichen. Die Passform ist locker und akademisch, perfekt für lange Stunden unter staubigen Folianten oder gemütliche Lesenischen.",
+      "origin": "Gestrickt während der Literarischen Magie-Renaissance von 1847, als Bibliothekare es leid wurden, dass Menschen Bücher wie bloße Dekorationsobjekte behandelten und beschlossen, mit der uralten Kunst des aggressiv hilfreichen Kundenservice zurückzuschlagen. Dieser Cardigan gehörte der Chef-Bibliothekarin Beatrice Seitenhüterin, der einschüchterndsten wissenden Person der aufgezeichneten Geschichte – sie war basically eine menschliche Suchmaschine mit Meinungen zur richtigen Buchpflege und der Fähigkeit, Besucher durch pure Missbilligungsenergie wegen geknickter Seiten schuldig fühlen zu lassen. Die bordeauxrote Wolle kam von den Gelehrten Schafen des Tiefen Lesens, einer Rasse, die ihr ganzes Leben damit verbrachte, Hörbüchern zuzuhören und ein Vlies mit natürlichen schalldämpfenden Eigenschaften für optimale Bibliotheksatmosphäre entwickelt hatte. Die LED-gefütterten Taschen wurden von der Gilde der Praktischen Bibliophilen hinzugefügt, die glaubten, dass man, wenn man sein Leben von Büchern umgeben verbringt, zumindest angemessene Beleuchtung haben sollte, um sie richtig lesen zu können. Beatrice trug diesen Cardigan während der legendären Schlacht der Überzogenen Gebühren, wo sie erfolgreich die Säumnisgebühren-Politik der Bibliothek gegen eine Armee von Menschen verteidigte, die dachten, 'Ich habe es vergessen' sei eine gültige Ausrede dafür, Bücher sechs Monate zu behalten. Der Cardigan erhielt seine weisheitsausstrahlenden Eigenschaften, nachdem er Jahrzehnte lang von jemandem getragen wurde, der aufrichtig glaubte, dass jedes Buch es verdient, mit angemessenem Respekt und Sorgfalt gelesen zu werden. Als Beatrice aufstieg, um die Ewige Hüterin Alles Geschriebenen Wissens zu werden, gab sie den Cardigan an jemanden weiter, der verstand, dass wahre Macht daher kommt, Menschen zu helfen, genau die Information zu finden, die sie brauchen, selbst wenn sie nicht ganz sicher sind, wonach sie suchen."
+    },
+    "55": {
+      "name": "Phönixflügel-Kimono-Mantel",
+      "description": "Fließender Seiden-Mantel in Flammenfarben mit Phönixfeder-Mustern für stilvolles Lounge.",
+      "heading_details": "Phönixflügel-Kimono-Mantel – Wiedergeburt im Komfort",
+      "details": "Dieser luxuriöse Lounge-Mantel fließt wie flüssiges Feuer, aus Seide in verlaufenden Flammenfarben von tiefem Orange zu hellem Gold gefertigt. Phönixfeder-Muster sind von Hand über den Stoff gemalt, und die weiten Ärmel schaffen eine dramatische Silhouette, perfekt, um aus dem Schlummer erneuert aufzustehen. Der Gurt bindet sich in der Taille, und der Mantel fällt bis zur Mitte der Waden für elegante Bedeckung. Er verwandelt Morgenroutinen in Zeremonien persönlicher Wiedergeburt.",
+      "origin": "Gewebt während der Großen Persönlichen Transformationsbewegung von 2134, als die Gesellschaft endlich anerkannte, dass man manchmal sein altes Leben niederbrennen und aus der Asche absolut magnificent aufsteigen muss. Dieser Mantel gehörte Lady Phönix AufgehenderStern (Geburtsname: Janet Smith), die eine Karriere daraus gemacht hatte, Menschen zu helfen, sich nach großen Lebensveränderungen neu zu erfinden – sie war basically ein Lebenscoach für Leute, die durch ihre Protagonisten-Ära gingen. Die flammenfarbene Seide kam von den Metamorphose-Motten des Ewigen Wandels, Kreaturen, die sich in einem permanenten Zustand schöner Transformation befanden und Kokons produzierten, die sich anfühlten, als trüge man flüssigen Mut. Die Phönixfeder-Muster wurden mit Pigmenten von Hand gemalt, die aus kristallisierter Sonnenaufgangs-Energie von den Künstlern der Neuanfänge hergestellt wurden, die sich darauf spezialisiert hatten, den exakten Moment einzufangen, in dem Hoffnung Realität wird. Lady Phönix trug diesen Mantel während ihrer legendären 'Steh auf und Glänze'-Workshop-Reihe, in der sie Tausenden von Menschen beibrachte, wie man Veränderung umarmt, anstatt sich vor ihr zu verstecken, während sie aussahen, als könnten sie Selbstzweifel persönlich in die Unterwerfung einschüchtern. Der Mantel erhielt seine transformationsinspirierenden Eigenschaften, nachdem er während unzähliger persönlicher Durchbruchsmomente getragen wurde, die Energie von Menschen absorbierte, die ihre eigene Macht entdeckten, und entwickelte, was Psychologen 'Phönix-Energie-Optimierung' nennen. Als Lady Phönix ihre Endform als Direktorin der Kosmischen Persönlichen Entwicklung erreichte, ließ sie den Mantel für jemanden zurück, der daran erinnert werden musste, dass jedes Ende nur eine wirklich dramatische Art ist, etwas Besseres zu beginnen."
+    },
+    "56": {
+      "name": "Astral Academy Tracksuit",
+      "description": "Marineblauer Trainingsanzug mit goldenen Astral-Academy-Streifen und Sternbild-Patches.",
+      "heading_details": "Astral Academy Tracksuit - Sportliche Exzellenz zwischen den Sternen",
+      "details": "...",
+      "origin": "..."
+    }
+  },
+  "category": {
+    "New": {
+      "title": "Schatten der frisch Gefallenen",
+      "subtitle": "Aus Dunkelheit geboren, in Einsamkeit geschmiedet"
+    },
+    "New2": {
+      "title": "Geflüsterte Wunder",
+      "subtitle": "Frische Verzauberungen aus fernen Reichen"
+    },
+    "Aura_farmers": {
+      "title": "Essenz der Macht",
+      "subtitle": "Kanalisiere die mystischen Energien in dir"
+    },
+    "Casual": {
+      "title": "Heimgebundene Bequemlichkeit",
+      "subtitle": "Wo Magie auf alltäglichen Zufluchtsort trifft"
+    },
+    "Hot_picks": {
+      "title": "Kollektion für die Auserwählten",
+      "subtitle": "Begehrt von vielen."
+    },
+    "Rizz_master": {
+      "title": "Werde der Herzog des Westens",
+      "subtitle": "Befehle Präsenz mit jenseitiger Anmut"
+    },
+    "Clocked": {
+      "title": "Rüstung der ewigen Nacht",
+      "subtitle": "Zeitlose Ausrüstung für jede Quest"
+    },
+    "all": {
+      "title": "Das komplette Grimoire",
+      "subtitle": "Jeder verzauberte Faden in unserer Kollektion"
+    }
+  },
+  "search": {
+    "title": "Suchergebnisse",
+    "searchTerm": "Suchbegriff",
+    "category": "Kategorie",
+    "found": "{{count}} Produkte gefunden",
+    "noResults": "Keine Produkte gefunden die deinen Suchkriterien entsprechen."
+  },
+  "profile": {
+      "title": "Ihr Profil",
+      "loading": "Lädt...",
+      "welcome": "Willkommen",
+      "welcomeUser": "Willkommen, {{name}}!",
+      "profile": "Profil",
+      "login": "Anmelden",
+      "signup": "Registrieren",
+      "logout": "Abmelden",
+      "logoutConfirm": "Möchten Sie sich wirklich abmelden?",
+      "language": "🌐 Sprache",
+      "chooseLanguage": "Sprache wählen:",
+      "orUseWidget": "Oder verwenden Sie das Übersetzungs-Widget:",
+      "loadWidget": "Widget laden",
+      "viewProfile": "Profil anzeigen",
+      "editProfile": "Profil bearbeiten",
+      "saveProfile": "Profil speichern",
+      "cancelEdit": "Abbrechen",
+      "viewCart": "Warenkorb anzeigen",
+      "viewLikes": "Favoriten anzeigen",
+      "name": "Name",
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail",
+      "emailLabel": "E-Mail:",
+      "memberSince": "Mitglied seit",
+      "memberSinceLabel": "Mitglied seit:",
+      "bio": "Biografie",
+      "bioLabel": "Biografie:",
+      "bioPlaceholder": "Erzählen Sie uns von sich...",
+      "noBio": "Noch keine Biografie hinzugefügt...",
+      "profilePicture": "Profilbild",
+      "changePhoto": "Foto ändern",
+      "uploadPhoto": "Foto hochladen",
+      "accountDetails": "Kontodetails",
+      "personalInfo": "Persönliche Informationen",
+      "close": "Schließen",
+      "locationTitle": "Lieferort",
+      "addLocationPrompt": "Fügen Sie Ihren Standort hinzu, damit wir Ihre Bestellungen liefern können~",
+      "trackMyLocation": "📍 Meinen Standort verfolgen",
+      "detectingLocation": "🔄 Erkenne...",
+      "orEnterManually": "— ODER —",
+      "enterLocationPlaceholder": "z.B. Berlin, Deutschland",
+      "setLocationButton": "Festlegen",
+      "changeLocation": "Standort ändern",
+      "locationNotSupported": "Standortverfolgung wird von Ihrem Browser nicht unterstützt",
+      "locationError": "Standort konnte nicht ermittelt werden. Bitte manuell eingeben."
+    },
+  "login": {
+    "title": "In deinen Account einloggen",
+    "email": "E-Mail",
+    "emailLabel": "E-Mail:",
+    "password": "Passwort",
+    "passwordLabel": "Passwort:",
+    "emailPlaceholder": "Gib deine E-Mail ein",
+    "passwordPlaceholder": "Gib dein Passwort ein",
+    "loginButton": "Anmelden",
+    "signupButton": "Registrieren"
+  },
+  "signup": {
+    "title": "Einen Account erstellen",
+    "fullName": "Vollständiger Name",
+    "fullNameLabel": "Vollständiger Name:",
+    "email": "E-Mail",
+    "emailLabel": "E-Mail:",
+    "password": "Passwort",
+    "passwordLabel": "Passwort:",
+    "namePlaceholder": "Gib deinen vollständigen Namen ein",
+    "emailPlaceholder": "Gib deine E-Mail ein",
+    "passwordPlaceholder": "Erstelle ein Passwort",
+    "signupButton": "Registrieren",
+    "loginButton": "Anmelden"
+  },
+ "about": {
+    "title": "Über mich",
+    "aboutUs": "Über mich",
+    "aboutUsContent0": "Hallo hallo!!",
+    "aboutUsContent1": "Ich habe diese Website gebaut. Ich wollte eine alte Website im japanischen Stil der 90er Jahre machen und es war wirklich spaßig!",
+    "aboutUsContent2": "Ich bin 20 Jahre alt und lerne online. Ich liebe es, coole Sachen zu machen. Vor einem Monat habe ich angefangen, meine Träume ernst zu nehmen und alles läuft super gut. Ich habe diese Website alleine gemacht, ohne AI, ohne Hilfe, nur mit meinem Wissen. Die Welt der Technologie ist wirklich wunderschön! Manchmal möchte ich weinen wenn ich sie sehe, aber wenn ich etwas selbst verstehe fühlt sich das einfach großartig an! Ich mache tonnenweise coole Sachen. Ich kann gar nicht warten um mehr zu lernen!",
+    "ourName": "Mein Name",
+    "ourNameContent1": "Nakachan oder Zwochan?",
+    "ourNameContent2": "Gute Frage! Mein echter Name ist Zoha aber ruf mich Zoe. Nakachan ist der Name den ich im Internet nutze. Das ist mein Spitzname für Gaming und kreative Sachen. Zwochan (Zuo+chan) ist der Name meines YouTube Kanals, ich habe meinen echten Namen und meinen Internet Namen vermischt. Du kannst mich nennen wie du willst! Und ich mag auch neue Spitznamen!",
+    "whyUs": "Warum ich",
+    "whyUsTitle": "Ich will dass meine Ideen gesehen werden!",
+    "feature1": "Ich war immer das Mädchen das jeden Tag verschiedene Sachen gemacht hat. Das war anstrengend weil ich viel machen konnte aber mit nichts zufrieden war. Dann dachte ich ich muss mich verändern. Also fing ich an an mir selbst zu arbeiten. Ich lerne, ich verbessere meine Fähigkeiten, ich entwickle meine Interessen! Ich bin so stolz auf mich. Es ist wie seinen Charakter im Spiel zu upgraden, weißt du? Langsam aber sicher. Es ist anstrengend aber ich will mein Potenzial nicht verschwenden. Alle haben mich aufgegeben als ich nicht auf eine gute Universität gehen konnte. Aber dann fing ich an online zu studieren. Ich will besser werden. Ich will dass meine Arbeit, meine Ideen, meine Projekte gesehen werden!",
+    "features": "Mein Ziel",
+    "featuresTitle": "Was mich inspiriert und mein Ziel",
+    "platformFeature1": "Inspiration kommt von vielen Dingen! Videospiele, coole Websites, kreative Sachen, Tagebücher, Scrapbooking und noch viel mehr! Aber das Ziel? Das Ziel ist die Ideen die mir in den Kopf kommen sofort umzusetzen. Verschwende sie nicht. Wenn es nicht gut ist dann mach es besser, arbeite dran, mach es noch besser. Und dann mach es einfach! Irgendwie! Mach einfach dass es funktioniert!",
+    "platformFeature2": "Es gibt so viel in der Welt! Wir können nicht alles haben was wir wollen aber wir können es wenigstens versuchen oder? Also wenn du später dein Leben zurückschaust will ich dass du sagst 'Wow! Ich habe wirklich alles gemacht!'",
+    "platformFeature3": "Das ist mein Ziel!",
+    "con": "Fazit",
+    "conTitle": "Am Ende..",
+    "con1": "Ich habe so viel geschrieben, ich sollte schließen! Ich bin Zoe, ich bin 19 Jahre alt. Seit meiner Kindheit träume ich davon Softwareentwicklerin zu werden weil sie coole Sachen machen und das hört sich cool an! Ich arbeite sehr hart an meinen Träumen. Wenn du mehr wissen willst schau dir die anderen Sektionen an! Ich würde mich sehr freuen!"
+  },
+  "contact": {
+    "title": "Kontaktiere uns",
+    "contactInfo": "Kontaktinformationen",
+    "contactInfoSubtitle": "Unten sind meine Social Medias wo ich aktiv bin. Du kannst mich auf Gmail oder überall dort kontaktieren wo dir Sinn macht. Ich habe auch mein GitHub gegeben also kannst du vorbei schauen wenn du willst. Ich antworte meistens auf Nachrichten und Erwähnungen. (außer Spam). Ich mag auch sehr gerne Tech Freunde machen also bitte schreib mir! Ich will wirklich Freunde finden mit denen ich über Ideen sprechen kann und die ihre Gedanken teilen!! Ich bin immer offen für Freundschaften und Teams! Bitte kontaktier mich! Ich will wirklich mit dir sprechen, ihr seid cool!",
+    "address": "Adresse",
+    "addressValue": "123 GUGUGAGA Street, Gugu gaga city, GUGUGAGA town, Gugu Gaga 150-0043",
+    "phone": "Telefon",
+    "phoneValue": "+YY XXXXXXXXXX",
+    "fasterResponse": "Für schnellere Antwort nutze bitte das Kontaktformular unten und wähle die passende Abteilung für deine Anfrage (╥﹏╥)",
+    "departments": "Abteilungen",
+    "customerSupport": "Kundensupport: Für Bestellanfragen, Retouren und Produktfragen",
+    "technicalSupport": "Technischer Support: Für Website-Probleme und technische Fragen",
+    "partnerships": "Partnerschaften: Für geschäftliche Zusammenarbeit und Großhandelsanfragen",
+    "investorRelations": "Investoren-Beziehungen: Für Investitionsmöglichkeiten und Finanzinformationen",
+    "justMessage": "Nachricht: Um einfach den Dev zu erreichen!!",
+    "sendMessage": "Schick uns eine Nachricht",
+    "name": "Name",
+    "nameLabel": "Name:",
+    "email": "E-Mail",
+    "emailLabel": "E-Mail:",
+    "department": "Abteilung",
+    "departmentLabel": "Abteilung:",
+    "subject": "Betreff",
+    "subjectLabel": "Betreff:",
+    "messageField": "Nachricht",
+    "messageLabel": "Nachricht:",
+    "namePlaceholder": "Dein Name",
+    "emailPlaceholder": "Deine E-Mail-Adresse",
+    "subjectPlaceholder": "Nachrichtenbetreff",
+    "messagePlaceholder": "Deine Nachricht",
+    "sendButton": "Nachricht senden",
+    "clearForm": "Formular löschen",
+    "generalInquiry": "Allgemeine Anfrage",
+    "support": "Kundensupport",
+    "technical": "Technischer Support",
+    "partnership": "Partnerschaften",
+    "investor": "Investoren-Beziehungen",
+    "press": "Will nur ne Nachricht schicken",
+    "faq": "Häufig gestellte Fragen",
+    "faqQ1": "F: Wie lange dauert der Versand?",
+    "faqA1": "A: Inlandsbestellungen kommen normalerweise innerhalb von 3-5 Werktagen an. Internationaler Versand dauert 7-14 Werktage je nach Ziel!!",
+    "faqQ2": "F: Versendet ihr international?",
+    "faqA2": "A: Ja, wir versenden in die meisten Länder weltweit!!! Versandkosten variieren je nach Ort.",
+    "faqQ3": "F: Kann ich meine Bestellung ändern oder stornieren?",
+    "faqA3": "A: Du kannst deine Bestellung innerhalb von 24 Stunden nach Aufgabe ändern oder stornieren. Kontaktiere unser Support-Team so schnell wie möglich! (ᵔᴥᵔ)!",
+    "faqQ4": "F: Was ist eure Rückgabepolitik?",
+    "faqA4": "A: Wir bieten eine 30-Tage-Rückgabepolitik für unbenutzte Artikel in ihrer Originalverpackung. Einige Artikel können Wiederauffüllungsgebühren unterliegen tho.",
+    "faqQ5": "F: Bietet ihr Großhandelspreise?",
+    "faqA5": "A: Neeee, sorry wir bieten keine Großhandelspreise für Massenbestellungen. Unsere Produkte sind exklusiv und limitiert!!",
+    "thankYou": "Danke für deine Nachricht, {{name}}! Wir melden uns bald bei dir."
+  },
+  "invest": {
+    "title": "Investiere mit uns",
+    "whyInvest": "Warum Investieren",
+    "whyInvestContent": "In Shoppo Deligto zu investieren bedeutet Teil einer wachsenden Community zu werden die leidenschaftlich über einzigartige Ästhetik ist! Unser Geschäft hat seit Gründung konstantes Wachstum gezeigt, mit einer treuen Kundenbasis und expandierenden Produktlinien.",
+    "keyHighlights": "wichtige Investment-Highlights:",
+    "highlight1": "30% Jahr-für-Jahr-Wachstum in den letzten 3 Jahren!!",
+    "highlight2": "Starke Markenbekanntheit im Nischenmarkt!!",
+    "highlight3": "Wiederkehrende Einnahmen von treuer Kundenbasis",
+    "highlight4": "Expansionspotential in neue Märkte und Produktkategorien",
+    "highlight5": "Erfahrenes Management-Team mit Branchenexpertise",
+    "howToHelp": "Wie man helfen kann",
+    "howToHelpIntro": "Es gibt mehrere Wege wie du unser Geschäft unterstützen kannst:",
+    "help1": "Direktinvestition durch unsere Equity-Crowdfunding-Kampagne",
+    "help2": "Werde Markenbotschafter und bewirb unsere Produkte",
+    "help3": "Biete Expertise in Bereichen wie internationale Expansion, E-Commerce-Optimierung oder Marketing",
+    "help4": "Stelle uns potentielle Partner oder Distributoren in deiner Region vor",
+    "help5": "Teile unsere Story und Produkte auf Social Media",
+    "helpOutro": "Jede Form der Unterstützung hilft uns zu wachsen und mehr authentische Produkte zu Enthusiasten weltweit zu bringen.",
+    "donate": "Spenden",
+    "donateIntro": "Für die die unsere Mission unterstützen möchten ohne Equity-Investment, akzeptieren wir auch Spenden. Deine Beiträge helfen uns:",
+    "donation1": "Traditionelle Handwerkskunst zu bewahren und zu fördern",
+    "donation2": "Kleine Handwerker und Hersteller zu unterstützen",
+    "donation3": "Bildungsinhalte über Kultur und Geschichte zu entwickeln",
+    "donation4": "Unsere Community-Plattform und Events zu unterhalten",
+    "donation5": "Stipendien für kulturelle Austauschprogramme anzubieten",
+    "donateOutro": "Alle Spender erhalten besondere Anerkennung auf unserer Website und exklusive Updates darüber wie ihre Beiträge einen Unterschied machen."
+  },
+  "payment": {
+    "title": "Zahlungsinformationen",
+    "paymentMethods": "Zahlungsmethoden",
+    "paymentMethodsIntro": "Wir akzeptieren verschiedene Zahlungsmethoden um dein Shopping-Erlebnis so bequem wie möglich zu machen:",
+    "creditCards": "Kreditkarten",
+    "paypal": "PayPal",
+    "mobilePay": "Mobile Zahlung",
+    "bankTransfer": "Banküberweisung",
+    "cashOnDelivery": "Nachnahme",
+    "security": "Sicherheit",
+    "securityIntro": "Deine Sicherheit ist unsere oberste Priorität. Wir nutzen Branchen-Standard-Verschlüsselung um deine persönlichen und Zahlungsinformationen zu schützen.",
+    "securityFeature1": "SSL-Verschlüsselung für alle Datenübertragungen",
+    "securityFeature2": "PCI DSS konforme Zahlungsabwicklung",
+    "securityFeature3": "Keine Speicherung sensibler Zahlungsinformationen auf unseren Servern",
+    "securityFeature4": "Regelmäßige Sicherheitsaudits und Schwachstellen-Assessments",
+    "securityFeature5": "Zwei-Faktor-Authentifizierung verfügbar für Account-Schutz",
+    "securityOutro": "Wenn du irgendwelche Bedenken bezüglich Zahlungssicherheit hast, zögere nicht unser Support-Team zu kontaktieren.",
+    "faq": "Häufig gestellte Fragen",
+    "faqQ1": "F: Welche Währungen akzeptiert ihr?",
+    "faqA1": "A: Wir akzeptieren Zahlungen in USD, EUR, GBP und JPY. Die Preise auf unserer Seite werden in USD angezeigt, aber du kannst deine bevorzugte Währung beim Checkout auswählen.",
+    "faqQ2": "F: Gibt es zusätzliche Gebühren für internationale Bestellungen?",
+    "faqA2": "A: Wir erheben keine zusätzlichen Gebühren, aber deine Bank oder Zahlungsanbieter könnte Währungsumrechnungsgebühren für internationale Transaktionen erheben.",
+    "faqQ3": "F: Wie kann ich eine Rückerstattung bekommen?",
+    "faqA3": "A: Wir bieten eine 30-Tage-Geld-zurück-Garantie auf alle Produkte. Wenn du mit deinem Kauf nicht zufrieden bist, kontaktiere bitte unser Kundenservice-Team um eine Rücksendung einzuleiten.",
+    "faqQ4": "F: Sind meine Zahlungsinformationen sicher?",
+    "faqA4": "A: Ja, wir nutzen Branchen-Standard-Verschlüsselung und Sicherheitsmaßnahmen um deine Zahlungsinformationen zu schützen. Wir speichern niemals deine kompletten Kreditkartendetails auf unseren Servern.",
+    "faqQ5": "F: Was soll ich tun wenn meine Zahlung fehlschlägt?",
+    "faqA5": "A: Prüfe zuerst ob deine Zahlungsinformationen korrekt eingegeben sind. Wenn das Problem weiterhin besteht, kontaktiere deine Bank oder Zahlungsanbieter. Du kannst auch versuchen eine andere Zahlungsmethode zu nutzen."
+  },
+  "location": {
+      "title": "Standorteinstellungen",
+      "yourLocation": "Ihr Standort",
+      "yourLocationValue": "Ihr Standort: {{location}}",
+      "trackLocation": "Meinen Standort verfolgen",
+      "detecting": "Erkenne...",
+      "enterLocation": "Oder geben Sie Ihren Standort ein:",
+      "enterAreaPlaceholder": "Geben Sie Ihre Region ein",
+      "setLocation": "Standort festlegen",
+      "changeLocation": "Standort ändern",
+      "or": "ODER",
+      "close": "Schließen"
+    },
+  "footer": {
+    "copyright": "© 2025 nakachens – individuell gebraut nur für hier (˶ᵔ ᵕ ᵔ˶)",
+    "about": "Über uns",
+    "invest": "Investieren",
+    "payments": "Zahlungen",
+    "socials": "Socials"
+  },
+  "common": {
+    "backToTop": "ZURÜCK NACH OBEN",
+    "close": "Schließen",
+    "price": "{{price}}$"
+  },
+  "alerts": {
+    "addedToCart": "{{name}} in den Warenkorb!",
+    "addedToLikes": "{{name}} zu Favoriten hinzugefügt!",
+    "locationTracked": "Standort gefunden!! WEEWOO",
+    "locationError": "SORRY.. Standort nicht gefunden.. Bitte manuell eingeben.",
+    "geolocationNotSupported": "tut mir leid :( Standort wird nicht unterstützt...",
+    "languageChanged": "Yay! Sprache wurde zu {{lang}} geändert!!",
+    "loginSuccess": "Willkommen zurück!!! hab dich vermisst!!, {{email}}!",
+    "signupSuccess": "Konto erfolgreich erstellt! yayy Willkommen, {{name}}!!!!",
+    "loginError": "nein E-Mail oder Passwort falsch. Bitte nochmal versuchen :(",
+    "signupError": "ähm Diese E-Mail ist schon registriert. Bitte einloggen.",
+    "emailRequired": "Bitte E-Mail eingeben !!!",
+    "passwordRequired": "Bitte Passwort eingeben !!!!",
+    "nameRequired": "Bitte Namen eingeben !!!",
+    "profileUpdated": "JAAA Profil erfolgreich aktualisiert! sieht gut aus!",
+    "logoutSuccess": "Erfolgreich ausgeloggt! komm bald wieder!!",
+    "success": "Geschafft!",
+    "liked": "Zu Favoriten hinzugefügt! Mag ich auch!!",
+    "logoutTitle": "Ausloggen",
+    "cancel": "Abbrechen"
+}
+}
