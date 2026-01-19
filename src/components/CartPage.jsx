@@ -26,6 +26,8 @@ const CartPage = ({ cartItems, onRemoveFromCart }) => {
                     </div>
                     <div style={{marginTop: '20px', textAlign: 'center'}}>
                         <h3>{t('cart.total')}: ${total.toFixed(2)}</h3>
+                        <br></br>
+                        <br></br>
                         <button className="btn btn-primary" onClick={() => window.open('https://www.youtube.com/@qtvens', '_blank')}>
                             {t('cart.checkout')}
                         </button>
