@@ -30,7 +30,7 @@ const ProductShowcase = ({ product, onAddToCart, onAddToLike }) => {
                         <button className="add-to-like" onClick={() => onAddToLike(product)}>
                             <i className="fas fa-heart"></i> {t('product.like')}
                         </button>
-                        <button className="buy-now" onClick={() => window.open('https://www.youtube.com/', '_blank')}>
+                        <button className="buy-now" onClick={() => window.open('https://www.youtube.com/@qtvens/', '_blank')}>
                             {t('product.buyNow')}
                         </button>
                     </div>

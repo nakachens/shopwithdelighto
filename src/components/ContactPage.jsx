@@ -61,7 +61,7 @@ const ContactPage = ({ section }) => {
                                 <a href="https://github.com/nakachens" target='_blank' rel="noreferrer">
                                     <img src={GH_BTN} className='icons' alt='github'/>
                                 </a>
-                                <a href="mailto:nakachenx@gmail.com" target='_blank' rel="noreferrer">
+                                <a href="https://i.pinimg.com/1200x/55/a7/39/55a739ef587cda456949d0af7a84987d.jpg" target='_blank' rel="noreferrer">
                                     <img src={MAIL_BTN} className='icons' alt='email'/>
                                 </a>
                             </nav>
